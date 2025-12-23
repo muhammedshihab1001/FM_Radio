@@ -45,6 +45,12 @@ body {
   color: #fff;
 }
 
+.station-card small,
+.station-card .text-muted {
+  color: #ffffff !important;
+  opacity: 0.9;
+}
+
 /* ===== PLAY BUTTON ===== */
 .play-btn {
   width: 42px;
