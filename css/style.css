@@ -1,18 +1,13 @@
-/* ===== GLOBAL ===== */
 body {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
-  background-color: #0e0e0e;   /* clean dark background */
-  min-height: 100vh;
-  margin: 0;
+  font-family: system-ui, sans-serif;
+  background-color: #0e0e0e;
   color: #ffffff;
 }
 
-/* Container spacing */
 .container {
   max-width: 1200px;
 }
 
-/* ===== SEARCH ===== */
 .search-box {
   border-radius: 30px;
   padding: 12px 20px;
@@ -21,37 +16,26 @@ body {
   color: #fff;
 }
 
-.search-box::placeholder {
-  color: #aaa;
+.search-big {
+  font-size: 1.1rem;
+  padding: 16px 24px;
 }
 
-/* ===== STATION CARD ===== */
 .station-card {
   border-radius: 18px;
   background: #1a1a1a;
   border: 1px solid #262626;
   box-shadow: 0 8px 20px rgba(0,0,0,0.5);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
-}
-
-.station-card:hover {
-  transform: translateY(-4px);
-  box-shadow: 0 12px 28px rgba(0,0,0,0.7);
 }
 
 .station-title {
-  font-size: 0.95rem;
   font-weight: 600;
-  color: #fff;
 }
 
-.station-card small,
-.station-card .text-muted {
-  color: #ffffff !important;
-  opacity: 0.9;
+.station-card small {
+  color: #e0e0e0;
 }
 
-/* ===== PLAY BUTTON ===== */
 .play-btn {
   width: 42px;
   height: 42px;
@@ -62,22 +46,22 @@ body {
   cursor: pointer;
 }
 
-.play-btn:hover {
-  background: #ffca2c;
+.favorite-btn {
+  background: none;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+  color: #aaa;
 }
 
-/* Highlight playing station */
+.favorite-btn.active {
+  color: #ff4d4d;
+}
+
 .playing {
   outline: 2px solid #ffc107;
 }
 
-/* ===== LOAD MORE ===== */
-#loadMoreBtn {
-  display: block;
-  margin: auto;
-}
-
-/* ===== SCROLL TO TOP ===== */
 #scrollTopBtn {
   position: fixed;
   bottom: 25px;
@@ -87,8 +71,6 @@ body {
   border-radius: 50%;
   background: #ffc107;
   border: none;
-  font-size: 20px;
-  cursor: pointer;
   display: none;
-  z-index: 999;
+  cursor: pointer;
 }

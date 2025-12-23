@@ -1,8 +1,10 @@
 # Ignore JSON data file
-data/sation.json
+data/station.json
+data/station_clean1.json
 
 # Ignore temporary script
 clean.py
+check_cleaned_link.py
 
 # Ignore all .pyc files
 *.pyc

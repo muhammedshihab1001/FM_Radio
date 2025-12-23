@@ -17,12 +17,18 @@ https://muhammedshihab1001.github.io/FM_Radio/
 
 - Live FM radio streaming
 - Search by station name or country
+- Country-based filter (dropdown)
 - Play / Pause per station
 - Only one station plays at a time
-- Station info popup (country, bitrate, codec)
-- Handles 50,000+ stations efficiently
-- Load More & Scroll to Top
-- Clean dark responsive UI
+- Station info popup (country, bitrate, codec, stream URL)
+- Favorites (❤️) with persistent storage
+- Favorites count indicator
+- Favorites view with back button
+- Add / remove favorites with toast notification
+- Load More pagination (works with search & filters)
+- Scroll to Top button
+- Handles 30,000+ stations efficiently
+- Clean dark responsive UI (mobile & desktop)
 
 ---
 
