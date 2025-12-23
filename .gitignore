@@ -1,0 +1,12 @@
+# Ignore JSON data file
+data/data.json
+
+# Ignore temporary script
+clean.py
+
+# Ignore all .pyc files
+*.pyc
+
+# Ignore OS files
+.DS_Store
+Thumbs.db
