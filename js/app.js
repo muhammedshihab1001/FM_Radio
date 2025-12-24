@@ -23,11 +23,23 @@ let currentStationIndex = null;
 
 let favorites = JSON.parse(localStorage.getItem("favorites") || "{}");
 
+/* ================= HELPERS ================= */
+
 function normalizeUrl(url) {
   return url.trim().toLowerCase().replace(/\/$/, "");
 }
 
-/* ===== LOAD DATA ===== */
+function getNowPlayingText(st) {
+  const artist = typeof st.artist === "string" ? st.artist.trim() : "";
+  const song = typeof st.song === "string" ? st.song.trim() : "";
+
+  if (artist && song) return `${artist} – ${song}`;
+  if (song) return song;
+  return "Live Radio";
+}
+
+/* ================= LOAD DATA ================= */
+
 fetch("data/stations_clean.json")
   .then(res => res.json())
   .then(data => {
@@ -36,9 +48,13 @@ fetch("data/stations_clean.json")
     populateCountries();
     updateFavCount();
     resetAndLoad();
+  })
+  .catch(() => {
+    list.innerHTML = `<p class="text-danger">Failed to load stations</p>`;
   });
 
-/* ===== PAGINATION ===== */
+/* ================= PAGINATION ================= */
+
 function resetAndLoad() {
   index = 0;
   visible = [];
@@ -49,7 +65,7 @@ function loadNext() {
   if (showFavorites) return;
 
   const next = baseList.slice(index, index + PAGE_SIZE);
-  if (next.length === 0) return;
+  if (!next.length) return;
 
   visible = visible.concat(next);
   index += PAGE_SIZE;
@@ -59,15 +75,12 @@ function loadNext() {
 }
 
 function updateLoadMoreVisibility() {
-  if (showFavorites) {
-    loadMoreBtn.style.display = "none";
-    return;
-  }
   loadMoreBtn.style.display =
-    index < baseList.length ? "inline-block" : "none";
+    !showFavorites && index < baseList.length ? "inline-block" : "none";
 }
 
-/* ===== RENDER ===== */
+/* ================= RENDER ================= */
+
 function render() {
   list.innerHTML = "";
   emptyFav.classList.add("d-none");
@@ -79,14 +92,17 @@ function render() {
 
   visible.forEach((s, i) => {
     const key = normalizeUrl(s.url);
-    const isPlaying = currentStationIndex === i;
     const isFav = favorites[key];
+    const isPlaying = currentStationIndex === i;
 
-    list.innerHTML += `
+    list.insertAdjacentHTML("beforeend", `
       <div class="col-md-4 mb-4">
         <div class="station-card p-3 h-100 ${isPlaying ? "playing" : ""}">
           <div class="d-flex justify-content-between align-items-center">
-            <div class="station-title">${s.name}</div>
+            <div>
+              <div class="station-title">${s.name}</div>
+              <small class="text-muted">${getNowPlayingText(s)}</small>
+            </div>
             <button class="play-btn" onclick="togglePlay(${i})">
               ${isPlaying ? "⏸" : "▶"}
             </button>
@@ -103,11 +119,12 @@ function render() {
           </div>
         </div>
       </div>
-    `;
+    `);
   });
 }
 
-/* ===== FAVORITES ===== */
+/* ================= FAVORITES ================= */
+
 function toggleFavorite(key, name) {
   if (favorites[key]) {
     delete favorites[key];
@@ -120,8 +137,7 @@ function toggleFavorite(key, name) {
   localStorage.setItem("favorites", JSON.stringify(favorites));
   updateFavCount();
 
-  if (showFavorites) applyFavoritesView();
-  else render();
+  showFavorites ? applyFavoritesView() : render();
 }
 
 function updateFavCount() {
@@ -150,10 +166,11 @@ backBtn.onclick = () => {
 
 goHomeBtn.onclick = backBtn.onclick;
 
-/* ===== SEARCH ===== */
+/* ================= SEARCH & FILTER ================= */
+
 searchInput.addEventListener("input", e => {
-  showFavorites = false;
   backBtn.classList.add("d-none");
+  showFavorites = false;
 
   const q = e.target.value.toLowerCase();
   baseList = q
@@ -166,20 +183,19 @@ searchInput.addEventListener("input", e => {
   resetAndLoad();
 });
 
-/* ===== COUNTRY FILTER ===== */
 countryFilter.onchange = () => {
-  showFavorites = false;
   backBtn.classList.add("d-none");
+  showFavorites = false;
 
-  const c = countryFilter.value;
-  baseList = c
-    ? stations.filter(s => s.country === c)
+  baseList = countryFilter.value
+    ? stations.filter(s => s.country === countryFilter.value)
     : stations;
 
   resetAndLoad();
 };
 
-/* ===== PLAYER ===== */
+/* ================= PLAYER ================= */
+
 function togglePlay(i) {
   const s = visible[i];
   if (!s) return;
@@ -190,9 +206,10 @@ function togglePlay(i) {
   } else {
     player.pause();
     player.src = s.url;
-    player.play();
+    player.play().catch(() => {});
     currentStationIndex = i;
   }
+
   render();
 }
 
@@ -208,29 +225,30 @@ function showInfo(i) {
     <p class="small">${s.url}</p>
   `;
 
-  new bootstrap.Modal(document.getElementById("infoModal")).show();
+  new bootstrap.Modal(infoModal).show();
 }
 
-/* ===== TOAST ===== */
+/* ================= UI ================= */
+
 function showToast(msg) {
   toastMsg.textContent = msg;
   new bootstrap.Toast(toastEl, { delay: 2000 }).show();
 }
 
-/* ===== SCROLL ===== */
 window.addEventListener("scroll", () => {
   scrollBtn.style.display = window.scrollY > 300 ? "block" : "none";
 });
 scrollBtn.onclick = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
 function populateCountries() {
-  const countries = [...new Set(stations.map(s => s.country).filter(Boolean))].sort();
-  countries.forEach(c => {
-    const opt = document.createElement("option");
-    opt.value = c;
-    opt.textContent = c;
-    countryFilter.appendChild(opt);
-  });
+  [...new Set(stations.map(s => s.country).filter(Boolean))]
+    .sort()
+    .forEach(c => {
+      const o = document.createElement("option");
+      o.value = c;
+      o.textContent = c;
+      countryFilter.appendChild(o);
+    });
 }
 
 function shuffle(arr) {
@@ -240,5 +258,4 @@ function shuffle(arr) {
     .map(o => o.v);
 }
 
-/* ===== LOAD MORE CLICK ===== */
 loadMoreBtn.onclick = loadNext;
