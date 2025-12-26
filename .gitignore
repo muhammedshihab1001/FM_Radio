@@ -13,3 +13,4 @@ check_cleaned_link.py
 # Ignore OS files
 .DS_Store
 Thumbs.db
+"data/merged.json" 
