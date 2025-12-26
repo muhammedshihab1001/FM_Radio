@@ -49,7 +49,19 @@ https://muhammedshihab1001.github.io/FM_Radio/
   - https://www.radio-browser.info/
   - Public FM stream links
 
-Station data is cleaned and stored in a static JSON file for browser compatibility.
+Station data is sourced from **Radio-Browser**, an open community-driven radio station directory.  
+For performance and browser compatibility, the data is cleaned and stored in a static JSON file.
+
+---
+## ⚠️ Disclaimer
+
+This project does **not host, store, or rebroadcast** any radio audio content.
+
+All radio streams and station metadata are provided by **third-party sources** and are **publicly available on the internet**.  
+Stream availability, content, and licensing are the responsibility of the respective radio stations and stream providers.
+
+If any station owner has concerns regarding their listing or wishes to have their station removed from this project,  
+they may contact the project maintainer via **GitHub Issues**, and the station will be removed promptly.
 
 ---
 
@@ -61,6 +73,8 @@ Station data is cleaned and stored in a static JSON file for browser compatibili
 
 ## 📌 Purpose
 
-This project is created for **learning and educational purposes only**.
+This project is created for **learning and educational purposes only**.  
+It is intended to demonstrate frontend development concepts such as audio streaming, search & filtering, state management, and responsive UI design.
+
 
 ---
