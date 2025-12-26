@@ -1,0 +1,79 @@
+[
+  {
+    "name": "Radio K4 Shqip",
+    "url": "http://fm.radiokfor.com:8080/;",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Urban FM 103.5",
+    "url": "https://radio.itprishtina.com/urbanfm.ogg",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "GlamRADIO",
+    "url": "https://stream.glamradio.fm:8443/glamradio",
+    "country": "Kosovo",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTK Radio Kosova 2",
+    "url": "http://82.114.72.2:8098/;stream.mp3",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTK Radio Kosova 1",
+    "url": "http://82.114.72.2:8088/;.mp3",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kosova 1",
+    "url": "http://82.114.72.2:8088/",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "92.1 Capital FM",
+    "url": "http://cfm.albaservers.com:8010/",
+    "country": "Kosovo",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Kosova E Lire",
+    "url": "http://quasar.shoutca.st:8018/",
+    "country": "Kosovo",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kosova 2",
+    "url": "http://82.114.72.2:8098/",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA KOSOVO",
+    "url": "http://dreamsiteradiocp2.com:8124/stream",
+    "country": "Kosovo",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kolektiv Radio",
+    "url": "https://studio28.radiolize.com/radio/8100/radio.mp3",
+    "country": "Kosovo",
+    "bitrate": 64,
+    "codec": "AAC"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Lao National Radio 94.3",
+    "url": "https://radio.lnr.org.la/fm94",
+    "country": "Laos",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lao National Radio 103.7",
+    "url": "https://radio.lnr.org.la/fm103",
+    "country": "Laos",
+    "bitrate": 96,
+    "codec": "MP3"
+  }
+]

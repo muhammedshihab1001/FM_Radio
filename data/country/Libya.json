@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Libyana Hits FM",
+    "url": "http://proxima.shoutca.st:8946/stream",
+    "country": "Libya",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Salaf Way 100.3 FM Tripoli LY",
+    "url": "http://airtime.salafway.ly/",
+    "country": "Libya",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "راديو فنون طرابلس - Radio Arts Tripoli",
+    "url": "https://stream.zeno.fm/z9wfrdpmgg0uv",
+    "country": "Libya",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hala Sabratha",
+    "url": "http://stream.zeno.fm/1dy2395z3k8uv",
+    "country": "Libya",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة نور الإيمان المسموعة 105.7 FM",
+    "url": "https://stream.zeno.fm/r6eprdta6nhvv",
+    "country": "Libya",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

@@ -1,0 +1,170 @@
+[
+  {
+    "name": "AM Original 1180 Veraguas",
+    "url": "http://rosetta.shoutca.st:9264/stream",
+    "country": "Panama",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA PANAMA",
+    "url": "http://dreamsiteradiocp.com:8082/stream",
+    "country": "Panama",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "XTREME MUSIC RADIO",
+    "url": "https://radios.sonicp.com/8020/stream",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Original Stereo 90.7 FM",
+    "url": "https://original.radioca.st/;",
+    "country": "Panama",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Disney Panamá",
+    "url": "http://ic.streann.com:8000/disneypanama",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM99",
+    "url": "https://a8.asurahosting.com:6580/radio.mp3",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Disney Panamá FM 101.3",
+    "url": "https://ic.streann.com/disneypanama",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antena 8 100.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ANT8AAC.aac",
+    "country": "Panama",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Original Stereo 90.7 FM",
+    "url": "http://rosetta.shoutca.st:8931/;",
+    "country": "Panama",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estéreo Azul 100.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ESTEREOAZULAAC.aac",
+    "country": "Panama",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fabulosa Estéreo 100.5 FM",
+    "url": "https://www.streaming507.net:8130/stream",
+    "country": "Panama",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rumba FM",
+    "url": "https://laradiossl.online:10355/;stream.nsv",
+    "country": "Panama",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Flow 92.7 FM",
+    "url": "http://streaming507.net:9980/stream",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LIKE 105 FM",
+    "url": "https://www.streaming507.net:8020/stream",
+    "country": "Panama",
+    "bitrate": 88,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FM Corazón 102.5",
+    "url": "https://sp4.colombiatelecom.com.co/8006/stream",
+    "country": "Panama",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Festival 1540 AM",
+    "url": "http://streaming507.net:8128/stream",
+    "country": "Panama",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "TropiQ",
+    "url": "https://www.streaming507.net:8140/stream",
+    "country": "Panama",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "L.A. Mega 98.1 FM",
+    "url": "https://www.streaming507.net:8152/stream",
+    "country": "Panama",
+    "bitrate": 112,
+    "codec": "AAC"
+  },
+  {
+    "name": "Omega Stereo",
+    "url": "https://www.streaming507.net:8048/stream",
+    "country": "Panama",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Stereo Vida Panama",
+    "url": "https://stream.zeno.fm/fz1rcfd1x1zuv",
+    "country": "Panama",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ultra Stereo 98.9 FM",
+    "url": "https://www.streaming507.net:8134/stream",
+    "country": "Panama",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "LA TIPIK",
+    "url": "https://stream.mixesurbanospty.com:8090/tipik.mp3",
+    "country": "Panama",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brava Radio 507",
+    "url": "https://laradiossl.online:10660/",
+    "country": "Panama",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mia - Los Santos",
+    "url": "https://sonic.globalstream.pro/8040/stream",
+    "country": "Panama",
+    "bitrate": 32,
+    "codec": "AAC+"
+  }
+]

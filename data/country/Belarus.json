@@ -1,0 +1,373 @@
+[
+  {
+    "name": "Radio Plato",
+    "url": "https://azura.radioplato.by/radio/8000/radio.mp3",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Еўрарадыё Alternative",
+    "url": "http://stream1.euroradio.fm:8000/euroradio1?seed=1493710910",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zефир FM",
+    "url": "http://178.124.152.212:8008/Zefir",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Racyja",
+    "url": "http://air.racyja.com:8000/racja320",
+    "country": "Belarus",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Радыё Рацыя",
+    "url": "http://air.racyja.com:8000/racja128",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Legendy FM",
+    "url": "http://live.legendy.by:8000/legendyfm",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Юмор FM",
+    "url": "http://live.humorfm.by:8000/veseloeradio",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радыё Relax",
+    "url": "http://live.humorfm.by:8000/radiorelax",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "humor fm Minsk",
+    "url": "http://live.humorfm.by:8000/veseloe",
+    "country": "Belarus",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aplus One (aac, 16 kb/s)",
+    "url": "http://s.aplus.fm:9000/aplus_16.aac",
+    "country": "Belarus",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Радио Беларусь/Radio Belarus",
+    "url": "http://stream2.datacenter.by:8008/belarus",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Радио Беларусь FM/Radio Belarus FM",
+    "url": "http://stream2.datacenter.by:8009/belarusfm",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Свое Радио (Пинск)",
+    "url": "https://live.svoyoradio.by:8443/svoyoradio",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 4YOU",
+    "url": "https://myradio24.org/2455",
+    "country": "Belarus",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MFM Belarus",
+    "url": "https://radio.105fm.by/radio.105.0mfm",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Disco SSSR",
+    "url": "https://pub0202.101.ru:8443/stream/pro/aac/64/144",
+    "country": "Belarus",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ватыканскае радыё",
+    "url": "https://radio.vaticannews.va/stream-be",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "радио Минск 92.4",
+    "url": "https://radio.mk.by:8443/radiominsk",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Компас FM",
+    "url": "https://radio.mil.by/live",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Русское радио Минск 98.9 FM",
+    "url": "https://stream.rusradio.by:8443/live128",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alfa Radio 107.9 FM",
+    "url": "https://stream.sb.by/alpha",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Zefir FM",
+    "url": "https://stream2.datacenter.by/zefirfm",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Радио витебск",
+    "url": "https://stream2.datacenter.by/vtvby",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Канал \"Культура\"",
+    "url": "https://stream2.datacenter.by/kultura",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "РадиусFM",
+    "url": "https://stream2.datacenter.by/radiusfm_main",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Душевное радио Минск 105.7 FM",
+    "url": "https://stream2.datacenter.by/dushevnoe",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pilot FM Belarus",
+    "url": "https://stream2.datacenter.by/pilotfm",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "МВ-Радио",
+    "url": "https://stream2.datacenter.by/mvradio",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Першы Нацыянальны канал Беларускага радыё",
+    "url": "https://stream2.datacenter.by/1kanal",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ЦЕНТР FM",
+    "url": "https://stream2.datacenter.by/stream",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Energy",
+    "url": "https://stream2.datacenter.by/energy",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Радио Брест 104.8 FM",
+    "url": "https://stream2.datacenter.by/trkbrest",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Могилёв",
+    "url": "https://stream2.datacenter.by/tvrmogilev",
+    "country": "Belarus",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Город FM Брест 97,7",
+    "url": "https://stream2.datacenter.by/GorodFM",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "WGFM-Trance",
+    "url": "https://sv.netradio.by/1/128",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trance",
+    "url": "http://185.33.21.112/trance_64a",
+    "country": "Belarus",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Новое радио",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_aac128/icecast.audio",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Новое радио - Top Non-Stop",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_TOP100_aac128/icecast.audio",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Love Is Radio Belarus",
+    "url": "https://myradio24.org/3355",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Мелодии Века 96.2fm",
+    "url": "https://radiorecord.hostingradio.ru/sd9096.aacp",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Новое радио - MegaMix",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_megamix_aac128/icecast.audio",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Еўрарадыё BY",
+    "url": "http://stream1.euroradio.fm:8000/euroradio1",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lider FM",
+    "url": "https://icecast.lider-fm.by/liderfm",
+    "country": "Belarus",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Народное радио Минск 87.9 FM",
+    "url": "https://live.novoeradio.by:444/live/narodnoeradio_aac128/icecast.audio",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Новое радио - Fresh",
+    "url": "https://live.novoeradio.by:444/live/novoeradio_fresh_aac128/icecast.audio",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Roks",
+    "url": "https://stream.pcradio.ru/roks_minsk-hi",
+    "country": "Belarus",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Первое союзное радиоё",
+    "url": "https://souz.hostingradio.ru:80/souz128.mp3",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Открытое Слово Авто Радио",
+    "url": "https://rt.radioslovo.net:4145/stream",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио 123",
+    "url": "http://de1.internet-radio.com:8173/stream",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Открытое Слово Инструментальная музыка",
+    "url": "https://rt.radioslovo.net:4275/stream",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Skif",
+    "url": "http://178.172.150.248:2530/",
+    "country": "Belarus",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Открытое Слово",
+    "url": "https://rt.radioslovo.net:4395/radio",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Открытое Слово Братские встречи",
+    "url": "https://rt.radioslovo.net:4135/stream",
+    "country": "Belarus",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

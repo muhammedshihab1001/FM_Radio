@@ -1,0 +1,1479 @@
+[
+  {
+    "name": "Brigada News FM Zamboanga",
+    "url": "http://18.141.67.248:8018/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM Radio 105.5 Pampanga",
+    "url": "http://209.126.124.126:8872/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dream Radio Tacloban",
+    "url": "http://streamnavs.net:8133/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "AMFMPH Streams Online",
+    "url": "http://us1.amfmph.com:8005/stream",
+    "country": "Philippines",
+    "bitrate": 24,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinoy DJ Radio",
+    "url": "http://usa4.fastcast4u.com:5276/stream?type=http&nocache=10",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tunog Pinoy Power FM",
+    "url": "http://streamnavs.net:8143/live",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Love Radio Santiago",
+    "url": "http://lovesantiago.radioca.st:8832/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Calbayog",
+    "url": "http://net.radyonatinfm.com:8010/calbayog",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "MOR 93.9 Legazpi",
+    "url": "http://streamnavs.net:8089/live",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MYX P-POP",
+    "url": "http://das-edge11-live365-dal03.cdnstream.com/a63316",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Adventist World Radio 89.1 Manila",
+    "url": "http://192.53.113.120:8000/stream",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "XFM ILOILO",
+    "url": "http://us1.amfmph.com:8696/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RAYSLAND CEBU",
+    "url": "http://173.208.146.230:8002/stream",
+    "country": "Philippines",
+    "bitrate": 208,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tops Media Center",
+    "url": "https://s2.radio.co/s8d8aade20/listen",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Memories FM Cebu",
+    "url": "http://s5.reliastream.com:7134/stream/1/",
+    "country": "Philippines",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Easy Rock Boracay",
+    "url": "http://easyrockboracay.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Big Sound FM Baguio",
+    "url": "http://162.220.162.10:8184/stream",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DZMV AllTV News Radio 1422 AM",
+    "url": "http://209.126.124.126:8852/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Capital FM2",
+    "url": "http://58.97.187.52:5007/fm2",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DWAV FM RP3 Alert 89.1",
+    "url": "http://58.97.187.52:5007/rp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "90s Pinoy Alternative",
+    "url": "http://cast3.my-control-panel.com:9364/autodj",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.9 Bright FM",
+    "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM Bohol",
+    "url": "http://live.kiss102fmbohol.com:8000/kiss",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "DWFM 92.3 One Radio HD",
+    "url": "http://ph-icecast.eradioportal.com:8000/energyfm_manila",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "98.7 DZFE The Master's Touch",
+    "url": "http://sg-icecast.eradioportal.com:8000/febc_dzfe",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "702 Dzas",
+    "url": "http://sg-icecast.eradioportal.com:8000/febc_dzas",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AllHitz24",
+    "url": "http://stream.allhitz24.com/64",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "B 107.9 FM Tacloban",
+    "url": "http://streamnavs.net:8147/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FMR Radyo Partido 99.5 - HD3",
+    "url": "https://28093.live.streamtheworld.com/DZMMAAC.aac",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Natin Bangued",
+    "url": "http://tx.radyonatinfm.com:8030/bangued",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "XFM Davao City",
+    "url": "http://us1.amfmph.com:8724/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Ni Sano",
+    "url": "https://cd.radyoph.com:8000/rns128",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cloudstaff Radio",
+    "url": "https://cs-streamradio.cloudstaff.com:8020/cloudoverdrive.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anchor Radio Urdaneta",
+    "url": "https://icecast.theanchor.app/cbc",
+    "country": "Philippines",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anchor 101.1FM Davao",
+    "url": "https://icecast.theanchor.app/bbbc",
+    "country": "Philippines",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "IBCD Online Radio - Dumaguete City",
+    "url": "https://icecast.theanchor.app/ibcd",
+    "country": "Philippines",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Katribu Philippines Teleradyo",
+    "url": "https://io.radyoph.com:8020/katribu",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin Mindanao",
+    "url": "https://mindanao.radyonatinfm.com:8000/stream",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DXBH Hope Radio 103.7Mhz",
+    "url": "https://stream.dxbh.net/main_mp3",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin Naga",
+    "url": "https://web.radyonatinfm.com:8010/naga",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin Nabunturan",
+    "url": "https://web.radyonatinfm.com:8020/nabunturan",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "DWPM Radyo Sais Trenta",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DZMMAAC.aac",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Pilipinas 1 (RP1 News)",
+    "url": "http://58.97.187.52:5001/rp1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Republika ni Juan 87.5",
+    "url": "http://58.97.187.52:5001/fm1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MemoRieS FM 89.9 Cebu",
+    "url": "http://67.212.238.178:7134/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Olongapo",
+    "url": "http://18.141.67.248:8056/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Tacloban",
+    "url": "http://18.141.67.248:8064/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Naga",
+    "url": "http://18.141.67.248:8052/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MYX P-POP Radio",
+    "url": "http://ais-edge50-live365-dal02.cdnstream.com/a63316",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Roxas",
+    "url": "http://18.141.67.248:8076/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Toledo",
+    "url": "http://18.141.67.248:8036/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Mega Manila",
+    "url": "http://18.141.67.248:8068/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Anchor Radio 101.9",
+    "url": "http://62.138.18.102:8128/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Heat Wave Radio Pacific",
+    "url": "http://192.111.140.11:8240/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "96.1 Infinite Radio Panabo City",
+    "url": "http://us1.amfmph.com:8644/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "105.9 Wild FM",
+    "url": "http://62.138.18.102:8133/stream",
+    "country": "Philippines",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "105.9 Hot FM Manila",
+    "url": "http://148.251.43.231:8132/stream",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "88.7 Radyo Sincero GenSan",
+    "url": "http://mercury.reliastream.com:8013/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Gold FM Kidapawan",
+    "url": "http://us2.amfmph.com:8119/high",
+    "country": "Philippines",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Star FM Manila",
+    "url": "https://stream-13.zeno.fm/g1pmt17nz9duv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Barangay LS 97.1 Manila",
+    "url": "http://28093.live.streamtheworld.com:3690/MORFM_S01AAC_SC",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MOR Entertainment",
+    "url": "https://stream-37.zeno.fm/26ea0anpms8uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bombo Radyo Iloilo",
+    "url": "https://stream.zenolive.com/gzudz59nz9duv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Win Radio Manila",
+    "url": "https://stream-31.zeno.fm/2ss1hgnu6hhvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "98.3 Love Radio Dagupan",
+    "url": "https://loveradiodagupan.radioca.st/",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Budots FM 98.9",
+    "url": "https://stream-171.zeno.fm/2uhuu5hvzqzuv?zs=oGfN_quRRSyJUGCfzxagdw",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "DWWW 774",
+    "url": "https://stream.zeno.fm/kc3cct89sxquv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Cebu",
+    "url": "http://loveradiocebu.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "MOR 101.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MORFM_S01.mp3",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.7 Love Radio Lucena",
+    "url": "https://loveradiolucena.radioca.st/",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMN DWNX Naga",
+    "url": "https://stream.zeno.fm/1ytydzphq7zuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinoy Rap Radio",
+    "url": "https://stream.zeno.fm/0cdp55nqam0uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA PHILIPPINES",
+    "url": "http://dreamsiteradiocp.com:8028/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bisaya Online Radio",
+    "url": "https://stream-57.zeno.fm/gay91kx2cm8uv?zs=hLLmWhxDSNq7pY6UWBSCxA",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Cebu",
+    "url": "http://18.141.67.248:8026/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Easy Rock Cebu",
+    "url": "http://easyrockcebu.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clubmix",
+    "url": "https://stream.zeno.fm/vztn8ux96zhvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Atlantis Radio",
+    "url": "https://us2.amfmph.com:8080/stream?1609414161410",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Teleradyo Serbisyo",
+    "url": "https://stream.zeno.fm/yaksrqvb35duv?type=.aac",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMN DYHB Bacolod",
+    "url": "http://us2.amfmph.com:8848/live",
+    "country": "Philippines",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Budots FM 98.9",
+    "url": "https://stream.zeno.fm/2uhuu5hvzqzuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rage Music Philippines",
+    "url": "https://stream.zeno.fm/yu9dryfs7x8uv.mp3",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BIBLE RADIO",
+    "url": "https://stream.radio.co/se9de95c10/listen",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yes The Best Cagayan de Oro",
+    "url": "https://yesfmcdo.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Win Radio Davao",
+    "url": "https://stream-42.zeno.fm/1noxhem5qpkuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "GV 99.1",
+    "url": "https://edge.mixlr.com/channel/gtqpn?listening-from-radio-garden=1654604184",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bespren Radio",
+    "url": "https://streamnavs.net:8089/live",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Win Radio Cagayan de Oro",
+    "url": "http://stream.zeno.fm/delhmcm1qhntv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Manila",
+    "url": "https://a8.asurahosting.com:6820/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.5 Win Radio Manila",
+    "url": "http://stream.zeno.fm/2ss1hgnu6hhvv#livestream",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Energy FM Naga",
+    "url": "https://stream.zeno.fm/klewk28qlqquv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "105.5 BiG SOUND fm, San Fernando City, La Union",
+    "url": "http://162.220.162.10:8011/stream",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Davao",
+    "url": "http://18.141.67.248:8004/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic 89.9 (aac)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LIN_MAGIC899AAC_SC",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Love Radio Malaybalay",
+    "url": "https://lovemalaybalay.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 24,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eagle FM 95.5",
+    "url": "https://n06.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABkvtiUekApAzmoP0lG-3HVQ",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yes The Best Dagupan",
+    "url": "http://yesfmdagupan.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hot Hiphop N RnB",
+    "url": "https://stream.zeno.fm/snqnkbnm208uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Energy FM Cebu",
+    "url": "https://stream.zeno.fm/4oa5m3ffwutuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Spirit FM Lucena 103.9",
+    "url": "http://stream.zeno.fm/fp689r8sty8uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kings Radio Davao",
+    "url": "http://us1.amfmph.com:8708/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DXKI Strong Radio Cagayan de Oro",
+    "url": "https://stream.zeno.fm/femnnphrtcltv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FReSH FM",
+    "url": "https://s36.radiolize.com/radio/8170/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMN DXDC Davao",
+    "url": "https://stream.zeno.fm/qrrgyy1hyuatv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Batangas",
+    "url": "http://18.141.67.248:8040/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Naga",
+    "url": "http://loveradionaga.radioca.st:8070/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Bandera Puerto Princesa Palawan",
+    "url": "https://bandera.radyoph.com:8000/895hq",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "DZGB-AM Legazpi City",
+    "url": "https://stream.zeno.fm/dnmfv8wykbxvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Win Radio Iloilo",
+    "url": "https://stream.zeno.fm/vmifa1pxyjtuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin (Visayas)",
+    "url": "https://visayas.radyonatinfm.com:8000/stream",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.7 My FM Bataan",
+    "url": "https://stream.zeno.fm/vvsqe5qk7yzuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Love Radio Zamboanga",
+    "url": "http://lovezamboanga.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yes The Best Cauayan",
+    "url": "http://yesfmcauayan.radioca.st:9933/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hope FM Kenya",
+    "url": "https://a5.asurahosting.com:7530/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DWWW",
+    "url": "https://ice.audionow.com/4715DWWW774loopus.ogg",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "OK-FM Naga",
+    "url": "https://stream.zeno.fm/s2ismkjehmyvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kaboses Teleradyo",
+    "url": "http://streamnavs.net:8147/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MemoRieS FM Cebu",
+    "url": "http://s5.reliastream.com:7134/stream",
+    "country": "Philippines",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jeepney Pinoy Radio",
+    "url": "https://fastcast4u.com/player/mcbnjpr/?pl=vlc&c=Jeepney%20Pinoy%20Radio",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Laoag",
+    "url": "http://loveradiolaoag.radioca.st:8027/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bible Radio",
+    "url": "http://stream.radio.co/se9de95c10/low",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Star FM Manila",
+    "url": "https://stream.zeno.fm/536cwdq78heuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Yes The Best Cagayan de Oro",
+    "url": "http://yesfmcdo.radioca.st/listen.pls?sid=1",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "X FM Naga City, Philippines (NEW)",
+    "url": "https://listen.imjinteractive.net:8028/stream",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "DYTR BOHOL",
+    "url": "https://stream.zeno.fm/nvhk0xbnqw1tv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RPN DZKB Radyo Ronda 990 AM Manila",
+    "url": "http://dwizmanila.radioca.st:9079/stream",
+    "country": "Philippines",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Islamic Radio Filipino",
+    "url": "http://islamicbulletin.site:8030/stream",
+    "country": "Philippines",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Masbate",
+    "url": "https://net.radyonatinfm.com:8030/masbate",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Brigada News FM Cotabato",
+    "url": "http://18.141.67.248:8006/stream/1/",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Roxas",
+    "url": "http://loveradioroxas.radioca.st:8216/stream",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Gensan",
+    "url": "http://18.141.67.248:8000/stream/1/",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Star FM Baguio",
+    "url": "https://stream.zeno.fm/sa27v4d29heuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin CDO",
+    "url": "https://wave.radyonatinfm.com:8030/cdo",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Win Radio Valencia",
+    "url": "https://stream.zeno.fm/vzrt2visttbvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Dagupan",
+    "url": "http://loveradiodagupan.radioca.st:8195/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "DYTR BOHOL",
+    "url": "https://stream.zeno.fm/l6d5yvrgnauuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tee Radio",
+    "url": "https://stream.zeno.fm/7neg6f1hbm0uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Marino News FM Zamboanga",
+    "url": "https://stream.zeno.fm/4xq4cb6x6k0uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aksyon Radyo Cebu",
+    "url": "https://a9.asurahosting.com:8260/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Legazpi",
+    "url": "http://18.141.67.248:8048/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bombo Radyo Malaybalay",
+    "url": "https://stream.zeno.fm/1etogiwypoztv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bombo Radyo La Union",
+    "url": "https://stream.zenolive.com/n6wgdtu78heuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Atlantis Radio Philippines",
+    "url": "http://us2.amfmph.com:8080/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Filipino Music Central",
+    "url": "https://stream.zeno.fm/yqkru9yv3yzuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bombo Radyo Legazpi",
+    "url": "http://stream.zenolive.com/u0uugg5mz9duv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RPN DXKS Surigao",
+    "url": "https://dxks-rpnradio.radioca.st/stream?1729944678085",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vibe Radio",
+    "url": "https://stream.zeno.fm/zf0ac4raqy8uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Boholano FM Online",
+    "url": "https://stream.zeno.fm/hwr0geklhbouv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Kalibo",
+    "url": "http://18.141.67.248:8032/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Lucena",
+    "url": "http://loveradiolucena.radioca.st:8158/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "True Life in God Radio Filipino",
+    "url": "https://stream.tligradio.org/listen/filipino/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JESUS IS LORD",
+    "url": "https://stream.zeno.fm/ygy55015e4duv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Islamic Radio Filipino",
+    "url": "http://104.7.66.64:8009/;?icy=http",
+    "country": "Philippines",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Maramag",
+    "url": "https://air.radyonatinfm.com:8010/maramag",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Win Radio Cagayan de Oro",
+    "url": "https://stream.zeno.fm/delhmcm1qhntv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Iriga",
+    "url": "https://mbc.radyonatinfm.com:8030/iriga",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "PAGUDPUD BEACH RADIO",
+    "url": "https://stream.zeno.fm/a3ggpf8rt6duv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Palawan Wave FM",
+    "url": "https://xcite.radyoph.com:8020/dzrt",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Easy Rock La Union 106.7 FM",
+    "url": "http://proxima.shoutca.st:8227/stream",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Kidlat 91.3 FM",
+    "url": "https://stream.zeno.fm/t3bvque9fc9uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RN BAYOMBONG",
+    "url": "https://web.radyonatinfm.com:8030/bayombong",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pinoy power radio media",
+    "url": "https://streaming.live365.com/a67821",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Star FM 94.5 La Union",
+    "url": "https://stream-144.zeno.fm/sa27v4d29heuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJzYTI3djRkMjloZXV2IiwiaG9zdCI6InN0cmVhbS0xNDQuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjAzWkd2TktFVFk2ZDBYMjlQQk9WVUEiLCJpYXQiOjE3MzkxNDI4MjEsImV4cCI6MTczOTE0Mjg4MX0.k1L24899hTkQMsVjbACkzzfi8EpFurlfG1OJlkXpJiA",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lite FM Lanao del Norte DXVL 107.7",
+    "url": "https://stream.zeno.fm/8c27zbgcmzzuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Buhi",
+    "url": "https://ph.radyonatinfm.com:8030/buhi",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lucky Radio Bayugan City",
+    "url": "http://de3.amfmph.com:8564/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Natin Candon",
+    "url": "https://io.radyonatinfm.com:8030/candon",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Brigada News FM Dumaguete",
+    "url": "http://18.141.67.248:8030/stream/1/",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Moalboal",
+    "url": "https://fx.radyonatinfm.com:8030/moalboal",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "B 107.9 FM Tacloban",
+    "url": "https://streamnavs.net:8147/live",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Natin Sta. Elena",
+    "url": "https://web.radyonatinfm.com:8000/sta.elena",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin Sorsogon",
+    "url": "https://stream.radyonatinfm.com:8010/sorsogon",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "97.7 Sweet Radio Santiago",
+    "url": "https://stream.zeno.fm/ja3azzofj40tv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MBS Radio",
+    "url": "https://stream-171.zeno.fm/67srwcmawgqtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2N3Nyd2NtYXdncXR2IiwiaG9zdCI6InN0cmVhbS0xNzEuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9JOGhDX0VfU0c2SXNBcDZmM1JzNnciLCJpYXQiOjE3MTU5NTQ1NzUsImV4cCI6MTcxNTk1NDYzNX0.VriCaRn4HyN7yDVnwXeryLgfMKkV4y_aJzugoJJ9Yeg",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "AWR Zamboanga Peninsula",
+    "url": "https://awrzpm.radio.fm:8000/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Alternatibo Ilonggo",
+    "url": "http://de3.amfmph.com:8245/high_live",
+    "country": "Philippines",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Natin Lupon",
+    "url": "https://link.radyonatinfm.com:8030/lupon",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Natin Argao",
+    "url": "https://sound.radyonatinfm.com:8030/argao",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Jungle Radio",
+    "url": "https://dj.radyoph.com:8020/jungleradio",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Basco Radio 93.3 Studio 2",
+    "url": "https://stream-176.zeno.fm/a3th9bd1fs8uv?zs=e8ersugnTZy8yQsXXp2s2A",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "K5 News FM Dumaguete",
+    "url": "http://209.126.124.126:8581/stream",
+    "country": "Philippines",
+    "bitrate": 12,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kakampi Partido 99.3 FM",
+    "url": "https://stream.zeno.fm/ctyttfz5p06tv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "KJM 94.3 FM",
+    "url": "https://stream.amfm.link:8010/kjm",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Boracay 106.1 fm",
+    "url": "https://s135.radiolize.com/radio/8020/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Eagle FM 95.5",
+    "url": "https://n0d.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlJu7jsUAmyVUk6qFVdTweA",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kaibigan Radio",
+    "url": "https://stream.rcast.net/66925",
+    "country": "Philippines",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Natin Brooke's Point",
+    "url": "https://xcite.radyonatinfm.com:8010/brookespoint",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Extreme radio",
+    "url": "https://razzrdfx.com/listen/extreme_radio/radio.mp3?1724304820301",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Jagna",
+    "url": "https://stream.radyonatinfm.com:8030/jagna",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Shakey's Radio",
+    "url": "https://play.radioking.io/shakeys-radio1",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "R6 News FM",
+    "url": "https://stream.zeno.fm/adqlxubrtshvv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bliss Radio",
+    "url": "https://stream.blissradio.net/radio/8000//radio.mp3",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice Radio Catarman",
+    "url": "https://stream.zeno.fm/gbfhjvrljhxuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Mapúa Radio Cardinal",
+    "url": "https://edge.mixlr.com/channel/nhtli",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bestfriend FM",
+    "url": "http://stream.zeno.fm/aqjyy8xcampuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Margosatubig",
+    "url": "https://pinas.radyonatinfm.com:8030/margosatubig",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dzas 702",
+    "url": "https://stream.radio.co/s14821250a/listen",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Libertas Pampanga",
+    "url": "https://stream.zeno.fm/9td2da86gg8uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "YeY FM",
+    "url": "https://stream-174.zeno.fm/pnjlccj6jd2uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "PGRP Radio",
+    "url": "http://stream.zeno.fm/2xm2rdg48cquv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "AllHitz24",
+    "url": "https://stream.allhitz24.com/64",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DWHQ 98.1 FM",
+    "url": "https://stream.zeno.fm/bcxtfmdce19uv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Kiamba",
+    "url": "https://hifi.radyonatinfm.com:8030/kiamba",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "DWDM-fm 95.5",
+    "url": "http://n09.radiojar.com/yus0r2bghd3vv?rj-ttl=5&rj-tok=AAABlsS40MAAYw8ZM_Db37Hs-w",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "SANIB PWERSA 101.7 YLFM & 90.5 HFM",
+    "url": "https://chloreign.com/listen/sanibpwersa/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "103.3 DXJL The New J Cagayan de Oro",
+    "url": "https://s3.radio.co/s3e33745fb/listen",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Baao",
+    "url": "https://xcite.radyonatinfm.com:8030/baao",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "RADIO WESLEYAN 89.7 DWUP FM",
+    "url": "https://usa2.server2028.com/listen/radio_wesleyan_89.7_dwup_fm/radio.mp3",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Looc",
+    "url": "https://audio.radyonatinfm.com:8030/looc",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Gensan music to enjoy",
+    "url": "https://laut.fm/gensan-city_music_to_enjoy",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM2",
+    "url": "https://ice.audionow.com/4800DWBRBusinessRadioopus.ogg",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "OGG"
+  }
+]

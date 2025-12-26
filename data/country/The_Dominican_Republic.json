@@ -1,0 +1,394 @@
+[
+  {
+    "name": "La Rocka 91.7",
+    "url": "http://5.135.183.124:8243/;stream/1",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESTUDIO 97.9 FM",
+    "url": "http://paginas.moisespaulino.com:8067/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 60,
+    "codec": "MP3"
+  },
+  {
+    "name": "La X 102.1 FM",
+    "url": "https://audio.livecastnet.com:2535/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bravisima fm",
+    "url": "http://radio.hostlagarto.com/9924/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super K FM",
+    "url": "https://grupomedrano.stream-audio.com:8856/SuperK",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bachata",
+    "url": "http://perseus.shoutca.st:8312/;stream/1",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "810 AM Radio Salvación Internacional (RD)",
+    "url": "http://ph1.ministeriotv.com:8031/salvacion.mp3",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bachata Radio",
+    "url": "http://radio.domiplay.net:8002/;",
+    "country": "The Dominican Republic",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Salsa - Dominicana",
+    "url": "http://radio.domiplay.net:2002/;",
+    "country": "The Dominican Republic",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Comando 88 FM Santiago",
+    "url": "http://rgradio.net:8044/comando88",
+    "country": "The Dominican Republic",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fidelity 94.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FIDELITYAAC.aac",
+    "country": "The Dominican Republic",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Disco 89 88.9 FM",
+    "url": "https://rgradio.net/disco89/disco89.mp3",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Azul Radio",
+    "url": "http://radio.domiplay.net:9300/;",
+    "country": "The Dominican Republic",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bendicion95.1 FM",
+    "url": "https://sp.unoredcdn.net/8054/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CDN Radio",
+    "url": "https://play.cdnradio.com.do/cdnlive",
+    "country": "The Dominican Republic",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio FM-103 - 103.5",
+    "url": "https://radio.radiord.net/8008/;",
+    "country": "The Dominican Republic",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RD 700am Radio Gosen",
+    "url": "https://s5.radio.co/sfc2826e6e/listen",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FieraMix",
+    "url": "https://c11.radioboss.fm:18269/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tropical 100 Salsa",
+    "url": "https://stream-107.zeno.fm/cjgfujr8yhbvv?zs=VsqKiPTASc-XIz7P9HnYjQ",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tropical 100 Mix",
+    "url": "https://stream-107.zeno.fm/esgo1lafgtstv?zs=o1G7UIERS3Gdtn2B7Jdt7Q",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ritmo 96.5 FM",
+    "url": "https://stream-49.zeno.fm/y0br5ck4ququv?zs=2R5Njz6XShSzNF_ProbdIA",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Rocka 91.7",
+    "url": "http://5.135.183.124:8243/",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cimarrona",
+    "url": "http://radiocimarrona.out.airtime.pro:8000/radiocimarrona_a",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "710 AM Radio Nacional Cristiana (RD)",
+    "url": "https://node-09.zeno.fm/03yn1w98swzuv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tropical 100 Bolero",
+    "url": "https://stream.zeno.fm/b34hotasejstv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bendicion",
+    "url": "https://samuel.i-radio.co:9000/radiobendicion",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Salsa 92.7 FM",
+    "url": "https://stream.zeno.fm/h7lnwv51bh5uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Platino Radio",
+    "url": "https://platinoradio-henrsosa.radioca.st/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dominicana FM 98.9 y 99.9 FM",
+    "url": "https://protvradiostream.com:8610/;",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "570 AM Radio Crystal",
+    "url": "https://stream.zeno.fm/fu9hfhw8na0uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dial 670 AM (RD)",
+    "url": "https://node-08.zeno.fm/8wgv914262quv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio fm103 (RD)",
+    "url": "https://radio.radiord.net/8008/;stream.mp3",
+    "country": "The Dominican Republic",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amor FM 91.9",
+    "url": "http://radio.domiplay.net:9190/;",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cibaeña FM",
+    "url": "https://stream.zeno.fm/3kasxrwxxypvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Monumental 100.3 FM",
+    "url": "https://radio2.grupointernet.com/8103/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Suave 107.3 FM",
+    "url": "https://stream.zeno.fm/cta80ru8na0uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Misionera FM",
+    "url": "https://stream.zeno.fm/vget1nz0czxvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trespatines Radio",
+    "url": "https://app0102.sonicpanelradio.com/8708/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Voz del Pacoredo",
+    "url": "https://stream-50.zeno.fm/9zxyvh9vrhruv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Criolla 106.1 FM",
+    "url": "https://streaming.grupomediosdelnorte.com:8002/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Canal 105.1 FM",
+    "url": "https://stream.zeno.fm/b94afcu8na0uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "bani fm 97.5",
+    "url": "https://stream.zeno.fm/3fdfdb8g0hhvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Air Romana Radio",
+    "url": "https://stream.radiojar.com/4ggz3rkd838uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Especial 93.5 FM",
+    "url": "https://stream.zeno.fm/uhkv3smxuchvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Nueva 106.9 FM",
+    "url": "https://lanueva106.radioca.st/stream/1/",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Estrella 92.3 FM",
+    "url": "https://c13.radioboss.fm:18187/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Estación 97.7 FM",
+    "url": "https://stream2.rcast.net/61187",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Naranjo Dulce Radio",
+    "url": "https://servidor37-2.brlogic.com:8518/live?source=website",
+    "country": "The Dominican Republic",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Palma 90.7 FM",
+    "url": "https://radiordomi.com/8030/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "wao89.1",
+    "url": "https://stream.zeno.fm/pkxlvgeiocstv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ecodebendición",
+    "url": "https://stream.zeno.fm/d5gahvz0rxhvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "GamersOnFireHR",
+    "url": "https://stream.zeno.fm/2h6plesly3nvv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "EXTASIS 89.5",
+    "url": "https://stream.zeno.fm/f7wt0ptjpn3vv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WXM ONE RADIO",
+    "url": "https://jm8n.net/8024/stream",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Vida FM",
+    "url": "https://servidor38.brlogic.com:7104/live",
+    "country": "The Dominican Republic",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "la super7 fm",
+    "url": "https://sonic.radiostreaminglatino.com:10849/",
+    "country": "The Dominican Republic",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

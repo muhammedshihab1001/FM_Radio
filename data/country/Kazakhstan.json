@@ -1,0 +1,198 @@
+[
+  {
+    "name": "Radio Nostalgie (Kazakhstan)",
+    "url": "https://listen7.myradio24.com/alexx333",
+    "country": "Kazakhstan",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NS-Rock",
+    "url": "https://icecast.ns.kz/radions",
+    "country": "Kazakhstan",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Радио Рауан",
+    "url": "https://listen4.myradio24.com/rauan",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bulbul",
+    "url": "https://radiobulbul.stream.laut.fm/radiobulbul",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Народное Радио",
+    "url": "http://178.88.167.62:8080/DALA_192",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Avtoradio",
+    "url": "http://178.88.167.62:8080/AVTORADIO_192",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aspan FM",
+    "url": "http://77.240.38.228:8000/aspanfm",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tengri FM",
+    "url": "http://91.201.214.229:8000/tengrifm",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zhulduz Radio",
+    "url": "http://91.201.214.229:8000/zhulduz",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Жаңа MIX",
+    "url": "https://live.zhanafm.kz:8443/zhanamix",
+    "country": "Kazakhstan",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ЖАНА FM",
+    "url": "https://live.zhanafm.kz:8443/zhanafm_onair",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ВАШЕ РАДИО",
+    "url": "https://live.zhanafm.kz:8443/vasheradio",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Жаңа Lounge",
+    "url": "https://live.zhanafm.kz:8443/zhanalounge",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Жаңа Rock",
+    "url": "https://live.zhanafm.kz:8443/zhanarock",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pioner FM",
+    "url": "https://live.zhanafm.kz:8443/pionerfm",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "((beu))",
+    "url": "https://stream.beufm.kz/beufm",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Талап",
+    "url": "https://okeyradio.ru/okey",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 90s Eurodance",
+    "url": "https://listen1.myradio24.com/5967",
+    "country": "Kazakhstan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Russian Dance Radio",
+    "url": "https://lux-radio.com:8015/stream",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qazaq radiosy",
+    "url": "https://radio-streams.kaztrk.kz/qazradio/qazradio/icecast.audio",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shalqar",
+    "url": "https://radio-streams.kaztrk.kz/shalqar/shalqar/icecast.audio",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио SANA",
+    "url": "https://listen4.myradio24.com/radiosana",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Azamat",
+    "url": "https://listen4.myradio24.com/8162",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Classic",
+    "url": "https://radio-streams.kaztrk.kz/classic/classic/icecast.audio",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Space Beat (64k AAC)",
+    "url": "https://90116.web.hosting-russia.ru/listen/space_beat/mobile.aac",
+    "country": "Kazakhstan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio TMK",
+    "url": "https://listen.myrh.ru/radiotmk",
+    "country": "Kazakhstan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio TMK",
+    "url": "https://a4.radioheart.ru:9036/RH13170",
+    "country": "Kazakhstan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Palmera Blanca radio - Daystream",
+    "url": "https://daystream.palmerablanca.com/daystream-128.mp3",
+    "country": "Kazakhstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

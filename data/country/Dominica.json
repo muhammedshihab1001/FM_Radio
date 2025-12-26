@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Fabulosa 96.7",
+    "url": "https://bostonstreaminge.net/8006/stream",
+    "country": "Dominica",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Voice of Life Radio",
+    "url": "https://cdn.comeseetv.com:8000/vol",
+    "country": "Dominica",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "DBS Radio",
+    "url": "https://stream.dbcradio.net:8005/live",
+    "country": "Dominica",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "En Ba Mango",
+    "url": "https://s10.myradiostream.com/:4212/listen.mp3",
+    "country": "Dominica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dominica Catholic Radio",
+    "url": "https://cdn.comeseetv.com:8010/dominicacatholicradio?1740579480509",
+    "country": "Dominica",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

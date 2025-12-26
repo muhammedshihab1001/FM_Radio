@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Coldstar Online,ColdStar.Online Radio (Low quality)",
+    "url": "https://ice.coldstar.online/low.mp3",
+    "country": "Kyrgyzstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Кыргызстан Обондору (Kyrgyzstan Obondoru)",
+    "url": "https://cdn.radioplayer.kg:8443/obondoru64",
+    "country": "Kyrgyzstan",
+    "bitrate": 56,
+    "codec": "AAC"
+  },
+  {
+    "name": "Радио Тумар FM (Radio Tumar FM)",
+    "url": "https://radio.tumar.fm:8005/stream",
+    "country": "Kyrgyzstan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Биринчи Radio",
+    "url": "https://liveradio.utrk.kg/1radio",
+    "country": "Kyrgyzstan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Сүйүнчү FM (Suiunchu FM)",
+    "url": "https://cdn.radioplayer.kg:8443/suiunchu64",
+    "country": "Kyrgyzstan",
+    "bitrate": 56,
+    "codec": "AAC"
+  }
+]

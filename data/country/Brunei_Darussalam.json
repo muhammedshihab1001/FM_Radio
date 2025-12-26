@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Asyil FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ASYIK_FMAAC_SC",
+    "country": "Brunei Darussalam",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kristal FM",
+    "url": "https://play.thestreamtech.com:7038/",
+    "country": "Brunei Darussalam",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KRISTALfm",
+    "url": "https://play.thestreamtech.com:7038/index.html",
+    "country": "Brunei Darussalam",
+    "bitrate": 40,
+    "codec": "AAC+"
+  }
+]

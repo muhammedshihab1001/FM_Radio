@@ -1,0 +1,170 @@
+[
+  {
+    "name": "AutoLife Radio Azerbaijan",
+    "url": "http://radio.autoliferadio.com:8090/radio",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soothing jazz",
+    "url": "http://193.111.125.15:8020/soothingjazz",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AVTO FM",
+    "url": "http://5.191.241.101:8000/avtofm",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baku Retro Fm",
+    "url": "http://5.191.241.101:8000/bakuretrofm",
+    "country": "Azerbaijan",
+    "bitrate": 144,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baku Hit FM",
+    "url": "http://5.191.241.101:8000/bakuhitfm",
+    "country": "Azerbaijan",
+    "bitrate": 144,
+    "codec": "MP3"
+  },
+  {
+    "name": "Real FM 107",
+    "url": "http://94.20.137.130:8995/realfm?n=1ae9db9ce6bdfe42937a",
+    "country": "Azerbaijan",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Asan Radio",
+    "url": "http://94.20.74.206:4448/stream1",
+    "country": "Azerbaijan",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kepez FM",
+    "url": "http://85.132.78.122:3344/now",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Araz fm 103.3",
+    "url": "http://s39.myradiostream.com/5458/listen.mp3",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/listen/anti_radio/mp3",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yurd FM",
+    "url": "https://icecast.livetv.az/yurdfm",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anti Radio",
+    "url": "https://stream.antiradio.net/radio/8000/mp3",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Xezer FM",
+    "url": "https://s40.myradiostream.com/:22546/listen.mp3?",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Naxçıvan Radiosu",
+    "url": "http://s33.myradiostream.com:12782/listen.mp3",
+    "country": "Azerbaijan",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ASAN Radio",
+    "url": "https://play.asanradio.az/",
+    "country": "Azerbaijan",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Media Fm 105.5",
+    "url": "https://icecast.livetv.az/mediafm",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baku Jukebox",
+    "url": "http://78.109.52.73:8000/listening-from-radio-garden-1696020096",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caspian Business Radio BOSS",
+    "url": "https://myradio24.org/bosscomaz",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "AutoLife Azerbaijan",
+    "url": "https://radio.autoliferadio.com:8005/radio",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Araz fm 103.3",
+    "url": "https://s14.myradiostream.com/30454/listen.mp3",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sağlam Radio",
+    "url": "https://s24.myradiostream.com/:17446/listen.mp3?nocache=1717082000",
+    "country": "Azerbaijan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TMB 100.5",
+    "url": "http://s39.myradiostream.com:5458/",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soothing radio",
+    "url": "http://193.111.125.15:8010/soothingradio",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Enerji 101.1 FM",
+    "url": "https://icecast.livetv.az/antennfm",
+    "country": "Azerbaijan",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

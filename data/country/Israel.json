@@ -1,0 +1,541 @@
+[
+  {
+    "name": "Radio 100% 90s",
+    "url": "https://gb25.streamgates.net/radios-audio/10090s/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ivri 6",
+    "url": "https://streaming.radio.co/sa06221901/listen",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Israeli voice radio",
+    "url": "https://icecast.live/ivr",
+    "country": "Israel",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Eli Nisman Radio",
+    "url": "https://listen6.myradio24.com/25715",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "הקצה - Hakatze",
+    "url": "http://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radios 100FM - 100% 80s",
+    "url": "http://gb25.streamgates.net/radios-audio/10080s/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ELI NISMAN",
+    "url": "http://listen6.myradio24.com:9000/25715",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radios 100FM",
+    "url": "http://gb25.streamgates.net/radios-audio/100Workout/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radios 100FM - 100% Oldies",
+    "url": "http://gb25.streamgates.net/radios-audio/100Oldies/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Galei Zahal",
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nostalgia",
+    "url": "http://194.213.4.197:8000/listen.pls?sid=1",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "קול השפלה - Kol Hashfela",
+    "url": "http://1036kh.cdnwz.net/1036kh",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Lev Hamedina",
+    "url": "http://91fm.streamgates.net/Lev91Fm",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "קול ברמה - Kol Barama",
+    "url": "http://kb.cdnwz.net/kol_barama",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Kol HaMusica",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kankolhamusica_mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Gimel",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kangimmel_mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "راديو مكان  - Kan Israel Makan",
+    "url": "http://kanliveicy.media.kan.org.il/icy/makan_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "reka",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanreka_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KAN 88",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749623_mp3?providername=tunein",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KAN gimel (real)",
+    "url": "http://kanliveicy.media.kan.org.il/icy/749625_mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Israel Tarbut",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kantarbut_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Israel 88 FM",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kan88_mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Israel Reshet Moreshet 92.5 FM",
+    "url": "http://kanliveicy.media.kan.org.il/icy/kanmoreshet_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Лучшее Радио",
+    "url": "http://live.cdnwz.net/thebest",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mizrahit FM Best",
+    "url": "http://rs.mizrahit.fm:7777/arabellavie",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioPlus",
+    "url": "http://s3.yesstreaming.net:7049/stream",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AudioVersity",
+    "url": "https://1062onair.runi.ac.il/idc123.mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "נושמים מזרחית - Noshmim Mizrahit",
+    "url": "http://www.rs.mizrahit.fm:7777/",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rak Musica",
+    "url": "https://play.radioking.io/rak-musica/670240",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "קול חי מיוזיק - Kol Chai Music",
+    "url": "https://media2.93fm.co.il/livemusic",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "קול חי - Kol Chai",
+    "url": "https://media2.93fm.co.il/live-new",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nachman",
+    "url": "https://cast.breslevforyou.co.il/listen/radiobreslev/radio.mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Qualita",
+    "url": "https://www.radioking.com/play/radio-qualita",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Reka",
+    "url": "http://kanliveicy01.bynetcdn.com/icy/kanreka_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kan Tarbut",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KAN_TARBUT.mp3?dist",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Машиах Инфо Канал 1",
+    "url": "http://s01.radio-tochka.com:6935/;",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Машиах Инфо Канал 2",
+    "url": "http://s01.radio-tochka.com:6045/;",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 103FM",
+    "url": "https://cdn.cybercdn.live/103FM/Live/icecast.audio",
+    "country": "Israel",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "اذاعة الشمس - A-Shams",
+    "url": "https://cdna.streamgates.net/Ashams/Live/icecast.audio",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Первое радио 89.1FM",
+    "url": "https://cdn.cybercdn.live/Pervoia/Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "גלגלצ - Glglz",
+    "url": "http://glzwizzlv.bynetcdn.com/glglz_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "תל אביב Tel Aviv 102FM",
+    "url": "http://102.livecdn.biz/102fm_aac",
+    "country": "Israel",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jewish Music Stream",
+    "url": "https://stream.jewishmusicstream.com:8000/",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Galgalatz 91.8 FM",
+    "url": "https://glzicylv01.bynetcdn.com/glglz_mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "100fm - 100% Movies",
+    "url": "http://gb25.streamgates.net/radios-audio/100Movies/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "גלי ישראל Galey Yisrael",
+    "url": "https://cdn.cybercdn.live/Galei_Israel/Live/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "גלצ",
+    "url": "http://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "#joint radio Blues Rock",
+    "url": "https://jointil.com/stream-blues",
+    "country": "Israel",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "רדיו חמאש - Radio Hamesh",
+    "url": "http://995.livecdn.biz:8000/995fm",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kabbalah Fr",
+    "url": "http://icecast.kab.tv/live1-spa-574bcfd5.mp3",
+    "country": "Israel",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "#joint radio Beat Trance",
+    "url": "https://jointil.com/stream-beat",
+    "country": "Israel",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radios 100FM   רדיוס",
+    "url": "https://cdn.cybercdn.live/Radios_100FM/Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ze Rock Radio",
+    "url": "https://icecast.live/proxy/zerock/zerock",
+    "country": "Israel",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Breslev Carmiel",
+    "url": "https://securestreams6.autopo.st:2294/mp3",
+    "country": "Israel",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nahariya",
+    "url": "https://cast.radionahariya.com:8443/main.mp3",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "101fm radio jerusalem",
+    "url": "https://radio.streamgates.net/stream/101fm",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "קול פליי | kol-play",
+    "url": "https://cdn.cybercdn.live/Kol_Barama/Music/icecast.audio",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "101.5fm רדיו התחנה",
+    "url": "https://cdn.cybercdn.live/Hatahana_1015/Live_Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "kzradio",
+    "url": "https://kzradio.mediacast.co.il/kzradio_live/kzradio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kol Rega קול רגע 91.5/96",
+    "url": "https://cdn.cybercdn.live/Kol_Rega/Live_Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio lev hamedina",
+    "url": "https://cdn.cybercdn.live/Lev_Hamedina/Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "104.5fm radio זשכםמ",
+    "url": "https://radio.streamgates.net/stream/1045fm",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "101.5fm נותנים למוזיקה לדבר רדיו דרום",
+    "url": "https://cdn.cybercdn.live/Darom_1015FM/Live/icecast.audio",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tel Aviv 102FM רדיו תל אביב",
+    "url": "https://102.livecdn.biz/102fm_aac",
+    "country": "Israel",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "radio darom 95.8fm 97fm",
+    "url": "https://cdn.cybercdn.live/Darom_97FM/Live/icecast.audio",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "רדיו מזרחית",
+    "url": "https://mzr.mediacast.co.il/mzradio",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 90FM",
+    "url": "https://cdn.cybercdn.live/Emtza_Haderech/Live_Audio/icecast.audio",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kan Bet",
+    "url": "https://25583.live.streamtheworld.com/KAN_BET.mp3?dist=bynetredirect&1737047133",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "גלצ",
+    "url": "https://glzwizzlv.bynetcdn.com/glz_mp3?awCollectionId=misc&awEpisodeId=glz",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sahar",
+    "url": "https://live.ecast.co.il/stream/sahar/stream",
+    "country": "Israel",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Galgalatz",
+    "url": "https://glzwizzlv.bynetcdn.com/glglz_mp3?awCollectionId=misc&awEpisodeId=glglz",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KAN Gimel כאן גימל",
+    "url": "https://27873.live.streamtheworld.com/KAN_GIMMEL.mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Мессианское радио Орэну",
+    "url": "https://listen7.myradio24.com/orenu",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Haifa רדיו חיפה",
+    "url": "https://1075.livecdn.biz/radiohaifa",
+    "country": "Israel",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Star 33 Radiostation",
+    "url": "https://online.star33radio.com:1115/stream",
+    "country": "Israel",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "kol hai",
+    "url": "https://live.kcm.fm/livemusic",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "88 FM",
+    "url": "https://29073.live.streamtheworld.com/KAN_88.mp3",
+    "country": "Israel",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

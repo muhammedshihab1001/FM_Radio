@@ -1,0 +1,534 @@
+[
+  {
+    "name": "P11 Dance (MP3 192k)",
+    "url": "https://p11.p4groupaudio.com/P11_MH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRJ Norge",
+    "url": "https://live-bauerno.sharp-stream.com/kiss_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Norge",
+    "url": "https://live-bauerno.sharp-stream.com/radionorge_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Topp 40",
+    "url": "http://live-bauerno.sharp-stream.com/top40_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vinyl Oslo",
+    "url": "http://live-bauerno.sharp-stream.com/vinyl_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Med Oslo",
+    "url": "http://108.59.11.81:10107/stream",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RRA",
+    "url": "http://remote.remoy.org:59913/rasta2",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rox",
+    "url": "http://stream.radiometro.no/rox128",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metro Oslo",
+    "url": "http://stream.oneplay.no/oslo128",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Randsfjord",
+    "url": "http://stream.radiorandsfjord.no/randsfjord128.mp3",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toten radio",
+    "url": "http://streamer.nextnet.no/radiototen-mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "🎥 ues 🎬",
+    "url": "https://listen.radionomy.com/unleashingepicsoundtracks",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P11 Dance (AAC HQ)",
+    "url": "https://p11.p4groupaudio.com/P11_AH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "P4 Norge (AAC HQ)",
+    "url": "https://p4.p4groupaudio.com/P04_AH",
+    "country": "Norway",
+    "bitrate": 191,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radiø Bø",
+    "url": "https://nettradio.radiobo.com/radiobo-high",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO Trøndelag",
+    "url": "https://nettradio.radiotrondelag.no:8443/radio_trondelag",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK Nyhter (MP3 - HI)",
+    "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/nyheter",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hamar Radioen",
+    "url": "https://lyd.radioene.no/hamar.mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trysilradioen",
+    "url": "https://lyd.radioene.no/trysil.mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiOrakel FM 99.3",
+    "url": "https://stream.radiorakel.no/fm993.mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metro Sørlandet",
+    "url": "https://stream.oneplay.no/sorlandet128",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nærkanalen",
+    "url": "https://stream.radiomeloy.no:8003/radiomeloy",
+    "country": "Norway",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metro Buskerud",
+    "url": "https://stream.radiometro.no/buskerud128",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "http://stream.radionova.no/mp3",
+    "country": "Norway",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Haugaland 96",
+    "url": "https://stream.theradiohub.com/?server=radioip.no&port=443&type=mp3&mount=rh.mp3",
+    "country": "Norway",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Lyngdal",
+    "url": "http://live.radiolyngdal.com/rly_mq",
+    "country": "Norway",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sørlandsradioen",
+    "url": "https://nettradio.sorlandsradioen.no/sorlandsradioen_hq",
+    "country": "Norway",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "1-NRK Jazz",
+    "url": "http://cdn0-47115-liveicecast0.dna.contentdelivery.net/jazz_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "P5 Nonstop Hits (AAC HQ)",
+    "url": "https://p5n.p4groupaudio.com/P05AAH",
+    "country": "Norway",
+    "bitrate": 191,
+    "codec": "AAC"
+  },
+  {
+    "name": "P12 Hitmix (MP3 128k)",
+    "url": "https://nrj.p4groupaudio.com/NRJ_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P6 Rock (MP3 128k)",
+    "url": "https://p6.p4groupaudio.com/P06_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P8 Pop (MP3 128k)",
+    "url": "https://p8.p4groupaudio.com/P08_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P10 Country (AAC HQ)",
+    "url": "https://p10.p4groupaudio.com/P10_AH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "P9 Retro (MP3 128k)",
+    "url": "https://p9.p4groupaudio.com/P09_MH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "P24-7 Mix",
+    "url": "https://live-bauerno.sharp-stream.com/p247mix_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P7 Klem (AAC HQ)",
+    "url": "https://p7.p4groupaudio.com/P07_AH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Rock (NO)",
+    "url": "https://live-bauerno.sharp-stream.com/radiorock_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P4 Norge (MP3 128k)",
+    "url": "https://p4.p4groupaudio.com/P04_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P12 Hitmix (AAC HQ)",
+    "url": "https://nrj.p4groupaudio.com/NRJ_AH",
+    "country": "Norway",
+    "bitrate": 191,
+    "codec": "AAC"
+  },
+  {
+    "name": "P5 Hits (MP3 128k)",
+    "url": "https://p5.p4groupaudio.com/P05_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P11 Dance (MP3 128k)",
+    "url": "https://p11.p4groupaudio.com/P11_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nrk P1 Stor-Oslo",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Northern Star",
+    "url": "http://5866.cloudrad.io:8018/northernstar.mp3",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK Nyheter",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/nyheter_aac_h",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NRK P3",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p3_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P2 aac_h",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p2_aac_h",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "P24-7 JuleRadioen",
+    "url": "https://live-bauerno.sharp-stream.com/station17_no_mp3",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK MP3",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/mp3_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metal Express Radio",
+    "url": "http://s39.myradiostream.com:11590/listen.m4a",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-Topp 40",
+    "url": "http://live-bauerno.sharp-stream.com/top40_no_aac",
+    "country": "Norway",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "P24-7 Kos",
+    "url": "https://live-bauerno.sharp-stream.com/p247kos_no_hq?direct=true",
+    "country": "Norway",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Kos",
+    "url": "https://lyd.radiokos.no/kos_lq",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio102",
+    "url": "https://stream.radio102.no/radio102_hq",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klem FM",
+    "url": "https://p7.p4groupaudio.com/P07_MM",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Nordland",
+    "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk4",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Sotra",
+    "url": "https://streaming.radiosotra.no:8443/radiosotra",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Latin-Amerika",
+    "url": "https://stream.radiolatinamerika.no/latam_hq",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "5000 Bergen",
+    "url": "https://bergen5000.radioca.st/stream",
+    "country": "Norway",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nrk p1 Hordaland",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk8_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK Trøndelag",
+    "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk5",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Buskerud (AAC High)",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk13_aac_h",
+    "country": "Norway",
+    "bitrate": 158,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Tromsø Hits",
+    "url": "https://stream.rthits.no/rthits192",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Sogn og Fjordane (Høy kvalitet MP3)",
+    "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk7",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK Sport",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/sport_aac_h",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "North & Beyond",
+    "url": "http://stream.laut.fm/north-beyond",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Troms (Høy kvalitet AAC)",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk3_aac_h",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Guovdageainnu Lagasradio",
+    "url": "https://streaming.radio.co/s5b773f8d3/listen",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 3 Bodø",
+    "url": "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394",
+    "country": "Norway",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "NRK P1 Rogaland",
+    "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk9",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NRK P1 Sogn og Fjordane (Høy kvalitet AAC)",
+    "url": "https://lyd.nrk.no/icecast/aac/high/s0w7hwn47m/p1_dk7",
+    "country": "Norway",
+    "bitrate": 159,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Bardufoss",
+    "url": "https://stream.bardufoss.no/radiobardufoss192",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Østfold",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk15_mp3_h",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "1FM Molde",
+    "url": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Ålesund",
+    "url": "https://audio.radioaalesund.no/aalesund_mq",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "NRK P1 Møre og Romsdal",
+    "url": "https://cdn0-47115-liveicecast0.dna.contentdelivery.net/p1_dk6_mp3_l",
+    "country": "Norway",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRK P1 Østfold",
+    "url": "https://lyd.nrk.no/icecast/mp3/high/s0w7hwn47m/p1_dk15",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

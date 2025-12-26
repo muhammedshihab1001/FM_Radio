@@ -1,0 +1,44 @@
+[
+  {
+    "name": "LOVE RADIO",
+    "url": "https://loveradio.streamingmedia.it/play",
+    "country": "Armenia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fama",
+    "url": "http://eu.stream4cast.com:8036/stream/",
+    "country": "Armenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Armenian Christian Radio - Bashde Radio",
+    "url": "https://streams.radio.co/sa0bf8ec29/listen?sid=1",
+    "country": "Armenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Aurora",
+    "url": "http://am.radioaurora.am:8010/al.mp3",
+    "country": "Armenia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM Armenia",
+    "url": "https://am.radioaurora.am/kiss",
+    "country": "Armenia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lav Radio Mix",
+    "url": "http://live.lavradio.am:8006/stream2",
+    "country": "Armenia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  }
+]

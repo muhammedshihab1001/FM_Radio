@@ -1,0 +1,30 @@
+[
+  {
+    "name": "MGL Radio",
+    "url": "http://stream17.shoutcastsolutions.com:8096/",
+    "country": "Mongolia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Family Radio FM",
+    "url": "https://c2.radioboss.fm/stream/394",
+    "country": "Mongolia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mongolian Music Radio",
+    "url": "http://65.108.143.81:7700/1",
+    "country": "Mongolia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "内蒙古草原之声 Inner Mongolia Voice of Grassland",
+    "url": "https://lhttp-hw.qtfm.cn/live/20973/64k.mp3",
+    "country": "Mongolia",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

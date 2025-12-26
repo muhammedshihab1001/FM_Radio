@@ -1,0 +1,5602 @@
+[
+  {
+    "name": "881 Thesauce",
+    "url": "https://stream.laut.fm/881thesauce?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ZFB",
+    "url": "https://pureplay.cdnstream1.com/6018_128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Journey-Radio",
+    "url": "http://usa13.fastcast4u.com:5004/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Nova Gradiška",
+    "url": "https://onlineradiobox.com/json/hr/novagradiska/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tonic Radio Villefranche - 128 - France - hits - pop - top 40",
+    "url": "http://rautemusik.stream43.radiohost.de/top100station_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzU3NTM0NzYzJmQ9OWJjMGRlYmI1MDBmYThkNTk5NzA",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Columbus, OH Police Zones 1-5",
+    "url": "http://broadcastify.cdnstream1.com/11208",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Chokarella",
+    "url": "http://streaming.radio.co/s97764d52b/listen",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Los 40 Principales Costa Rica",
+    "url": "https://provisioning.streamtheworld.com/pls/LOS40_CR.pls?n=1bb487fdd1f1cc672698",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Gospel Star Radio",
+    "url": "https://eu5.fastcast4u.com/proxy/ananzola?mp=%2F1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WVKR-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WVKRFM_SC?dist=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Soulfunky Radio",
+    "url": "http://soulfunky.stream.laut.fm/soulfunky?t302=2025-09-24_22-30-49&uuid=c29b1613-0d7f-4a31-94ae-550901addfe0",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "danceradio-nrw",
+    "url": "http://danceradio-nrw.stream.laut.fm/danceradio-nrw?t302=2025-09-09_03-12-02&uuid=8be7f889-37e1-4bc1-a234-0cd8e0ed6f04",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Ticket 92.1 (KQSM)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KQSMFMAAC.aac?dist=socast_engage_web&starttime=1729506266",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Technolovers TRANCE",
+    "url": "https://stream.technolovers.fm/trance?ref=radiobrowser?n=c282069bc5ca570c9442",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "alcoyelectronicaradio-1-2017",
+    "url": "http://listen.radionomy.com:80/alcoyelectronicaradio-1-2017",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ABC South West Vic",
+    "url": "http://abc.streamguys1.com/live/localsouthwestvic/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "stream",
+    "url": "https://free.rcast.net/210121",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "104.6 RTL – Black Hits",
+    "url": "http://stream.104.6rtl.com/rtl-black/mp3-128/streema.com/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Broadcastmade Classic Hits Radio",
+    "url": "https://ais-edge37-live365-dal02.cdnstream.com/a66683?dist=theonestopradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "unknown",
+    "url": "http://stream.laut.fm/mbradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Crystal 93.3 FM en vivo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHEDTFMAAC_SC?dist=radioenvivomx",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RADIO BOB! BOBs Rock Hits",
+    "url": "http://regiocast.streamabc.net/regc-radiobobrockhits4737502-mp3-192-8003058?sABC=68oq37p5%230%23712n033spp5n92o4047pss1pqq3o0048%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757231045",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Yat Radio",
+    "url": "http://stream.dar.fm/113154",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ABC Mix",
+    "url": "http://streamingv2.shoutcast.com/ABC-Mix",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NVS Radio",
+    "url": "http://hosting.radiomedia.fr:2120/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "detektor.fm - Musik-Stream Radio",
+    "url": "https://stream02.pcradio.biz/detektor_musik-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Village Station",
+    "url": "http://streamingV2.shoutcast.com/villagestation",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rabid Fox",
+    "url": "http://listen.radionomy.com:80/RabidFox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Caprice - Ska-Punk / Core",
+    "url": "https://stream.pcradio.ru/caprice_skapunk-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Orión Stereo",
+    "url": "http://ss.redradios.net:8046/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HTHRadio.com",
+    "url": "https://free.rcast.net/14341",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "UrbanRadio - Hip Hop",
+    "url": "http://listen.radionomy.com:80/UrbanRadio-HipHop",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rock &amp; Pop Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_AND_POPAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Pogoda",
+    "url": "http://stream5.radioagora.pl/tuba38-1.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Erft - Dein 2000er Radio",
+    "url": "http://stream.lokalradio.nrw/4456w4s",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio 21 - NRW",
+    "url": "https://radio21.streamabc.net/radio21-nrw-mp3-192-5175188?sABC=690r10qp%230%239112271pq0r32q8o3171po74o9rn459q%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1762529500",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Big R Radio - 101.6 Adult Warm Hits",
+    "url": "https://das-edge17-live365-dal02.cdnstream.com/a80218",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Epic Lounge - Workday Lounge Radio",
+    "url": "https://0nlineradio.stream42.radiohost.de/lounge-workday-lounge?upd-meta&upd-scheme=https&_art=dD0xNzY1MTU3MjQzJmQ9MGQxZjAxNTkwMDcyNmYxMTE4Njc",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Absolut Relax Radio",
+    "url": "https://edge68.live-sm.absolutradio.de/absolut-relax",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RADIO 21 - Lingen",
+    "url": "http://radio21.streamabc.net/radio21-lingen-mp3-128-7784803?sABC=68oon513%230%2380pq4ppq0q578r9503036792113rro78%23ighare&aw_0_1st.playerid=vtuner&amsparams=playerid:vtuner;skey:1757127955",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ ZYC421 NovaBrasil FM 106.5 - Fortaleza, Ceará",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FOR.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RMC Buddha-Bar Monte Carlo",
+    "url": "http://edge.radiomontecarlo.net/rmcweb002?disc=thenonstopradio.com",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Dacia Calm",
+    "url": "https://streaming.napocalive.ro/radio-dacia04?n=4a887c5325bb7a7cfe2d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ CHLB Wild 95.5 FM - Lethbridge, Alberta",
+    "url": "http://redirect.jpbgdigital.com/CHLB",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Karla",
+    "url": "https://radio-karla.stream.laut.fm/radio-karla?ref=radiode&t302=2025-09-07_20-37-49&uuid=b9b80f7a-f2eb-4923-91ac-0bcb80a917d0",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HT MUSIC",
+    "url": "http://listen.radionomy.com:80/HTMUSIC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KXLL Excellent Radio 100.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KXLLFMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Global News Radio 770",
+    "url": "http://live.leanstream.co/CHQRAM-MP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hey Say Jump Best",
+    "url": "https://listen.radionomy.com/hey-say-jump-best?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WIOE Oldies 1450 AM",
+    "url": "http://audio-edge-jfbmv.sin.d.radiomast.io/c9bc1a59",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MDR Figaro",
+    "url": "http://d131.rndfnk.com/ard/mdr/284310/0/mp3/128/stream.mp3?aggregator=radio-de&cid=01FBQ0DC86PCK25SZ3MS3J5EM2&sid=32yhKHSfAoXMzBgtUBouhsPizrK&token=r1cOKCdpvlvURybfAv3UDNHow6KTJCk5AFEKsw39qdw&tvf=DRdViOcpZxhkMTMxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Smooth 105.6FM",
+    "url": "https://servidor26.brlogic.com:7110/live?n=79b1b11505e6b4f45eac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "I Love Charts",
+    "url": "http://ilm.stream12.radiohost.de/ilm_ilovetop100charts_mp3-192?upd-meta=0&upd-scheme=http&_art=dD0xNzU2NTk1MDg2JmQ9NTRiYmJkODM4YWJlNTczMjcwOTc",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Master Arras",
+    "url": "https://hautsdefrance.ice.infomaniak.ch/hautsdefrance.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Lounge Chill 1 Radio",
+    "url": "https://stream.pcradio.ru/lounge_chillout-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Zefir FM",
+    "url": "https://stream.rcast.net/233185",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Arrow Bluesbox Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARROWBLUESBOX.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Exclusively Green Day",
+    "url": "http://streaming.exclusive.radio/er/greenday/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "104.7 MORE FM",
+    "url": "https://a1.asurahosting.com:8550/radio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioSound Piacenza FM (Piacenza)",
+    "url": "https://sr6.inmystream.it:18018/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Bochum - Dein Schlager Radio",
+    "url": "https://stream.appradiofm.com/stream?url=http://stream.lokalradio.nrw/44522c5",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RT1 2000er",
+    "url": "https://rt1.radio/r13po",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Salsa Latina",
+    "url": "https://onlineradiobox.com/json/co/salsalatina/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Indie And More - 128 -  - indie",
+    "url": "http://stream.laut.fm/indieandmore",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Clube Marilia",
+    "url": "https://srv2.braudio.com.br/sc/7316",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Neandertal 97.6",
+    "url": "http://neandertal--di--nacs-ais-lgc--0c--cdn.cast.addradio.de/neandertal/live/mp3/high?ref=L1St3N&ar-distributor=f0b2&_art=dj0yJmlwPTIwLjEwOS45NS4xNjAmaWQ9aWNzY3hsLW1odWVhc2ltYiZ0PTE3NTcyMTI3NTEmcz03ODY2ZjI5YyM5OWIxYzdiODM3OTE1NzhmMGYwNjQ2NTJiNDg2YmRkMQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Driland",
+    "url": "http://stream.laut.fm/driland",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "La Famiglia",
+    "url": "https://cast.magicstreams.gr:9010/stream?type=http\\u0026nocache=1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "fxmusic",
+    "url": "https://fxmusic.stream.laut.fm/fxmusic?ref=radiode&t302=2025-09-07_20-08-09&uuid=6e30f91d-bd24-4e5c-a2cb-334eb349e898",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "River Country",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WFYRFMAAC.aac?dist=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rundspruch.net Dance",
+    "url": "https://fra-pioneer08.dedicateware.com:1315/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "barracuda-beach-club",
+    "url": "https://barracudabeachclub.stream.laut.fm/barracuda_beach_club?ref=radiode&t302=2025-09-07_17-34-26&uuid=da68d4e0-fb82-479c-997c-05ad2bf4318a",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Procurement Radio",
+    "url": "https://das-edge09-live365-dal03.cdnstream.com/a14872",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Que Buena 96.1FM San Jacinto",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KRQBFMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Prabhuji Radio",
+    "url": "https://listen.radioking.com/radio/265588/stream/310813",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Marlab",
+    "url": "http://marlab.radioca.st/live",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Potok Radio",
+    "url": "http://uzivo.potokradio.net:15895/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Poder 88.1 FM",
+    "url": "https://das-edge12-live365-dal02.cdnstream.com/a99499",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Efteling Radio",
+    "url": "https://25333.live.streamtheworld.com/TLPSTR07.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Racyja Poland",
+    "url": "http://air.racyja.com:8000/racja48?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Monocle 24",
+    "url": "https://25703.live.streamtheworld.com/MONOCLE_24.mp3?dist=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CFAX 1070 (Victoria, BC)",
+    "url": "http://18243.live.streamtheworld.com:80/CFAXAMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Coca SER Ronda",
+    "url": "https://25493.live.streamtheworld.com/SER_ASO_RONDAAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "synthpop",
+    "url": "https://stream.laut.fm/synthpop?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "98.3 KORA",
+    "url": "http://ais-sa1.streamon.fm/7270_64k.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "#Musik.Top40 by rm.fm",
+    "url": "https://rautemusik.stream17.radiohost.de/top40?upd-meta&upd-scheme=https&_art=dD0xNzU3OTk5NTY0JmQ9YjZmYzFjODAwYjQ1OTY3ZTA2N2I",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radiolla Kiev",
+    "url": "http://air.radiolla.com/radiolla192k",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Er FM",
+    "url": "https://edge1.socialsmart.tv/erfm/bant1/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hot Soul 105",
+    "url": "https://listen.radioking.com/radio/530839/stream/589267",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Babaganousha Psytrance - 128 -  - goa trance psychedelic trance",
+    "url": "https://radiobabilon.radioca.st/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hitradio RT1 SÜDSCHWABEN",
+    "url": "https://edge61.streamonkey.net/rt1-ch04/stream/aacp?aggregator=onlineradiobox&aw_0_1st.source=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MegaUnionEstereo2",
+    "url": "http://listen.radionomy.com:80/MegaUnionEstereo2",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Ton Baden Württemberg",
+    "url": "http://radioton.stream28.radiohost.de/radioton-bw_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzU4MDUzOTA0JmQ9NjA5ZmFmYjk5ZDAyNDgxYWM5ZjM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MerryChristmasStation",
+    "url": "https://free.rcast.net/14434",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Platinum Gold Radio - 64 - The United Kingdom Of Great Britain And Northern Ireland - classic hits,oldies",
+    "url": "http://s2.voscast.com:10128/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "&amp#34The Ranch&amp#34",
+    "url": "https://onlineradiobox.com/json/us/ranch/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Parousia 103 - 7 FM - 128 - Greece - christian radio - church radio",
+    "url": "https://stream.myip.gr/proxy/mitropol/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KJMH - JAMZ 107.5 FM",
+    "url": "http://stream.abacast.net/direct/townsquare-kjmhfmaac-ibc3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Norea Pluss Radio",
+    "url": "https://free.rcast.net/3055",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Laut.FM Der Barde",
+    "url": "http://der-barde.stream.laut.fm/der-barde?t302=2025-08-30_22-55-53&uuid=93a319ec-4033-43f0-9597-821855cd2f07",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Funky Esses",
+    "url": "http://stream1.funkyessex.co.uk:8000/aac128",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Roka Radio",
+    "url": "http://162.244.80.106:11368/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Fantasy Dance",
+    "url": "http://edge05.streamonkey.net/gongfm-djmix/stream/mp3?aggregator=icecastdirectory",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1Mix Radio – Trance",
+    "url": "http://51.15.177.152:8060/320/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "24SN Radio Newstalk",
+    "url": "https://rbx2.hnux.com/http://e15513.cloudrad.io:8870/24SN-NETWORK?type=.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "niceream.fm",
+    "url": "http://ekila1.pro-fhi.net:3550/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Art - Franz Schubert",
+    "url": "https://onlineradiobox.com/json/gr/artfranzschubert/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ KQXR The X 100.3 FM - Boise, Idaho",
+    "url": "https://27153.live.streamtheworld.com/KQXRFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AMOR LATINO RADIO ONLINE",
+    "url": "http://listen.radionomy.com:80/AMORLATINORADIOONLINE",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Free Radio Belgium",
+    "url": "https://free.rcast.net/247753",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Shabnam Radio",
+    "url": "http://n03.radiojar.com/2wkgztwd74zuv",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "lautundhart",
+    "url": "https://stream.appradiofm.com/stream?url=http://stream.laut.fm/lautundhart",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RFM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Audiolibros Radio",
+    "url": "https://tuneinradi.online:8060/radio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Attic Radio",
+    "url": "https://mediacp.audiostreamen.nl:2000/stream/8226",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "unknown",
+    "url": "http://icecast-servers.vrtcdn.be/stubru_untz.aac?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYzNzA0NzI2NiwiaXNzIjoidGlzcnYifQ.6DxLdh1zl-86Ve9fCMpKhO9SRkuUduQa1bAk-rpZL_c",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "PowerStationHabbuy",
+    "url": "http://listen.radionomy.com:80/PowerStationHabbuy",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LA Hellenic Radio",
+    "url": "https://free.rcast.net/14968",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radio-mm",
+    "url": "https://stream.laut.fm/radio-mm?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "吉林经济广播",
+    "url": "http://lhttp.qingting.fm/live/3976/64k.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio MacSpeeder",
+    "url": "http://listen.radionomy.com:80/RadioMacSpeeder",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio El Sol",
+    "url": "http://s1.raudiostream.com:8002/stream/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Totally Radio Xmas",
+    "url": "http://listen.radionomy.com:80/TotallyRadioXmas",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Ten FM",
+    "url": "https://onlineradiobox.com/json/au/ten/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KOFO",
+    "url": "http://ice42.securenetsystems.net/KOFO",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Vala Rinore",
+    "url": "http://ca3.rcast.net:8024/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Vault 100.7",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KKVTFMAAC.aac?dist=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "sync",
+    "url": "https://stream.laut.fm/sync?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Notre Dame Comines",
+    "url": "http://streaming.radionomy.com/Notredamecomines",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ANTENNE BAYERN Schlagersahne",
+    "url": "http://s1-webradio.antenne.de/das-schlager-karussell/stream/mp3?aw_0_1st.playerid=vTuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Nwothm",
+    "url": "https://stream.laut.fm/nwothm?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Cadena SER – Radio Melilla",
+    "url": "http://25253.live.streamtheworld.com/SER_MELILLA.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Gaydial",
+    "url": "http://listen.radionomy.com:80/Gaydial",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Groove",
+    "url": "https://free.rcast.net/7122",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RFJ",
+    "url": "http://rfj.ice.infomaniak.ch/rfj-high.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Energy Hits",
+    "url": "https://onlineradiobox.com/json/de/energyhits/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WMEZ Hot 94.1 FM - Pensacola, Florida",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WMEZFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ShoutDRIVE Dance Music",
+    "url": "http://media.shoutdrive.com/sd-mp3/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Capital Hits Fm",
+    "url": "https://live.paineldj.com.br/proxy/popfmcar?mp=/stream&1644387522764",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio CoverUno",
+    "url": "https://radiocoveruno.stream.laut.fm/radiocoveruno?t302=2019-03-20_13-13-45&ampuuid=8302063a-ac4c-4c1a-b15b-9afef40b76c3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Power987",
+    "url": "https://edge.iono.fm/xice/65_high.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Kermisklanten",
+    "url": "https://stream.laut.fm/kermisklanten?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Jan 90.7 FM",
+    "url": "https://stream02.pcradio.biz/radio_jan_907-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "20minuten.radio",
+    "url": "https://free.rcast.net/261561",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "antenne Thüringen Weihnachtshits",
+    "url": "https://edge12.streamonkey.net/antthue-weihnachtshits/stream/mp3?aggregator=rewrite/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KINK DNA Classics",
+    "url": "https://22533.live.streamtheworld.com/KINK_DNAAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Costa Del Mar - Chillout",
+    "url": "http://radio4.cdm-radio.com:8020/stream128k-AAC-Chill_autodj",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "TSF Jazz",
+    "url": "http://tsfjazz.ice.infomaniak.ch/tsfjazz-high",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WVEE V103",
+    "url": "http://stream.revma.ihrhls.com/zc865",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Delta FM Boulogne 100.7 Boulogne",
+    "url": "https://stream.appradiofm.com/stream?url=http://deltafmboulogne.ice.infomaniak.ch/deltafmboulogne-high.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Heavyweight Reggae - 320 - The United Kingdom Of Great Britain And Northern Ireland - reggae",
+    "url": "https://ice3.somafm.com/reggae-256-mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio_Arabella_80er",
+    "url": "https://frontend.streams.arabella.at/arabella-80er",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "102.7 KIIS-FM Los Angeles",
+    "url": "https://stream.appradiofm.com/stream?url=http://stream.revma.ihrhls.com/zc185",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "OTR - OLTRE TUTTO RADIO",
+    "url": "http://91.121.38.216:8046/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "B87FM",
+    "url": "https://streamer.radio.co/s883e1674e/listen#.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tulsa Hot Beats with DJ T NICE",
+    "url": "https://sonic.radiostream.ca:8028/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Charivari Cham",
+    "url": "https://edge60.streamonkey.net/charivaristream-cham?aggregator=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "yeswecannabismix",
+    "url": "https://stream.laut.fm/yeswecannabismix?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CHM Network – US",
+    "url": "http://c13.radioboss.fm:8254/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hallo Hasso Radio",
+    "url": "https://live.radioton.de/rt-mobile-popupchannel?usid=0-0-L-A-V-04",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sim Radio",
+    "url": "https://simradio.stream.laut.fm/simradio?ref=radiode&t302=2025-09-06_22-42-44&uuid=5972b783-6529-4eed-82ba-c367704a1d65",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Zak",
+    "url": "http://gdansk.radio.pionier.net.pl:8000/pl/radiozak.ogg",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Balkan Orient Deluxe",
+    "url": "http://stream.laut.fm/balkan-orient-deluxe",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WKKT The Kat",
+    "url": "http://n44b-e2.revma.ihrhls.com/zc1605",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Eins Coburg",
+    "url": "https://edge01.streamonkey.net/radio-eins/stream/mp3?aggregator=rds24_rs3_stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radiohits",
+    "url": "https://stream2.rcast.net/71184",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CIWS-FM",
+    "url": "https://streamingv2.shoutcast.com/ciws-fm",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hotmixradio Latino",
+    "url": "https://streamingp.shoutcast.com/hotmixradio-latino-64.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Popwelle. Das Musikradio radio",
+    "url": "https://popwelle.spcast.eu/stream?time=1756693598",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Inkafuego 104.3FMseñal en vivo",
+    "url": "https://radiohd.us/8022/stream?n=c0011521db62fc0d4e51",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "burnyourears",
+    "url": "http://burnyourears.stream.laut.fm/burnyourears?t302=2025-09-23_03-50-19&uuid=8002cd20-9161-4f51-9a28-b88c7c6eeebf",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio A1A™",
+    "url": "http://usa11.fastcast4u.com:5048/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "رام الله اف ام",
+    "url": "http://streamer.mada.ps:8012/tarab",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AB Radio Humor",
+    "url": "https://25693.live.streamtheworld.com/RADIO_HUMOR_128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Megahit",
+    "url": "https://stream.pcradio.ru/megahit_online-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BCJRADIO Prog radio",
+    "url": "http://listen.radionomy.com:80/BCJRADIOProgradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "FM Viva",
+    "url": "https://onlineradiobox.com/json/ar/viva/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CMC Kids",
+    "url": "http://radio-stream.cmc.com.hr:8090/autodj?n=b20b050ce4d6542a95de",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio K.W.",
+    "url": "https://edge10.streamonkey.net/wf-radiokw/stream/mp3?aggregator=onlineradioboxcom",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Biker Hart Radio",
+    "url": "https://edge.iono.fm/xice/158_medium.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Laut.fm Minidisco im Urlaub - 128 - Germany - children - disco - minidisco - urlaubsradio",
+    "url": "https://sothitsradio.stream.laut.fm/sothitsradio?t302=2025-09-10_19-59-07&uuid=42ce706e-f30e-4a32-a9e5-55a389d546d4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ONE FM 91.3 - Real Music",
+    "url": "http://22243.live.streamtheworld.com/ONE_FM_913AAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Horizonte Goshen Indiana",
+    "url": "http://streaming.radio.co:80/sdd2d36b0f/listen",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Masjid e Umer",
+    "url": "http://titan.shoutca.st:8150/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Wellenflug",
+    "url": "http://176.9.148.80:8075/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Aliens Radio",
+    "url": "http://listen.radionomy.com/aliens-radio?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Planet Pootwaddle",
+    "url": "http://ppw.streamguys1.com/sgplayer-aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "High School Radio Project - East Kentwood High School",
+    "url": "https://das-edge13-live365-dal02.cdnstream.com/a23234",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Art - Piano Jazz",
+    "url": "https://onlineradiobox.com/json/gr/artpianojazz/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CLI - TONIC - TERAMO - Loc Garrufo - Radio In Store",
+    "url": "https://stream.rcast.net/239412",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tropirumba_89.7_FM",
+    "url": "https://serverstreamgroup.biz:2020/stream/9736/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "102.3 WSUS",
+    "url": "https://stream.revma.ihrhls.com/zc1377",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "rbb INFOradio (mp3-low) - 64 - Germany -",
+    "url": "http://f141.rndfnk.com/ard/rbb/inforadio/live/mp3/48/stream.mp3?cid=01FC1WYDPN76K6HSCD8QCR9D3S&sid=32WQ7NrOJGw0302ZQ0jNvLWg5pV&token=RHTz2ZjRxdEAJtB_V6HPAHFdBYxPF43EfSJ67cUF-eo&tvf=dLP2LzcXZBhmMTQxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Art - For Work",
+    "url": "http://air-tunein.radioart.com/fFor_work.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Best Song By Xux Albanuxx",
+    "url": "http://listen.radionomy.com:80/best-song-by-xux-albanuxx",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NMRadio",
+    "url": "https://onlineradiobox.com/json/dk/nmradio/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LRADIO-BALTIJA-LIVE",
+    "url": "http://listen.radionomy.com:80/LRADIO-BALTIJA-LIVE",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "fantasyradio laut.fm",
+    "url": "http://fantasyradio.stream.laut.fm/fantasyradio?ref=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "sound of good",
+    "url": "http://sound-of-good.stream.laut.fm/sound-of-good",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KANALI20 107,5",
+    "url": "https://free.rcast.net/209596",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Palermo Essen",
+    "url": "http://167.172.62.28/radio/8000/radio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LA RADIO DU CINEMA",
+    "url": "https://www.radioking.com/play/la-radio-du-cinema/432805",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "102.3 The Wave",
+    "url": "http://icy.jpbgdigital.com/CKWV.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Today's Office Mix Radio",
+    "url": "http://ais-edge147-dal03.cdnstream.com:80/1697_64?fromyp=true",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Venloosch",
+    "url": "https://stream.laut.fm/radiovenloosch?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "External_Service",
+    "url": "https://whmsonic.radio.gov.pk:7006/stream/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Nadzieja – Warsaw – Masovian Voivodeship – PL",
+    "url": "https://stream2.technologicznie.net/radio_nadzieja.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CAPITAL FM UG",
+    "url": "http://capitalfm.cloudrad.io/stream?n=624d6500c9e1ef1148e7",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Ankerherz",
+    "url": "https://stream.pcradio.ru/anker_herz-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "PRAYz.FM",
+    "url": "https://free.rcast.net/62337",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "underground-records",
+    "url": "https://stream.laut.fm/underground-records?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tinder Radio - Hot Hits بث حي",
+    "url": "https://streaming.exclusive.radio/er/chart/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "0nlineradio COUNTRY",
+    "url": "http://0nlineradio.stream42.radiohost.de/0r-country?ref=vtuner&upd-meta=0&upd-scheme=http&_art=dD0xNzU3MTE3MDE5JmQ9MGIzODU1OWU5Zjc0YzBhMzU4ZWM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "laut.fm Soundmania - 128 - Germany - blues - blues rock - classic rock - crossover - rock",
+    "url": "http://soundmania.stream.laut.fm/soundmania?t302=2025-09-10_20-51-00&uuid=8494b9fc-436a-4952-8086-dcfcb60932f2",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio FFW Dance",
+    "url": "https://radio-ffw-dance.stream.laut.fm/radio-ffw-dance",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Spirit Live Radio",
+    "url": "http://streamplus5.leonex.de:22830/62353146728128195",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Texas Thunder Radio 99.9",
+    "url": "http://ice5.securenetsystems.net/KYKM?playSessionID=841F2D0A-CC31-67C7-5D9E1363BE46F90E",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "I LOVE MUSIC & CHILL",
+    "url": "https://ilm.stream35.radiohost.de/ilm_ilovemusicandchill_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mjc1NDQzJmQ9YjViYjU5OWRiOGY1Y2Y0NDI3ZTk",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radio B2",
+    "url": "http://b2.stream05.radiohost.de/b2-schlagerradio-bb_mp3-192?ar-distributor=f0c2&upd-meta&upd-scheme=http&ref=f0c2&amsparams=f0c2&_art=dD0xNzU4MzI0MDk5JmQ9OGQwMjk0N2RkYTBkNGUxMWE4YTg",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Epic Lounge - Shisha Lounge",
+    "url": "https://0nlineradio.stream13.radiohost.de/lounge-shisha-lounge?upd-meta=0&upd-scheme=https&_art=dD0xNzU2OTMwNDc0JmQ9OWUxMjQxZDViN2EwMjE0ZjgxNDI",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hindsight Media Radio 103.5 FM",
+    "url": "http://das-edge15-live365-dal02.cdnstream.com/a04749",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Jovem Pan FM Radio",
+    "url": "http://ip2.paineldj5.com.br:8546/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Emme 2",
+    "url": "http://nr8.newradio.it:9602/stream?n=fb1382a8e557f6ac7342",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Heart South Hams",
+    "url": "http://media-sov.musicradio.com:80/HeartSouthHams",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rockland Radio - Trier",
+    "url": "https://radio21.streamabc.net/radio21-rrtrier-mp3-128-8439591?sABC=68opo97o%230%23722rsp326n6o0q50346215r0p895q6r0%23enqvbqr&aw_0_1st.playerid=radiode&amsparams=playerid:radiode;skey:1757198715",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rainwave All",
+    "url": "https://relay.rainwave.cc/all.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "fullmoon",
+    "url": "https://fullmoon.stream.laut.fm/fullmoon?t302=2025-09-19_16-32-19&uuid=fd2b8cb1-4443-4635-86a8-cfb1ea68ba5d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Smooth Dorset - 128 - The United Kingdom Of Great Britain And Northern Ireland -",
+    "url": "http://media-ice.musicradio.com/SmoothDorsetMP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KXPR Capital Public Radio Music – 88.9 FM – Sacramento – US-CA",
+    "url": "https://22963.live.streamtheworld.com/KXPR_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Natal",
+    "url": "https://onlineradiobox.com/json/br/natal32/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Klubrádió - Zebrádió",
+    "url": "https://stream.zebradio.hu:8443/zebradio?n=2489c0aad0990fe32a7e",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Energy Stuttgart",
+    "url": "http://edge16.streamonkey.net/energy-stuttgart/stream/aacp?n=287fdff92cfd58ed6320",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "W.A.V.A. A.M.",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WAVAAM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTYxMjY3Mzc3MiwiaXNzIjoidGlzcnYifQ.uC03kMjCSRoTZ8npVHiluCW2_TCH4qm6OPIbsBm3dMc",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Club Classic Radio",
+    "url": "http://listen.radionomy.com:80/ClubClassicRadio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "rheinenews",
+    "url": "https://stream.appradiofm.com/stream?url=http://stream.laut.fm/rheinenews",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Extra Gold",
+    "url": "http://server-67.stream-server.nl:8080/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "OUI FM Rock&#x27;n&#x27;Food Radio",
+    "url": "https://ouifmrocknfood.ice.infomaniak.ch/ouifmrocknfood.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "France",
+    "url": "https://free.rcast.net/231343",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "DGT-Sender",
+    "url": "https://stream.appradiofm.com/stream?url=http://dgt-sender.stream.laut.fm/dgt-sender",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "crazymusic",
+    "url": "https://free.rcast.net/3711",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RTL Schlagerliebe",
+    "url": "https://rtlberlin.streamabc.net/rtlb-schlagerliebe-mp3-192-3577731",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1Live DJ Session",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F444yxcg&upd-meta=0&upd-scheme=https&_art=dD0xNzU3NDc2ODI0JmQ9Njk4MTI1ZTc2N2Q3NWVjMmY5NDc",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WBON La Fiesta 98.5 West Hampton, NY",
+    "url": "https://provisioning.streamtheworld.com/pls/WBONFMAAC.pls?n=03603734d2e731bb733f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "90sGroove",
+    "url": "http://listen.radionomy.com:80/90sgroove",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Deja'Vu Music From The 80's Dance Club",
+    "url": "http://listen.radionomy.com:80/Deja-VuMusicFromThe80-sDanceClub",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "IPUC Radio",
+    "url": "https://onlineradiobox.com/json/co/ipuc/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioArt - Orchestral",
+    "url": "https://free.rcast.net/235804",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Bochum - Oldies",
+    "url": "http://rnrw.cast.addradio.de/rnrw-0140/deinoldieradio/mp3/high/stream.mp3?n=f04baeb8845ef7b2d007",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Maria Lesotho",
+    "url": "http://dreamsiteradiocp5.com:8038/stream.mp3/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "One FM 91.3",
+    "url": "http://28153.live.streamtheworld.com/ONE_FM_913AAC.aac?dist=liveonlineradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Euro·Folk·Radio",
+    "url": "https://onlineradiobox.com/json/us/eurofolk/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EMANDUSO",
+    "url": "https://stream.rcast.net/209848",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Big R Radio - R&ampampB",
+    "url": "https://onlineradiobox.com/json/us/bigbrnb/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Radio Top FM - Toulon 88.6 MHz",
+    "url": "https://ice.creacast.com/top_fm",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Quincy, MA Police, Fire",
+    "url": "http://broadcastify.cdnstream1.com/37531",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio_Capicua_Villa_María",
+    "url": "http://sonicpanel.hostradios.com:8752/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Q101",
+    "url": "https://live.amperwave.net/manifest/mississippibroadcasters-wjdqfmaac-ibc1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Melbourne Middle East Radio 87.6 FM",
+    "url": "https://ahmesobh.radioca.st/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Home Improvement USA",
+    "url": "https://onlineradiobox.com/json/us/homeimprovementusa/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "my105 Dj Radio",
+    "url": "http://my105.stream16.radiohost.de/my105-djradio_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzYyNTM3NzY4JmQ9YmUzYWE5NmJiYjBmY2M0NjFiOTk",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RTS FM",
+    "url": "https://sc.creacast.com/rts-sete",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "100% NL Carnaval",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WEB05_MP3_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "GONZO FM",
+    "url": "http://listen.radionomy.com:80/GONZOFM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NDR Info (Hamburg)",
+    "url": "https://icecast.ndr.de/ndr/ndrinfo/hamburg/mp3/128/stream.mp3?aggregator=radiolisten-de",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WNBF News Radio 1290 AM - Binghamton, New York",
+    "url": "https://live.amperwave.net/direct/townsquare-wnbfammp3-ibc3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Salsa Mania",
+    "url": "https://free.rcast.net/60446",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RDL Radio",
+    "url": "http://radiobruaysis.ice.infomaniak.ch/radiobruaysis-64.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Radio Alex - Zakopane 105.2 FM",
+    "url": "http://proxima.shoutca.st:9045/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Alukah - Al-Adab wa Al-Turath Al-Araby Channel",
+    "url": "https://radio.alukah.net/aladab",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": ".113FM Lovers Lane",
+    "url": "http://113fm.cdnstream1.com:80/1738_128?fromyp=true",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Troostradio.nl",
+    "url": "http://stream.laut.fm/troostradio.m3u?n=758c3936f339d5cb92de",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Melody",
+    "url": "https://chmedia.streamabc.net/79-rm-mp3-192-7754268?sABC=68pn0psq%230%23r19p0prp1920547onn9r1713160s0o7o%23bayvarenqvbobk&aw_0_1st.playerid=onlineradiobox&amsparams=playerid:onlineradiobox;skey:1758072061",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Jam Pro Trendy Soft",
+    "url": "http://listen.radionomy.com/JamPRO-TrendySoft?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Breeze 105 Radio",
+    "url": "http://streaming.radionomy.com/Breeze105",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SWR4 Friedrichshafen",
+    "url": "https://addrad.io/4WRLS5",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "bigFM 2010er Radio",
+    "url": "https://audiotainment-sw.streamabc.net/atsw-2010er-mp3-128-5449855?sABC=69364n6q%230%23prp1o6srnp3q7o758pro841ns7p6n52o%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765165677",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Schlager Radio Andrea Berg",
+    "url": "https://b2.stream19.radiohost.de/b2-schlagerradio-andreaberg_mp3-192?ar-distributor=f0d1&upd-meta&upd-scheme=https&ref=f0d1&amsparams=f0d1&_art=dD0xNzY1MTYyMTQxJmQ9MTI4NGFiYjkyOGEzZTRkZTExMTQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Klassik Radio - Pure Mozart",
+    "url": "http://stream.klassikradio.de/mozart/mp3-128/vtuner/?n=7e396a1e5e43272cff4c",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Happy Days Radio Germany",
+    "url": "http://happydaysradio.stream.laut.fm/happydaysradio?t302=2025-09-10_23-45-25&uuid=24809b99-34e6-4dbe-95a8-4c21dbea07c3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ KKBB Groove 99.3 FM - Bakersfield, California",
+    "url": "https://live.amperwave.net/direct/alphacorporate-kkbbfmmp3-ibc4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Bolivariana",
+    "url": "http://131.0.136.54:7620/test.mp3/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "a_passing_feeling",
+    "url": "http://stream.laut.fm/a_passing_feeling",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WBFA FM 98.3 The Beat",
+    "url": "http://stream.dar.fm/5582",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Gaydio",
+    "url": "http://stream.gaydio.co.uk/gaydiouk.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Wild Country 99 Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KZPKAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Earthbeat Radio",
+    "url": "https://stream.appradiofm.com/stream?url=http://listen.radionomy.com/earthbeat",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Labs FM laut.fm",
+    "url": "http://labsfm.stream.laut.fm/labsfm?ref=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "89.7 Bay Radio",
+    "url": "https://stream.pcradio.ru/bay_897_malta-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "neofm",
+    "url": "https://neofm.stream.laut.fm/neofm?ref=radiode&t302=2025-09-07_20-08-58&uuid=acb52fa0-bfac-4bfd-a316-99fc552a1bf2",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "96.9 Zoo FM Radio",
+    "url": "https://live.amperwave.net/direct/townsquare-kgglhd2mp3-ibc3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenne NRW - 90er Hits Radio",
+    "url": "https://radiogroup.stream31.radiohost.de/radiogroup-90er_aac-48?ref=aacp&upd-meta&upd-scheme=https&amsparams=aacp&_art=dD0xNzY1MTU3MjY2JmQ9YTg5ODMwYzFhNGNhZTkwYzQyMTY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "nofate",
+    "url": "http://nofate.stream.laut.fm/nofate?t302=2025-09-09_00-42-57&uuid=6f84ad88-5774-4621-96ae-00864fec972a",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Berliner Rundfunk 100% Deutsch Live",
+    "url": "https://topradio.stream05.radiohost.de/brf-100prozent-deutsch_mp3-128?agend=true&upd-meta=0&upd-scheme=https&_art=dD0xNzU2NTk0ODU3JmQ9ZTJmNzYzZjFhODU5MDMyZWIwMjA",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Tournesol",
+    "url": "http://listen.radionomy.com:80/RadioTournesol",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Esperanza 991",
+    "url": "https://free.rcast.net/209834",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WITL Today's Best Country 100.7 FM - Lansing, Michigan",
+    "url": "https://live.amperwave.net/direct/townsquare-witlfmmp3-ibc3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MDR 1 Radio Sachsen",
+    "url": "http://f111.rndfnk.com/ard/mdr/284280/0/mp3/128/stream.mp3?cid=01FBQ0F0AJ001ZZ0Z41R5EM1DX&sid=32wFN0y6c1uoJWNL1dvmgAeVVbi&token=OLBeMuonElyiTXu9EiPnsj7gYynvTIb92xECyLq0iCg&tvf=pg9FC7jlZhhmMTExLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Void",
+    "url": "https://thevoidrad.io/stream320",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Shaiva Lahari Radio",
+    "url": "http://18093.live.streamtheworld.com/SP_R2925215_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Alpha Classic - Classic Hits from Brazil",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/89BRASILAAC.aac?dist=site-alphaclassics",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Digital Impulse - Best Dance '90s",
+    "url": "https://free.rcast.net/40",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Limfjord Mix",
+    "url": "https://onlineradiobox.com/json/dk/limfjordplus/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Présence",
+    "url": "http://live.radiopresence.com/radio-presence",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Oldies Station",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KOFXFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "XHPO Buenísima",
+    "url": "https://ss1.audiorama.com.mx:6606/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Lunar Horse Radio",
+    "url": "https://lunarhorse.stream.laut.fm/lunarhorse?t302=2025-12-08_01-48-00&uuid=972138e9-019a-46ee-9dc3-254e8a94cd82",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Delta International",
+    "url": "http://s6.mediastreaming.it:9098/listen.pls?n=57e1d760158a6c4bee99",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "РАДИО ULTRA",
+    "url": "http://nashe1.hostingradio.ru/ultra-128.mp3?n=c0297699ef2a200048dd",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "PARTY VIBE RADIO Pop",
+    "url": "http://94.130.242.5:8024/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio antèn Ayisyen International – Apache Junction – US-AZ",
+    "url": "https://usa4.fastcast4u.com/proxy/gyvoidvl?mp=/1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EPIC CLASSICAL - Classical Meditation",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?ref=radiofm&upd-meta&upd-scheme=https&_art=dD0xNzU4NjQ2MDkzJmQ9MDJiODdlZTgyZTEzYjFkOWNlMzM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Pain Dealers Radio",
+    "url": "https://free.rcast.net/16677",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Zwei",
+    "url": "http://5.9.16.111:8490/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SomaFM: Folk Forward",
+    "url": "http://ice1.somafm.com/folkfwd-128-mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Noise FM",
+    "url": "http://play.sas-media.ru/play?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ANTENNE PFALZ 94.2",
+    "url": "https://radiogroup.stream32.radiohost.de/antenne-pfalz_mp3-192?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mjc3MzAxJmQ9MTlhY2YyMTc5OWM1ZDhhYWI0ODQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Torino International diretta",
+    "url": "http://stream15.top-ix.org/radiotorinointernational",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Memory Radio",
+    "url": "http://listen.radionomy.com/memory-belgie?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Montoro",
+    "url": "https://onlineradiobox.com/json/es/radiomontoro/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Biker Hart Radio -",
+    "url": "https://edge.iono.fm/xice/158_medium.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WRAS 88.5 Album 88 Atlanta, GA",
+    "url": "http://playerservices.streamtheworld.com/pls/WRASFM.pls?n=94a5ef350e6050549ed4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Atlantica Oldies",
+    "url": "https://onlineradiobox.com/json/fr/atlanticafold/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenne Mainz Radio",
+    "url": "https://antennemainz.stream15.radiohost.de/antennemainz-live_mp3-192?ar-distributor=ffa0&upd-meta&upd-scheme=https&ref=ffa0&amsparams=ffa0&_art=dD0xNzY1MTYyNzc1JmQ9MjQ2YzZjMDgwOWVjMTkwY2YxNjY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sportpaleis FM",
+    "url": "https://stream.rcast.net/205823",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NIRS",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIRSAAC128_SC?dist=triton-widget\\u0026pname=tdwidgets",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WWW.RADIOAPOLLON1242.AM MW KHZ",
+    "url": "https://free.rcast.net/255801",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "La Ranchera 890 AM",
+    "url": "https://14933.live.streamtheworld.com/KVMXAMAAC_SC?dist=triton-web&pname=StandardPlayerV4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Exclusively Nat King Cole",
+    "url": "https://streaming.exclusive.radio/er/natkingcole/icecast.audio?_=1407335635",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Simantro_Sani_Cove",
+    "url": "http://radio.anim8.gr:1490/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ROVA - Pink Radio",
+    "url": "https://27163.live.streamtheworld.com/PINKMIXTAPE_S01AAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Max 99 Radio",
+    "url": "https://live.amperwave.net/manifest/telesouth-wymxfmaac-imc1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Eins - 128 - Germany - adult contemporary - alternative - ard - information - pop - public radio - rbb - rock - talk",
+    "url": "http://f111.rndfnk.com/ard/rbb/radioeins/live/mp3/128/stream.mp3?cid=01FC1WH12KJ93TCQPDSE2E5PZ9&sid=32WfTkZd3c1AvYdqA0qnP2MkFRE&token=FoVvwFnUyYalqIJ1H6vQb14t7q-HuQsOFy5f2BSdARA&tvf=vr8soBseZBhmMTExLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Canaã FM",
+    "url": "https://stm2.matutos.com.br:9218/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio FM Music (Caivano)",
+    "url": "http://nr9.newradio.it:9362/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Classical Station",
+    "url": "https://stream.rcast.net/239180",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Радио Звезда",
+    "url": "http://icecast-zvezda.mediacdn.ru/radio/zvezda/zvezda_128",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "tuneup",
+    "url": "http://tuneup.stream.laut.fm/tuneup",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Art - Country",
+    "url": "https://onlineradiobox.com/json/gr/artcountry/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HR 2",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/PROGRAM2.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hirschmilch Psytrance Live",
+    "url": "http://hirschmilch.de:7000/psytrance.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ABCD Michael Jackson",
+    "url": "http://listen.radionomy.com/ABCD-Michael-Jackson",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ONLY REGGAE",
+    "url": "http://listen.radionomy.com/only-reggae",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Brazuca Flash",
+    "url": "https://stream.appradiofm.com/stream?url=http://s6.stmxp.net:8237/stream?1707395338569",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WDHA-FM 105.5 – 105.5 FM – Dover – US-NJ",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WDHAFMAACIHR_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Acuario Estéreo",
+    "url": "https://26673.live.streamtheworld.com/ACUARIO.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "La Cima FM 99.7 – 99.7 FM – Ciudad Mendoza – MX-VER",
+    "url": "http://streaming01.shockmedia.com.ar:9254/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenne Bayern Chillout",
+    "url": "https://mp3channels.webradio.antenne.de/chillout",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "101.9 KINK FM",
+    "url": "https://live.amperwave.net/direct/alphacorporate-kinkfmaac-ibc4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KIIS 1065 - Sydney - 106.5 FM (MP3)",
+    "url": "http://23193.live.streamtheworld.com/ARN_KIIS1065.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Beautiful Sounds - 128 - Germany -",
+    "url": "http://beautifulsounds.stream.laut.fm/beautifulsounds?t302=2025-09-10_20-50-19&uuid=0981b983-dcac-40f3-b4ac-897921155877",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radiorheinland",
+    "url": "https://stream.appradiofm.com/stream?url=http://stream.laut.fm/radiorheinland",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NewsTalk 770 AM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WVNNAM.mp3?dist=onlineradiobox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ART RADIO",
+    "url": "https://free.rcast.net/213523",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MEXICA RADIO",
+    "url": "http://cast.zuperdns.net:8020/stream.nsv",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "邵阳经济广播",
+    "url": "http://lhttp.qingting.fm/live/20500058/64k.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Musichitz Radio Pop กำลังเล่นสด",
+    "url": "http://112.121.150.133:8122/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Uselinks Radio",
+    "url": "http://uselinks.stream.laut.fm/uselinks?pl=m3u&#038t302=2021-01-16_15-24-28&#038uuid=cb2b1737-d5bf-49b5-8e0e-09d956a09093",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "QUB",
+    "url": "http://playerservices.streamtheworld.com/pls/QUB_RADIO.pls?n=74efbd5f59b796dade79",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WFGF 92.1 \"The Frog\"  Wapakoneta, OH",
+    "url": "http://crystalout.surfernetwork.com:8001/WFGF-FM_MP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "My Favorite Artist Head Phones",
+    "url": "https://securestreams7.autopo.st/?uri=http://s8.voscast.com:9856/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Zion Radio",
+    "url": "https://free.rcast.net/258308",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RauteMusik Happy Hardcore",
+    "url": "https://rautemusik-de-hz-fal-stream17.radiohost.de/happyhardcore?ref=radiotrucker",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "GUARIDA RADIO",
+    "url": "https://free.rcast.net/251752",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "96FM - Perth - 96.1 FM AAC",
+    "url": "http://28803.live.streamtheworld.com/ARN_96FMAAC.aac?n=7e5ba0fb158d547ba016",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Mega Radio London",
+    "url": "http://s10.voscast.com:10348/stream1671012953744/1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SER Penedès–Garraf Radio",
+    "url": "https://19993.live.streamtheworld.com/SER_PENEDES_GARRAF_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "181.FM - Kickin Country",
+    "url": "https://www.181.fm/stream/pls/181-kickincountry.pls?n=9128df6a237dacd8c432",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WCLK 91.9 HD2",
+    "url": "https://20603.live.streamtheworld.com/WCLKHD2.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Latinos FM Australia",
+    "url": "https://colombiawebs.com.co/proxy/latinosf?mp=/stream&1680019085449",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "United FM EU",
+    "url": "http://stream.laut.fm/united",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio RadeRadoste",
+    "url": "https://stream.pcradio.ru/rad_rardostru-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Epic Lounge - DINNER LOUNGE",
+    "url": "https://0nlineradio.stream13.radiohost.de/lounge-dinner-lounge?upd-meta&upd-scheme=https&_art=dD0xNzU4NzUyMDA1JmQ9ODBjNzc1N2M2MmJjY2IwZDk2NmU",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Calm Radio – Solo Piano",
+    "url": "http://streams.calmradio.com/api/67/128/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tejanotymes.com",
+    "url": "https://eu10.fastcast4u.com:14175/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Up Beet",
+    "url": "http://listen.radionomy.com:80/TheUpBeet",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Herne 90acht",
+    "url": "http://edge13.streamonkey.net/wf-radioherne?aggregator=Radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Arabian Love بث حي",
+    "url": "http://s9.yesstreaming.net:7036/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LIFE 100.3",
+    "url": "https://free.rcast.net/242556",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Aire Libre musica continua",
+    "url": "http://listen.radionomy.com:80/aire-libre-musica-continua",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Laut.FM Smokespace",
+    "url": "http://smokespace.stream.laut.fm/smokespace?t302=2025-08-30_22-51-39&uuid=8026d95f-9f7b-4a95-b57c-c63a33da7e01",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "011.FM - The 60s",
+    "url": "https://listen.011fm.com/2647_192.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rock FM",
+    "url": "http://solid33.streamupsolutions.com:32010/autodj",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hit100.9",
+    "url": "https://legacy.scahw.com.au/7ttt_32",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Inner FM 96.5 – 96.5 FM – Sydney – AU-NSW",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/3NRAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Ton Baden Württemberg",
+    "url": "http://radioton.stream24.radiohost.de/radioton-bw_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzU4MDU1MjU0JmQ9YWQzNjcxMTU0Nzc2NGFiNWVhMGE",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Prun`",
+    "url": "http://diffusion.lafrap.fr:8000/streamprun",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Zwickau 90er XXL – Zwickau – Saxony – DE",
+    "url": "https://edge68.radio.radiozwickau.de/radiozwickau-90er?aggregator=redirect",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Ryan's radio",
+    "url": "http://listen.radionomy.com:80/Ryan-sradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Louisa County Fire and EMS",
+    "url": "https://broadcastify.cdnstream1.com/2588?dist=theonestopradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sveriges Radio - P4 Sjuhärad",
+    "url": "https://sverigesradio.se/topsy/direkt/206-hi-mp3.m3u?n=f7befe36681689219cf6",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WNRN 91.9 FM - Charlottesville, Virginia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WNRNFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "24-7 Pop Party",
+    "url": "https://securestreams7.autopo.st/?uri=http://antares.dribbcast.com:4412/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenna Web vola in Vaticano Radio",
+    "url": "https://tinyurl.com/AntennaWebvaticano",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WRFM - Witney",
+    "url": "https://wrfmradio.radioca.st/live",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "DIMusic Russian Club (Русская волна)",
+    "url": "https://stream.appradiofm.com/stream?url=http://ru2.volna.top/RuWave48",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Nova 93.5",
+    "url": "http://nrf1.newradio.it:9872/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "94.3 WYBC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WYBCFM_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RauteMusik Country - 192 - Germany - country",
+    "url": "http://rautemusik.stream25.radiohost.de/country?upd-meta&upd-scheme=http&_art=dD0xNzU3NTMzMjI2JmQ9ZDVhMzdjMjQ2ZWRhZDYxY2UyMzg",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "#Playlist Electro House",
+    "url": "http://listen.radionomy.com:80/-PlaylistElectroHouse",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio RST",
+    "url": "https://www.surfmusik.de/m3u/radio-rst,11137.m3u?n=d8edec654d8a52f14517",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BR24live",
+    "url": "http://dispatcher.rndfnk.com/br/br24live/live/mp3/mid?aggregator=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ZakRadio.Net",
+    "url": "https://zakradiosicilia.radioca.st/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio WRRM Warm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WRRMFMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Soundwave Radio South Africa",
+    "url": "http://109.228.50.159:8012/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WJR 760 Detroit, MI",
+    "url": "https://provisioning.streamtheworld.com/pls/WJRAMAAC.pls?n=37b10dc286b828378df1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radiowilderkaiser",
+    "url": "https://radiowilderkaiser.stream.laut.fm/radiowilderkaiser?ref=radiode&t302=2025-09-07_18-19-04&uuid=f20204cc-2fbd-4901-8e1d-7dbc9b493c38",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Spotlight  Radio-105 FM",
+    "url": "https://s4.radio.co/s76dc39863/listen?n=33b4a7d80def90014bdf",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Totally Radio Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_HITS_S01AAC_SC?dist=streamitter",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Limbang FM",
+    "url": "http://22283.live.streamtheworld.com/LIMBANG.mp3?n=56f3dd9598df7a5ef669",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "hotXhits",
+    "url": "https://stream.laut.fm/hotxhits",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HITRADIO RTL - 90er Listen live",
+    "url": "https://edge60.radio.hitradio-rtl.de/hrrtl-90er?aggregator=redirect",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "99fm Radio 1",
+    "url": "https://stream.radiojar.com/t0x7dyqmsuhvv?1668086647",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "I Music",
+    "url": "http://streaming.radionomy.com/IMusic",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Texas Tech Public Radio - KTTZ-FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTTZHD1.mp3?uuid=6yphas9l7",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Catholic_Radio",
+    "url": "https://www.streamcontrol.net:8444/s/14060/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "0R_christmas",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-christmas?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzA5OTkxJmQ9Y2FhZWVkY2ZkOWRjZjNiYzhlNzU",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ KUWY 88.5 FM - Classical Wyoming",
+    "url": "http://wyoming-public-ice.streamguys1.com/CLS128MP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WXKL",
+    "url": "https://stream.appradiofm.com/stream?url=http://crystalout.surfernetwork.com:8001/WXKL-AM_MP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Los 40 San Sebastián Radio",
+    "url": "https://25493.live.streamtheworld.com/LOS40_SAN_SEBASTIANAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Freestyle",
+    "url": "https://stream.laut.fm/radio-freestyle?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "0nlineradio QUEER",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-queer?ref=radiode&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mjc2NjM0JmQ9MzE3YjdmYWQ4MzY5ZTdmOWQzZTk",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Steel City Beats",
+    "url": "https://das-edge09-live365-dal03.cdnstream.com/a68156",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Heart Oxfordshire 102.6 & 97.4 - 128 - The United Kingdom Of Great Britain And Northern Ireland - commercial - hot adult contemporary",
+    "url": "http://media-sov.musicradio.com/HeartOxfordshireMP3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Alternatif radio jakarta",
+    "url": "https://void.idserverhost.com/8016/stream?n=16d0283e12949cf6e01a",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "VVC Radio Black Comedy",
+    "url": "http://listen.radionomy.com/blackcomedyradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KRDO-FM",
+    "url": "http://ice9.securenetsystems.net/KRDOM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "urbainradiowebradio",
+    "url": "http://listen.radionomy.com:80/urbainradiowebradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Virgin Radio Anthems",
+    "url": "https://tx.sharp-stream.com/icecast.php?i=nationscotland.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "House Static",
+    "url": "http://listen.radionomy.com:80/HouseStatic",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Italia Dance Music",
+    "url": "http://sr2.inmystream.info:8032/stream2/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioBit - 80s & 90s Best Golden Hits",
+    "url": "http://radiobit.stream.laut.fm/radiobit?t302=2020-04-22_14-43-11&uuid=b7766168-9fa6-4eb7-8a8b-5ccc18ce1195",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Mountainside FM",
+    "url": "https://free.rcast.net/242337",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "DLF aktuelle Presseschau - 0 - Denmark - internationale presseschau - lokale presseschau - nachrichten",
+    "url": "http://regiocast.streamabc.net/regc-boblivenational-mp3-192-4076554?sABC=68p1q613%230%23781o8qo1qnnp5oros5r6o8p876335p33%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757533715",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Radio Złote Przeboje - Warszawa 100,1 FM",
+    "url": "https://radiostream.pl/tuba8936-1.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio 21 - landesweit DAB",
+    "url": "https://streams.radio21.de/dab/mp3-192/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Felgueiras FM",
+    "url": "http://centova.radios.pt:8459/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "fullmoon",
+    "url": "https://fullmoon.stream.laut.fm/fullmoon?ref=radiode&t302=2025-09-07_17-48-47&uuid=51d1d3fa-84cd-4897-98fc-4e631745dd8b",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Bivman Christian Radio 3",
+    "url": "https://free.rcast.net/206527",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Korna_FM",
+    "url": "http://korna-rocks.stream.laut.fm/korna-rocks?t302=2025-09-24_15-28-45&uuid=cf80df5c-74af-4c0b-b4f9-2f67009f5a43",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Spoon Radio - Modern Rock",
+    "url": "https://spoonradiomodernrock.ice.infomaniak.ch/spoon-modernrock-hd.aac?n=1b8c2c0511dcc0605470",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Cherie Pop Radio",
+    "url": "https://streaming.nrjaudio.fm/ouo6c87nfibk?",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "96.3 Red - New Music",
+    "url": "http://stream.radiojar.com/rednewmusic",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1000 Webradios – 1000 Disco Hits",
+    "url": "http://1000discohits.stream.laut.fm/1000discohits?t302=2025-09-19_16-58-02&uuid=87d5c3d4-ba55-4687-8bdf-fd1c3f75089d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Caldas FM",
+    "url": "http://radiocaldasfm.dnip.com.br:8850/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KTXK 91.5 FM",
+    "url": "https://ktxkweb.texarkanacollege.edu:8443/;?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Imagine",
+    "url": "http://imagine.net-radio.fr/imagine-48.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "i love radio - popstars - 192 - Germany - hits - iloveradio - pop - pop dance - popstars",
+    "url": "http://ilm.stream18.radiohost.de/ilm_ilovenewpop_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzU3NTQxNDY2JmQ9ZWJhY2Q4ODhmOGVmNTZhNTBlNTY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Schizoid Progressive Psy Radio",
+    "url": "https://stream.pcradio.ru/schizoid_progpsy-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Throwback_105.3",
+    "url": "https://stream.revma.ihrhls.com/zc8752?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImxhdCI6IjQxLjg4NzQiLCJsb25nIjoiLTg3LjYzMTgiLCJpYXQiOjE3Mjk3OTY0OTUsImlzcyI6InRpc3J2In0.eEF4-f_SQp8i1C8gJg2XggVxoth7JAw_mSCcz83KJHE",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "181.fm The Beat",
+    "url": "http://listen.livestreamingservice.com/181-beat_64k.aac?n=126f6c527e7517295eb5",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KEAG FM",
+    "url": "https://live.amperwave.net/direct/alphacorporate-keagfmaac-imc4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ventrox-fm",
+    "url": "https://ventrox-fm.stream.laut.fm/ventrox-fm?ref=radiode&t302=2025-09-07_20-10-18&uuid=5e8b8082-16b8-4259-a8c6-334ccdcadb0f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "deutschrap TRAP",
+    "url": "http://deutscherrap.stream.laut.fm/deutscherrap?t302=2025-09-24_23-13-48&uuid=a14b28dd-08b9-44e5-9df3-17ffd9bd0e30",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Dresden - TopHits",
+    "url": "http://web.radio.radiodresden.de/radiodresden-tophits/stream/aacp?aggregator=icecastdirectory",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "** Cold Cash Radio **",
+    "url": "http://149.56.157.81:8782/stream/stream/1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Estação_FM_103.1",
+    "url": "https://r17.ciclano.io/proxy/radiogau/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioAmor1Fm",
+    "url": "https://mx.hdaudiostreaming.com:7005/stream?icy=http",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "City Funk Radio",
+    "url": "https://streamingV2.shoutcast.com/CITY-FUNK-RADIO",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Reverb 97.2 FM",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=radioreverb.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "squaws-dance-saloon",
+    "url": "https://stream.laut.fm/squaws-dance-saloon?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Parliament 92.6 FM",
+    "url": "http://s2.yesstreaming.net:7091/stream?1663583418569",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "kaleidoskop.rocks - AutoDJ - 320 - Germany - country - folk - international - jazz - klassik - was dir gefällt / whatever you like!!! - oldies - pop - rock - schlager",
+    "url": "https://kaleidoskop.spcast.eu/stream?time=1757536872",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Volksmusikpur Radio",
+    "url": "https://stream.pcradio.ru/volksmusikpur_radio-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CRN - Cloud Rap/Trillwave",
+    "url": "http://213.141.131.10:8000/cloudrap?n=b1e5b333db947522b57e",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AceRadio.Net - The Hard Rock Channel",
+    "url": "https://onlineradiobox.com/json/us/acenetthehardrock/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "rockshandy",
+    "url": "http://stream.laut.fm/rockshandy",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "202 Live - The Chillout Lounge",
+    "url": "http://relay.181.fm:8700/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Dance Radio EDT 24 horas",
+    "url": "http://51.222.25.255:8080/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Technolovers TROPICAL HOUSE",
+    "url": "https://0nlineradio.stream13.radiohost.de/technolovers-tropical-house?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU4NzUzMjc0JmQ9MjcwODFkZmY3NTk0MDAzZTg3ZDQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "93 - 6 JAM FM Charts - 0 -  -",
+    "url": "http://rtlberlin.streamabc.net/rtlb-jamfmcharts-mp3-192-5594520?sABC=68p1qrr9%230%2363017013pn7p8p8qqs4163nns2490p01%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757535977",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ruhrpottradio",
+    "url": "http://stream.laut.fm/ruhrpottradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Energy Berlin",
+    "url": "https://edge16.streamonkey.net/energy-berlin/stream/mp3?aggregator=mytuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Oak Grove Fire and Rescue Radio",
+    "url": "https://broadcastify.cdnstream1.com/17510",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Pi Radio - Freies Radio in Berlin 192kbps",
+    "url": "http://ice.rosebud-media.de:8000/88vier?n=ab9f62f9dfe055dab953",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hall of Music 2 - 128 - Germany - rock",
+    "url": "http://hallofmusic2.stream.laut.fm/hallofmusic2?t302=2025-09-10_19-30-52&uuid=2d0a7c3a-15e7-4d02-942e-030edca5eed8",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Francês FM Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FRANCESFM_MACAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Su Majestad El Bolero en vivo",
+    "url": "https://conectperu.com/8366/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WXXI Classical 91.5",
+    "url": "https://stream.appradiofm.com/stream?url=http://playerservices.streamtheworld.com/api/livestream-redirect/WXXIFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Aporee",
+    "url": "http://radio.aporee.org:8000/aporee_high",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sveriges Radio P4 Väst",
+    "url": "http://http-live.sr.se/p4vast-aac-96",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Blago",
+    "url": "http://live.radioblago.ru/live-1.mp3?n=186ae8ffabc690f22ee8",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioFeelMusic",
+    "url": "http://listen.radionomy.com:80/RadioFeelMusic",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Retro Country 890",
+    "url": "https://free.rcast.net/261250",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Play FM",
+    "url": "http://66.96.237.109:8000",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Company Fitness",
+    "url": "https://sphera.fluidstream.eu/companyfitness.mp3?FLID=8",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Greer Police",
+    "url": "http://broadcastify.cdnstream1.com/17099",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Zoe 315",
+    "url": "https://onlineradiobox.com/json/us/zoe315/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Khqn",
+    "url": "http://us4.internet-radio.com:8009/live",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radiothamil HD 105.9",
+    "url": "https://streamingv2.shoutcast.com/radiothamil-hd-1059",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Best Radio 92.6",
+    "url": "http://netradio.live24.gr/best1222?n=1b574a626491ddae9608",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Kriola",
+    "url": "http://kriola.stream.laut.fm/kriola?n=7edd35ddea7513bfb1de&t302=2025-08-31_07-58-02&uuid=6c1f7b04-fb26-4763-8706-a660f48bb7a8",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Postive Radio",
+    "url": "https://stream.laut.fm/positiveradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rokantenne",
+    "url": "https://s2-webradio.rockantenne.de/classic-perlen/stream/mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Abacus FM Baroque",
+    "url": "http://listen.radionomy.com/AbacusfmBaroque",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Stereo Sound",
+    "url": "http://51.255.235.165:5901/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SOL FM",
+    "url": "http://stric6.streamakaci.com/solfm64.mp3?n=d35784febb0ef5da126b",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LaMiaBCN",
+    "url": "https://onlineradiobox.com/json/es/lamiabcn/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Радио Беинса Дуно",
+    "url": "https://onlineradiobox.com/json/bg/beinsaduno/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Back Road Country",
+    "url": "http://listen.011fm.com/stream09",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ KNUS News Talk 710 AM - Denver, Colorado",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KNUSAM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Lighthouse laut.fm",
+    "url": "http://lighthouse.stream.laut.fm/lighthouse?ref=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "R.SA Beatles [64 kbps] - 0 - Germany - beatles - oldies",
+    "url": "http://streams.rsa-sachsen.de/rsa-beatles/aac-64/mediaplayerrsa",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KCNW 1380",
+    "url": "http://stream.dar.fm/158951",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KBRF Good Neighbor Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KBRFAMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "181.FM - Christmas Gospel",
+    "url": "https://www.181.fm/stream/pls/181-xgospel.pls?n=8ae96645c8698b7cc850",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WDR COSMO - fem:power",
+    "url": "http://d111.rndfnk.com/ard/wdr/cosmo/trap/mp3/128/stream.mp3?aggregator=onlineradiobox-com&cid=01FC1V9Z3QB8RFCDGM17PW8FGQ&sid=32o7OqST4Vs83TtEpyOqVoP8dK1&token=AwdLszVOwbXXGb6lHPxE2LUbCl0c-mdD5UDTuQWBSvg&tvf=zMC4i5QDZhhkMTExLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LOUNGE-RADIO.COM - swiss made",
+    "url": "http://fr1.streamhosting.ch:80/lounge128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Arrow Bluesbox Radio",
+    "url": "https://22713.live.streamtheworld.com/ARROWBLUESBOX.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "VIPradio One at the 90s",
+    "url": "https://free.rcast.net/12220",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CALM RADIO - Wagner",
+    "url": "http://streams.calmradio.com:11428/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ESPN 97.5 Houston Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KFNCFMAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Autoroute INFO - Programme Sud",
+    "url": "https://free.rcast.net/234412",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "VIVA 96.1 FM",
+    "url": "http://acp2.lorini.net:38050/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Shadow Soul Radio",
+    "url": "https://das-edge09-live365-dal03.cdnstream.com/a38844",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sunny Radio",
+    "url": "http://listen.radionomy.com/sunny-radio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Mvo-OFF",
+    "url": "https://mvo-off.stream.laut.fm/mvo-off?t302=2020-04-07_13-14-58&ampuuid=f09f0a06-8a6b-4a14-adba-e032610ef48d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Fajn Radio – Fajn Radio Agara",
+    "url": "http://ice.abradio.cz/fajnagara128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Zew",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a10165",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Baku Retro FM",
+    "url": "https://onlineradiobox.com/json/az/bakuretrofm/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Gong 96.3 München - Wiesn Hits",
+    "url": "http://radiogong--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiogong/channel03/mp3/high?n=ff5933ba97edad797123&_art=dj0yJmlwPTIwLjEwOS45NS4xNjEmaWQ9aWNzY3hsLTVlNGhnZTZqYiZ0PTE3NTY3MTM5MDQmcz03ODY2ZjI5YyNlZmRmZTg1YTA5ZDk3N2Q2M2IyNDA4NzFmYzdlYTY5NQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "The Internet Radio Podcast",
+    "url": "http://streaming.radio.co:80/s09fa9e3f7/low",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Ón Berlin",
+    "url": "http://radioon.out.airtime.pro:8000/radioon_a?n=758fddfecd1dcfb700ee",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio UFSCar - Escute Diferente",
+    "url": "https://free.rcast.net/241740",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Studio E",
+    "url": "http://paineldj4.com.br:8044/stream?type=.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Freestyle.FM",
+    "url": "https://das-edge11-live365-dal03.cdnstream.com/a78603",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radiostorm.com: Classic Rock",
+    "url": "https://ais-sa5.cdnstream1.com/b47785_128mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Chill Out Zone Italy",
+    "url": "http://chilloutzone.stream.laut.fm/chilloutzone?t302=2025-09-17_18-20-39&uuid=d2074eb8-abab-4a55-9ec5-c7546813168c",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WTUL",
+    "url": "http://stream.dar.fm/5238",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1968",
+    "url": "https://streaming.ticktock.radio/tt-app/1968/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1LIVE -- https",
+    "url": "https://f131.rndfnk.com/ard/wdr/1live/live/mp3/128/stream.mp3?cid=01FBRZTS1K1TCD4KA2YZ1ND8X3&sid=322qhDNndzeTAzyBBaEOCPbjgem&token=CkyLHicu-_yGfQI5rAGW_CBubbI4yqhDW892OHe-XBw&tvf=UHmPmojgYBhmMTMxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Life Radio 80er",
+    "url": "https://stream.liferadio.at/80er/aac-64/tunein/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Life FM Radio",
+    "url": "https://https.nvradios.com/radio/9496/radio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "I LOVE DEUTSCHRAP BESTE",
+    "url": "https://ilm.stream12.radiohost.de/ilm_ilovedeutschrapbeste_mp3-192?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MTk5Mjk0JmQ9NTBkYTQwZGY4YWFmZjMwYWM4MWY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Fox Club Radio",
+    "url": "https://fox-club-radio.stream.laut.fm/fox-club-radio?ref=radiode&t302=2025-09-07_17-45-33&uuid=e0c6abfd-927b-4562-93c5-96b1e382e220",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Trancetechnique UK Radio - Finest Trance Music 24.7",
+    "url": "http://s11.ssl-stream.com:8034/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KDUBFM",
+    "url": "http://listen.radionomy.com:80/KDUBFM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RauteMusik K-POP",
+    "url": "https://rautemusik.stream37.radiohost.de/main?ref=radiobrowser&upd-meta&upd-scheme=https&_art=dD0xNzU4NzU3MTk5JmQ9ZWMxMzI4YjM1ODU5ZjI4YjRmMjY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Irola Irratia",
+    "url": "http://s.streampunk.cc/irola_irratia.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "TOPzen",
+    "url": "https://27863.live.streamtheworld.com/TOPZEN.mp3?dist=liveonlineradionet",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Eva Radio Amersfoort",
+    "url": "http://stream.mediagroep-eva.nl:8001/radio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio 100.7 FM",
+    "url": "https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/live/mp3/128/stream.mp3?_art=dj0yJmlwPTY4LjIyMC41OC4yNDImaWQ9aWNzY3hsLWxvdW53dDNsYiZ0PTE3NTczMTg2MDUmcz03ODY2ZjI5YyNkNDc0MTQzYWFmNzY2MTliYWRlN2NlZjFiNGRmMzdkZA",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio 85",
+    "url": "http://onair15.xdevel.com:8342/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BR schlager",
+    "url": "https://d121.rndfnk.com/ard/br/brschlager/live/mp3/128/stream.mp3?cid=01FBPW18Y814PT3GVEXAZVSP1P&sid=321iaQLp3U4eDhPNyM8RschMRZ2&token=xbuYCBe8bhqW2fYE8BneSvoRbUzhDNiqJstIxvJPt4I&tvf=3caAzBLBYBhkMTIxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Aloha Joe&#039;s Ukulele Island",
+    "url": "http://s3.voscast.com:8662/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Kult",
+    "url": "https://online.radio.moe/listen/radiokult/radiokult.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Радио Гомель FM",
+    "url": "https://stream2.datacenter.by/gomelfm",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ERTU - Radio Shabab   (إذاعة الشباب والرياضة) بث حي",
+    "url": "https://livestreaming.addonline.net/LiveRadio/index.php/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "La Costeñísima",
+    "url": "http://198.50.238.178:5042/stream/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KMCO FM 101.3",
+    "url": "http://ice6.securenetsystems.net/KMCO?n=f47a78aba8984d0dd296",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EPIC Classical - Classical Meditation",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?upd-meta=0&upd-scheme=https&_art=dD0xNzU2NjIzMzAyJmQ9MzcyNTY5ZDE4ODBjMTI4ZjZkNDI",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Siegen",
+    "url": "http://stream.lokalradio.nrw/444z557",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Totally Radio",
+    "url": "http://direct.sharp-stream.com/totallyradio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ROCK ANTENNE Österreich",
+    "url": "http://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3?aw_0_1st.playerid=vTuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Die Antenne",
+    "url": "https://onlineradiobox.com/json/it/antennefeldgatterweg/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HITRADIO RT1 NORDSCHWABEN",
+    "url": "https://edge81.streamonkey.net/rt1-ch03/stream/mp3?aggregator=radio.de&aw_0_1st.playerid=radio.de",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio WAF 96.3 FM",
+    "url": "http://radiowaf--di--nacs-ais-lgc--07--cdn.cast.addradio.de/radiowaf/live/mp3/high?_art=dj0yJmlwPTIwLjEwOS45NS4xNjAmaWQ9aWNzY3hsLWRuNGZhc2ltYiZ0PTE3NTcyMTI5MjYmcz03ODY2ZjI5YyM4YjAwYzNmODhiNWYzOWVlOGE2NTk3NmY3MzFkMzE5MQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Musica degli anni '80",
+    "url": "http://listen.radionomy.com/Musica-degli-anni--80",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "POWERHITZ.COM - Sensational 70's (70's Hits)",
+    "url": "https://stream.rcast.net/219388",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Futurock FM",
+    "url": "http://mdstrm.com/audio/5d9d019112cbbb45d6a50960/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "R.SA  Rockzirkus Radio",
+    "url": "https://rsa.streamabc.net/regc-rsasachsenrockzirkus8440598-mp3-128-3072380?sABC=69360735%230%23ors2198n4764qroo13n158r96rq33824%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1765148469",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "107.5 KISS FM KKDM",
+    "url": "http://stream.revma.ihrhls.com/zc2740",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Los 40 Principales Panamá",
+    "url": "https://provisioning.streamtheworld.com/pls/LOS40_PAN.pls?n=2d9fb9da7d18c64efa1d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rumbera Nariño 90.9 FM Radio",
+    "url": "https://stream.integracionvirtual.com/proxy/rumbera?mp=%2Fstream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Irie Zaya Reggae Radio Station",
+    "url": "http://listen.radionomy.com/iriezayareggaeradiostation",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EPIC CLASSICAL - Classical Meditation",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?upd-meta&upd-scheme=https&_art=dD0xNzU4NzUyNzQ0JmQ9NTk3YTc0ZGMxNWY3ZDY0MjljYTg",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Miku Hatsune vocaloid radio",
+    "url": "https://free.rcast.net/235292",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio La Voz de su Amigo",
+    "url": "https://free.rcast.net/245315",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BBM FM gamelan community radio",
+    "url": "https://strw3.openstream.co/823?aw_0_1st.collectionid%3D3614%26stationId%3D3614%26publisherId%3D847%26k%3D1757565940",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Schwany 1 Volksmusik und Schlager",
+    "url": "https://volkstuemlich.spcast.eu/stream?time=1757318940",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AFN 360 Guantanamo Bay",
+    "url": "https://afn-cms.s3.amazonaws.com/Geoblock+message+AFN+GO.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Star",
+    "url": "https://streamingv2.shoutcast.com/star102",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Радіо Інді.UA",
+    "url": "http://online.radioplayer.ua/RadioIndieUA",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "7RPH Print Radio Tasmania",
+    "url": "http://165.228.181.146:88/broadwave.mp3?src=1&rate=1?n=ed235d57a9cef25fcf9f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KUNV Jazz & More",
+    "url": "http://kunv.oit.unlv.edu:8000/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "DholCutz Bhangra Radio",
+    "url": "https://server1.dholcutzradio.com/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Afrobeat / Afrobeats - Radio Caprice",
+    "url": "http://79.120.39.202:8000/afrobeat?n=d6d088cf31853bfe71a5",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioHollandOnline",
+    "url": "https://mediaserv68.live-streams.nl:18062/aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Conectados Radio  - Panamá",
+    "url": "https://streaming.intermediacolombia.com:8065/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "MeissenDancefox",
+    "url": "http://meissendancefox.stream.laut.fm/meissendancefox?t302=2025-09-19_19-44-23&uuid=2dfcede0-c03f-429b-8722-b927c722505e",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SomaFM: ThistleRadio",
+    "url": "http://ice5.somafm.com/thistle-64-aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BR Heimat",
+    "url": "https://d121.rndfnk.com/ard/br/brheimat/live/mp3/128/stream.mp3?cid=01FBPW5XTRJ0FFP4F76DH8GA5N&sid=32KuUxPhShvxwIPXlbBtRaQIdqb&token=sy25gl7m4t0FTfBpQd0aYkygy767wJeGwKcuKd9dJtg&tvf=3vr7CwHXYhhkMTIxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Herford",
+    "url": "https://www.radioherford.de/worx/mobile/stream.m3u?n=aedf48ffcbd0d7b9a0da",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NDR 2 Soundcheck Live",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRGHD&upd-meta=0&upd-scheme=https&_art=dD0xNzU3MjA2MDg5JmQ9ZmFkOTg2OGUwN2I0M2Q4M2JlOWQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Default Stream",
+    "url": "http://s4.voscast.com:9368/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Kress Fire Rescue",
+    "url": "https://broadcastify.cdnstream1.com/19699?dist=theonestopradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "LETI Radio Digital",
+    "url": "https://das-edge15-live365-dal02.cdnstream.com/a81338",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Estereo Sula",
+    "url": "https://onlineradiobox.com/json/hn/estereosula/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Marca (Barcelona) - 89.1 FM",
+    "url": "http://radio.radiomarcabarcelona.com:9000/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "delta radio deutsch - 0 - Germany - deutsche lieder",
+    "url": "http://deltaradio.streamabc.net/regc-deltadeutsch-mp3-192-9837589?sABC=68p1q33s%230%23781o8qo1qnnp5oros5r6o8p876335p33%23zrqvncynlre&aw_0_1st.playerid=mediaplayer&amsparams=playerid:mediaplayer;skey:1757532991",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RS2 94.3 Radio",
+    "url": "https://stream.pcradio.ru/rs2_943-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Stylus",
+    "url": "https://securestreams7.autopo.st/?uri=http://protostar.shoutca.st:8074/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Instrumental Radio",
+    "url": "http://144.76.219.22:8599/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "France Bleu Roussillon",
+    "url": "http://icecast.radiofrance.fr/fbroussillon-midfi.mp3?n=577498cf4ad160b12b6b",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Die neue - 107.7 FM",
+    "url": "https://dieneue1077.stream14.radiohost.de/dieneue1077-besterrockundpop_mp3-192?addradio&upd-meta&upd-scheme=https&_art=dD0xNzU4NjQyNTcyJmQ9NjBkYjE1ZDI3YWFhYWNjMTI1MWQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CKBL 92.9 The Bull Saskatoon, SK",
+    "url": "https://provisioning.streamtheworld.com/pls/CKBLFMAAC.pls?n=851cd37c28aa00029a43",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Comgames von laut.fm",
+    "url": "http://comgamesreloaded.stream.laut.fm/comgames_reloaded?t302=2025-09-06_00-33-35&uuid=d83f6725-8b0b-4cf9-b9ad-fc7f72ce685f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Wavebreaker Radio",
+    "url": "https://wavebreaker.stream.laut.fm/wavebreaker?t302=2025-12-07_21-11-45&uuid=485c2fc9-825b-45c6-9473-cd16f48ee165",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Ghost Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM12AAC064_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NORA Oldie Party",
+    "url": "http://streams.norawebstreams.de/oldieparty/mp3-128/homepage/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RADIONL Editie Landelijk",
+    "url": "http://stream.radionl.fm/radionl?ref=L1St3N",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Lechtal",
+    "url": "https://stream.laut.fm/lechtal?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WLFR Lake Fred Radio 91.7 FM - Pomona, New Jersey",
+    "url": "https://ais-sa2.cdnstream1.com/2320_64.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EPIC CLASSICAL - Classical Christmas",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-christmas?upd-meta&upd-scheme=https&_art=dD0xNzU4NzUyNTQyJmQ9NzQ2NmIwY2Y5MzJkZDZjYTkyOWQ",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RRI Pro 2 - Semarang Radio",
+    "url": "https://stream-node0.rri.co.id/streaming/16/9016/rrisemarangpro2.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SWR4 Heilbronn",
+    "url": "https://f141.rndfnk.com/ard/swr/swr4/hn/aac/96/stream.aac?aggregator=radio-de&cid=01FC1X9J4S1523ZJNX04FGGDSB&sid=32NlfaYzNZCoUrnCA1QRbK63BWR&token=iJuJIhOgG7_UIOGVUEixGC2IFoeGBtKulteLrwzDegs&tvf=blp97IAmYxhmMTQxLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Caracol Radio - Medellín 90.3 FM y 750 AM",
+    "url": "https://27613.live.streamtheworld.com/CR_MEDELLINAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Anime 24",
+    "url": "https://onlineradiobox.com/json/pl/radioanime24/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "94.3 rs2",
+    "url": "https://stream.rs2.de/rs2/mp3-128",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KPRS Hot 103 Jamz",
+    "url": "https://17803.live.streamtheworld.com/KPRSFMAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Oh Subs Tapes",
+    "url": "https://oh-subs-tapes.stream.laut.fm/oh-subs-tapes?t302=2025-11-07_16-06-53&uuid=e3983513-8430-421a-a55b-3497d5da30a7",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ANTENNE BAYERN Workout Hits",
+    "url": "https://stream.antenne.de/workout-hits?aw_0_1st.playerid=MyTuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Laluna Radio",
+    "url": "http://stream.m-1.fm/laluna/mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "107.5 JAMZ",
+    "url": "http://ais-edge113-pit01.cdnstream.com:80/1972_64",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Cadena SER - Radio Vigo",
+    "url": "https://21223.live.streamtheworld.com/SER_ASO_VIGO.mp3?n=ffbd64886bcf582e3d88",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Noel Gallagher",
+    "url": "https://streaming.exclusive.radio/er-app/noelgallagher/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WUNK Southern Soul Radio Listen live",
+    "url": "https://streamingV2.shoutcast.com/WUNKSouthernSoulBluesRadio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Playradio(2.0)",
+    "url": "http://radio.helikon.bg:9000/live_64",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RADIO ALEX FM DENL",
+    "url": "https://radioalexfm.stream.laut.fm/radioalexfm?t302=2025-09-15_20-04-52&uuid=abbfb4a3-cad5-43ca-bb73-38d8490298ea",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "1LIVE DJ Session",
+    "url": "https://wdr-1live-djsession.icecast.wdr.de/wdr/1live/djsession/mp3/128/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "TopFM Nyiregyhaza",
+    "url": "https://s02.diazol.hu:10012/live",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenna Web Milano Radio",
+    "url": "https://tinyurl.com/Radio-SANCARLO",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Udaloe radio 104,1 FM (Nizhneudinsk)",
+    "url": "https://stream.pcradio.ru/rad_udnizh-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Landeswelle Thüringen - Schlagerwelle",
+    "url": "http://landeswelle-de-hz-fal-stream06-cluster01.radiohost.de/lwsw_mp3-192",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Onda Libera",
+    "url": "http://s6.mediastreaming.it:9064/stream?n=0c969c9194ae3cc6546d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hoppa Radio",
+    "url": "https://free.rcast.net/240521",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Sauerland - Singer Songwriter",
+    "url": "https://stream.lokalradio.nrw/44566r3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Kiss FM - (Electronic)",
+    "url": "https://topradio.stream31.radiohost.de/kissfm-electronik-lounge_aac-64?agend=true&upd-meta=0&upd-scheme=https&ref=radioplayer&amsparams=radioplayer&_art=dD0xNzU3NDQ2NDIxJmQ9MWUxNTM0YzlkNWJhOTliY2JkMGY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Parma",
+    "url": "https://ice15.fluidstream.net/radioparma.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AD Noticias",
+    "url": "https://stream.integracionvirtual.com/proxy/adnoticias?mp=/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Worship Experience Radio",
+    "url": "https://free.rcast.net/204634",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "94,3 rs2 relax",
+    "url": "http://topradio.stream02.radiohost.de/rs2-relax_mp3-128?agend=true&upd-meta&upd-scheme=http&ref=internetradio&amsparams=internetradio&_art=dD0xNzU4NzU2MDA5JmQ9YjhkODQwMDdhOGYzZjFhN2ZjNGM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radiorebellfest",
+    "url": "http://radiorebellfest.stream.laut.fm/radiorebellfest",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KVGQ 106.9 The Q",
+    "url": "https://27163.live.streamtheworld.com/KVGQFMAAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Casteddu on line radio",
+    "url": "https://free.rcast.net/66356",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ARAdio",
+    "url": "https://myradio24.org/103703",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Kniteforce Radio",
+    "url": "https://kniteforce.out.airtime.pro/kniteforce_a?n=75bfb094007fa35ac52c",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Clamor Urgente",
+    "url": "https://centova3.transmissaodigital.com:20002/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BFBS Radio 1 Gibraltar",
+    "url": "http://icy-e-01.sharp-stream.com:80/ssvcbfbs7.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "安岳人民广播电台",
+    "url": "http://lhttp.qingting.fm/live/5022417/64k.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Best of 2021",
+    "url": "https://stream.laut.fm/bestof2021?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radiovenalaluz",
+    "url": "http://listen.radionomy.com:80/radiovenalaluz",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Gus Fonk Radio",
+    "url": "https://stream.pcradio.ru/rad_gusphnk-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Isle of Wight Radio",
+    "url": "http://s2.xrad.io:8018/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rock Maribor",
+    "url": "http://live.rockmaribor.si/RockMB?n=bec557c8fedbf34f23b3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tropicalisima Baladas",
+    "url": "http://tropicalisima.org:8016/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Zecom - The Choice",
+    "url": "https://free.rcast.net/248104",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Weihnachten_mit_ANTENNE_BAYERN_-_Weihnachts_Hits",
+    "url": "http://s6-webradio.antenne.de/weihnachts-hits/stream/aacp?aw_0_1st.playerid=tunein.com",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "113fm Elevator",
+    "url": "http://stream.dar.fm/141310",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Vitoriosa AM 930",
+    "url": "https://onlineradiobox.com/json/br/vitoriosa930/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "HR Radio Rijeka",
+    "url": "https://27743.live.streamtheworld.com/RIJEKA.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Urban Events Radio",
+    "url": "https://listen.radioking.com/radio/287371/stream/333454",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Vlaanderen Nationaal",
+    "url": "http://ams-pioneer02.dedicateware.com:1250/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Panamericana",
+    "url": "https://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/6598b62dded1380470f4e539",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Ostseewelle HIT-RADIO",
+    "url": "https://ostseewelle--di--nacs-ais-lgc--01--cdn.cast.addradio.de/ostseewelle/nord/mp3/high",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sud Radio",
+    "url": "https://sc.creacast.com/sudradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Classical 90.9 WSCS",
+    "url": "http://natrix.sugarrivermedia.com:8000/wscs?us_privacy=1YNY",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BFBS Germany",
+    "url": "http://www.surfmusik.de/m3u/bfbs-germany,14440.m3u?n=1951d43b9b43af3a966f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Universo Volga Radio en vivo",
+    "url": "https://sonic.host-live.com/8314/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio VLR Horsens Classic direkte",
+    "url": "https://webradio.vlr.dk/classichorsens",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "PlastikMekka",
+    "url": "https://plastikmekka.stream.laut.fm/plastikmekka?t302=2025-09-17_03-38-14&uuid=85e82e51-5aa7-436e-bfcd-1a090fe36453",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WDEZ 101.9 FM – 101.9 FM – Wausau – US-WI",
+    "url": "https://14123.live.streamtheworld.com/WDEZFMAAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Verbier Chill Progressive",
+    "url": "http://listen.radionomy.com:80/RadioVerbierChillProgressive",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Balla Balla",
+    "url": "https://ice09.fluidstream.net/ballaballa.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenne_Vorarlberg_Partymix",
+    "url": "https://edge80.radio.antennevorarlberg.at/av-partymix?aggregator=tunein",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Ostseewelle HIT-RADIO Mecklenburg-Vorpommern",
+    "url": "http://addrad.io/4454pgs",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Tekno1",
+    "url": "https://free.rcast.net/15437",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "kpee reagnb",
+    "url": "http://kpee-reagnb.stream.laut.fm/kpee-reagnb",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Voce nel Deserto – IT-PN",
+    "url": "http://94.23.66.155/proxy/costella?mp=/stream&1593240596954",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ Радио Вести FM - Петрозаводск 98.0 МГц",
+    "url": "https://radio.tv-karelia.ru/vestifmkarelia.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Zion France",
+    "url": "http://radio.zionsound.fr:8000/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Génération 80’s – Caen – Normandy – FR",
+    "url": "https://www.radioking.com/play/generation-80s/522383",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Soulrockers",
+    "url": "http://stream.laut.fm/soulrockers",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ XHETF Trión 106.1 FM - Veracruz, Veracruz",
+    "url": "https://stream.radiojar.com/a5qpu2en3p8uv",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NRK P1 Hedmark og Oppland Radio",
+    "url": "https://lyd.nrk.no/nrk_radio_p1_hedmark_og_oppland_mp3_m",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Wizzys Tanztempel",
+    "url": "https://wizzys-tanztempel.stream.laut.fm/wizzys-tanztempel?ref=radiode&t302=2025-09-07_20-21-42&uuid=a9475964-4157-4c6f-849a-e01ba95f6bc3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WDR 3",
+    "url": "http://0nlineradio.stream42.radiohost.de/0r-trending-charts?ref=tiny&path=addrad.io%2F4WRNzQ&upd-meta&upd-scheme=http&_art=dD0xNzU4MzAwNjQxJmQ9ZTk5ZGVkNmMzNDdhZDE1MmQ5NjI",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Crazycranch 1",
+    "url": "https://stream.laut.fm/crazycranch1?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Al-Saut Al-Arabi",
+    "url": "http://addrad.io/4WRMS9",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Atividade Sertaneja FM",
+    "url": "https://paineldj5.com.br:20077/stream?1734418002994",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Centrum",
+    "url": "http://streaming.inten.pl:8888/rcfm.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WQHT 97.1-HD2 La Buena - Nueva York",
+    "url": "https://27063.live.streamtheworld.com/WQHTHD2AAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Our Jukebox",
+    "url": "https://streamingV2.shoutcast.com/Our-Jukebox",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "538 VERRUCKTE STUNDEN",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21.mp3?dist=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "EPIC CLASSICAL - Classical Meditation",
+    "url": "https://0nlineradio.stream13.radiohost.de/classical-classical-meditation?ref=radiofm&upd-meta=0&upd-scheme=https&_art=dD0xNzU3Mzk5MzY2JmQ9ZmI2MGIyNzBjZDkyN2Q3NjUwOTI",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Mocha Radio",
+    "url": "https://stream.rcast.net/15513",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "rautemusik",
+    "url": "http://house-aacp.rautemusik.fm",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "World Buddhist Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM11AAC025.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Köln - Dein 90er Radio",
+    "url": "http://stream.lokalradio.nrw/444zk9d",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio RPP Noticias",
+    "url": "https://mdstrm.com/audio/5fab3416b5f9ef165cfab6e9/icecast.audio?n=2aa6dda308255c866deb",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio eXtra86",
+    "url": "http://192.99.41.102:5036/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NDR 2 (Hamburg)",
+    "url": "http://icecast.ndr.de/ndr/ndr2/hamburg/mp3/128/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioDoCarlitos",
+    "url": "https://ssl.stmxp.net:7252/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NoLiesRadio.org",
+    "url": "http://stream.dar.fm/86971",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Flash80' Radio",
+    "url": "http://manager7.streamradio.fr:1980/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radio-kunterbunt",
+    "url": "https://radio-kunterbunt.stream.laut.fm/radio-kunterbunt?ref=radiode&t302=2025-09-07_18-07-22&uuid=89fffb6e-c793-4960-9619-00dff55d8f81",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "La Poderosa del Huila",
+    "url": "http://51.15.160.78:8244/laestacion/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WKNL 100.9 K HITS New London, CT",
+    "url": "http://playerservices.streamtheworld.com/m3u/WKNLFMAAC.m3u?n=bbf79580d13df848cbac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Arabella München",
+    "url": "http://edge13.stream.radioarabella.de/radioarabella-muenchen/stream/mp3?ref=radioarabella.de&aggregator=RDs24_rs26_stream24_net",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "95Q",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDZQFM_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "0R_schlager_oldies",
+    "url": "https://0nlineradio.stream13.radiohost.de/0r-schlager-oldies?upd-meta=0&upd-scheme=https&_art=dD0xNzU3MzE5MjQ4JmQ9MDBlOTcwYzE3M2MxMjU3NjNjOTc",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radioup - Time Blender",
+    "url": "https://onlineradiobox.com/json/us/radioupblender/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Best Oldies Radio (BOR)",
+    "url": "https://a8.asurahosting.com/listen/best_oldies_radio/radio.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Love Radio Russia",
+    "url": "http://stream2.n340.com/12_love_64_reg_45?type=.aac&UID=82ADECE76DD0B161133D79072DF268F4",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Quicksie 98.3 – WQXE",
+    "url": "http://ice66.securenetsystems.net/WQXE",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CHES Erin Radio 88.1 -",
+    "url": "https://streaming.radio.co/saa34f11f4/listen",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "M2 HIP-HOP",
+    "url": "http://live.m2radio.fr/m2hip-hop-128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Punkratz laut.fm",
+    "url": "http://punkratz.stream.laut.fm/punkratz?ref=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RT1 - Relax Radio",
+    "url": "https://stream.pcradio.ru/rt1_relax-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Grazybeats",
+    "url": "https://grazybeats.stream.laut.fm/grazybeats?t302=2025-09-15_19-55-10&uuid=3fc8b98e-3a0b-4a2f-8b90-38b8e41cdaea",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ROCKLAND.FM",
+    "url": "https://vmg.streamabc.net/117-rocklandfmsimulcast-mp3-192-9345251?sABC=68os23n0%230%238or93po283nrs914440sr5r70sq505pn%23&aw_0_1st.playerid=&amsparams=playerid:;skey:1757356960",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Jovem Pan FM (Santos)",
+    "url": "http://r18.ciclano.io:9906/stream/1/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WKWF Radio 1600 AM/103.3 FM - Key West, Florida",
+    "url": "https://sh.fl-us.audio-stream.com/proxy/rconne02?mp=/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Calidad Musical",
+    "url": "http://listen.radionomy.com:80/RadioCalidadMusical",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Absolut Germany - 128 - Germany -",
+    "url": "https://edge60.live-sm.absolutradio.de/absolut-germany/stream/mp3?aggregator",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ΔΙΑΥΛΟΣ FM 99.2",
+    "url": "https://server.el1.info:37060/stream?n=653f1588ab9cc5992d53",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Unilatina",
+    "url": "https://stream.rcast.net/15051",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Gold Pavia",
+    "url": "http://onair11.xdevel.com:10022/?n=15ff13d206d8203a322f",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "VIBE-IN Radio",
+    "url": "https://das-edge17-live365-dal02.cdnstream.com/a71496_2",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WRCW Radio 2 - Home Of The Old Time Westerns",
+    "url": "http://streaming.live365.com/a75141",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Dark Side Lounge",
+    "url": "http://hearme.fm:9500/autodj?8131",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "my105 Love",
+    "url": "http://my105.stream37.radiohost.de/my105-chill_mp3-192?upd-meta&upd-scheme=http&_art=dD0xNzU4MTY2Mjk5JmQ9MWYzMDgyZjc4MzM5MTY1YTliZGM",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "God's Love Live",
+    "url": "https://free.rcast.net/214060",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "CinéMaRadio Series / TV Shows",
+    "url": "https://streamingv2.shoutcast.com/CineMaRadio-laradioofficielleducinema",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Abe Jamz all the hits from 70s-00s",
+    "url": "http://listen.radionomy.com/radioabejamzallthehitsfrom70s-00s",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Riddim1 Radio",
+    "url": "https://free.rcast.net/13364",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "2001",
+    "url": "https://streaming.ticktock.radio/tt-app/2001/icecast.audio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "DJ utahPablo Streamming Station",
+    "url": "https://free.rcast.net/6280",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "McLeod County, MN Sheriff, Police, Fire, EMS",
+    "url": "http://broadcastify.cdnstream1.com/3053",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Raadio Tallinn",
+    "url": "http://icecast.err.ee/raadiotallinn.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KMAJ-AM 1440 Topeka, KS",
+    "url": "https://provisioning.streamtheworld.com/pls/KMAJAMAAC.pls?n=2d2fb541b3aff257eea3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Chakra Angels radio",
+    "url": "https://kathy.torontocast.com:3035/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Pete 94.3 – KSPI",
+    "url": "http://ice42.securenetsystems.net/KSPI",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Cadena Dial",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CADENADIAL_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "vavoura radio",
+    "url": "http://streaming.radionomy.com/vavoura",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Binchow Music Radio",
+    "url": "http://lhttp.qingting.fm/live/21341/64k.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ROCK - Legends of Rock Radio",
+    "url": "https://27143.live.streamtheworld.com/LEGENDSROCK_S01.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WJCT_News_89.9",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WJCTFM.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTcyOTc5NjU0MSwiaXNzIjoidGlzcnYifQ.iK04l2TLz5yNqx815pUqmvTuYEPgqNENj_iBQjLfQsg",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "X Radio",
+    "url": "https://ip169.ozelip.com/7774/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Jaime Radio 101.9",
+    "url": "http://jaimeradio.ice.infomaniak.ch/jaimeradio-128",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "B5 aktuell",
+    "url": "http://f111.rndfnk.com/ard/br/br24/live/mp3/128/stream.mp3?cid=01FBPVVJDPGF0BJ5TAJ8Z7JSX9&sid=321j24Pb4gc1U1leDSmDvxnxWXu&token=a9iU0XWNwR5Wp6j_ZnlS0rTIx6YJR-K8S9Yowg64q0w&tvf=2c8nDkbBYBhmMTExLnJuZGZuay5jb20",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "la burra",
+    "url": "http://listen.radionomy.com:80/laburra",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Pimp Juice Radio",
+    "url": "http://listen.radionomy.com:80/PimpJuiceRadio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Arabella (Vienna) Radio",
+    "url": "https://stream.pcradio.ru/arabella_vienna-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Texas Public Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KTPRFM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Neptune FM",
+    "url": "http://diffusion.lafrap.fr:8000/neptune.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Jovem Pan Itajaí Camboriú",
+    "url": "http://74.208.116.180:8062/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "JOY512 – Austin – US-TX",
+    "url": "http://das-edge15-live365-dal02.cdnstream.com/a90216",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Soundstadl",
+    "url": "https://radio-soundstadl.stream.laut.fm/radio-soundstadl?ref=radiode&t302=2025-09-07_20-09-21&uuid=a4e1e51d-b635-400f-8a34-64519d5dcbee",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "FeelingFloyd",
+    "url": "http://listen.radionomy.com/FeelingFloyd",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "JTR FM",
+    "url": "http://jtrfm.ddnss.de:8000/stream.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Le monde d'Ida Radio",
+    "url": "http://listen.radionomy.com:80/Lemonded-IdaRadio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WNWN WIN 98.5 Coldwater, MI",
+    "url": "http://provisioning.streamtheworld.com/pls/WNWNFMAAC.pls?n=4a2ec51879cae4e869a1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "GotRadio - Indie Underground - 128 kbit/s",
+    "url": "http://gr02.cdnstream.com:8330",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WRKO",
+    "url": "https://stream.revma.ihrhls.com/zc7750?source=TuneIn",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Heber Springs Fire Radio",
+    "url": "https://broadcastify.cdnstream1.com/15688",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Music Art Club",
+    "url": "https://eu9.fastcast4u.com/proxy/musicart?mp=/1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Olive Retro",
+    "url": "https://14613.live.streamtheworld.com/RADIO_OLIVE_RETRO_S03AAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Litefmrap",
+    "url": "https://stream.laut.fm/litefmrap?ref=radiode",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "COPE Huelva",
+    "url": "https://huelva-copesedes-rrcast.flumotion.com/copesedes/huelva.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio SRF 1",
+    "url": "http://stream.srg-ssr.ch/drs1/aacp_32.m3u?n=73a81f65cd7d68d179e2",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Sunshine Live aac 64 kbps",
+    "url": "http://sunsl.streamabc.net/sunsl-sslsimulcast-aacplus-64-7084240?sABC=68o40p8p%230%23793sq5q12s8pnn4s0sr91510s612q034%23fgernz.fhafuvar-yvir.qr&n=d98b996bd4d4a4b9516c&aw_0_1st.playerid=stream.sunshine-live.de&amsparams=playerid:stream.sunshine-live.de;skey:1756630156",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "89.1 WBCX",
+    "url": "https://22063.live.streamtheworld.com/WBCXFM_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Юлдаш",
+    "url": "http://radio.mediacdn.ru/uldash.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "TheBlaze Radio Network",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BLZE_1AAC_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "BASSE MARCHE FM",
+    "url": "https://streamingv2.shoutcast.com/BASSEMARCHEFM-",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Classic 21 80's (RTBF)",
+    "url": "http://redbeemedia.streamabc.net/redbm-c2180s-mp3-128-4795946?sABC=68oo030p%230%231s25o53q07n135708so3390n7649so34%23ig&aw_0_1st.playerid=vt&amsparams=playerid:vt;skey:1757086476",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Totally Music Radio Online",
+    "url": "https://onlineradiobox.com/json/br/nostalgia90/play?platform=web",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "SinterklaasRadio",
+    "url": "https://free.rcast.net/14425",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Disco",
+    "url": "https://streaming.viphosting.cl/8108/;",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "FM La Otra",
+    "url": "http://144.217.67.108:9242/stream/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Itapuama",
+    "url": "https://free.rcast.net/212495",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Bel RTL 60 FM",
+    "url": "https://belrtl60.ice.infomaniak.ch/belrtl60-128.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WXGI ESPN Richmond",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WXGIAM.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "▶ WUMO-LP 94.5 FM - Montgomery, Alabama",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R2129464.mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Freee",
+    "url": "https://free.rcast.net/256569",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Baden FM Rock Hammer",
+    "url": "https://frontend.streams.baden.fm/badenfm-rockhammer?aggregator=radiolistende",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "NonStopOldies",
+    "url": "https://free.rcast.net/247660",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Glory_Fm",
+    "url": "http://samclient.spacialaudio.com/api/listen?sid=79532",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Mattoli",
+    "url": "https://fps5.listen2myradio.com:2199/listen.php?ip=78.129.139.48\\u0026port=8432\\u0026type=s1",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Radio Tigullio Web",
+    "url": "http://radio-tigullio-web.stream.laut.fm/radio-tigullio-web?ref=vtuner",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Pilot Radio",
+    "url": "https://stream.pcradio.ru/pilot-med",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Globo 989",
+    "url": "https://18073.live.streamtheworld.com/GLOBO_989AAC.aac",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Rádio Brasileiríssima",
+    "url": "https://hts04.brascast.com:10790/live",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WHUM Radio",
+    "url": "https://das-edge10-live365-dal03.cdnstream.com/a79383",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "RadioVoceSpazio (RVS)",
+    "url": "http://nr11.newradio.it:9078/stream",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "katis-oldie-radio",
+    "url": "http://katis-oldie-radio.stream.laut.fm/katis-oldie-radio?t302=2025-09-23_02-25-00&uuid=22164fd8-fafe-428e-82e8-2954916b62c5",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Cambridge 105",
+    "url": "http://stream.cambridge105.fm:443/105-128s-mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "B4B Funky Power",
+    "url": "http://streaming.radionomy.com/B4BDISCOFUNK-HD-",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Antenna Web Ogliastra Radio",
+    "url": "https://sardegna.radioantennaweb.com/Ogliastra",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "AM940 Montreal - CFNV",
+    "url": "http://149.56.234.138:8243/stream/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WRUV",
+    "url": "http://icecast.uvm.edu:8005/wruv_fm_48",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "95.1 FM WJRB – WJRB",
+    "url": "http://ice7.securenetsystems.net/WJRB",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "WMNF 88.5 FM",
+    "url": "http://stream.dar.fm/120735",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Nostalgie extra classics top 2020 live",
+    "url": "https://28933.live.streamtheworld.com/NOSTALGIEWAFEXTRA_SC?dist=radio_belgie",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "radio deklameh",
+    "url": "http://listen.radionomy.com:80/radio-deklameh",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "KBCY 99.7",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KBCYFM_SC",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "ABC Northern Tasmania",
+    "url": "http://live-radio02.mediahubaustralia.com/7LAUW/aac/",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Hotmixradio Baby",
+    "url": "https://streaming.hotmixradio.fr/hotmix-baby-fr-mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Progulus Metal Radio",
+    "url": "http://listen.radionomy.com/progulusmetalradio",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  },
+  {
+    "name": "Absolut Radio AI",
+    "url": "https://edge67.live-sm.absolutradio.de/absolut-ai/stream/mp3",
+    "bitrate": 0,
+    "codec": "unknown",
+    "country": "UNKNOWN"
+  }
+]

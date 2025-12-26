@@ -1,0 +1,149 @@
+[
+  {
+    "name": "Radio Gutt Laun",
+    "url": "https://streams.radio.co/sa631ff66a/listen",
+    "country": "Luxembourg",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "L'Essentiel Radio",
+    "url": "http://lessentielradio.ice.infomaniak.ch/lessentielradio-128.mp3",
+    "country": "Luxembourg",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ELDORADIO - Chill Channel",
+    "url": "http://sc.bce.lu/eldochill",
+    "country": "Luxembourg",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Generation Dance Radio",
+    "url": "http://generationdance.lu/radio/8030/hd",
+    "country": "Luxembourg",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Generation Dance Radio",
+    "url": "http://generationdance.lu/radio/8030/mobile",
+    "country": "Luxembourg",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Opus 100,7",
+    "url": "https://100komma7--di--nacs-ice-01--02--cdn.cast.addradio.de/100komma7/opus/mp3/320/stream.mp3",
+    "country": "Luxembourg",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Radio Letzebuerg",
+    "url": "http://sc-rtllive.newmedia.lu/",
+    "country": "Luxembourg",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eldoradio",
+    "url": "http://81.92.238.33/",
+    "country": "Luxembourg",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Radio - Deutschlands Hit-Radio",
+    "url": "http://stream.rtlradio.de/rtl-de-national/mp3-192/",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Radio - Die besten Hits aller Zeiten",
+    "url": "http://stream.rtlradio.de/rtl-de-beste-hits/mp3-192",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free Radio Luxembourg FRL",
+    "url": "https://www.radioking.com/play/rfm-luxembourg/137599",
+    "country": "Luxembourg",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 100,7",
+    "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/128/stream.mp3",
+    "country": "Luxembourg",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Larochette",
+    "url": "https://servidor14.brlogic.com:8150/live",
+    "country": "Luxembourg",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Schlagerliebe",
+    "url": "http://stream.rtlradio.de/schlagerliebe/mp3-192/",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Die besten Hits aller Zeiten",
+    "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 100komma7",
+    "url": "https://stream.100komma7.lu/100komma7/live/mp3/128/stream.mp3",
+    "country": "Luxembourg",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Gold",
+    "url": "https://shoutcast.rtl.lu/rtlgold",
+    "country": "Luxembourg",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 100komma7",
+    "url": "http://100komma7.cast.addradio.de/100komma7/live/mp3/320/stream.mp3",
+    "country": "Luxembourg",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Braintrip Radio",
+    "url": "https://stream.laut.fm/braintrip-radio",
+    "country": "Luxembourg",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Puls Luxembourg",
+    "url": "https://uk1.listen2myradio.com:2199/listen.php?port=8312&type=s2&mount=/stream",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ELDORADIO - Alternative Channel",
+    "url": "http://sc.bce.lu/eldoalt",
+    "country": "Luxembourg",
+    "bitrate": 256,
+    "codec": "MP3"
+  }
+]

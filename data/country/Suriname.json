@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Radio Shruti",
+    "url": "https://rs.suricloud.com/radio/8000/radio.mp3",
+    "country": "Suriname",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Apintie",
+    "url": "http://surilive.com:8000/str",
+    "country": "Suriname",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio 10 Magic FM",
+    "url": "https://s5.radio.co/s85a633f73/listen",
+    "country": "Suriname",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "MPB Radio Suriname",
+    "url": "https://radiozender.mpbnetwerken.nl/radiosuriname.mp3",
+    "country": "Suriname",
+    "bitrate": 384,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MPB Radio Suriname",
+    "url": "https://radiozender.mpbnetwerken.nl/radiosuriname",
+    "country": "Suriname",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NIO 107.5FM",
+    "url": "https://loa.beheerstream.nl:8060/stream",
+    "country": "Suriname",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Surinet radio",
+    "url": "https://loa.beheerstream.nl:8066/listen.pls?sid=1",
+    "country": "Suriname",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

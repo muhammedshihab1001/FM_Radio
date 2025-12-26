@@ -1,0 +1,226 @@
+[
+  {
+    "name": "Kanal 103",
+    "url": "http://radiostream.neotel.mk/kanal103",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "SamoMK",
+    "url": "http://radiostream.neotel.mk/samomk",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maria Macedonia",
+    "url": "http://dreamsiteradiocp.com:8118/stream",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Time FM Gevgelija",
+    "url": "https://s2.free-shoutcast.com/stream/18058",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio 89.1 Macedonia",
+    "url": "http://liferadio.ddns.net:8000/;",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bum Kumanovo",
+    "url": "http://iandonov.radioca.st/;stream/1",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8020/radio.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bravo Smooth Jazz Mix Radio",
+    "url": "http://server.webnetradio.net:5490/stream?",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Buba Mara 105.2 FM",
+    "url": "http://88.85.99.2/live-128.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antenna 5",
+    "url": "https://fms.off.net.mk:8000/antenna5.stream",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Maestro FM",
+    "url": "https://maestrofm.md/maestro",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fortuna 96.8 FM",
+    "url": "https://radiofortuna.ipradio.mk/;*.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fortuna 96.8 Skopje, Macedonia",
+    "url": "https://radiofortuna.ipradio.mk/;*.mp3%22",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Sky Radio 102.5 FM Macedonia (MP3 128 kbps)",
+    "url": "https://s1.skyradio.com.mk/retro.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Hits Skopje, Macedonia",
+    "url": "https://s1.skyradio.com.mk/hits.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM 91.3 - North Macedonia",
+    "url": "http://213.133.109.18:10004/stream",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Star Folk Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8010/radio.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Energy Radio - Skopje, Macedonia",
+    "url": "http://161.97.114.58:8000/radio.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Club Radio Macedonia",
+    "url": "http://161.97.114.58:8040/radio.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Just Music Radio",
+    "url": "https://radiostream.neotel.mk/justmusicradio",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio",
+    "url": "http://liferadio.ddns.net:8000/",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Meff",
+    "url": "https://s32.myradiostream.com:16040/;?type=http&nocache=1688299470?0.591044522318551",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lider FM 107,4",
+    "url": "https://liderfm.ipradio.mk/",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Urban FM 90.8 Skopje",
+    "url": "https://securestreams4.autopo.st:1668/stream",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz FM",
+    "url": "https://radio.jazzfm.mk/listen/jazzfm/live",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio 102.5 Skopje, Macedonia",
+    "url": "https://s1.skyradio.com.mk/;*.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bubamara 105.2 Skopje, Macedonia",
+    "url": "https://stream.bubamara.com.mk/live",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Samo MK",
+    "url": "https://radiostream.neotel.mk/samomk",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioBar",
+    "url": "https://visual.shoutca.st:8122/stream",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Stereolab",
+    "url": "https://radiostream.neotel.mk/stereolab",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Club Radio - Skopje, Mcedonia",
+    "url": "https://radiomk-portal.com/listen/club_radio_macedonia/radio.mp3",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio 22",
+    "url": "https://radio.server14.kariha.net:8008/",
+    "country": "Republic Of North Macedonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

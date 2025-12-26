@@ -15,10 +15,10 @@
 
   <h2 class="text-center mb-4">🎧 FM Radio</h2>
 
-  <!-- TOP CONTROLS : ONE WRAPPER -->
+  <!-- TOP CONTROLS -->
   <div class="d-flex flex-wrap align-items-center justify-content-between gap-3 mb-4">
 
-    <!-- Left -->
+    <!-- LEFT -->
     <div class="d-flex align-items-center gap-2">
       <button id="backBtn" class="btn btn-outline-light btn-lg d-none">←</button>
 
@@ -27,7 +27,7 @@
       </select>
     </div>
 
-    <!-- Center -->
+    <!-- CENTER -->
     <div class="flex-grow-1 px-md-3">
       <input
         id="searchInput"
@@ -37,7 +37,7 @@
       >
     </div>
 
-    <!-- Right -->
+    <!-- RIGHT -->
     <div>
       <button id="favToggleBtn" class="btn btn-outline-danger btn-lg">
         ❤️ Favorites (<span id="favCount">0</span>)
@@ -46,18 +46,19 @@
 
   </div>
 
+  <!-- AUDIO -->
   <audio id="player"></audio>
 
-  <!-- Stations -->
+  <!-- STATIONS -->
   <div id="stationList" class="row"></div>
 
-  <!-- Empty Favorites -->
+  <!-- EMPTY FAVORITES -->
   <div id="emptyFav" class="text-center my-5 d-none">
     <h5 class="mb-3">No favorite stations yet ❤️</h5>
     <button id="goHomeBtn" class="btn btn-warning">Go Home</button>
   </div>
 
-  <!-- Load More -->
+  <!-- LOAD MORE -->
   <div class="text-center my-4">
     <button id="loadMoreBtn" class="btn btn-outline-warning px-4">
       Load More
@@ -66,9 +67,10 @@
 
 </div>
 
-<button id="scrollTopBtn">⬆</button>
+<!-- SCROLL TOP -->
+<button id="scrollTopBtn" style="z-index: 1100;">⬆</button>
 
-<!-- Info Modal -->
+<!-- INFO MODAL -->
 <div class="modal fade" id="infoModal">
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content bg-dark text-light rounded-4">
@@ -81,10 +83,22 @@
   </div>
 </div>
 
-<!-- Toast -->
+<!-- TOAST (RESTORED) -->
 <div class="toast-container position-fixed bottom-0 end-0 p-3">
   <div id="favToast" class="toast bg-dark text-white">
     <div class="toast-body" id="toastMsg"></div>
+  </div>
+</div>
+
+<!-- MINI PLAYER (NEW, NON-DESTRUCTIVE) -->
+<div id="miniPlayer" class="mini-player d-none">
+  <div class="mini-info">
+    <div id="miniTitle" class="mini-title"></div>
+    <div id="miniCountry" class="mini-country"></div>
+  </div>
+  <div class="mini-controls">
+    <button id="miniFavBtn" class="favorite-btn">♥</button>
+    <button id="miniPlayBtn" class="play-btn">▶</button>
   </div>
 </div>
 

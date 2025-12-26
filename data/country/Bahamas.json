@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Global 99.5 FM",
+    "url": "http://ice64.securenetsystems.net/GLOBALBS",
+    "country": "Bahamas",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "96.9 FM GuardianRadio",
+    "url": "https://radiostreams.streamcomedia.com:8000/969guardianradio",
+    "country": "Bahamas",
+    "bitrate": 82,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Nightwave Plaza MP3 182",
+    "url": "http://radio.plaza.one/mp3",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Friends Forever 128kbps MP3",
+    "url": "https://s5.radio.co/s6140c7241/listen",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Súper Tokio Radio",
+    "url": "https://streamer.radio.co/s83eb8ff39/listen",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shonan Beach FM 78.9",
+    "url": "http://shonanbeachfm.out.airtime.pro:8000/shonanbeachfm_a",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ottava",
+    "url": "http://ottava2.out.airtime.pro:8000/ottava2_a",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WREP",
+    "url": "http://c13.radioboss.fm:8200/stream",
+    "country": "Japan",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Voice of the Planet Ottava",
+    "url": "http://voiceoftheplanet.out.airtime.pro:8000/voiceoftheplanet_a",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nightwave Plaza OPUS 96",
+    "url": "http://radio.plaza.one/opus",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "FM Kahoku 78.7 (FMかほく, JOZZ5AM-FM, 78.7 MHz, Kahoku City, Ishikawa)",
+    "url": "http://radio.kahoku.net:8000/;",
+    "country": "Japan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "羊飼いラジオ(Hitsujikai Radio / Shepherd radio)",
+    "url": "https://streaming.radio.co/se4a8e6a93/low",
+    "country": "Japan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "J-Rock PowerPlay",
+    "url": "https://kathy.torontocast.com:3340/stream",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shonan Beach FM",
+    "url": "http://150.95.174.29:8000/by_the_sea",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BOOTY FM",
+    "url": "http://60.45.66.12:88/bootyfm",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "otohama Coastal Soundscape from The University of Tokyo International Coastal Research Center (Otsuchi, Iwate)",
+    "url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
+    "country": "Japan",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "yamanakako from Fuji Iyashinomori Woodland Study Center, The University of Tokyo Forests (Yamanakako, Yamanashi)",
+    "url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
+    "country": "Japan",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz Sakura",
+    "url": "https://kathy.torontocast.com:3330/;",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gensokyo Radio (Original)",
+    "url": "https://stream.gensokyoradio.net/1",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz Sakura (asia dream radio)",
+    "url": "http://kathy.torontocast.com:3330/stream/1/?esPlayer&cb=82181.mp3",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anime Para Ti",
+    "url": "https://stream.zeno.fm/qpn8mkt8c4duv",
+    "country": "Japan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Listen.Moe JPop Vorbis",
+    "url": "https://listen.moe/stream",
+    "country": "Japan",
+    "bitrate": 256,
+    "codec": "OGG"
+  },
+  {
+    "name": "J1 Gold (HTTP)",
+    "url": "http://jenny.torontocast.com:8062/",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free FM 80 Tokyo",
+    "url": "https://freefm80.radioca.st/",
+    "country": "Japan",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "J1 Hits (HTTP)",
+    "url": "http://jenny.torontocast.com:8056/",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free FM Tokyo",
+    "url": "https://rocafmadrid.radioca.st/stream",
+    "country": "Japan",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "BOX : Japan City Pop - 日本のシティポップ",
+    "url": "https://play.streamafrica.net/japancitypop",
+    "country": "Japan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-POP Powerplay",
+    "url": "https://kathy.torontocast.com:3560/",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Listen.moe J-Pop (MP3)",
+    "url": "https://listen.moe/fallback",
+    "country": "Japan",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Rock Powerplay(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3340/;?shoutcast",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J1 XTRA (HTTP)",
+    "url": "http://jenny.torontocast.com:8058/",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii(asia dream radio)",
+    "url": "https://kathy.torontocast.com:3060/;?shoutcast",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J1 HITS",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=184325",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vaporwave",
+    "url": "http://radio.plaza.one/ogg",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "OnlyHits Japan",
+    "url": "https://j.onlyhit.us/play",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Real Love Music - Radio Future Funk",
+    "url": "https://stream-152.zeno.fm/48533y95cnruv?zs=doyTUcjfTvCVtBOS3nlI8g",
+    "country": "Japan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM世田谷",
+    "url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitsujikai Radio",
+    "url": "http://streaming.radio.co/se4a8e6a93/listen",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WVVV V96.9",
+    "url": "https://ice5.securenetsystems.net/WVVVFM",
+    "country": "Japan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "tilderadio",
+    "url": "https://tilderadio.org/listen",
+    "country": "Japan",
+    "bitrate": 192,
+    "codec": "OGG"
+  },
+  {
+    "name": "Opening Radio",
+    "url": "http://stream.zeno.fm/tza2ayy47qruv",
+    "country": "Japan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com:3060/;",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AshiyaRadio〜アシヤ・ラヂヲ〜",
+    "url": "https://s3.radio.co/sc8d895604/listen",
+    "country": "Japan",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "J-Club Powerplay HipHop(Asia DREAM Radio)",
+    "url": "https://kathy.torontocast.com:3350/;?shoutcast",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Club Club Bandstand",
+    "url": "https://cast1.torontocast.com:2060/;.mp3",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "大富ラジオ",
+    "url": "https://stream.zeno.fm/oaxp6mswcqltv",
+    "country": "Japan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Club Powerplay HipHop",
+    "url": "https://kathy.torontocast.com:3350/;",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kamakura FM",
+    "url": "https://stream.laut.fm/kamakura",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Friends Forever 64kbps AAC",
+    "url": "https://s5.radio.co/s6140c7241/low",
+    "country": "Japan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "SOUND UP STATION NFRS",
+    "url": "https://stream2.rcast.net/70945",
+    "country": "Japan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nightwave Plaza (Opus 64)",
+    "url": "http://radio.plaza.one/ogg_low",
+    "country": "Japan",
+    "bitrate": 96,
+    "codec": "OGG"
+  },
+  {
+    "name": "J-Pop Powerplay",
+    "url": "https://kathy.torontocast.com:3560/;",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J1 HITS",
+    "url": "https://jenny.torontocast.com:2000/stream/J1HITS?_=538100",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nonstop Casiopea",
+    "url": "https://nonstopcasiopea.radioca.st/",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "羊飼いラジオ Hitsujikai Radio",
+    "url": "https://streaming.radio.co/se4a8e6a93/listen",
+    "country": "Japan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gotanno FM 89.2",
+    "url": "https://radio.gotanno.love/;",
+    "country": "Japan",
+    "bitrate": 96,
+    "codec": "MP3"
+  }
+]

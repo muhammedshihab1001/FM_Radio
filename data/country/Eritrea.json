@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Eritrean Music",
+    "url": "http://linuxfreelancer.com:8000/listen.pls?sid=1",
+    "country": "Eritrea",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Eritrean/Ethiopian music",
+    "url": "https://linuxfreelancer.com:8443/test.mp3",
+    "country": "Eritrea",
+    "bitrate": 56,
+    "codec": "AAC+"
+  }
+]

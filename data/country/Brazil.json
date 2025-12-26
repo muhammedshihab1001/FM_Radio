@@ -1,0 +1,5308 @@
+[
+  {
+    "name": "GOLD WEB RADIO (224kbps/mp3)",
+    "url": "https://centova.svdns.com.br:19418/stream2",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omega FM",
+    "url": "https://webradio.amsolution.com.br/radio/8000/omega",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Liberdade (Porto Alegre)",
+    "url": "http://cast4.audiostream.com.br:8655/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "MGT LIGHT",
+    "url": "https://cast.mgtradio.net/radio/8070/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Cristã Online",
+    "url": "https://servidor40.brlogic.com:8004/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RÁDIO SÓ MPB SOROCABA",
+    "url": "http://srv1.braudio.com.br:7008/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Lembrança",
+    "url": "https://stm5.painelcast.com:7580/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Scalla Instrumental São Paulo / SP - Brasil",
+    "url": "https://s01.svrdedicado.org:6782/stream",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Só Cacarecos - Classic Rock",
+    "url": "http://sokakarecos.ddns.net:9030/rock128",
+    "country": "Brazil",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caiçara (Porto Alegre)",
+    "url": "http://cast4.audiostream.com.br:8654/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dj Guu Ofc - (QBY-N1L) - Sigam no Instagram @guu_duvak @familia_duvak_ofc",
+    "url": "http://jpdofunk3.com.br:8262/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DJ Stanley (H9K-YTB) Ig: @stanley.silvamg",
+    "url": "http://jpdofunk3.com.br:8218/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LIGA SAMBA WEB RÁDIO",
+    "url": "http://srv1.braudio.com.br:7308/;stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dumont FM",
+    "url": "https://rrdns-dumont.webnow.com.br/dumont.aac?1692234215659",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pampa FM 97,5 - Porto Alegre",
+    "url": "http://cast4.audiostream.com.br:8653/aac",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WEBSOUL radio",
+    "url": "http://ic142561.radioca.st:8136/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Disco Funk BR",
+    "url": "http://streaming12.hstbr.net:8084/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio 80FM",
+    "url": "http://104.247.221.130:9020/stream1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Criatividade FM",
+    "url": "https://s04.maxcast.com.br:8148/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Anos 80",
+    "url": "http://live2.livemus.com.br:27400/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Roquette Pinto",
+    "url": "https://radio.saopaulo01.com.br/8300/stream/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tv Verbo",
+    "url": "https://sonic1.transmissaodigital.com/8026/stream?1737234940690",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antena 1 FM 94.7 São Paulo",
+    "url": "http://antena1.newradio.it/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Continental AM 1120 Porto Alegre",
+    "url": "http://streaming10.hstbr.net:8042/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Music FM 88.7",
+    "url": "http://cast4.audiostream.com.br:8006/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antena 1 São Paulo, SP (ZYD823 94,7 MHz FM) [aac]",
+    "url": "http://antena1.newradio.it/stream?ext=.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Ouro Verde FM 105.5",
+    "url": "http://servidor18.brlogic.com:7484/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Liberal FM 97.5MHz",
+    "url": "http://177.105.192.70:9750/liberalfm.mp3",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Conselheiro 87.7 FM",
+    "url": "http://stm1.streamproarte.com.br:7204/stream?1685285676227",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Estádio",
+    "url": "https://stm5.painelcast.com:7556/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cordeiro",
+    "url": "https://stm7.painelcast.com:7590/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Som Brega",
+    "url": "https://stm5.painelcast.com:7588/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio C Brasil",
+    "url": "https://stm5.painelcast.com:7578/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sucesso",
+    "url": "https://stm5.painelcast.com:7582/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Católica",
+    "url": "https://stm5.painelcast.com:7574/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sertaneja",
+    "url": "https://stm5.painelcast.com:7584/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Melphis FM",
+    "url": "https://player-ssl.painelstream.net:8174/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Educativa Inatel - 107,9 FM",
+    "url": "https://educativainatel.radioca.st/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Voz do Povo 104.9 FM",
+    "url": "http://stm8.painelcast.com:7454/stream?1661881380835",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Sociedade",
+    "url": "https://painel.sintonizar.tv.br/stream/sociedadeaudio/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Espiritismo BH",
+    "url": "http://paineldj4.com.br:8047/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mundo Livre FM Londrina 93,1",
+    "url": "https://rrdns-continental.webnow.com.br/mllondrina.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nossa Rádio MEPB",
+    "url": "http://s01.painelstream.net:8548/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Massa FM Capinzal",
+    "url": "https://paineldj.com.br:20004/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Noroeste Fm Santa Rosa RS",
+    "url": "http://paineldj5.com.br:12222//listen.pls?sid=1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Claretiana FM Batatais",
+    "url": "http://148.72.158.239:8021/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Music Hall",
+    "url": "http://server02.ouvir.radio.br:8050/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "MGT SERTANEJO UNIVERSITÁRIO",
+    "url": "https://cast.mgtradio.net/radio/8020/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "EldoPop FM",
+    "url": "http://stm10.srvstm.com:34794/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WEBGIO",
+    "url": "http://servidor34.brlogic.com:8080/live?1583625685800",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Scalla - Música Brasileira",
+    "url": "https://s01.svrdedicado.org:6782/stream/2/",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz Medley Webradio",
+    "url": "http://server01.ouvir.radio.br:8006/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Difusora Jundiaí",
+    "url": "http://shout35.crossradio.com.br:8112/stream?1653871122262",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "94 FM CORDEIRO-RJ",
+    "url": "http://s17.hstbr.net:8040/live?1601949995965",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Máquina do Tempo (MPB Brasil)",
+    "url": "http://servidor28.brlogic.com:8032/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cidade Canção FM",
+    "url": "http://148.72.158.239:8012/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jovem Pan FM - Osório",
+    "url": "http://centova14.ciclanohost.com.br:8405/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Nativa",
+    "url": "http://centova17.ciclanohost.com.br:8085/stream.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan FM - Brasília - DF - 106.3",
+    "url": "https://shout25.crossradio.com.br:18022/1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MEGA FM 92.3",
+    "url": "https://rrdns-megasistema.webnow.com.br/mega.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio 96 FM",
+    "url": "https://cast4.hoost.com.br:20079/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Jovem Pan FM - Passo Fundo - RS",
+    "url": "https://radio.saopaulo01.com.br:10937/aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RÁDIO LIGA SAMBA",
+    "url": "http://srv1.braudio.com.br:7308/;stream.nsv",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Tapejara",
+    "url": "https://radio.saopaulo01.com.br/8026/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Sucesso FM 101,7 Mhz (Barbacena MG)",
+    "url": "http://s01.onradio.biz:7666/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MGT GOSPEL",
+    "url": "https://cast.mgtradio.net/radio/8040/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Ativa Bom Despacho",
+    "url": "http://148.72.158.239:8036/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Instrumental Gospel",
+    "url": "http://live8.livemus.com.br:27142/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO TAMANDARE \"100% JESUS\"",
+    "url": "http://streaming09.hstbr.net:8058/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Difusora Batatais",
+    "url": "http://sd.dnip.com.br:9036/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Cidade 670 AM",
+    "url": "http://cast.youngtech.radio.br:8550/radio",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bezerros FM",
+    "url": "https://sv10.hdradios.net:8616/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "instrumentales",
+    "url": "https://protvradiostream.com:8350/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Brasil de Fato",
+    "url": "https://s09.hstbr.net:8238/live",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Circus Radio",
+    "url": "http://radio.rpointernet.com.br:5788/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Prime",
+    "url": "https://sv1.audiostream.com.br:8000/prime",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Fofinho Rock Club",
+    "url": "http://foreverinrock.radioca.st:9560/stream",
+    "country": "Brazil",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Chaveco",
+    "url": "https://sv10.hdradios.net:6864/stream",
+    "country": "Brazil",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sensação FM 105.5 Mhz (Rio Pomba - MG) (ZYN228)",
+    "url": "https://sv10.hdradios.net:8226/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Soul One",
+    "url": "https://stream.soulone.com.br/listen/soulone/externo",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Jornal 91.3 FM",
+    "url": "https://str1.streamhostpg.com.br:8124/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Cidade - Rio de Janeiro - 102.9 FM - ZYD462",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Só Brega",
+    "url": "http://stm18.xcast.com.br:8290/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Charme",
+    "url": "http://stm9.xcast.com.br:7988/listen.pls?sid=1",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Xodó 89.9 FM -  Aracaju Sergipe",
+    "url": "http://09.stmip.net:8824/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Musical",
+    "url": "http://stm21.conectastm.com:6892/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Graviola",
+    "url": "http://servidor30.brlogic.com:8262/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova FM",
+    "url": "http://hd3.matutos.com.br:8394/stream?1561472887177",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tiradentes (Manaus) 89.7 FM",
+    "url": "http://189.2.83.108:8040/tiradentes",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPBdoVinilAoDigital",
+    "url": "http://192.99.14.210:8339/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Irecê Líder FM 103.7 Irecê - BA",
+    "url": "http://192.99.14.210:8223/stream?1716384253550=",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Campina FM",
+    "url": "http://cast61.sitehosting.com.br:9962/live?1583625618600",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Livre 95",
+    "url": "http://aovivo.radiolivre95.com:8000/aovivo",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rede Sucesso 98.3 FM",
+    "url": "http://cast61.sitehosting.com.br:8446/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Top 104.9 FM",
+    "url": "http://audio01.viaflux.com.br:5500/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Federal Fm 101,3 Mhz UNIFAL",
+    "url": "http://cast61.sitehosting.com.br:8443/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Odisséia FM",
+    "url": "http://apps01.star10.com.br:10012/radioodisseia",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Novo Nordeste",
+    "url": "http://cast2.hoost.com.br:8705/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jaraguá FM 101.3",
+    "url": "http://cast.hoost.com.br:9701/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Teresópolis Rio de Janeiro",
+    "url": "http://cast3.hoost.com.br:8096/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LEMIXX - BEST FUNK & GROOVE CLASSICS & RARE DISCO, R&B, 80s OLD SCHOOL DANCE",
+    "url": "http://centova6.ciclanohost.com.br:9428/stream2",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Canal Um FM",
+    "url": "http://audio.canalum.fm.br:8000/canal1.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Unijuí FM",
+    "url": "http://fm.unijui.edu.br:8000/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DJ TROIA | Ao vivo | Perfil (@DJ.Troia)",
+    "url": "http://jpdofunk3.com.br:8018/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Flashback Fm",
+    "url": "http://hd.matutos.com.br:8008/;stream.mp3",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Advento",
+    "url": "http://paineldj6.com.br:11430/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Espacial FM - Pará de Minas 105.5 FM",
+    "url": "http://paineldj4.com.br:8300/stream.mp3?type=.mp3",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio CGB",
+    "url": "http://paineldj6.com.br:8103/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Web Rádio E5",
+    "url": "http://paineldj6.com.br:8496/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Cidade",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIOCIDADEAAC.aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MNS FM - WebRadio From S",
+    "url": "http://lyra.shoutca.st:8206/autodj",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Oeste FM 94,5",
+    "url": "http://radio.viaflux.com:5599/live",
+    "country": "Brazil",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Cidade - Jundiaí",
+    "url": "http://r18.ciclano.io:9693/stream?1653871323495",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Teciplast",
+    "url": "http://r11.ciclano.io:9128/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio da UFRGS",
+    "url": "http://radioaovivo.ufrgs.br:8000/stream.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Nativa 93.7 FM Irecê - BA",
+    "url": "http://stm3.srvif.com:7128/stream?1716397382938=",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Record 990 Rio de Janeiro",
+    "url": "http://stream.ouveai.com.br:10718/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Uniao FM",
+    "url": "http://stream.ouveai.com.br:8053/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Progressive Earth Radio",
+    "url": "http://sv10.hdradios.net:6674/listen.pls?sid=1",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Vinha FM 91,9",
+    "url": "http://streaming.vinhafm.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nostalgia FM",
+    "url": "http://svrstream1.svreua.com:8236/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Torres FM 101,1",
+    "url": "https://cast4.audiostream.com.br:2661/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio USP 93.7 FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-128.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio USP 107.9 FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-rp-128.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Unitins FM",
+    "url": "https://live.unitins.br/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capinzal FM",
+    "url": "https://noar.capinzalfm.com.br/capinzalfm.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Emboabas FM 96,9 Mhz (São João Del Rei - MG)",
+    "url": "https://paineldj6.com.br:20144/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BandNews FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BANDNEWSFM_SPAAC_SC",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "voz do esporte 3",
+    "url": "https://paineldj.com.br:20172/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Novos Horizontes FM",
+    "url": "https://paineldj5.com.br:20013/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CBN - Belo Horizonte",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_BHAAC.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CBN São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC_SC",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Sepiol",
+    "url": "https://paineldj.com.br:20087/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Conecta FM - Marília",
+    "url": "https://paineldj.com.br:20184/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Canarinho FM 102.3 Mhz (Divinésia - MG) (ZYE339)",
+    "url": "https://paineldj.com.br:20196/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CBN São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CBN_SPAAC.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BH FM 102,1 MHz ZYC690 (Belo Horizonte - MG)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/BHFMAAC.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio CBN Natal 91.1 FM",
+    "url": "https://radio.saopaulo01.com.br:10973/stream?1732974759055",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Norte FM Manaus",
+    "url": "https://radio.saopaulo01.com.br:10839/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Galegóvski",
+    "url": "https://radio.galegovski.com/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova Brasil RJ 89.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_RIOAAC.aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Novabrasil FM Fortaleza, CE",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_FORAAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RTM Brasil",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIOTRANSMUNDIALAAC_SC",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Facopp",
+    "url": "https://radio.saopaulo01.com.br/8276/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Voz FM 106.7 FM",
+    "url": "https://radio.saopaulo01.com.br/8110/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "89FM Radio Rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Manancial FM",
+    "url": "https://radio.saopaulo01.com.br/8024/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Saudade FM 99.7",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAUDADE_FMAAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mix FM - Porto Alegre",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_POAAAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kiss FM São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_KISSFMAAC.aac?1655609055880",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "89 A Radio Rock",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_89FM_ADP.aac?dist=site-89fm",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Alvorada 94.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADAAAC.aac",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Alvorada (MP3)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALVORADA.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "morcegaoBr",
+    "url": "https://radio.morcegaofm.com.br/morcegao128",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JB FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JBFMAAC1.aac",
+    "country": "Brazil",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mundo Livre FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MUNDOLIVRE_CWBAAC_64.aac",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Itapema FM  Floreanopolis",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ITA_FLO.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Trianon 740 AM",
+    "url": "https://shout25.crossradio.com.br:18014/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Web Vintage Radio",
+    "url": "https://servidor29.brlogic.com:7060/live",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aliança Fm",
+    "url": "https://server01.srvsh.com.br:13788/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Web Rádio NelSons",
+    "url": "https://stm4.srvstm.com:9716/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Flash House",
+    "url": "https://stm45.srvstm.com:19104/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "A Tarde FM",
+    "url": "https://stm35.srvstm.com:7920/stream%22%3E%3C/audio%3E",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Cultura FM 100.9 Brasília DF",
+    "url": "https://ssl1.transmissaodigital.com:20028/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Inconfidência FM 100,9",
+    "url": "https://ssl.zoeweb.net/proxy/inconfidencia?mp=/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio maravilha fm",
+    "url": "https://stm39.srvstm.com:8758/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Capitania",
+    "url": "https://sv15.hdradios.net:9140/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Energia 97 FM",
+    "url": "https://streaming.inweb.com.br/energia",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Petrolina FM (ZYX802, 98,3 MHz FM, Petronila, PE)",
+    "url": "http://hd4.matutos.com.br:8324/;stream.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Metropole",
+    "url": "https://www.radioking.com/play/radio-metropole",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rede Blitz",
+    "url": "https://c32.radioboss.fm:8254/source",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sergipe 95.9 FM - Aracaju Sergipe",
+    "url": "http://08.stmip.net:8012/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Web Ijuí (Ijuí)",
+    "url": "http://stm22.srvaudio.com.br:10282/;",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Transamérica 100.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RT_SPAAC.aac",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Indie 98",
+    "url": "http://indie.dyndns.tv:34100/indie98",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Clube do Pará",
+    "url": "https://carajas2.jmvstream.com/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "99,5 FM Goiânia GO",
+    "url": "https://ssl.zoeweb.net/proxy/serradourada?mp=/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Studio FM 99.1",
+    "url": "https://paineldj.com.br:20055/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio J-Hero",
+    "url": "https://listen.radiojhero.com/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Web Rádio Fraternidade",
+    "url": "https://paineldj5.com.br:2100/stream?type=.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Seara 102,7 FM",
+    "url": "https://stream.radioseara.fm/aac",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "voz do esporte 4",
+    "url": "https://paineldj.com.br:20193/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio T 105,3 FM Ponta Grossa - PR",
+    "url": "https://s1.mediacp.com.br:8984/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "USP FM",
+    "url": "https://flow.emm.usp.br:8008/radiousp-rp-64.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "GAZETA FM LINHARES",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GAZETA_LINHARESAAC.aac?dist=web",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Atlântida 104.3 FM - Joinville",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOIAAC.aac?1697701252085",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Evangelizar",
+    "url": "https://8239.brasilstream.com.br/stream?origem=radios.com.br",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Energia Dance",
+    "url": "https://s05.w3bserver.com:20025/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "012 Rock News",
+    "url": "http://9881.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Almenara FM",
+    "url": "https://8247.brasilstream.com.br/stream?rand=DRo5m",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Manawa",
+    "url": "http://161.97.82.133:8000/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Litoral Paulista",
+    "url": "https://servidor23-3.brlogic.com:7036/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Antena 1 94.7 FM",
+    "url": "https://antenaone.crossradio.com.br/stream/1;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Leve - SP/Brazil",
+    "url": "https://servidor25.brlogic.com:7058/live?v=1730093845978",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CBN Grandes Lagos",
+    "url": "http://stm10.conectastm.com:8276/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Refúgio",
+    "url": "http://stm14.voxhd.com.br:6704/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Maxima FM",
+    "url": "http://stream03.dghost.com.br/radio/8210/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Planetario FM",
+    "url": "http://r11.ciclano.io:9038/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Lider FM",
+    "url": "http://r11.ciclano.io:9047/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MGT LOVE HITS",
+    "url": "https://cast.mgtradio.net/radio/8010/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Serrana Mix",
+    "url": "https://stream03.dghost.com.br:8260/stream?1725121241607",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Osório",
+    "url": "https://stm19.voxhd.com.br:9324/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ABR Music",
+    "url": "http://r11.ciclano.io:9191/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sabiá FM 92.1 Coité",
+    "url": "http://stm18.xcast.com.br:11414/stream",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Agnus Dei FM",
+    "url": "http://hts03.kshost.com.br:9144/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "93.3 FM (Barbacena)",
+    "url": "https://sws.onradio.biz/8126/stream?1746145643130",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO CIDADE 100.1",
+    "url": "http://sl.dnip.com.br:10376/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Caturité",
+    "url": "http://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sete Colinas FM 101.7",
+    "url": "https://8300.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "FM93 Fortaleza",
+    "url": "http://zoeweb.net:8176/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Taquara",
+    "url": "http://r13.ciclano.io:8165/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sertaneja Raiz",
+    "url": "http://station.radionanet.com:8330/stream?1713376151781",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Difusora Manaus 96,9",
+    "url": "http://69.16.236.247:9300/;mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "104 FM Natal",
+    "url": "http://radios.braviahost.com.br:8000/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Shock Box",
+    "url": "https://r6.ciclano.io:15110/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "87 FM",
+    "url": "https://exodo.ddns.seg.br:20011/;?1705778463505=",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "87 FM",
+    "url": "http://agrestehost.agrestehost.com.br:8041/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antena 1 FM 103.7 Rio de Janeiro",
+    "url": "http://a1rj.streams.com.br:7801/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Máquina do Tempo (Internacional)",
+    "url": "http://servidor28.brlogic.com:8212/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bossa Jazz Brasil",
+    "url": "https://centova5.transmissaodigital.com:20104/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bons Tempos FM",
+    "url": "https://server02.ouvir.radio.br:8050/stream?1609720768800",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Antena 1 Rio de Janeiro, RJ (ZYD 463, 103,7 MHz FM)",
+    "url": "http://a1rj.streams.com.br:7801/sm",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Super Radio Tupi 96.5",
+    "url": "https://8923.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Transamérica Hits (Barreiras)",
+    "url": "http://servidor39.brlogic.com:8146/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mix FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_SAOPAULOAAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Smooth Jazz Lounge",
+    "url": "https://radio4.vip-radios.fm:18060/stream-128kmp3-SmoothJazzLounge",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clube FM 99.1",
+    "url": "https://radio.saopaulo01.com.br:10913/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM O DIA 100.5",
+    "url": "http://streaming.livespanel.com:20000/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Grenal",
+    "url": "https://grenal.audiostream.com.br:20000/aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio MGT Sertanejo",
+    "url": "https://cast.mgtradio.net/radio/8000/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Alpha FM 101.7 MHz (São Paulo - SP)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ALPHAFM_ADP.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fita Cassete",
+    "url": "https://server01.ouvir.radio.br:8018/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "GOLD INSTRUMENTAL",
+    "url": "https://centova.svdns.com.br:19373/stream1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Massa FM 92.9 MHz (São Paulo - SP)",
+    "url": "https://stm01.virtualcast.com.br:8000/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Nova Brasil Fm São Paulo",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_SPAAC.aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio América Latina",
+    "url": "https://streaming.radiostreamlive.com/radioamericalatina_devices",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Gospel",
+    "url": "http://148.72.158.239:8120/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Itatiaia 95.7 FM",
+    "url": "https://8903.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Antena 1  - Porto Alegre",
+    "url": "https://antenaone.crossradio.com.br/stream/1",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fay Só Forró das Antigas",
+    "url": "https://ssl.xcast.com.br:7132/stremig",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Buteco Sertanejo",
+    "url": "https://stream.zeno.fm/6kumndewqbruv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Stereo Mix",
+    "url": "https://servidor24.brlogic.com:7134/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MGT FORRÓ",
+    "url": "https://cast.mgtradio.net/radio/8050/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Máquina Instrumental",
+    "url": "https://servidor29-2.brlogic.com:8578/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Reggae Brasil",
+    "url": "https://casthttps.suaradionanet.net/13805/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Amigos da MPB",
+    "url": "http://stm4.voxhd.com.br:7086/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Transamérica FM",
+    "url": "http://9595.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tropical Smooth Jazz",
+    "url": "https://servidor32-3.brlogic.com:8230/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Batuta MPB - A webradio do Instituto Moreira Salles",
+    "url": "http://radioims.out.airtime.pro:8000/radioims_a",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "91 Rock - Curitiba (web)",
+    "url": "http://servidor40.brlogic.com:8044/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groove Wave Lounge",
+    "url": "https://stm1.srvif.com:7576/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rap Brasil",
+    "url": "https://stream.zeno.fm/7c83b37e32quv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio I Love anos 80's",
+    "url": "https://shit-is-merda.stream.laut.fm/shit-is-merda",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brasil de Fato",
+    "url": "https://s09.hstbr.net:8238/live?1514038524061",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Continental FM",
+    "url": "http://cast4.audiostream.com.br:8650/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Disney - Brasil FM 91.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP_ADP.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Digital Jazz",
+    "url": "http://stm01.virtualcast.com.br:8190/live",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Studio Flashback",
+    "url": "https://stream-163.zeno.fm/6gv76f1xruquv?zs=SvdWy-tsTtCXPZ9IZC0ASA",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RÁDIO SÓ MPB",
+    "url": "https://s27.maxcast.com.br:8103/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Leve - Santos",
+    "url": "https://s09.maxcast.com.br:8098/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan Campinas",
+    "url": "https://ssl.srvstm.com:6808/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MGT BREGA E RETRÔ",
+    "url": "https://cast.mgtradio.net/radio/8060/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sertaneja 106.7",
+    "url": "https://sc4s.cdn.upx.com:8067/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio MGT Brasil Hits",
+    "url": "https://cast.mgtradio.net/radio/8030/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan FM - Sorocaba 91.1",
+    "url": "https://cast2.hoost.com.br:8039/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "104 (Porto Alegre)",
+    "url": "http://cast4.audiostream.com.br:8651/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Whisper ASMR",
+    "url": "https://stream.zeno.fm/309e0b84p48uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Esportes Total",
+    "url": "https://s03.maxcast.com.br:8006/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "GOLD INSTRUMENTAL (224kbps/mp3)",
+    "url": "http://199.233.234.34:25373/stream2",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gold Web 32kb",
+    "url": "https://centova.svdns.com.br:19418/stream1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Mix FM Recife 97.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_RECIFE971AAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "105 FM - SP",
+    "url": "http://www.appradio.app:8010//live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova Brasil FM - Maceió",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOVABRASIL_MACAAC.aac",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hunter FM - Hits Brasil",
+    "url": "https://live.hunter.fm/hitsbrasil_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Café Viola",
+    "url": "https://stm6.xcast.com.br:9328/;?1685284162874",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Joli MPB",
+    "url": "https://stream-163.zeno.fm/mrutsyhkc3quv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jovem Pan FM - Belo Horizonte - MG - 99.1 Mhz",
+    "url": "https://8062.brasilstream.com.br/stream?origem=task_site",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "MGT ANOS 80",
+    "url": "https://cast.mgtradio.net/radio/8100/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Globo 98.1 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=radioscombr",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Alpha MPB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ALPHAMPBAAC.aac",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Gospel Hits",
+    "url": "https://servidor37.brlogic.com:7068/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amazon Gospel",
+    "url": "http://directradios.net:8197/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Bandeirantes 85.7 FM",
+    "url": "https://stm23.xcast.com.br:11284/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Maria Brazil",
+    "url": "http://dreamsiteradiocp.com:8064/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Campeira FM",
+    "url": "https://servidor34-3.brlogic.com:8164/live?source=website",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sertanejo FM",
+    "url": "https://stream.zeno.fm/qcwuy1y3tm0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hunter.FM - O Canal MPB",
+    "url": "https://live.hunter.fm/mpb_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Jovem Pan 100.9 FM",
+    "url": "https://stream.zeno.fm/c45wbq2us3buv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jean Majolo Player",
+    "url": "http://jeanmajolo.com.br:8000/radio",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "GOLD INSTRUMENTAL (32kbps/aacPlus)",
+    "url": "https://centova.svdns.com.br:19373/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Animu [320 kbps]",
+    "url": "https://cast.animu.com.br:9079/stream",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Jovem Pan 99.1 FM Belo Horizonte",
+    "url": "https://8062.brasilstream.com.br//stream?origem=jovem_pan_site",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Clube FM Brasilia",
+    "url": "https://8157.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Tupi FM 96.5",
+    "url": "https://8923.brasilstream.com.br/stream?origem=site-tupi.fm",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Batuta Clássicos",
+    "url": "http://classicoims.out.airtime.pro:8000/classicoims_a",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Globo - Rio de Janeiro",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_GLOBO_RJAAC.aac?dist=site",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Amigos do Rock",
+    "url": "http://stm25.srvaudio.com.br:11358/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ouvindo a Bilbia",
+    "url": "http://v3.directradios.com:8235/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Amigos do Flashback",
+    "url": "https://stm4.voxhd.com.br:7086/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Comunitária Aconchego",
+    "url": "https://fm.radioaconchego.org/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antena 1 Porto Alegre",
+    "url": "https://stream.antena1.com.br/stream14",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Classic Pan",
+    "url": "https://stream.zeno.fm/rtk4pzcome3vv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jovem Pan (Porto Alegre)",
+    "url": "http://centova6.ciclanohost.com.br:9256/;",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amor FM",
+    "url": "https://r10.ciclano.io:15067/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Terra FM 100.3",
+    "url": "http://servidor30.brlogic.com:8622/live?1561450793452",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Casa dos Caipiras",
+    "url": "https://8758.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Girassol Belo Horizonte",
+    "url": "http://s02.transmissaodigital.com:6754/live",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Liberdade 92.9 (Belo Horizonte - MG)",
+    "url": "https://8335.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Maquina no Rock",
+    "url": "https://servidor20-4.brlogic.com:8582/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Nostalgia FM",
+    "url": "https://centova2.euroti.com.br:20062/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FM PREMIUM",
+    "url": "http://cast4.audiostream.com.br:8663/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vida Melhor FM 95,7",
+    "url": "https://servidor32-4.brlogic.com:8480/live?source=site",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Venenos do Rock",
+    "url": "https://stream.zeno.fm/dy417tqqmd0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lightness of Rock",
+    "url": "https://stream.zeno.fm/n0dt87vrnd0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Morena FM Easy",
+    "url": "https://centova.svdns.com.br:20110/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CBN MACEIÓ",
+    "url": "http://v3.directradios.com:8229/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Itapoan 97.5 FM",
+    "url": "http://cast.radiu.live:9300/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pampa",
+    "url": "https://cast4.audiostream.com.br:2653/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Smooth Jazz Brasil",
+    "url": "https://sc4s.cdn.upx.com:8176/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Pátria Gaúcha",
+    "url": "https://servidor16-3.brlogic.com:7614/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio CDL FM",
+    "url": "https://9595.brasilstream.com.br/stream?identifica=6604881056089703000",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Record 1000 AM",
+    "url": "https://stm10.voxhd.com.br:9702/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BR - The Classic Rock",
+    "url": "https://stream.zeno.fm/nbq1aq62gd0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MGT DANCE HITS",
+    "url": "https://cast.mgtradio.net/radio/8080/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Só Se For Dance",
+    "url": "http://stream.zeno.fm/u0vqwmqxcf9uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RST Radio Rock",
+    "url": "https://servidor37-1.brlogic.com:8100/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Conquista FM 97,7 Sertaneja",
+    "url": "https://rrdns-megasistema.webnow.com.br/conquista.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Maroca",
+    "url": "https://server03.srvsh.com.br:6844/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan Patos de Minas",
+    "url": "https://shout25.crossradio.com.br:24030//1",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan FM - Salvador - BA - 91.3",
+    "url": "https://shout25.crossradio.com.br:18022/1,%20https://shout25.crossradio.com.br:18022/1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BRADO RADIO",
+    "url": "https://servidor17-5.brlogic.com:8300/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Amigos do Sertanejo",
+    "url": "https://stm10.voxhd.com.br:7846/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piatã FM",
+    "url": "https://streaming.livespanel.com:9430/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VIOLA VIVA CAIPIRA",
+    "url": "https://centova.euroti.com.br:20055/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rockett 97,7",
+    "url": "https://8817.brasilstream.com.br/stream?cc=1645359200316",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Tropical FM 94.7 MHz (Barbacena - MG)",
+    "url": "https://servidor37-5.brlogic.com:8044/live?source=website",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Band Vale 102.9",
+    "url": "https://centova5.transmissaodigital.com:20061/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SM Brasil",
+    "url": "http://stream.zeno.fm/xt4tf9zsxeruv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ipiranga",
+    "url": "http://r11.ciclano.io:9173/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Diário FM -Ribeirão Preto",
+    "url": "https://rrdns-megasistema.webnow.com.br/diario.aac?v=5499",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amigos de Cristo Web Rádio",
+    "url": "http://sv14.hdradios.net:6860/;?type=http&nocache=38",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Melody 94.1 FM",
+    "url": "https://sc4s.cdn.upx.com:8080/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Interativa FM 94.9",
+    "url": "http://suaradio1.dyndns.ws:13551/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan FM Campinas - 89.9",
+    "url": "https://paineldj5.com.br:20028/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Massa FM São Paulo",
+    "url": "https://stm01.virtualcast.com.br:8000/massasaopaulo",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Assunção AM620",
+    "url": "https://str.7br.com.br/radio/8170/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio São Francisco Anápolis - 97.7FM",
+    "url": "https://cast.hoost.com.br:20150/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Fox Rock",
+    "url": "https://brapostreaming.com.br/radio/8000/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SAD MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc",
+    "url": "http://jpdofunk3.com.br:8242/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova Brasil",
+    "url": "http://r11.ciclano.io:9134/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jovem Pan Porto Alegre",
+    "url": "http://centova6.ciclanohost.com.br:9256/",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Amigos do Futebol",
+    "url": "https://ssl.voxhd.com.br:7086/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sintonia Esportiva",
+    "url": "https://stm3.voxhd.com.br:8154/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "POP 95,1",
+    "url": "https://servidor39.brlogic.com:8152/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Uirapuru",
+    "url": "https://radio.saopaulo01.com.br:7002/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rede Boa Nova",
+    "url": "http://srv39.brasilstream.com.br:8592/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Amigos do Sertanejo",
+    "url": "https://stm4.voxhd.com.br:7086/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Beach Park FM",
+    "url": "http://www.radioideal.net:8026/;stream/1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antena 1 100.1 FM Salvador Bahia",
+    "url": "https://www.antena1.com.br/stream/stream/1",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sonora FM - Farroupilha",
+    "url": "https://casthttps1.suaradionanet.net/10318/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Band FM Triângulo 99.9 Mhz ZYC832 (Uberlândia - MG)",
+    "url": "https://stm28.xcast.com.br:11364/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Punk FM Brasil",
+    "url": "https://radio.punkfm.com.br/listen/punkfmbrasil/punkfmbrasil.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Som do Céu",
+    "url": "http://stream.zeno.fm/t5y50e2ekbruv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio PT",
+    "url": "https://s39.maxcast.com.br:8072/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio CBN Campinas 99.1 FM",
+    "url": "https://8214.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Educadora 102,9 FM",
+    "url": "https://servidor40.brlogic.com:8252/live",
+    "country": "Brazil",
+    "bitrate": 34,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Furacão 2000",
+    "url": "https://servidor24-1.brlogic.com:7516/live?source=website",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "PorDeus.fm",
+    "url": "https://stream.zenolive.com/92ptm8uua2zuv.aac",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "musical fm 2",
+    "url": "https://9176.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "antena1",
+    "url": "https://antenaone.crossradio.com.br/stream/2;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eldorado FM",
+    "url": "https://cast4.audiostream.com.br:2652/mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Goioere FM 97,5",
+    "url": "https://8727.omegastreaming.com.br/stream?",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dixie Rebel",
+    "url": "https://servidor36.brlogic.com:8572/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Light FM 103.9 MHz ZYC699 (Belo Horizonte - MG)",
+    "url": "https://8231.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Paul in Rio",
+    "url": "https://usa10.fastcast4u.com/paulinrio",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio FM O Dia 99.7 FM",
+    "url": "https://wz7.servidoresbrasil.com:8274/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan News",
+    "url": "https://stream.zeno.fm/vlcraijc6yiuv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Positividade FM - Rio de Janeiro",
+    "url": "https://27373.live.streamtheworld.com/POSITIVIDADE_FMAAC.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio União FM 104,9 Mauriti",
+    "url": "https://servidor35-2.brlogic.com:7030/live?1599145118524",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Elohim",
+    "url": "https://servidor34-5.brlogic.com:8190/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Digital Bahia",
+    "url": "http://stm1.tcmcast.com.br:7050/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Massa FM Londrina",
+    "url": "https://stm01.virtualcast.com.br:8120/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Mundial Rock",
+    "url": "https://azura.mundialmusic.net/radio/8010/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "antenAZero",
+    "url": "https://servidor26-4.brlogic.com:8006/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Bla Rock",
+    "url": "https://s12.maxcast.com.br:8086/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Auriverde Brasil",
+    "url": "https://stm2.conectastreaming.com:7030/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Morena FM 98",
+    "url": "https://ssl1.transmissaodigital.com:2692/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Minas FM 104,1 MHz (Divinópolis - MG)",
+    "url": "https://minasfmaac.jmvstream.com/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Liderança FM",
+    "url": "https://webradio.amsolution.com.br/radio/8320/lideranca",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio BBN 92.3 FM",
+    "url": "https://audio-edge-es6pf.mia.g.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+    "country": "Brazil",
+    "bitrate": 56,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Germanica",
+    "url": "https://s18.maxcast.com.br:8983/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RECIFE FM",
+    "url": "http://zoeweb.net:8046/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arco da velha",
+    "url": "http://stream.zeno.fm/ndvs4y5wef9uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Joli MPB",
+    "url": "http://stream.zeno.fm/mrutsyhkc3quv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio CBN Vale 750 AM",
+    "url": "https://8018.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Meio Norte",
+    "url": "https://webradio.amsolution.com.br/radio/8280/meionorte",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Advento - Londrina",
+    "url": "https://9121.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Atos FM",
+    "url": "https://s.bul.tec.br:8020/128",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Forró",
+    "url": "https://stm5.painelcast.com:7600/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Gospel Jireh",
+    "url": "https://stm9.xcast.com.br:9922/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Super",
+    "url": "https://servidor32.brlogic.com:8200/live",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Universidade (1.160 KHz - Pelotas)",
+    "url": "http://suaradio2.dyndns.ws:8098/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Casa 8000",
+    "url": "https://servidor34-5.brlogic.com:7240/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio yeshua 103.5 FM WEB",
+    "url": "https://stm24.srvaudio.com.br:9306/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Ecológica FM 98,7 Mhz (São João Del Rei - MG)",
+    "url": "https://server06.srvsh.com.br:7440/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "98 ROCK BRASIL",
+    "url": "https://stm41.stmsrv.com:16614/stream?type=http&nocache=1897905694",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio ON FM 107,7 MHz (Juiz de Fora - MG)",
+    "url": "https://cast4.hoost.com.br:20214/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Tupancy AM Pelotas",
+    "url": "https://casthttps.suaradionanet.net/10024/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Gospel Louvores",
+    "url": "https://stm1.radionline.top:7004/",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Manchester FM 93.3",
+    "url": "https://ssl1.transmissaodigital.com:20440/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Lost",
+    "url": "http://srv1.uaihost.audio:7026/",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Ilha FM 107,1",
+    "url": "https://casthttps.suaradionanet.net/13325/stream",
+    "country": "Brazil",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tucano FM",
+    "url": "http://centova13.ciclanohost.com.br:8056/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alpha MPB",
+    "url": "https://27393.live.streamtheworld.com/ALPHAMPBAAC.aac",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Educadora 91.7 FM",
+    "url": "https://stm22.xcast.com.br:11282/stream",
+    "country": "Brazil",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Jangadeiro 88.9 FM",
+    "url": "https://stream-173.zeno.fm/xuh02vfzurhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ4dWgwMnZmenVyaHZ2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkJHc3RGbW5SUmtHcGZRaU1BeWYwQVEiLCJpYXQiOjE3MzIzMTc5ODQsImV4cCI6MTczMjMxODA0NH0.hliqQ3jfax1Meam5u3WqqW_DM-nDoS3rj-ZgxCB4b0M",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Estção FM 89.5",
+    "url": "https://play.radio.br:8089/estacaofm/estacaofm/icecast.audio",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Mania FM",
+    "url": "https://webradio.amsolution.com.br/radio/8050/mania",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estação POP",
+    "url": "https://s46.hstbr.net:8026/live?id=1530746592431",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Estrada Real FM 102.5 MHz (Ouro Branco - MG)",
+    "url": "https://9981.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Terra 98.5 FM",
+    "url": "https://server2.webradios.com.br:19196/9196",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "93,3 FM (Barbacena MG)",
+    "url": "https://sws.onradio.biz/8126/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "96 Fm - Arapiraca Alagoas",
+    "url": "https://www.appradio.app:8182/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vocall",
+    "url": "https://servidor24-1.brlogic.com:7096/live?source=",
+    "country": "Brazil",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "98FM BH",
+    "url": "https://9554.brasilstream.com.br/stream?1736286819232",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Difusora 960",
+    "url": "https://s23.maxcast.com.br:8130/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sociedade News FM 102.1 Feira de Santana",
+    "url": "https://stream.zenolive.com/t799cry0yv8uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Darkradio Brasil",
+    "url": "https://servidor32-3.brlogic.com:8130/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio The Beatles (MP3)",
+    "url": "http://stream.zeno.fm/6gnr5yq68nhvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "planeta rei",
+    "url": "https://s42.maxcast.com.br:8343/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "cbn salvador 100.7 - link 2",
+    "url": "https://sv1.audiostream.com.br/radio/8030/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio 89 FM",
+    "url": "https://streaming.livespanel.com:8990/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Studio Web Radio",
+    "url": "http://euroticast5.euroti.com.br:8004/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Amigos do Sertanejo",
+    "url": "https://stm10.voxhd.com.br:7846/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "GOLD WEB RADIO (32kbps/aacPlus)",
+    "url": "https://centova.svdns.com.br:19418/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cultura Rio Grande",
+    "url": "https://casthttps.suaradionanet.net/10402/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Boa Fm - Aracaju Sergipe",
+    "url": "https://s07.maxcast.com.br:8074/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nossa Sertaneja FM 99.7 MHz ZYN130 (Barbacena - MG)",
+    "url": "https://radio.audiosolutions.tech:8110/barbacena",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Teixeirinha",
+    "url": "https://superaudio.radio.br/stream/teixeirinha",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Zeno",
+    "url": "https://stream-169.zeno.fm/0anygxe1b1duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwYW55Z3hlMWIxZHV2IiwiaG9zdCI6InN0cmVhbS0xNjkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InZMNHZGcFJuU0YtWjFsSlV1WEtFdkEiLCJpYXQiOjE",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Pirafm",
+    "url": "http://stream.zeno.fm/zyvh88ftvxhvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jovem Pan Natal",
+    "url": "http://pannatal.jmvstream.com:8522/stream/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio boa fm",
+    "url": "http://stream.zeno.fm/svapy9sa7f8uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MGT COUNTRY",
+    "url": "https://cast.mgtradio.net/radio/8110/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Imembuí",
+    "url": "http://centova17.ciclanohost.com.br:8405/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Norte FM - Londrina",
+    "url": "https://servidor17.brlogic.com:9394/live",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super Rede Boa Vontade 1230 AM",
+    "url": "https://9000.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Justiça 104.7 FM",
+    "url": "https://server01.ouvir.radio.br:8036/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Like Brazil",
+    "url": "https://str02.kfmidia.com.br:8000/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Rock FM",
+    "url": "https://stream-159.zeno.fm/bd9p0p44puquv?zs=V_zU2Gc-TXGWa_BXm42cMA",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio UFRJ",
+    "url": "https://servidor21.brlogic.com:7712/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Grande FM",
+    "url": "https://stm21.srvaudio.com.br:9634/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Clube FM 96,5 MHz ZYC692 (Belo Horizonte - MG)",
+    "url": "https://8112.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Animu [192 kbps]",
+    "url": "https://cast.animu.com.br:9089/stream",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Itapoan FM 97.5",
+    "url": "https://cast.radiu.live:9300/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Viva O Samba",
+    "url": "https://servidor33-3.brlogic.com:8020/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Hospício Tricolor",
+    "url": "https://servidor39.brlogic.com:8624/live#.mp3",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Band Vale 102.9 FM",
+    "url": "https://centova5.transmissaodigital.com:20061/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Educadora AM 1060 Piracicaba",
+    "url": "http://streaming.ntelecom.com.br:8518/",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "94 FM Natal | Rádio Cidade",
+    "url": "https://cidadedosolaac.jmvstream.com/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "97 Rock Web Radio",
+    "url": "http://euroticast5.euroti.com.br:8094/stream?1696889015855",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Principe Joinville",
+    "url": "https://servidor35-1.brlogic.com:8036/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mix Music",
+    "url": "http://servidor36.brlogic.com:8176/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Boa fm",
+    "url": "https://webradio.amsolution.com.br/radio/8290/boa",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hunter FM - Master",
+    "url": "https://live.hunter.fm/master_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cultural FM",
+    "url": "http://02.stmip.net:8096/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Animu [64 kbps]",
+    "url": "https://cast.animu.com.br:9069/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Apocalipse",
+    "url": "https://sv10.hdradios.net:9200/stream/1/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Catedral FM RJ 106.7",
+    "url": "https://hts04.brascast.com:13728/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hunter.FM - O Canal Sertanejo",
+    "url": "https://live.hunter.fm/sertanejo_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Calhambeque",
+    "url": "https://s01.transmissaodigital.com:7096/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Studio Souto - The Beatles (AAC+)",
+    "url": "https://centova5.transmissaodigital.com:20001/;",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Morena FM /Rio",
+    "url": "https://centova5.transmissaodigital.com:20005/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Band 106.7 FM",
+    "url": "https://stm2.xcast.com.br:11264/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Diplomata-FM",
+    "url": "http://srv01.brasilstream.com.br:9512/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Escuta FM",
+    "url": "http://stm3.srvif.com:8054/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Metropolitana 101.9",
+    "url": "https://cloud.cdnseguro.com:2008/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Santa Bárbara FM 95,9",
+    "url": "https://servidor36-4.brlogic.com:8474/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Expressão e Louvor",
+    "url": "http://stream.zeno.fm/mdyutdgx9u8uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Mineira",
+    "url": "https://servidor20-1.brlogic.com:7172/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Viva 106.7 FM",
+    "url": "http://stm51.conectastm.com:11314/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Máxima Goiânia",
+    "url": "http://sv12.hdradios.net:7696/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Aquele Rock",
+    "url": "https://azura.servercast.com.br/listen/radio_leandro/radio.mp3?refresh=1744219941974",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Viva 94.5",
+    "url": "https://r6.ciclano.io:15030/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Metal Heads",
+    "url": "https://hts01.brascast.com:9194/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Brazil Imperial",
+    "url": "https://hts03.brascast.com:8430/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sucesso FM 93.1",
+    "url": "https://stm7.conectastreaming.com:19876/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Class FM Sorocaba",
+    "url": "https://cast2.hoost.com.br:8248/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brahma FM",
+    "url": "https://casthttps1.suaradionanet.net/13385/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CBN São Paulo",
+    "url": "https://servidor28-2.brlogic.com:8112/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Progresso 103.5 FM - Sousa",
+    "url": "https://stm1.voxplayer.com.br:7012/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "97 FM Natal",
+    "url": "https://azevedo.jmvstream.com/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Liberal FM 92.7",
+    "url": "https://str01.str.srv.br:7006/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio web Nas Ondas do Saber",
+    "url": "https://s06.maxcast.com.br:8090/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Atlântida FM Florianópolis",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_FLO.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cordeiro de Deus",
+    "url": "https://servidor33.brlogic.com:8598/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pão Diário",
+    "url": "http://servidor24.brlogic.com:8808/live?1662557159610",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MIX Fortaleza 107.5 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIXFM_FORTA1075.mp3?dist=mix-web-player-radio-ao-vivo&314233.5876496629",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM - 92.5 - São Paulo",
+    "url": "https://26593.live.streamtheworld.com/RADIO_KISSFM_ADP.aac",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Litoral FM",
+    "url": "https://stm37.stmsrv.com:30976/stream?type=http&nocache=83470439",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio CNN",
+    "url": "https://stm13.voxhd.com.br:7148/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jovem Pan 98.3 - Taubaté, SP",
+    "url": "http://shout35.crossradio.com.br:8012/",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Rio Preto Internet",
+    "url": "http://stm3.painelcast.com:7006/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Conquista WebStation Brazil",
+    "url": "https://stream.zeno.fm/ecryaaflji9tv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Apenas Marchinha",
+    "url": "https://server02.ouvir.radio.br:8003/stream",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Mix Fm Teresina",
+    "url": "https://webradio.amsolution.com.br/radio/8080/mix",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hunter.FM - O Canal Pop",
+    "url": "https://live.hunter.fm/pop_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Bíblia SBB",
+    "url": "https://servidor30-4.brlogic.com:7398/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Talismã",
+    "url": "http://stream.zeno.fm/htnhtcma4c9uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alpha FM 90.1 Curitiba p PR",
+    "url": "https://radio901.webnimbus.cloud/radioalpha/icecast.audio",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sucesso FM 88,3",
+    "url": "https://servidor36.brlogic.com:8300/live?1696916321806",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Jornal da Manhã Uberaba",
+    "url": "https://www.appradio.app:8107/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Universitária UFPI 96,7",
+    "url": "http://fm.ufpi.br:8000/;?type=http&nocache=55",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bíblia em Áudio Rádio Web",
+    "url": "https://stm3.voxhd.com.br:8062/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "mkkweb radio",
+    "url": "https://servidor34-1.brlogic.com:8096/live?source=site",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "No Mundo do Rock",
+    "url": "https://servidor34-1.brlogic.com:8014/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio UENF",
+    "url": "https://stream-172.zeno.fm/pfsm8zen0lguv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwZnNtOHplbjBsZ3V2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IlM1R0dLaktPVFh5cHdkSzRTd1NtSnciLCJpYXQiOjE3NDAyNDg3NDEsImV4cCI6MTc0MDI0ODgwMX0.zRlAJC0hMSi3Kk3NDNBt-XgwR29XnagIU6WYqFLfJi0&1740248741087",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - MPB (MP3)",
+    "url": "http://stream.zeno.fm/g5xt330zkd0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cidade FM de Loanda",
+    "url": "https://stm26.srvaudio.com.br:10484/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rede 3.16",
+    "url": "https://servidor21.brlogic.com:7976/live?1661877997950",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Limeira FM",
+    "url": "https://centova.svdns.com.br:20050/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kiss FM 92.5 São Paulo",
+    "url": "https://26673.live.streamtheworld.com/RADIO_KISSFMAAC.aac?1655609055880",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WebRadio Rama",
+    "url": "https://servidor32-5.brlogic.com:8464/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rapadura Rock Web",
+    "url": "https://stm35.srvstm.com:6806/;?type=http&amp;nocache=1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Cidade FM",
+    "url": "https://stm2.streamproarte.com.br:7252/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Marajá AM 660 kHz  - RFC -",
+    "url": "https://servidor28-1.brlogic.com:8028/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio 95 FM Jequié - BA",
+    "url": "https://stream01.ouveai.com.br:1040/stream?1716398413708=",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Terra FM 99.9 MHz ZYC730 (Belo Horizonte - MG)",
+    "url": "https://servidor28-2.brlogic.com:8424/live",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Disney 91.3 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/DISNEY_BRA_SP.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jornal da Manhã (Ijuí)",
+    "url": "https://centova4.transmissaodigital.com:20066/;",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Difusora Bagé",
+    "url": "https://player.painelvox.com/player-ssl/8052/;/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Olinda 105,3",
+    "url": "https://radio.saopaulo01.com.br:10771/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Geografia Rock",
+    "url": "https://servidor20.brlogic.com:7354/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio 93 FM",
+    "url": "https://stream.zenolive.com/3x2dtz84qzzuv.aac",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Beatles 4 Ever (MP3)",
+    "url": "http://stream.zeno.fm/ygdk890mug0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio HT",
+    "url": "https://servidor39.brlogic.com:8624/live",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - The Beatles (MP3)",
+    "url": "http://stream.zeno.fm/18sv42teknzuv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Metró [320kbps]",
+    "url": "https://cast.animu.com.br:5010/stream",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova Metro",
+    "url": "https://servidor31-4.brlogic.com:8332/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Paraiso FM 89,7",
+    "url": "https://str02.kfmidia.com.br:8084/stream",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cultura FM 104.9 MHz ZYC799 (Uberaba - MG)",
+    "url": "https://8571.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tempo FM 103.9",
+    "url": "https://radio.webfrequencia.com.br:8110/tempofm",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "OverRock Radio",
+    "url": "http://streaming06.hstbr.net:8008/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Progsky",
+    "url": "https://cc4.streammaximum.com:20017/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hunter.FM Lo-Fi",
+    "url": "https://live.hunter.fm/lofi_normal",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Cidade Grajaú 91.1 FM",
+    "url": "https://servidor25-2.brlogic.com:8268/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Líder FM Santa Rosa",
+    "url": "https://servidor27-2.brlogic.com:8196/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "NuMetal 1.0 - JubsTones",
+    "url": "https://stream.zeno.fm/zg3ps1ckoeiuv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Prefacio",
+    "url": "https://s10.maxcast.com.br:8014/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Joinville Cultural FM",
+    "url": "https://cast.youngtech.radio.br/listen/fundacaoculturaljlle/radio",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "POP MUSIC l Radio RighRise (Compre sua Radio - Instagram:@jpdofunk.ofc)",
+    "url": "https://jpdofunk3.com.br:8070/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Digital FM 96.3",
+    "url": "https://8058.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Supersom FM 97.1 MHz ZYC813 (Uberaba - MG)",
+    "url": "https://9790.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Pão Diário",
+    "url": "https://servidor24.brlogic.com:8808/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Riacho FM - O Amor da Cidade",
+    "url": "https://stm23.srvaudio.com.br:10974/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cultura FM 95.1 Mhz (Uberlândia - MG) (ZYC697)",
+    "url": "https://8040.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 84,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RÁDIO WEB LUNA",
+    "url": "https://stream.zeno.fm/1qxe7gsah0hvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "WEB RADIO REIS FM",
+    "url": "http://stream.zeno.fm/8w14fzzztchvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "BestRadio Brasil",
+    "url": "https://best.viaflux.com/listen/bestradio_brasil_public/1",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cidade de Campinas 92,5",
+    "url": "https://9794.brasilstream.com.br/stream?rand=tk0GS",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ilha do Mel FM",
+    "url": "https://str1.streamhostpg.com.br:8002/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Planeta Reggae",
+    "url": "https://servidor13.brlogic.com:7020/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VINTAGE BRASIL",
+    "url": "https://servidor37.brlogic.com:7094/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Froes Rock",
+    "url": "https://sv10.hdradios.net:25198/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Marano FM",
+    "url": "https://streaming.livespanel.com:21023/maranofm",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Z-top",
+    "url": "https://stream.zeno.fm/gzf0stmb2d0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Luz de zambi",
+    "url": "https://stream.zeno.fm/z6w4zbvs4a0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Lance Oficial",
+    "url": "https://stm16.xcast.com.br:9928/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Difusora Bondespachense",
+    "url": "https://ssl.conectastreaming.com:7040/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Guaruja FM",
+    "url": "https://01.megadinamica.com:7166/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Hot 97.7",
+    "url": "http://servidor23.brlogic.com:7782/autodj",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sertaneja Mix",
+    "url": "https://stm1.hdmidia.srv.br:7008/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fan FM Aracaju",
+    "url": "http://08.stmip.net:7114/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Rodeio Fm",
+    "url": "http://stm5.voxtreaming.com.br:6766/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FM DOM BOSCO 96.1",
+    "url": "http://stream.zeno.fm/wb1ptm05dkhvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Correio FM Campina Grande",
+    "url": "https://shout25.crossradio.com.br:18078/live",
+    "country": "Brazil",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio 104 FM Natal RN",
+    "url": "https://radios.braviahost.com.br:8000/radio.mp3?1732983388728",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - Raiz (MP3)",
+    "url": "http://stream.zeno.fm/pyt8f8z5gd0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPX Web Rádio 2",
+    "url": "https://streaming.mpxwebradio.com/listen/mpxdancemix/256k",
+    "country": "Brazil",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Lasafá",
+    "url": "https://servidor29-3.brlogic.com:8100/live",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Grilli Brasil",
+    "url": "https://redegrillibrasil.com.br/listen/grillibrasil/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MGT ROCK",
+    "url": "https://cast.mgtradio.net/radio/8090/aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CLUBE DA BLACK MUSIC",
+    "url": "https://servidor37-2.brlogic.com:8066/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Litoral Sul Fm",
+    "url": "https://str1.streamhostpg.com.br:8020/stream",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "96 FM Bauru",
+    "url": "https://streaming.ei3.com.br/radio/8000/mp3?cb=1708358237473",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ministério Cristo Pleno",
+    "url": "https://01.megadinamica.com:7018/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "104.7 Universitária - UFES",
+    "url": "https://everest.radionanet.com:8990/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mundial (Ijuí)",
+    "url": "https://centova4.transmissaodigital.com:20071/;",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voz News FM 100.9 MHz ZYN317 (Januária - MG)",
+    "url": "http://s01.transmissaodigital.com:7390/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "EPFM Campinas",
+    "url": "https://8216.brasilstream.com.br/stream?rand=dseRm",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Querência 89.7 FM",
+    "url": "https://s30.maxcast.com.br:8046/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Cidade 101",
+    "url": "https://stream.jmhost.com.br/listen/rc101/radio/;?1708355082012",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Pool FM",
+    "url": "https://radios.poolwebwork.com.br/8020/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boa Nova",
+    "url": "https://servidor27-2.brlogic.com:8016/live",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESTUDIO FM",
+    "url": "http://srv8.ipstm.net:29560/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VINTAGE 70",
+    "url": "https://servidor22.brlogic.com:7062/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power Web Radio",
+    "url": "https://live9.livemus.com.br:27460/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Tupaciguara Web",
+    "url": "https://stm12.srvvox.com.br:7214/stream/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Centro América - Rondonópolis",
+    "url": "https://centova.svdns.com.br:20111/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Aranas FM",
+    "url": "http://www.appradio.app:8137/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cidade 94.3 FM Natal RN",
+    "url": "https://cidadedosolaac.jmvstream.com/stream?1732978147095",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Notícia 88,9 FM Americana SP",
+    "url": "https://stm24.xcast.com.br:11928/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rural de Natal 91.9 FM",
+    "url": "https://live9.livemus.com.br:27802/stream?1732977845423",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Virgo Net",
+    "url": "https://cast.mgtradio.net/radio/8020/radio.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Atlântida Joinville",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_JOI.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ATLÂNTICA FM 98.5",
+    "url": "https://casthttps.suaradionanet.net/10524/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Espirita Luz do Amanha",
+    "url": "https://servidor39.brlogic.com:7146/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Repórter (Ijuí)",
+    "url": "https://centova4.transmissaodigital.com:20080/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ZTOP",
+    "url": "https://stream.zeno.fm/bd0hmtmb2d0uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Sete Colinas FM",
+    "url": "https://streaming.livespanel.com:20107/setecolinas",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BAVARIAN RADIO",
+    "url": "https://br.lucasmultimedia.com/stream.ogg",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPX Web Rádio 1",
+    "url": "https://streaming.mpxwebradio.com/listen/mpxhits/256k",
+    "country": "Brazil",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "Animu Radio Brazil",
+    "url": "https://cast.animu.com.br:9079/;?type=http?0.546435004115698",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rede Blast",
+    "url": "https://centova4.transmissaodigital.com:20143/principal;",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Atlantida Blumenau",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ATL_BLU.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Terra 105.1",
+    "url": "https://cast.youngtech.radio.br/radio/8680/radio",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Nação Vitoriosa",
+    "url": "http://stream.zeno.fm/2rsloyfvsy9tv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - Blues Rock (MP3)",
+    "url": "http://stream.zeno.fm/apph08p9hqzuv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sintoniza Rock",
+    "url": "https://s04.maxcast.com.br:8930/autodj",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Catedral FM SP",
+    "url": "https://servidor30.brlogic.com:8538/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Impacto Fm 87,9",
+    "url": "https://stm2.matutos.com.br:10980/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Inconfidencia AM",
+    "url": "https://ssl.zoeweb.net/proxy/inconfidencia2?mp=/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Atlântico Sul FM",
+    "url": "https://streaming.livespanel.com:21057/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sucesso FM Tupaciguara",
+    "url": "https://stm28.srvaudio.com.br:10008/listen.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Multisom Hits Cataguases",
+    "url": "https://servidor28-3.brlogic.com:8124/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Nacional da Memória Adventista",
+    "url": "https://stream-172.zeno.fm/m3ytuubv0uhvv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJtM3l0dXVidjB1aHZ2IiwiaG9zdCI6InN0cmVhbS0xNzIuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InFPR2pQQ1VEU3VtR1JGQy14WkRwVGciLCJpYXQiOjE3Mjg4NTc2NTIsImV4cCI6MTcyODg1NzcxMn0.W78r8vaDk0qLFvAbBbbMSP-LPcaqrTwmqkew9pxPXcM",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Santa Fé do Sul",
+    "url": "http://stm12.painelcast.com:7480/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Nova Tupa FM",
+    "url": "https://media01.bitfibra.com.br/listen/nova_tupa_fm/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COBRA FM 107.1",
+    "url": "https://stream.enetbras.com.br/7028/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Haragano",
+    "url": "https://casthttps1.suaradionanet.net/13175/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Santa Barbara FM",
+    "url": "https://servidor36-4.brlogic.com:8474/live?source=website",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Nova Difusora - Osasco/SP - 79.9MHz",
+    "url": "https://cast.hoost.com.br:8314/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rede 3.16",
+    "url": "https://servidor21.brlogic.com:7976/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 93 FM",
+    "url": "https://cast.radiu.live:9346/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Supermarket",
+    "url": "http://r11.ciclano.io:9069/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Marinha (Manaus)",
+    "url": "https://stm0.inovativa.net/listen/radiomarinha/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Tupa FM",
+    "url": "https://media01.bitfibra.com.br/listen/radio_tupa_fm/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emilio Prime",
+    "url": "http://sv13.hdradios.net:7194/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio UPF",
+    "url": "https://servidor38-2.brlogic.com:8134/live?source=app_pwa",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Interativa FM",
+    "url": "https://r6.ciclano.io:15090/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "SUCESSO WEB RADIO GOIAS",
+    "url": "https://stm28.xcast.com.br:6746/index.",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Terra FM 99.9",
+    "url": "https://servidor28-2.brlogic.com:8424/live?source=website",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Super 100.5 FM",
+    "url": "https://servidor32-2.brlogic.com:8200/live?source=website",
+    "country": "Brazil",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Regional Net",
+    "url": "https://servidor26-2.brlogic.com:8280/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Impacto Web",
+    "url": "https://s19.maxcast.com.br:8746/live?id=981443262354",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM Liberdade 101,1",
+    "url": "https://8148.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Grafith",
+    "url": "https://stream-152.zeno.fm/qxabz8qwfzzuv?zs=gmU4MKWKQPeTDQAQsYjKiw",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Só Track Boa 1.0 - JubsTones",
+    "url": "https://stream.zeno.fm/dypkmcyizhktv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ubatuba Surf",
+    "url": "https://servidor18-2.brlogic.com:7544/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sonora webradio",
+    "url": "https://stream.zeno.fm/023qsahrr0hvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "80 fm dance music",
+    "url": "https://servidor26.brlogic.com:7006/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Caverá FM 87.9",
+    "url": "https://s05.maxcast.com.br:8012/live?id=692006007223",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clube FM 100,5",
+    "url": "https://sc4s.cdn.upx.com:8069/stream%22%20data-turbolinks-permanent",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Catarinense FM",
+    "url": "https://catarinensefm.streams.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Cidade Verde",
+    "url": "https://ssl1.transmissaodigital.com:20010/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mirador FM – 98.5",
+    "url": "https://paineldj6.com.br:20066/stream?1707585400268",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Vibe Mundial FM",
+    "url": "https://servidor13.brlogic.com:7262/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO AMIGA 87.9",
+    "url": "https://stm51.srvstm.com:11280/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WEB RADIO NO MUNDO DO ROCK",
+    "url": "https://servidor34-1.brlogic.com:8014/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Mega FM Sananduva",
+    "url": "https://stm01.virtualcast.com.br:8312/megasananduva",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VINTAGE SOFT",
+    "url": "https://servidor37.brlogic.com:7020/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "ATL BLUMENAU",
+    "url": "https://27593.live.streamtheworld.com/ATL_BLU.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Marajá AM 660 kHz - RFC -",
+    "url": "https://servidor28-1.brlogic.com:8028/live?source=website",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Paranapanema",
+    "url": "https://sonicpanel.oficialserver.com/8210/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - Rock Brasil (MP3)",
+    "url": "http://stream.zeno.fm/0y68rshdreruv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fyber",
+    "url": "https://cast2.hoost.com.br:8957/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sociedade Top FM 91,3",
+    "url": "https://sv11.hdradios.net:7246/stream",
+    "country": "Brazil",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Cidade RBR 107.1MHz",
+    "url": "https://wms5.webradios.com.br:18904/8904",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Tradição Católica",
+    "url": "https://servidor17-1.brlogic.com:7126/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Progresso (Ijuí)",
+    "url": "https://9727.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Iguatemi (Ijuí)",
+    "url": "https://centova4.transmissaodigital.com:20065/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Nikey",
+    "url": "https://stm8.voxhd.com.br:7996/stream%22",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio CNMA",
+    "url": "https://stream.zeno.fm/m3ytuubv0uhvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "100e7",
+    "url": "https://radio.saopaulo01.com.br:10919/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "SP RIO+",
+    "url": "https://s09.maxcast.com.br:8046/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO TRI FM 105.5 SANTOS SP",
+    "url": "https://radios.poolwebwork.com.br/8026/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fronteira FM 97.1",
+    "url": "https://sonicpanel.oficialserver.com/9992/stream",
+    "country": "Brazil",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Itay 88.7 FM",
+    "url": "https://stm1.streamproarte.com.br:7530/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Condá",
+    "url": "https://stm10.virtualcast.com.br:8292/conda",
+    "country": "Brazil",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SUPER GROOVE RÁDIO WEB",
+    "url": "https://servidor39-2.brlogic.com:7006/live?source=website",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clock 94,1 FM",
+    "url": "https://azura4.cmaudioevideo.com:8040/radio.aac",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Coringão",
+    "url": "https://s18.maxcast.com.br:8010/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio RBN Digital",
+    "url": "https://radio.rbndigital.com/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "UniFM 94,5https://radiounifm.com.br/",
+    "url": "https://funpar.jmvstream.com/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amiga FM 101.3",
+    "url": "https://cast.youngtech.radio.br/radio/8055/radio",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "CRUZEIRO FM",
+    "url": "https://stm26.xcast.com.br:12050/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cultura AM 1260",
+    "url": "https://sonicpanel.oficialserver.com/9990/stream",
+    "country": "Brazil",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Ágape",
+    "url": "https://servidor40-5.brlogic.com:8086/live?source=website",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "94 Live (Divinópolis - MG)",
+    "url": "https://94fm64aac.jmvstream.com/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Fronteira 102.3 FM",
+    "url": "https://8028.brasilstream.com.br/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "107.5 simplesmente diferente",
+    "url": "https://cast2.youngtech.radio.br/radio/8290/radio",
+    "country": "Brazil",
+    "bitrate": 24,
+    "codec": "AAC"
+  },
+  {
+    "name": "Gazeta Anápolis 87.9",
+    "url": "https://radio.gazetaanapolis.fm.br/listen/on_line/mp3-high?1744807592276",
+    "country": "Brazil",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cidade 98",
+    "url": "https://paineldj6.com.br:20088/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Interativa FM",
+    "url": "https://r10.ciclano.io:15007/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Web Rádio Arauto da Imaculada",
+    "url": "https://servidor34-1.brlogic.com:8090/live",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "VINTAGE SERTÃO",
+    "url": "https://servidor16.brlogic.com:7022/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rainha FM 97.3",
+    "url": "https://stm23.xcast.com.br:9090/stream?1709563685340=",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio 100 FM",
+    "url": "https://stream-012.zeno.fm/3x2dtz84qzzuv?zs=3I6xOdjNTymq-ntfNuxrdg?dist=mix-web-player-radio-ao-vivo&803368.5984383549",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Estação Virtual",
+    "url": "https://server20.srvsh.com.br:8802/",
+    "country": "Brazil",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Led FM",
+    "url": "http://cc6.streammaximum.com:8284/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clube FM 98,3",
+    "url": "https://9061.brasilstream.com.br/stream?rand=CYlU6",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Web Rádio Litoral",
+    "url": "https://stm8.voxhd.com.br:8342/;",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Local SIVB",
+    "url": "https://fpsnew1.listen2myradio.com:2199/listen.php?ip=82.145.63.6&port=4825&type=s1",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arara azul FM",
+    "url": "https://azura.ez1fm.com/listen/arara_azul/radio.mp3?ver=642094",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Mundo Rock",
+    "url": "https://servidor32-2.brlogic.com:7320/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Iberaba",
+    "url": "https://servidor26-3.brlogic.com:8004/live?source=website",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Boa 94.1 Fm Alagoinhas",
+    "url": "https://cast.radiu.live:9304/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Almanaque",
+    "url": "https://stm5.painelcast.com:7570/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Web Rádio Soul Black FM",
+    "url": "https://servidor37-1.brlogic.com:8068/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kero Rock",
+    "url": "https://stm1.painelwshost.com.br:7012/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Exaltação",
+    "url": "https://cast2.hoost.com.br:20158/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nossa FM 105,9",
+    "url": "https://audiostream.i9suaradio.com:1195/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Top Mais Web Rádio",
+    "url": "https://hts09.brascast.com:13158/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "MixFM-feat-LC",
+    "url": "https://www.bravecenterhost.com:8012/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Castanhal 105.9 FM",
+    "url": "https://server08.srvsh.com.br:8484/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Bom Sucesso 95.5 FM",
+    "url": "http://euroticast5.euroti.com.br:8110/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Correio do Vale FM",
+    "url": "https://shout25.crossradio.com.br:18088/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Jauense",
+    "url": "https://s38.maxcast.com.br:8091/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "capital fm",
+    "url": "https://sonicpanel.oficialserver.com:7024/",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Interação Music",
+    "url": "https://stm2.pousadavirtual.com.br:7092/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dence",
+    "url": "http://servidor32.brlogic.com:8198/live",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vatos Millo HR",
+    "url": "https://jpdofunk3.com.br:8004/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova FM Tapejara",
+    "url": "https://stm2.streamproarte.com.br:7358/stream/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Beats FM",
+    "url": "https://stm24.xcast.com.br:9910/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Mantiqueira",
+    "url": "https://server22.srvsh.com.br:8230/app?1746053921815",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VINTAGE ROCK",
+    "url": "https://servidor29.brlogic.com:7004/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ziggy - MIX (MP3)",
+    "url": "http://stream.zeno.fm/h0bbyx9fzs8uv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BAILÃO MISTERIOUS RADIO",
+    "url": "https://stream.zeno.fm/5vxixvrpqentv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO CIDADE MALUCA SAMP",
+    "url": "https://stream.zeno.fm/casz1sl1ufivv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "cmnweb",
+    "url": "https://s20.maxcast.com.br:8063/live?id=299405110012",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Upacarai",
+    "url": "http://stm01.virtualcast.com.br:8144/upacarai",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Roquette Pinto 82,9FM",
+    "url": "https://live9.livemus.com.br:27798/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Amigos do Rock",
+    "url": "https://stm25.srvaudio.com.br:11358/;",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Universitária UFG",
+    "url": "https://streaming.ufg.br:8443/radiouniversitaria",
+    "country": "Brazil",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Stone",
+    "url": "https://servidor22-3.brlogic.com:9670/live?source=app_pwa",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MultiHuman EntheoMusic",
+    "url": "https://libretime.multihuman.com.br:8443/main",
+    "country": "Brazil",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "mexfm",
+    "url": "https://stm22.xcast.com.br:12658/stream.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jaguarão FM 87,9",
+    "url": "https://stm19.xcast.com.br:11526/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Harmonia Mercosul FM 100.7 MHZ",
+    "url": "https://stm1.srvif.com:13938/stream",
+    "country": "Brazil",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Atlântida 97.3 FM - Criciúma",
+    "url": "https://26573.live.streamtheworld.com/ATL_CRI_FM.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "BAILAO MISTERIOUS RADIO",
+    "url": "https://stream-173.zeno.fm/5vxixvrpqentv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI1dnhpeHZycHFlbnR2IiwiaG9zdCI6InN0cmVhbS0xNzMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imp0YTFmWDhOVHFxT0QyU19lLW1QQ1EiLCJpYXQiOjE3NDU1MTcyNjcsImV4cCI6MTc0NTUxNzMyN30.OYewYIJHfBP1smonAiSEiAEGEMqo7UIpDqFTAmVtam0",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Timblesom",
+    "url": "https://stream.zeno.fm/du5bny6cwmqvv",
+    "country": "Brazil",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mistura Certa",
+    "url": "https://stm16.xcast.com.br:9496/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Movimento FM",
+    "url": "http://148.72.158.239:8044/live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clube 99 FM",
+    "url": "https://18008.brasilstream.com.br/stream?rand=f6ZCL",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "COMANDO VIP OFC Siga IG: @comando.vip.ofc",
+    "url": "http://jpdofunk3.com.br:8072/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Coroados AM 1310",
+    "url": "https://s41.maxcast.com.br:8176/live?1740250777185",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Conexão FM 98,1",
+    "url": "https://ssl1.transmissaodigital.com:20441/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jaguarão FM 87,9",
+    "url": "https://stm19.xcast.com.br:11526/",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio MS 87.9 FM - Mimoso do Sul",
+    "url": "http://stm1.voxtreaming.com.br:7254/stream?1740250557606",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super 1150 SP",
+    "url": "https://streaming.fox.srv.br:8072/stream",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO TOK",
+    "url": "https://cast2.hoost.com.br:20088/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "JAMBEIRO FM 104.9",
+    "url": "https://cast4.hoost.com.br:20010/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Piratininga 1070 Jau",
+    "url": "https://s35.maxcast.com.br:8002/live",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio New Black SP",
+    "url": "https://servidor39-3.brlogic.com:8238/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio São Bento FM - RSB 90.3",
+    "url": "https://cast2.youngtech.radio.br/listen/saobento903fm/radio",
+    "country": "Brazil",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Arara Azul FM",
+    "url": "https://azura.ez1fm.com/listen/arara_azul/radio.mp3",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cooee Phoenix",
+    "url": "http://cast.hoost.com.br:9141/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

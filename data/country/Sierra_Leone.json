@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Sierra Network Radio",
+    "url": "http://45.79.181.148:8004/;",
+    "country": "Sierra Leone",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Choice FM 93.3",
+    "url": "http://stream.zeno.fm/ct0gvk9149puv",
+    "country": "Sierra Leone",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

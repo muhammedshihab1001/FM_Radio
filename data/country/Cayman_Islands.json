@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Rooster 101",
+    "url": "https://rooster101-hurleysmedia.radioca.st/stream",
+    "country": "Cayman Islands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Island FM - The Rhythm Of Cayman",
+    "url": "https://iriefm-hurleysmedia.radioca.st/stream?_=912521",
+    "country": "Cayman Islands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Z99 Grand Cayman",
+    "url": "https://z99-hurleysmedia.radioca.st/stream",
+    "country": "Cayman Islands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "X107.1",
+    "url": "https://ice23.securenetsystems.net/X1071?playSessionID=C8803655-9BCC-E3A9-EB64CD924FCD83A6",
+    "country": "Cayman Islands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Paradise Radio",
+    "url": "https://www.radiostreamcast.com/listen/paradise_radio/radio.mp3",
+    "country": "Cayman Islands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Big Fish 95.5FM",
+    "url": "https://ice41.securenetsystems.net/BIGFISH",
+    "country": "Cayman Islands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Paradise Radio",
+    "url": "https://radiostreamcast.com/listen/paradise_radio/radio.mp3",
+    "country": "Cayman Islands",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

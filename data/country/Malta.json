@@ -1,0 +1,51 @@
+[
+  {
+    "name": "Calypso Radio",
+    "url": "https://s4.radio.co/sf3aa4c25a/listen",
+    "country": "Malta",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Christmas Radio Malta",
+    "url": "http://philae.shoutca.st:8402/stream?type=http&nocache=165",
+    "country": "Malta",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "One Radio",
+    "url": "http://s10.voscast.com:8202/stream",
+    "country": "Malta",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radju Maria Malta",
+    "url": "http://dreamsiteradiocp.com:8102/",
+    "country": "Malta",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADJU MARIJA MALTA",
+    "url": "http://dreamsiteradiocp.com:8102/stream",
+    "country": "Malta",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "MALTIN BISS",
+    "url": "https://s4.voscast.com:8837/default",
+    "country": "Malta",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Campus 103.7",
+    "url": "https://campusfm.radioca.st/campusfm_live",
+    "country": "Malta",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

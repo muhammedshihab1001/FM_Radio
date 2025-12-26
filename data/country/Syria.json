@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Ninar Radio",
+    "url": "http://ninarfm.grtvstream.com:8896/;",
+    "country": "Syria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Asima Online Radio",
+    "url": "http://asima.out.airtime.pro:8000/asima_a",
+    "country": "Syria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "قديم FM",
+    "url": "http://usa6.fastcast4u.com:5109/live",
+    "country": "Syria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Farah FM",
+    "url": "https://radio.farah.fm/",
+    "country": "Syria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Asima Online Radio",
+    "url": "https://asima.out.airtime.pro/asima_a",
+    "country": "Syria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Denge Qamishlo",
+    "url": "https://dengeqamishlo.stream.laut.fm/dengeqamishlo",
+    "country": "Syria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-149.zeno.fm/4luag56o066uv",
+    "country": "Syria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "denge cudi",
+    "url": "https://denge-cudi.stream.laut.fm/denge-cudi?pl=m3u",
+    "country": "Syria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emaar FM Radio",
+    "url": "https://stream-156.zeno.fm/4luag56o066uv",
+    "country": "Syria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Version FM",
+    "url": "https://versionfm.com:8100/stream",
+    "country": "Syria",
+    "bitrate": 24,
+    "codec": "MP3"
+  }
+]

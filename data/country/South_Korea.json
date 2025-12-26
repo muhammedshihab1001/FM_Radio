@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Listen.moe Kpop",
+    "url": "https://listen.moe/kpop/stream",
+    "country": "South Korea",
+    "bitrate": 256,
+    "codec": "OGG"
+  },
+  {
+    "name": "마포FM",
+    "url": "http://115.85.182.39/mapofm?type=.mp3",
+    "country": "South Korea",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "SoneFM (SuwonFM)",
+    "url": "http://115.85.182.39/sonefm",
+    "country": "South Korea",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "JeonjuFM",
+    "url": "http://radiostream.communityradio.kr/jcfm1",
+    "country": "South Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "K-RADIO",
+    "url": "https://s5.radio.co/s0a9796fe3/listen",
+    "country": "South Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oldpop Cafe",
+    "url": "http://cast.oldpopcafe.net:7080/",
+    "country": "South Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Listen.moe (K-Pop)",
+    "url": "https://listen.moe/kpop/fallback",
+    "country": "South Korea",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CBS 음악 FM",
+    "url": "https://zstream.win/radio/cbs/musicfm",
+    "country": "South Korea",
+    "bitrate": 107,
+    "codec": "AAC+"
+  },
+  {
+    "name": "YTN 라디오",
+    "url": "http://zstream.win/radio/ytn/radio",
+    "country": "South Korea",
+    "bitrate": 173,
+    "codec": "AAC"
+  },
+  {
+    "name": "CBS 파워라디오 [Music FM]",
+    "url": "https://lhttp-hw.qtfm.cn/live/15318233/64k.mp3",
+    "country": "South Korea",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WOW CCM",
+    "url": "http://wowccm.iptime.org:8000/stream/1/",
+    "country": "South Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SCN - Seongseo Community FM",
+    "url": "http://115.85.182.39/scnfm",
+    "country": "South Korea",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MapoFM",
+    "url": "http://onair.mapofm.net/mapofm",
+    "country": "South Korea",
+    "bitrate": 96,
+    "codec": "MP3"
+  }
+]

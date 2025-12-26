@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Radio Guyana Inc - Georgetown 89.5 FM | Essequibo 89.3 FM | Berbice 89.7 FM",
+    "url": "https://stream.radio.co/s9668e2ab5/listen",
+    "country": "Guyana",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "NTN Radio 89.1 Georgetown",
+    "url": "http://auds1.intacs.com/ntnradio",
+    "country": "Guyana",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HJ94.1 Boom FM Georgetown",
+    "url": "http://192.99.8.192:3630/stream",
+    "country": "Guyana",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "104.1 Guyana Lite FM",
+    "url": "https://n08.radiojar.com/nh42m158d4duv?rj-ttl=5&rj-tok=AAABlyfWxAgAw4EgJHYs7gEKgA",
+    "country": "Guyana",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 89.1 NTN Radio",
+    "url": "https://auds1.intacs.com/ntnradio",
+    "country": "Guyana",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,345 @@
+[
+  {
+    "name": "Tavo Balsas LT",
+    "url": "https://c18.radioboss.fm:8529/stream",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Palanga Street Radio",
+    "url": "https://stream.palanga.live:8443/palanga128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MANO FM LT",
+    "url": "http://stream.manofm.lt/listen?",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NeringaFM",
+    "url": "http://185.11.24.72:8000/neringafm",
+    "country": "Lithuania",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mazeikiai FM",
+    "url": "http://91.211.246.42:8000/Mazeikiai",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super FM",
+    "url": "http://82.140.131.217:8000/superfm.mp3",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "XFM Radijas",
+    "url": "http://88.119.151.74:8001/xfm",
+    "country": "Lithuania",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vaikų radijas",
+    "url": "http://88.119.151.74:8001/vaikuradijas",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MANO FM",
+    "url": "http://klausyk.manofm.lt:8000/Icecast2",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Start FM 94.2 MHz Vilnius [MP3]",
+    "url": "http://eteris.startfm.lt/startfm.mp3",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mažeikių Aidas",
+    "url": "http://maidas.kli.lt:8000/admin.mp3",
+    "country": "Lithuania",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Žinių radijas [64 kbps MP3]",
+    "url": "http://netradio.ziniur.lt/ziniur_64.mp3",
+    "country": "Lithuania",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sol fm",
+    "url": "http://radiosolfm.bounceme.net:8002/solfm",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tau",
+    "url": "http://radijas.tau.lt:8000/stream",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M-1 Plius",
+    "url": "http://radio.m-1.fm/m1plius/mp3",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio LaLuna",
+    "url": "http://radio.m-1.fm/laluna/high",
+    "country": "Lithuania",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Saules radijas",
+    "url": "http://saule-aac.vinlita.lt:8000/stream.aac",
+    "country": "Lithuania",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Saules Radijas LT",
+    "url": "http://saule-mp3.vinlita.lt:8008/stream.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Marijos radijas",
+    "url": "http://stream.marijosradijas.lt:8001/marijosradijas.mp3",
+    "country": "Lithuania",
+    "bitrate": 75,
+    "codec": "MP3"
+  },
+  {
+    "name": "M-1 [AAC]",
+    "url": "http://stream.m-1.fm/M-1aacp",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tauragės Radijas 98.2 FM",
+    "url": "http://stream.tauragesradijas.lt:8000/tr1",
+    "country": "Lithuania",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radijo stotis Lietus",
+    "url": "https://radio.m-1.fm/LIETUS",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio stotis Laluna",
+    "url": "https://radio.m-1.fm/laluna/mp3",
+    "country": "Lithuania",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "M-1 Dance",
+    "url": "https://radio.m-1.fm/m-1dance/aac",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "M-1 Plius",
+    "url": "https://radio.m-1.fm/m1plius/aacp64",
+    "country": "Lithuania",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TOPFM",
+    "url": "https://radio.topfm.lt/listen/topfm/topfm-320",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pulsas",
+    "url": "https://pulsas.lt/stream",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZipFM",
+    "url": "https://stream2.zipfm.lt/zipfm128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fiesta",
+    "url": "https://stream2.radiofiesta.lt/rfs128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZIP FM",
+    "url": "https://stream1.zipfm.lt/zipfm128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radiocentras",
+    "url": "https://stream2.rc.lt/rc128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vilnius fm",
+    "url": "https://stream.vilniusfm.lt/stream",
+    "country": "Lithuania",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "RELAX FM Lietuva",
+    "url": "https://stream1.relaxfm.lt/relaxfm128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO R",
+    "url": "https://stream1.rusradio.lt/rrb128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock FM",
+    "url": "https://stream2.rockfm.lt/crf128.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kapsai",
+    "url": "http://91.211.246.42:8000/Kapsai-HD",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "http://65.21.202.84:8026/stream",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Neringa FM",
+    "url": "http://radio.15min.lt:8000/neringafm",
+    "country": "Lithuania",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "X-RADIO",
+    "url": "http://185.8.60.5:8000/;",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Easy FM",
+    "url": "https://netradio.ziniur.lt/easyfm.mp3",
+    "country": "Lithuania",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Žinių Radijas",
+    "url": "http://netradio.ziniur.lt:8000/ziniur.mp3",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Лента stream 2",
+    "url": "https://streaming.broadcastrd.com/audio/radio-lenta.mp3",
+    "country": "Lithuania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Сигнал",
+    "url": "https://streaming.broadcastrd.com/audio/radio-singnal.mp3",
+    "country": "Lithuania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Upso radijas",
+    "url": "http://185.5.52.50:8000/upsas_320",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power Hit Radio LT",
+    "url": "https://ice.leviracloud.eu/phr192-mp3",
+    "country": "Lithuania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cold Tear Radio",
+    "url": "https://radio.rad10x.com/listen/coldtear/coldtear.mp3",
+    "country": "Lithuania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radijo Musikii",
+    "url": "https://stream.radijo-musikii.net/radio/8000/radio.mp3",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "lsg radijas",
+    "url": "https://streamingp.shoutcast.com/JamendoLounge?lang=lt%3bq%3d0.9",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fréquence Protestante",
+    "url": "https://freqpro.streamakaci.com/frequenceprotestante.mp3",
+    "country": "Lithuania",
+    "bitrate": 160,
+    "codec": "MP3"
+  }
+]

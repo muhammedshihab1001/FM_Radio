@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Slam 101.1 - Haggatt Hall",
+    "url": "http://usa4.fastcast4u.com:5006/;",
+    "country": "Barbados",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CBC 94.7 FM",
+    "url": "http://108.178.16.190:8000/947fm.mp3",
+    "country": "Barbados",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q100.7 FM",
+    "url": "http://108.178.16.190:8000/1007fm.mp3",
+    "country": "Barbados",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The One 98.1 FM",
+    "url": "http://108.178.16.190:8000/981fm.mp3",
+    "country": "Barbados",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Y103.3 - Haggatt Hall",
+    "url": "http://usa4.fastcast4u.com:5336/;",
+    "country": "Barbados",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RelaxingJazz.com",
+    "url": "http://stream-02-eu.relaxingjazz.com/stream/3/",
+    "country": "Barbados",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOB 92.9 FM",
+    "url": "https://ice66.securenetsystems.net/VOB929",
+    "country": "Barbados",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "HOTT 95.3FM",
+    "url": "https://ice64.securenetsystems.net/HOTT953",
+    "country": "Barbados",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Evah Blaze Radio",
+    "url": "http://streaming.radio.co/s1c1beb15d/listen",
+    "country": "Barbados",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "The BEAT 104.1 FM",
+    "url": "https://ice66.securenetsystems.net/THEBEAT1041",
+    "country": "Barbados",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LIFE 97.5 FM",
+    "url": "https://ice64.securenetsystems.net/LIFE975",
+    "country": "Barbados",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Bimshire 106.1 FM",
+    "url": "https://listen.radioking.com/radio/635914/stream/700051",
+    "country": "Barbados",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam 101.1",
+    "url": "http://usa4.fastcast4u.com:5006/stream",
+    "country": "Barbados",
+    "bitrate": 128,
+    "codec": "AAC+"
+  }
+]

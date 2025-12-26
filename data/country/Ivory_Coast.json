@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Skyrock Abidjan",
+    "url": "https://icecast.skyrock.net/s/abidjan_aac_64k",
+    "country": "Ivory Coast",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Africa Radio Abidjan",
+    "url": "https://africaradio.ice.infomaniak.ch/abidjan128.mp3",
+    "country": "Ivory Coast",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trace FM Côte d’Ivoire",
+    "url": "http://stream.trace.tv/trace_fm_ci-midfi.aac",
+    "country": "Ivory Coast",
+    "bitrate": 256,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Maria Ivory Coast",
+    "url": "https://dreamsiteradioplayer.it/wf/wfivorycoast/?pl=vlc&c=Radio%20Maria%20C%C3%B4te%20D%27Ivoire",
+    "country": "Ivory Coast",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Afrobeat international",
+    "url": "https://listen.radioking.com/radio/397789/stream/449770",
+    "country": "Ivory Coast",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Jam",
+    "url": "https://listen.radioking.com/radio/61201/stream/98566",
+    "country": "Ivory Coast",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ebnézer Rádio",
+    "url": "http://08.stmip.net:10028/;;",
+    "country": "Angola",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Fé Angola",
+    "url": "http://stream.zeno.fm/gsndh1xvczetv",
+    "country": "Angola",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Powermix FM",
+    "url": "https://cast.iplayradio.net/listen/powermixfm/stream",
+    "country": "Angola",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

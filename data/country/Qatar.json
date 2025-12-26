@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Radio Olive 106.3 - Jiyo Bindass",
+    "url": "https://22733.live.streamtheworld.com/OLIVE1063.mp3",
+    "country": "Qatar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Olive 106.3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLIVE1063AAC.aac",
+    "country": "Qatar",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Suno Malayalam FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNO917.mp3",
+    "country": "Qatar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qabayan Radio 94.3 FM (FLAC)",
+    "url": "https://c2.radioboss.fm:8478/live",
+    "country": "Qatar",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Al araby",
+    "url": "https://l3.itworkscdn.net/alarabyradiolive/alarabyradio_audio/icecast.audio",
+    "country": "Qatar",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Qabayan Radio 94.3 FM",
+    "url": "https://c2.radioboss.fm:18478/stream",
+    "country": "Qatar",
+    "bitrate": 192,
+    "codec": "AAC"
+  }
+]

@@ -1,0 +1,331 @@
+[
+  {
+    "name": "Sodais",
+    "url": "https://backup.qurango.net/radio/abdulrahman_alsudaes",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "الشيخ فارس عباد",
+    "url": "https://qurango.net/radio/fares_abbad",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة الفتاوى العامة",
+    "url": "https://qurango.net/radio/fatwa",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "أذكار المساء",
+    "url": "https://qurango.net/radio/athkar_masa",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Tataouine",
+    "url": "http://rtstream.tanitweb.com/tataouine",
+    "country": "Tunisia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Sfax",
+    "url": "http://rtstream.tanitweb.com/sfax",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Gafsa",
+    "url": "http://rtstream.tanitweb.com/gafsa",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Jeunes",
+    "url": "http://rtstream.tanitweb.com/jeunes",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Kef",
+    "url": "http://rtstream.tanitweb.com/kef",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Nationale",
+    "url": "http://rtstream.tanitweb.com/nationale",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Culturelle",
+    "url": "http://rtstream.tanitweb.com/culturelle",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisie Monastir",
+    "url": "http://rtstream.tanitweb.com/monastir",
+    "country": "Tunisia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM",
+    "url": "http://radio.mosaiquefm.net:8000/mosalive",
+    "country": "Tunisia",
+    "bitrate": 90,
+    "codec": "MP3"
+  },
+  {
+    "name": "oxygene fm",
+    "url": "http://stream.radios-arra.fr:8000/oxygenefm",
+    "country": "Tunisia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jawhara FM",
+    "url": "http://streaming2.toutech.net:8000/jawharafm",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KnOOz FM",
+    "url": "http://streaming.knoozfm.net:8000/knoozfm",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Misk",
+    "url": "https://live.misk.art/stream",
+    "country": "Tunisia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sabra FM",
+    "url": "https://manager5.streamradio.fr:1905/stream",
+    "country": "Tunisia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zitouna Zitouna FM",
+    "url": "https://radio.radiotunisienne.tn/radiozaitouna",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ستة شوال",
+    "url": "https://qurango.net/radio/SixDaysOfShawwal",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": ".شهر رمضان",
+    "url": "https://qurango.net/radio/ramadan",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM DJ",
+    "url": "https://radio.mosaiquefm.net/mosadj",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM Tarab",
+    "url": "https://radio.mosaiquefm.net/mosatarab",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM Tounsi",
+    "url": "https://radio.mosaiquefm.net/mosatounsi",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio IFM",
+    "url": "https://live.ifm.tn/radio/8000/ifmlive",
+    "country": "Tunisia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM",
+    "url": "https://radio.mosaiquefm.net/mosalive",
+    "country": "Tunisia",
+    "bitrate": 90,
+    "codec": "MP3"
+  },
+  {
+    "name": "diwanfm",
+    "url": "https://streaming.diwanfm.net/stream",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tunisia Med",
+    "url": "https://azuracast.conceptradio.fr:8000/radio.mp3",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mosaique FM Gold",
+    "url": "https://radio.mosaiquefm.net/mosagold",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jawhara FM",
+    "url": "https://streaming2.toutech.net/jawharafm",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AlHayet FM",
+    "url": "https://manager8.streamradio.fr:2885/stream",
+    "country": "Tunisia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة علي جابر",
+    "url": "https://qurango.net/radio/ali_jaber",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "راديو فن    Fenn Radio",
+    "url": "https://stream.zeno.fm/76e9f1gsduhvv",
+    "country": "Tunisia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "في ضلال السيرة النبوية",
+    "url": "https://qurango.net/radio/fi_zilal_alsiyra",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة ميراث الأنبياء",
+    "url": "https://radio.al7eah.net/8028/;",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio fouedb Music",
+    "url": "https://streaming.live365.com/a82574",
+    "country": "Tunisia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "أذكار الصباح",
+    "url": "https://qurango.net/radio/athkar_sabah",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "oasis-fm",
+    "url": "https://stream3.rcast.net/69919",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "تكبيرات العيد",
+    "url": "https://qurango.net/radio/eid",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "الإختيارات الفقهية لإبن باز",
+    "url": "https://qurango.net/radio/alaikhtiarat_alfiqhayh_bin_baz",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "آيات السكينة",
+    "url": "https://qurango.net/radio/sakeenah",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "الشيخ سعد الغامدي",
+    "url": "https://qurango.net/radio/saad_alghamdi",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Express FM",
+    "url": "https://expressfm.ice.infomaniak.ch/expressfm-64.mp3",
+    "country": "Tunisia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "راديو جنجر للاطفال",
+    "url": "https://arabkidsradio.art/radio/8000/radio.mp3",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "عشر ذي الحجة",
+    "url": "https://qurango.net/radio/ten_dhul_hijjah",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "يوم عاشوراء",
+    "url": "https://qurango.net/radio/TheDayofAshoora",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "الشيخ صلاح بو خاطر",
+    "url": "https://qurango.net/radio/slaah_bukhatir",
+    "country": "Tunisia",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

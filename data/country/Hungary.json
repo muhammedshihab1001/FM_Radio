@@ -1,0 +1,1682 @@
+[
+  {
+    "name": "SuperDj Radio",
+    "url": "http://stream.diazol.hu:35150/autodj",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "superdj radio",
+    "url": "http://stream.diazol.hu:35150/stream",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Indie",
+    "url": "https://oxygenmusic.hu:8443/oxygenindie",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Petőfi Rádió",
+    "url": "http://mr-stream.mediaconnect.hu/4737/mr2.aac",
+    "country": "Hungary",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RadiOzora Chill",
+    "url": "http://chill.out.airtime.pro:8000/chill_a",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Campus Rádió FM90",
+    "url": "https://stream.fm90.hu:8000/;",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Bside/Alternative",
+    "url": "https://mediagw.e-tiger.net/stream/zc16",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM90 Campus Rádió",
+    "url": "http://stream.fm90.hu:8000/;",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Rádió",
+    "url": "https://icast.connectmedia.hu/5001/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Parlamenti adások",
+    "url": "http://mr-stream.mediaconnect.hu/4745/mr5.aac",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kossuth",
+    "url": "https://icast.connectmedia.hu/4736/mr1.mp3",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen The 80s Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenthe80shits",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danubius",
+    "url": "https://stream.danubiusradio.hu/danubius_320k",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Magyar Zene",
+    "url": "https://oxygenmusic.hu:8443/oxygenmagyarzene",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sunshine Dance",
+    "url": "http://195.56.193.129:8120/;stream/1?icy=http",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Inforádió",
+    "url": "http://stream.infostart.hu/lejatszo/index.html?sid=1",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Argentine Tango Radio",
+    "url": "https://ais-edge94-nyc04.cdnstream.com/2202_128.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool FM - kultX",
+    "url": "http://mediagw.e-tiger.net/stream/krehq",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA HUNGARY",
+    "url": "http://dreamsiteradiocp.com:8032/stream",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Manna FM 98.6",
+    "url": "http://icast.connectmedia.hu/4780/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pannónia Rádió",
+    "url": "http://kft.kesintisizyayin.com:8130/stream",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool FM - Goldie'S",
+    "url": "http://mediagw.e-tiger.net:8000/stream/goldhq",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio1",
+    "url": "https://icast.connectmedia.hu/5202/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "99,4 SunshineFM",
+    "url": "http://195.56.193.129:8100/sunshine",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Roxy Rádió",
+    "url": "https://s2.audiostream.hu/roxy_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1 - Budapest",
+    "url": "http://icast.connectmedia.hu/5201/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power FM - Rock FM",
+    "url": "http://s39.myradiostream.com:11590/listen/;.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió Dikh",
+    "url": "http://icast.connectmedia.hu/6121/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Juventus",
+    "url": "http://s2.audiostream.hu:8080/juventus_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Callisto",
+    "url": "http://188.165.11.30:4500/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sola Rádió",
+    "url": "http://188.165.11.30:7000/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic Disco Radio",
+    "url": "http://188.165.11.30:4420/live.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Maxi rádió",
+    "url": "http://46.107.212.101:9240/live",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió Bézs 2",
+    "url": "http://195.210.29.82:8002/bezs2",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió Bézs",
+    "url": "http://195.210.29.82:8001/bezs",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sláger FM",
+    "url": "http://92.61.114.159:7812/slagerfm256.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trió FM",
+    "url": "http://92.119.123.141:9090/stream",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Forrás radio",
+    "url": "http://91.82.85.44:1630/forrasradio.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mixradio Retró",
+    "url": "http://45.67.156.157:18004/retro",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mixradio fresh",
+    "url": "http://adas.adasszerver.hu/live",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Poptarisznya",
+    "url": "http://adas.poptarisznya.hu:8200/live.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Poptarisznya Oldies",
+    "url": "http://adas.poptarisznya.hu:8200/oldies.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aktív Rádió",
+    "url": "http://aktivradio.hu:8000/aktiv.mp3",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magyar Katolikus Rádió",
+    "url": "http://katolikusradio.hu:9000/live_hi.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BALATONICA RADIO",
+    "url": "http://balatonica.hu:8000/stream_high",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "disco diamond 2",
+    "url": "http://discodiamond.radioca.st/stream",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Buddha FM",
+    "url": "http://libretime.buddhafm.hu:4000/buddhafm",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bartók Rádió",
+    "url": "http://mr-stream.mediaconnect.hu/4742/mr3hq.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Duna World Rádió",
+    "url": "http://mr-stream.mediaconnect.hu/4760/dwr.aac",
+    "country": "Hungary",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dankó Rádió",
+    "url": "http://mr-stream.mediaconnect.hu/4747/mr7.aac",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Táska Rádió",
+    "url": "http://live.taskaradio.com:7070/;stream.nsv#.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Country",
+    "url": "http://mediagw.viacomkft.hu:8000/stream/zc17",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MegaDance Rádió",
+    "url": "http://megadanceradio.hopto.org:8000/livemega.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Szent István Rádió",
+    "url": "http://online.szentistvanradio.hu:7000/adas",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic Disco Rádió",
+    "url": "http://live2.magicdiscoradio.com:4420/live.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Enying FM Hungary",
+    "url": "http://radioe.net:8080/efm_hd",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio E",
+    "url": "http://radioe.net:8080/efm_high",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hujujuj",
+    "url": "http://radionova.hujujuj.com:8000/main",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "I Love Pécs Rádió",
+    "url": "http://radio.ilovepecs.hu:8200/ilp.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "DANCEable Radio",
+    "url": "http://s9.myradiostream.com:35944/listen.pls?sid=1",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM",
+    "url": "http://stream.webthings.hu:8000/fm95-x-128.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mercy Rádió",
+    "url": "http://stream.mercyradio.eu/mercyradio.mp3",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió Most",
+    "url": "http://stream.radiomost.hu:8200/live.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mercy Rádió - Kabaré",
+    "url": "http://stream.mercyradio.eu/kabare.mp3",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mercy Rádió - Mulatós",
+    "url": "http://stream.mercyradio.eu/mulatos.mp3",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lépés Rádió",
+    "url": "http://stream.lepesradio.hu:4000/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tilos Rádió 32 kbit/sec",
+    "url": "http://stream.tilos.hu/tilos_32.mp3",
+    "country": "Hungary",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tilos Rádió FM 90.3",
+    "url": "http://stream.tilos.hu:8000/tilos",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tilos Rádió",
+    "url": "http://stream.tilos.hu/tilos",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bithang Yoo Rádió",
+    "url": "http://stream.diazol.hu:35160/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cegléd Rádió",
+    "url": "http://stream.cegledradio.hu:4387/mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió Antritt",
+    "url": "http://stream.radioantritt.hu:8000/Antritt",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Paradicsom",
+    "url": "http://stream1.virtualisan.net:6590/live.mp3",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Csillagpont Rádió",
+    "url": "http://streamer1.borsodweb.hu:48000/csillagpont",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "magic disco",
+    "url": "http://stream1.virtualisan.net:4420/live.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hobby Rádió",
+    "url": "http://www.hobbyradio.hu:8000/hobbyradio.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klubrádió 95,3",
+    "url": "https://a7.asurahosting.com:8160/radio.mp3",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Európa Rádió Miskolc",
+    "url": "https://europaradio.hu/miskolc",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Lépés Rádió",
+    "url": "https://lepesradio.hu/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nemzeti Sport Radio",
+    "url": "https://icast.connectmedia.hu/4656/mr11.aac",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Megadance",
+    "url": "https://gamershouse.hu:8080/livemega.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Spencer-Hill",
+    "url": "https://oxygenmusic.hu:8443/oxygenspencerhillzenek",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "AdventNet rádió",
+    "url": "https://radio.adventnet.hu:8443/stream",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO INSIDE",
+    "url": "https://radioinside.eu/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Győr+",
+    "url": "https://stream.42netmedia.com:8443/sc_gyor1",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sárvár Rádió",
+    "url": "https://stream.42netmedia.com:8443/sarvar",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lépés Rádió",
+    "url": "https://stream.nmih.hu:4002/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Laza Rádió - Mulatós",
+    "url": "https://stream.lazaradio.com/mulatos.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MixradioRetro",
+    "url": "https://stream.phost.hu:8004/retro",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pécs Aktuál Rádió",
+    "url": "https://stream.pecsaktual.hu/paradio.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klubrádió - Zebrádió",
+    "url": "https://stream.zebradio.hu:8443/zebradio",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 103.9 A Rock",
+    "url": "https://stream.rockradio.hu/",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Base FM",
+    "url": "https://icast.connectmedia.hu/5401/live.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ez az a nap! rádió",
+    "url": "https://www.radioking.com/play/ez-az-a-nap-radio",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool FM",
+    "url": "http://mediagw.e-tiger.net/stream/cfmhq",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rise FM Hit House",
+    "url": "https://oxygenmusic.hu:8443/RISE_HITHOUSE_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rise FM Deep",
+    "url": "https://oxygenmusic.hu:8443/RISE_DEEPHOUSE_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Youventus Rádió",
+    "url": "http://s2.audiostream.hu/juventus_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Euphonic Moments",
+    "url": "http://5.189.174.137:8000/Euphonicmoments_radio256kbps.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió X - A fiatalok rádiója",
+    "url": "https://stream.phost.hu:8002/stream3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Momo Rádió",
+    "url": "https://s03.diazol.hu:7092/zene.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trend FM",
+    "url": "https://radio.trendfm.hu/trendfm_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Park FM",
+    "url": "https://s03.diazol.hu:7142/stream.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tilos Rádió FM 90.3",
+    "url": "http://stream.tilos.hu/tilos_128.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "I Love Pécs Rádió",
+    "url": "https://stream.ilovepecsradio.hu/ilp.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.ogg",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "OGG"
+  },
+  {
+    "name": "Sola Rádió",
+    "url": "https://stream1.virtualisan.net/prx/7000/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Megadance Rádió",
+    "url": "http://gamershouse.hu:8000/livemega.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sunshine FM",
+    "url": "http://195.56.193.129:8100/;stream/1?icy=http",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Reménység Hangja Rádió",
+    "url": "https://live.rvs.ro/mg",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sola Rádió",
+    "url": "http://188.165.11.30:7000/",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sunshine FM",
+    "url": "http://195.56.193.129:8100/;stream/1",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tempomax Rádió",
+    "url": "http://94.23.169.250:2060/live.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tilos Radio",
+    "url": "https://stream.tilos.hu/tilos_128.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super DJ Radio",
+    "url": "http://s03.diazol.hu:35150/live",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO SMILE",
+    "url": "https://smile.str.42net.hu/stream/;",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sunrise",
+    "url": "https://s03.diazol.hu:7172/stream",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dance Wave!",
+    "url": "https://dancewave.online/dance.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kossuth Rádió",
+    "url": "http://mr-stream.mediaconnect.hu/4734/mr1.aac",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dance Wave!",
+    "url": "https://dancewave.online/dance.ogg",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Laza Rádió (OGG 320 Kbps)",
+    "url": "http://stream.lazaradio.com:8100/live.ogg",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "OGG"
+  },
+  {
+    "name": "Oxygen Classic Rock",
+    "url": "https://oxygenmusic.hu:8443/oxygenclassicrock",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1",
+    "url": "https://icast.connectmedia.hu/5201/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danubius Rádió",
+    "url": "http://stream.danubiusradio.hu/danubius_128k",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Oldies",
+    "url": "https://oxygenmusic.hu:8443/oxygenoldies",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klasszik Rádió 92.1",
+    "url": "http://www.klasszikradio.hu/klasszik.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen The 90s Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenthe90shits",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.aac",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "COOLFM Funky&Soul",
+    "url": "https://mediagw.e-tiger.net/stream/zc25",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM - Budapest",
+    "url": "https://icast.connectmedia.hu/5101/live.mp3/;",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.flac.ogg",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Oxygen Music",
+    "url": "https://oxygenmusic.hu:8443/oxygenmusic_192",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "COOLFM Filmzenék",
+    "url": "https://mediagw.e-tiger.net/stream/zc01?ver=753658",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Italo Hits",
+    "url": "https://oxygenmusic.hu:8443/oxygenitalohits",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "BDPST ROCK -  320 kbit/s",
+    "url": "https://bdpstrock.hu/live_320.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Petőfi Rádió",
+    "url": "https://icast.connectmedia.hu/4738/mr2.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM YouTube HOT HITS!",
+    "url": "https://mediagw.e-tiger.net/stream/zc22",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR1 - Kossuth Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4736/mr1.mp3",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazzy",
+    "url": "https://radio.musorok.org/listen/jazzy/jazzy.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Best Hits EVER",
+    "url": "https://mediagw.e-tiger.net/stream/zc11",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave!",
+    "url": "https://dancewave.online/dance.opus",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "OGG"
+  },
+  {
+    "name": "MR2 - Petőfi Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DANCE 90'S",
+    "url": "https://mediagw.e-tiger.net/stream/zc06?ver=887687",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM 2000-es évek",
+    "url": "https://mediagw.e-tiger.net/stream/zc03",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadiOzora",
+    "url": "http://trance.out.airtime.pro:8000/trance_a",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazzy Groove",
+    "url": "https://radio.musorok.org/listen/jazzygroove/jazzygroove.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Party",
+    "url": "https://mediagw.e-tiger.net/stream/zc18",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool.FM DANCE 2000's",
+    "url": "https://mediagw.e-tiger.net/stream/zc04?ver=209775",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM - Nyíregyháza",
+    "url": "https://icast.connectmedia.hu/5115/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Nyári Slágerek",
+    "url": "https://mediagw.e-tiger.net/stream/zc09",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Hazai Kedvencek",
+    "url": "https://mediagw.e-tiger.net/stream/zc19",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM 90-es évek",
+    "url": "https://mediagw.e-tiger.net/stream/zc05",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Lounge",
+    "url": "https://oxygenmusic.hu:8443/oxygenlounge",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bias Radio",
+    "url": "https://admin.biasradio.com/listen/bias_radio/live",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR7 - Dankó Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4748/mr7.mp3",
+    "country": "Hungary",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Friss FM 93.4",
+    "url": "http://stream.frissfm.hu:10050/;",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Acoustic",
+    "url": "https://mediagw.e-tiger.net/stream/zc12",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Jazz",
+    "url": "https://mediagw.e-tiger.net/stream/zc13",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Folkrádio",
+    "url": "https://stream.folkradio.hu/folkradio.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Csukás Meserádió",
+    "url": "https://mr-stream.connectmedia.hu/4611/mr10.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danubius",
+    "url": "https://stream.danubiusradio.hu/danubius_128k",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 7",
+    "url": "http://netradio.radio7.hu:8300/stream.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Love Songs",
+    "url": "https://mediagw.e-tiger.net/stream/zc28",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM 2010-es évek",
+    "url": "https://mediagw.e-tiger.net/stream/zc02",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "103.9 rock",
+    "url": "https://icast.connectmedia.hu/5301/live.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool.FM REMIX MUSIC",
+    "url": "https://mediagw.e-tiger.net/stream/zc23?ver=266114",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Chill",
+    "url": "https://mediagw.e-tiger.net/stream/zc24",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.opus",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "OGG"
+  },
+  {
+    "name": "COOLFM (Classic) Rock",
+    "url": "https://mediagw.e-tiger.net/stream/zc10",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ozora",
+    "url": "https://trance.out.airtime.pro/trance_a",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Karácsonyi Dalok",
+    "url": "https://mediagw.e-tiger.net/stream/zc27",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1 Miskolc",
+    "url": "https://icast.connectmedia.hu/5211/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mustár Rádió",
+    "url": "http://193.138.125.14:8500/;",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM World Music",
+    "url": "https://mediagw.e-tiger.net/stream/zc26",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Youventus Rádió FLAC",
+    "url": "http://s2.audiostream.hu:8090/juventus_FLAC",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Szakcsi rádió",
+    "url": "https://mr-stream.connectmedia.hu/4691/mr9.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazzy Soul",
+    "url": "https://radio.musorok.org/listen/jazzysoul/jazzysoul.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "oxigen",
+    "url": "https://oxygenmusic.hu:8443/oxygenmusic",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Next FM",
+    "url": "https://stream.nextfm.hu/radio/8000/nextfmhu.mp3?1590416039",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BDPST ROCK -  96 kbit/s;",
+    "url": "https://bdpstrock.hu/live_128.mp3",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool.FM GIRL POWER",
+    "url": "https://mediagw.e-tiger.net/stream/zc15?ver=58649",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ozonefm",
+    "url": "https://oxygenmusic.hu:8443/ozonefm_320",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "BDPST ROCK -  192 kbit/s",
+    "url": "https://bdpstrock.hu/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nemzetiségi adások",
+    "url": "http://mr-stream.mediaconnect.hu/4743/mr4.aac",
+    "country": "Hungary",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Danubius Rádió",
+    "url": "https://stream.danubiusradio.hu/danubius_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazzy Cool",
+    "url": "https://radio.musorok.org/listen/jazzycool/jazzycool.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MegaLive",
+    "url": "https://mega-live.net:2053/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Club Dance Online - Retro",
+    "url": "http://stream.clubdance.online:8000/retro",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Classics",
+    "url": "https://oxygenmusic.hu:8443/Classic_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOLFM Sportoláshoz",
+    "url": "https://mediagw.e-tiger.net/stream/zc20",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR3 - Bartók Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4741/mr3.mp3",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Disco Diamond Radio",
+    "url": "https://ddr2020.radioca.st/stream",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool.FM PARTY Hits",
+    "url": "https://mediagw.e-tiger.net/stream/zc18?ver=975254",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Black Music",
+    "url": "https://oxygenmusic.hu:8443/blackmusic_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ROCK FM: 103.9",
+    "url": "https://icast.connectmedia.hu/5301/live.mp3/",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadiOzora Chill",
+    "url": "https://chill.out.airtime.pro/chill_a",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "OXYGEN LOVE SONGS",
+    "url": "https://oxygenmusic.hu:8443/oxygenlovesongs",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nemzeti Sportrádió",
+    "url": "https://icast.connectmedia.hu/4657/mr11.mp3",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Kids",
+    "url": "https://oxygenmusic.hu:8443/oxygenkids",
+    "country": "Hungary",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danubius",
+    "url": "https://danubiusradio.hu/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Balatonica",
+    "url": "http://balatonica.hu:8000/stream_low",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool FM - Xbeat",
+    "url": "http://mediagw.e-tiger.net/stream/xbeathq",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BDPST ROCK",
+    "url": "https://bdpstrock.hu/live_HiFi.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Mera",
+    "url": "https://stream.radio.co/s3fd8d173f/listen",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1 - Békéscsaba",
+    "url": "https://icast.connectmedia.hu/5233/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lahmacun Radio",
+    "url": "https://streaming.lahmacun.hu/radio/8000/radio.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rocker Rádió",
+    "url": "https://rockerradio.online/live.mp3",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic Disco Radio",
+    "url": "https://free.rcast.net/66407",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Spirit FM",
+    "url": "http://s01.diazol.hu:10050/spweb1.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Xmas (320)",
+    "url": "https://oxygenmusic.hu:8000/xmas_320",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Shine FM Radio",
+    "url": "https://s01.diazol.hu:10042/stream/;",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM - Pécs",
+    "url": "https://icast.connectmedia.hu/5128/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR8 - Duna World Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4761/dwr.mp3",
+    "country": "Hungary",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 47",
+    "url": "https://s01.diazol.hu:9102/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "OZONE FM",
+    "url": "https://oxygenmusic.hu:8000/ozonefm_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radiobrand",
+    "url": "http://radiobrand.es:8084/",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oxygen Happy",
+    "url": "https://oxygenmusic.hu:8443/oxygenhappy_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM - Eger",
+    "url": "https://icast.connectmedia.hu/5116/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Youventus Rádió (96 Kbps)",
+    "url": "https://youventusradio.hu/stream_96k",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CoolFm latin",
+    "url": "https://mediagw.e-tiger.net/stream/zc07",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sense",
+    "url": "http://s03.diazol.hu:7010/stream.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR5 - Parlamenti Adások",
+    "url": "https://mr-stream.connectmedia.hu/4746/mr5.mp3",
+    "country": "Hungary",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rise FM Classic",
+    "url": "https://oxygenmusic.hu:8443/RISE_CLASSIC_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1 - Gyöngyös",
+    "url": "https://icast.connectmedia.hu/5039/live.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR4 - Nemzetiségi Adások",
+    "url": "https://mr-stream.connectmedia.hu/4744/mr4.mp3",
+    "country": "Hungary",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magyar Evangéliumi Rádió",
+    "url": "http://stream.radio.co/s3fd8d173f/listen",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "YOUVENTUS RÁDIÓ",
+    "url": "https://s2.audiostream.hu/juventus_192k",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rise FM R'n'B",
+    "url": "https://oxygenmusic.hu:8443/RISE_RNB_128",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KoronaFM100",
+    "url": "https://www.koronafm100.hu/live.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádió 1 Eger",
+    "url": "https://www.radio1eger.hu/radio1eger.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chiqui Radio",
+    "url": "https://stream.zeno.fm/gvz27wezgghtv",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO GROOVE",
+    "url": "https://s03.diazol.hu:35112/mobil.aac",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Best FM Székesfehérvár",
+    "url": "https://icast.connectmedia.hu/5113/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lahmacun radio",
+    "url": "https://streaming.lahmacun.hu/listen/lahmacun_radio/radio.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zalan Radio",
+    "url": "https://stream.zeno.fm/kvqrsxeeafctv",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Szünet rádió",
+    "url": "https://stream.szunetrad.io/listen/szunetradio/stream_sq.mp3",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rábaköz Rádió",
+    "url": "https://radio.molnarkft.hu/rabakozradio",
+    "country": "Hungary",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "periszkop radio",
+    "url": "http://mumia.periszkopradio.hu:8050/periszkop.ogg",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "UseRadio",
+    "url": "http://78.129.241.110:17556/stream",
+    "country": "Hungary",
+    "bitrate": 256,
+    "codec": "MP3"
+  }
+]

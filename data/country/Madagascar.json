@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Taratra",
+    "url": "http://41.188.43.211:8000/taratraradio.mp3",
+    "country": "Madagascar",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio des jeunes (RDJ)",
+    "url": "http://rdj966.net:8000/rdj966.mp3",
+    "country": "Madagascar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESDES Radio",
+    "url": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+    "country": "Madagascar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hopefy Radio MG",
+    "url": "https://hopefy.fanantenanahoanao.org/listen/hopefy_radio_mg/radio.mp3",
+    "country": "Madagascar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NetPro.TV Radio",
+    "url": "https://radio.netpro.tv/listen/netpro_radio/radio.mp3",
+    "country": "Madagascar",
+    "bitrate": 64,
+    "codec": "MP3"
+  }
+]

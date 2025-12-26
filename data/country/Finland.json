@@ -1,0 +1,520 @@
+[
+  {
+    "name": "Radio SUN",
+    "url": "http://st.downtime.fi/sun.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Finest Fm",
+    "url": "http://212.47.220.188:8000/listen.mp3",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Patmos",
+    "url": "https://s3.yesstreaming.net:7011/radio",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Doubleclap Radio",
+    "url": "https://s3.radio.co/scfd7273b2/listen",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Roll FM",
+    "url": "http://stream.rollfm.fi/",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio nova",
+    "url": "http://stream.bauermedia.fi/radionova/radionova_64.aac",
+    "country": "Finland",
+    "bitrate": 68,
+    "codec": "AAC"
+  },
+  {
+    "name": "NRJ Suomi",
+    "url": "http://stream.bauermedia.fi/nrj/nrj_128.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei",
+    "url": "http://isojako.radiodei.fi:8000/yleisohjelma",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Pohjanmaa",
+    "url": "http://isojako.radiodei.fi:8000/lapua",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Oulu",
+    "url": "http://isojako.radiodei.fi:8000/oulu",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Kokkola",
+    "url": "http://isojako.radiodei.fi:8000/kruunupyy",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Helsinki",
+    "url": "http://isojako.radiodei.fi:8000/helsinki",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Rovaniemi",
+    "url": "http://isojako.radiodei.fi:8000/rovaniemi",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Turku ja Eurajoki",
+    "url": "http://isojako.radiodei.fi:8000/turkueurajoki",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Kristiinankaupunki",
+    "url": "http://isojako.radiodei.fi:8000/kristiinankaupunki",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Kemi",
+    "url": "http://isojako.radiodei.fi:8000/tornio",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Patmos",
+    "url": "http://s3.yesstreaming.net:7011/radio",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pooki",
+    "url": "http://stream.bauermedia.fi/radiopooki/radiopooki_64.aac",
+    "country": "Finland",
+    "bitrate": 68,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Tuottaja1",
+    "url": "https://kaupunkiradio.radiotaajuus.fi:9013/radio",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "POPfm",
+    "url": "https://stream.madmenmedia.se/popfm",
+    "country": "Finland",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio nova",
+    "url": "http://stream.bauermedia.fi/radionova/radionova_128.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioSE.fi",
+    "url": "https://wr2.downtime.fi/kaakko.aac",
+    "country": "Finland",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Hear",
+    "url": "http://hear.fi:8000/hear.mp3",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sea FM",
+    "url": "https://s3.myradiostream.com/4976/listen.mp3",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Natale",
+    "url": "https://streaming.radiostreamlive.com/radionatale_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
+    "country": "Finland",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yle Radio1HIFI 256 Kb/s",
+    "url": "http://icecast.live.yle.fi/radio/YleRadio1Hifi/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "YleX",
+    "url": "https://icecast.live.yle.fi/radio/YleX/icecast.audio",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream.bauermedia.fi/radionova/radionova_128.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio SuomiRock",
+    "url": "https://stream.bauermedia.fi/suomirock/suomirock_128.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Voima",
+    "url": "https://cast2.radiovoima.fi/voima.mp3",
+    "country": "Finland",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Santa Claus",
+    "url": "https://streaming.radiostreamlive.com/radiosantaclaus_devices",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Järviradio",
+    "url": "https://jarviradio.radiotaajuus.fi:9000/jr",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "YleRadioSuomiTampere",
+    "url": "https://icecast.live.yle.fi/radio/YleTampere/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yle Vega Österbotten",
+    "url": "https://icecast.live.yle.fi/radio/YleVegaOsterbotten/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Natale",
+    "url": "https://streaming.radiostreamlive.com/radionatale_devices",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nostalgia",
+    "url": "https://stream-redirect.bauermedia.fi/nostalgia/nostalgia_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "NRJ",
+    "url": "https://stream-redirect.bauermedia.fi/nrj/nrj_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream-redirect.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "YLE radio Suomi, Jyväskylä",
+    "url": "https://icecast.live.yle.fi/radio/YleJKL/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Iskelmä",
+    "url": "https://stream.bauermedia.fi/iskelma/iskelma_128.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Musa",
+    "url": "http://n09.radiojar.com/n6yg5q0z8vzuv.m4a",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yle Klassinen",
+    "url": "https://icecast.live.yle.fi/radio/YleKlassinen/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NRJ Suomi",
+    "url": "https://stream.bauermedia.fi/nrj/nrj_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1667679042www",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kasari",
+    "url": "https://stream-redirect.bauermedia.fi/kasari/kasari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio KAAKKO",
+    "url": "http://wr2.downtime.fi/kaakko.aac",
+    "country": "Finland",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Basso",
+    "url": "https://stream-redirect.bauermedia.fi/basso/bassoradio_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ysäri",
+    "url": "https://stream-redirect.bauermedia.fi/ysari/ysari_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kiss",
+    "url": "https://stream-redirect.bauermedia.fi/kiss/kiss_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Savon Aallot",
+    "url": "https://cast.savonaallot.fi/savonaallot",
+    "country": "Finland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yle Radio Suomi, Mikkeli",
+    "url": "https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Keskisuomalainen",
+    "url": "https://cast.radiokeskisuomalainen.fi/radiokeskisuomalainen",
+    "country": "Finland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tampereen Kiakkoradio: Tappara",
+    "url": "https://st.downtime.fi/kiakko-tappara.aac",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yle Radio Suomi - Pori",
+    "url": "https://icecast.live.yle.fi/radio/YlePori/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "YLE Radio Suomi Hämeenlinna",
+    "url": "https://icecast.live.yle.fi/radio/YleHameenlinna/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yle Vega Västnyland",
+    "url": "https://icecast.live.yle.fi/radio/YleVegaVastnyland/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream.bauermedia.fi/radionova/radionova_64.aac",
+    "country": "Finland",
+    "bitrate": 68,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sea FM Radio",
+    "url": "http://s3.myradiostream.com:4976/;",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TOP51",
+    "url": "https://stream-redirect.bauermedia.fi/top51/top51_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Yle Radio Suomi, Kotka",
+    "url": "https://icecast.live.yle.fi/radio/YleKotka/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pooki",
+    "url": "https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1697625781",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream.radioplay.fi/radionova/radionova_64.aac?aw_0_1st.skey=1692715205&aw_0_1st.bauer_loggedin=false",
+    "country": "Finland",
+    "bitrate": 68,
+    "codec": "AAC"
+  },
+  {
+    "name": "Roll FM",
+    "url": "https://rollfm.online/",
+    "country": "Finland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dei Kajaani",
+    "url": "https://stream.dei.fi:8443/kajaani",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yle radio Suomi Pohjanmaa",
+    "url": "https://icecast.live.yle.fi/radio/YlePohjanmaa/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yle radio Suomi Etelä-pohjanmaa",
+    "url": "https://icecast.live.yle.fi/radio/YleSeinajoki/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio SUN",
+    "url": "https://st.downtime.fi/sun.mp3",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yle radio Vega Östnyland",
+    "url": "https://icecast.live.yle.fi/radio/YleVegaOstnyland/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Dei Lahti",
+    "url": "https://stream.dei.fi:8443/lahti",
+    "country": "Finland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 957",
+    "url": "https://stream-redirect.bauermedia.fi/radio957/radio957_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pori",
+    "url": "https://stream-redirect.bauermedia.fi/radiopori/radiopori_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tempo",
+    "url": "https://cast.radiotempo.fi/radiotempo",
+    "country": "Finland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "DOUBLECLAP RADIO",
+    "url": "https://s3.radio.co/scfd7273b2/low",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ysäri",
+    "url": "https://stream-redirect.bauermedia.fi/ysari/ysari_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "https://stream.bauermedia.fi/radionova/radionova_64.aac?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1744811390",
+    "country": "Finland",
+    "bitrate": 64,
+    "codec": "AAC"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "name": "France Maghreb 2",
+    "url": "https://francemaghreb2.ice.infomaniak.ch/francemaghreb2-high.mp3",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beur FM",
+    "url": "https://beurfm.ice.infomaniak.ch/beurfm-high.mp3",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "تفسير بن عثيمين رحمه الله",
+    "url": "https://qurango.net/radio/tafseer",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "sleep",
+    "url": "http://65.109.81.84:9851/stream",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "109.0 FM Christmas Kids",
+    "url": "http://stream.dar.fm/97821",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": ".صور من حياة الصحابة",
+    "url": "https://qurango.net/radio/sahabah",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "EXA FM: موسيقى البوب ​​باللغتين الإنجليزية والإسبانية",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHPSFMAAC.aac",
+    "country": "Algeria",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antinea Radio",
+    "url": "https://listen.radioking.com/radio/6640/stream/347",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة القرآن الكريم",
+    "url": "https://n0a.radiojar.com/0tpy1h0kxtzuv?rj-ttl=5&rj-tok=AAABhdgGORQA-2acfyF3_4WY2g",
+    "country": "Algeria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "إذاعة طريق السلف",
+    "url": "https://airtime.salafwayfm.ly/",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": ".مختصر السيرة",
+    "url": "https://qurango.net/radio/almukhtasar_fi_alsiyra",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "GhorbaDz",
+    "url": "https://stream-150.zeno.fm/y9rchc1djgavv?zs=bcPxFTkWTZOhirTC49uQiQ",
+    "country": "Algeria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "beautiful recitation",
+    "url": "https://qurango.net/radio/salma",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ygg",
+    "url": "http://online.svitle.org:6728/kids.128.mp3",
+    "country": "Algeria",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

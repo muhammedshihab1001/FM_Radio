@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Saint.FM",
+    "url": "https://orbit.citrus3.com:8306/stream",
+    "country": "Saint Helena",
+    "bitrate": 100,
+    "codec": "MP3"
+  },
+  {
+    "name": "EDM Radio",
+    "url": "https://laut.fm/edmradio",
+    "country": "Saint Helena",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Crucial Velocity Radio",
+    "url": "http://ais-sa2.cdnstream1.com/1369_128",
+    "country": "The Republic Of Moldova",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio Moldova",
+    "url": "http://37.233.41.76:8000/lovefm",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dance Fm Moldova",
+    "url": "http://37.233.41.76:8000/dancefm",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hit Fm Drive Mode",
+    "url": "https://radio7.dixi.md/listen/hit_fm_drive_mode/hitfmdrivemode128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio RFI Moldova",
+    "url": "https://asculta.radiorfi.ro/live.mp3",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Muz FM Moldova",
+    "url": "https://live.muzfm.md/muzfm",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "HIT FM Русский Хит",
+    "url": "https://radio3.dixi.md/listen/hit_fm_russkoe_hitovoe/hitfm_ruhit128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "imago.fm",
+    "url": "http://109.233.192.78:8000/_a",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio DAR",
+    "url": "http://188.138.191.214/RadioDar",
+    "country": "The Republic Of Moldova",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Record Moldova",
+    "url": "http://212.56.220.74:8000/RecordMD",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Studentus",
+    "url": "http://radiolive.studentus.md:8000/live",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Noroc Moldova",
+    "url": "https://stream.noroc.tv/radionoroc_aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Aquarelle FM",
+    "url": "http://93.115.137.75:8000/aquarellefm.mp3",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eco FM",
+    "url": "http://188.138.204.98:8080/ecoFM",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Drive FM",
+    "url": "http://109.185.236.241:8000/DriveFM",
+    "country": "The Republic Of Moldova",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "LOVE PRO Dj Radio Chisinau",
+    "url": "http://live.prodjradio.net:8000/;",
+    "country": "The Republic Of Moldova",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM Moldova",
+    "url": "https://live.kissfm.md/kissfm.chisinau",
+    "country": "The Republic Of Moldova",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Megapolis Fm",
+    "url": "https://megapolisfm.md:8443/886",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jurnal Fm",
+    "url": "https://audio.jurnalfm.md/hq",
+    "country": "The Republic Of Moldova",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Plai",
+    "url": "http://stream.radioplai.md:8000/live",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro FM Moldova",
+    "url": "https://efir.retrofm.md:8000/retro",
+    "country": "The Republic Of Moldova",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZUM 2",
+    "url": "https://streams.radiozum.md/listen/zum2/ZUM2",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hit FM Hot Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_hot_hits/hitfm_hothits128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Micul Samaritean",
+    "url": "https://s5.radio.co/sfff7b7e97/listen",
+    "country": "The Republic Of Moldova",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZUM 1",
+    "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hit FM Dance",
+    "url": "https://radio4.dixi.md/listen/hit_fm_dance_hits/hitfmdancehits128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hit FM Best Hits",
+    "url": "https://radio3.dixi.md/listen/hit_fm_best_hits/hitfm_besthits128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio ROKS Moldova",
+    "url": "https://stream.dixi.md:9443/Roks",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio ZUM4",
+    "url": "https://streams.radiozum.md/listen/zum4/ZUM4",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Fresh MD",
+    "url": "https://stream-151.zeno.fm/ttofovumhg1vv?zs=3vmFlLhiROOIFik2GUoxgw",
+    "country": "The Republic Of Moldova",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hit FM Summer Hits",
+    "url": "https://radio4.dixi.md/listen/hit_fm_summer_hits/hitfmsummerhits128.aac",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Haliz Gagauz Radiosu - GRT",
+    "url": "http://s02.radio-tochka.com:8020/radio?type=.mp3",
+    "country": "The Republic Of Moldova",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Master Class FM (MD)",
+    "url": "https://listen3.myradio24.com/master1",
+    "country": "The Republic Of Moldova",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

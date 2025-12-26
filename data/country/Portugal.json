@@ -1,0 +1,1388 @@
+[
+  {
+    "name": "Rádio Freguesia de Belém",
+    "url": "https://s2.radio.co/s0ddea4a53/listen",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FUTURA - Rádio de Autor",
+    "url": "https://s4.radio.co/s7e7b6c165/listen",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gongas Radio",
+    "url": "https://a6.asurahosting.com:7930/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Indie",
+    "url": "https://stream-icy.bauermedia.pt/m80indie.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "M80 Rádio – 70s",
+    "url": "https://stream-icy.bauermedia.pt/m8070.aac",
+    "country": "Portugal",
+    "bitrate": 127,
+    "codec": "AAC"
+  },
+  {
+    "name": "SFTD RADIO",
+    "url": "http://hyades.shoutca.st:8270/stream/1/",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – 90s",
+    "url": "https://stream-icy.bauermedia.pt/m8090.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Wonder 80's",
+    "url": "https://80.streeemer.com/listen/80s/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Geice FM",
+    "url": "https://ec2.yesstreaming.net:3275/stream",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 rádio",
+    "url": "http://stream-icy.bauermedia.pt/m80.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TSF Rádio Madeira",
+    "url": "http://centova.radio.com.pt:9470/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Linear",
+    "url": "http://nl.digitalrm.pt:8184/stream",
+    "country": "Portugal",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio MEO Music",
+    "url": "http://centova.radio.com.pt:8495/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio RCS 91.2 FM",
+    "url": "http://centova.radio.com.pt:8445/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Barca",
+    "url": "http://centova.radio.com.pt:8483/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TSF Rádio Açores",
+    "url": "http://centova.radio.com.pt:8243/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM DANCE IT",
+    "url": "https://25453.live.streamtheworld.com/DANCEONTHEFLOORAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Voz do Neiva",
+    "url": "https://sp0.redeaudio.com/8092/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Amália",
+    "url": "http://centova.radios.pt:9496/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "4Drive Jazz",
+    "url": "http://radio.streemlion.com:1150/stream",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "94FM Leiria",
+    "url": "http://185.11.164.106:35022/stream?type=mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Marginal 98.1 FM",
+    "url": "http://centova.radios.pt:8499/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Terra Quente FM",
+    "url": "http://centova.radio.com.pt:9402/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Felgueiras",
+    "url": "http://centova.radio.com.pt:8459/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ondas do Lima",
+    "url": "http://centova.radio.com.pt:8407/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Ansiães",
+    "url": "http://centova.radio.com.pt:8419/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio NoAr",
+    "url": "https://radios.justweb.pt/8034/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Comercial Rock",
+    "url": "https://stream-icy.bauermedia.pt/rcrock.aac",
+    "country": "Portugal",
+    "bitrate": 127,
+    "codec": "AAC"
+  },
+  {
+    "name": "Posto Emissor do Funchal OM",
+    "url": "http://centova.radio.com.pt:9422/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NiTfm",
+    "url": "https://sp0.redeaudio.com/8028/stream/",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rap/Hip Hop",
+    "url": "http://185.32.188.17:8097/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Miudos",
+    "url": "http://109.71.41.6:8020/live",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cantinho da Madeira",
+    "url": "http://109.71.41.6:8129/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube de Arganil",
+    "url": "http://176.9.43.216:8135/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 94 FM",
+    "url": "http://185.11.164.106:35022/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Portugal Star",
+    "url": "http://185.118.112.12:8028/live",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FOQO",
+    "url": "http://185.32.188.17:8003/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Observador",
+    "url": "http://195.23.85.126:8455/listen.pls?sid=1",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vida FM 97.1",
+    "url": "http://centova.radio.com.pt:9482/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Pico",
+    "url": "http://centova.radios.pt:9420/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Valdevez",
+    "url": "http://centova.radios.pt:9508/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fama Rádio",
+    "url": "http://digitalfm.dynu.com:8000/digitalfm64",
+    "country": "Portugal",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Santiago Guimaraes",
+    "url": "http://eu6.fastcast4u.com:5002/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Mega Hits - Lisboa",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MEGA_HITS_SC",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Everything Is New",
+    "url": "http://proic1.redeaudio.com/ein",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RUC Rádio Universidade de Coimbra",
+    "url": "http://stream.ruc.pt/high",
+    "country": "Portugal",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RES FM",
+    "url": "http://stream2.soundflux.eu:8440/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "00'S RFM",
+    "url": "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "80'S RFM",
+    "url": "https://25343.live.streamtheworld.com/GR80SRFMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cool FM Albufeira",
+    "url": "https://a1.asurahosting.com:9360/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Popular Madeira (101.0 FM)",
+    "url": "https://audio.serv.pt/8018/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Zarco Madeira (89.6 FM)",
+    "url": "https://audio.serv.pt/8014/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube Madeira (106.8 FM)",
+    "url": "https://audio.serv.pt/8020/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TSF Rádio Notícias",
+    "url": "https://directo.tsf.pt/tsfdirecto.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Festival Madeira (98.4 FM)",
+    "url": "https://audio.serv.pt/8012/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Orbital FM",
+    "url": "https://ec2.yesstreaming.net:3025/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Observador",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OBSERVADORAAC.aac?dist=web-popup&devicename=aac",
+    "country": "Portugal",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MRR Manitu Rock Radio",
+    "url": "https://radio.streemlion.com:4515/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO RCP-VAR",
+    "url": "https://sonic.servsonic.com/8028/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Amor Portugal",
+    "url": "https://stream.radioamorportugal.com:8443/rap.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube de Sintra",
+    "url": "http://centova.radio.com.pt:8445/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wave Vibes",
+    "url": "https://a6.asurahosting.com/listen/wave_vibes/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antena Livre",
+    "url": "http://centova.radio.com.pt:9456/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La French Radio  Portugal",
+    "url": "https://www.radioking.com/play/lfr-portugal",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Comercial Natal",
+    "url": "https://stream-icy.bauermedia.pt/rcxmas.aac",
+    "country": "Portugal",
+    "bitrate": 127,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Baía",
+    "url": "https://streamingv2.shoutcast.com/observador_64.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VFM 94.6",
+    "url": "http://cast.redewt.net:9141/live",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "80ROCK",
+    "url": "http://rs2.ptservidor.com:8003/stream?type=.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio cantinho da senhora da povoa",
+    "url": "http://185.32.188.17:8065/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Orbital Rádio",
+    "url": "http://centova.radios.pt:8401/;",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio do Concelho de Mafra",
+    "url": "http://centova.radio.com.pt:8551/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Elmo",
+    "url": "http://centova.radio.com.pt:8463/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Limite",
+    "url": "http://centova.radio.com.pt:9408/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radar",
+    "url": "http://proic1.evspt.com/radar_mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Portalegre",
+    "url": "http://centova.radio.com.pt:9492/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Popular Afifense",
+    "url": "http://centova.radio.com.pt:8471/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Castrense",
+    "url": "http://centova.radio.com.pt:8431/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Lagoa",
+    "url": "http://centova.radio.com.pt:9488/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Marginal",
+    "url": "http://centova.radio.com.pt:8499/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Portuguesa do Var",
+    "url": "https://sonic.servsonic.com:7003/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Posto Emissor do Funchal FM",
+    "url": "http://centova.radio.com.pt:9426/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Altitude FM",
+    "url": "http://centova.radios.pt:9034/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Antena Minho",
+    "url": "http://centova.radio.com.pt:9464/;",
+    "country": "Portugal",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Riba-Távora",
+    "url": "http://centova.radio.com.pt:9542/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Regional de Arouca",
+    "url": "http://centova.radio.com.pt:8485/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Antena Livre",
+    "url": "http://centova.radio.com.pt:8571/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Amália",
+    "url": "http://centova.radio.com.pt:9496/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alto Tamega FM",
+    "url": "http://188.93.231.97:9300/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TLA Rádio",
+    "url": "http://centova.radio.com.pt:8545/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Singa FM",
+    "url": "http://centova.radio.com.pt:8487/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Castelo Branco",
+    "url": "http://centova.radio.com.pt:9462/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hiper FM",
+    "url": "http://195.23.85.126:9500/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ABC Portugal",
+    "url": "http://centova.radio.com.pt:8547/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tejo Rádio Jornal",
+    "url": "http://centova.radio.com.pt:8531/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Diana FM",
+    "url": "http://centova.radio.com.pt:9460/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Torres Novas FM",
+    "url": "http://centova.radio.com.pt:8475/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sol Madeira (103.7 FM)",
+    "url": "https://audio.serv.pt/8010/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Terra Nova",
+    "url": "http://centova.radio.com.pt:9404/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM",
+    "url": "https://23603.live.streamtheworld.com/RFMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TOP 80 - Todos Os Exitos De 80 A 2000",
+    "url": "http://live.top80.fm:8086/",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deep in Radio",
+    "url": "http://s3.viastreaming.net:8525/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Nova Era",
+    "url": "http://centova.radio.com.pt:9478/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Planície 92.8 Moura",
+    "url": "http://109.71.41.6:8026/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Nova 98.9 FM",
+    "url": "http://centova.radio.com.pt:9528/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Comercial Portugal",
+    "url": "https://stream-icy.bauermedia.pt/comercial.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – 80s",
+    "url": "https://stream-icy.bauermedia.pt/m8080.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Fado de Coimbra",
+    "url": "https://nl.digitalrm.pt:8048/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RFMAAC_SC",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Barcelos",
+    "url": "http://centova.radio.com.pt:8563/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Ballads",
+    "url": "https://stream-icy.bauermedia.pt/m80ballads.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Onda Viva",
+    "url": "http://centova.radio.com.pt:9524/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nova",
+    "url": "http://centova.radios.pt:9528/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "GoloFM",
+    "url": "https://sp0.redeaudio.com/8154/stream",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "jovembsk mix",
+    "url": "http://stream.zeno.fm/4nc1mzdp81xuv",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "jovembsk",
+    "url": "https://stream-42.zeno.fm/ppgb4k7vhqztv?zs=c_kj97VBTyuKVVdB2EEdEg",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – 60s",
+    "url": "https://stream-icy.bauermedia.pt/m8060.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Universitária do Minho",
+    "url": "http://centova.radio.com.pt:9558/;",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Portugal",
+    "url": "https://stream-icy.bauermedia.pt/m80nacional.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Smooth FM (AAC)",
+    "url": "https://stream-icy.bauermedia.pt/smooth.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "M80 Rádio (AAC)",
+    "url": "https://stream-icy.bauermedia.pt/m80.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "M80 Rádio – Pop",
+    "url": "https://stream-icy.bauermedia.pt/m80pop.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Condestável",
+    "url": "http://centova.radio.com.pt:8427/;",
+    "country": "Portugal",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Dance",
+    "url": "https://stream-icy.bauermedia.pt/m80dance.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio nove3cinco",
+    "url": "http://centova.radio.com.pt:9522/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vizela",
+    "url": "https://proxy-audio.ptisp.com:8100/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Rock",
+    "url": "https://stream-icy.bauermedia.pt/m80rock.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Comercial Dance",
+    "url": "https://stream-icy.bauermedia.pt/rcdance.aac",
+    "country": "Portugal",
+    "bitrate": 127,
+    "codec": "AAC"
+  },
+  {
+    "name": "SmoothFM Soul",
+    "url": "https://stream-icy.bauermedia.pt/smoothsoul.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Vidigueira",
+    "url": "http://centova.radio.com.pt:8567/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cidade Hoje",
+    "url": "http://centova.radio.com.pt:8119/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio XL",
+    "url": "https://radios.justweb.pt/8002/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio TugaNet",
+    "url": "https://ssl.stmxp.net:8006/;",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "105.4 Cascais - O Rock da Linha",
+    "url": "https://play.radioregional.pt:8220/stream/2/;;/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM Oceano Pacifico",
+    "url": "https://23543.live.streamtheworld.com/OCEANPACIFICAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "REWIND 2000's",
+    "url": "https://2000.streeemer.com/listen/2000s/radio.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Biblia",
+    "url": "https://servidor30-4.brlogic.com:7398/live?source=website",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cantinho dos Emigrantes",
+    "url": "https://cast.redewt.net:9825/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Renascença",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_RENASCENCA.mp3",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cova da Beira",
+    "url": "http://centova.radio.com.pt:8467/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube da Feira",
+    "url": "http://centova.radio.com.pt:9544/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ultra FM",
+    "url": "http://centova.radio.com.pt:9506/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Regional do Centro",
+    "url": "https://nl.digitalrm.pt:8030/stream?1671017145140=",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Horizonte Algarve",
+    "url": "http://centova.radio.com.pt:9458/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BBN Portuguese",
+    "url": "https://audio-edge-5bkfj.fra.h.radiomast.io/ec065d59-f358-48c9-a288-4efc797e5860",
+    "country": "Portugal",
+    "bitrate": 56,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Antena Nove",
+    "url": "http://centova.radio.com.pt:8565/stream/1/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M 80 Rádio",
+    "url": "https://stream-icy.bauermedia.pt/m80.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Portugal Mais",
+    "url": "https://sv15.hdradios.net:7432/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Estação Diária",
+    "url": "http://centova.radio.com.pt:9430/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Internacional Odemira",
+    "url": "https://c30.radioboss.fm:18510/stream?1655151777664",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Universidade FM",
+    "url": "http://centova.radio.com.pt:8405/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cidade FM",
+    "url": "https://stream-icy.bauermedia.pt/cidade.mp3",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Granada FM",
+    "url": "http://centova.radio.com.pt:8549/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Renascença",
+    "url": "https://22593.live.streamtheworld.com/RADIO_RENASCENCAAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Montalegre",
+    "url": "http://centova.radio.com.pt:9566/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Cister",
+    "url": "http://centova.radio.com.pt:8453/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M80 Rádio – Soul",
+    "url": "https://stream-icy.bauermedia.pt/m80soul.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RFM TOCA PORTUGAL",
+    "url": "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Alvor FM",
+    "url": "http://centova.radio.com.pt:8469/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Comercial Kids",
+    "url": "https://stream-icy.bauermedia.pt/rckids.aac",
+    "country": "Portugal",
+    "bitrate": 127,
+    "codec": "AAC"
+  },
+  {
+    "name": "4DJ 4Drive Jazz",
+    "url": "https://radio.streemlion.com:4870/stream",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Popular de Source",
+    "url": "https://nl.digitalrm.pt:8072/stream?1671016403075=",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SuperFM",
+    "url": "https://play.radioregional.pt:8210/stream/2/;/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Batida FM",
+    "url": "http://stream-icy.bauermedia.pt/batidafm.aac",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Posto Emissor do Funchal (Canal 1 - OM)",
+    "url": "http://centova.radio.com.pt:9422/",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antena 1 - Main",
+    "url": "https://radiocast.rtp.pt/antena180a.mp3",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "90'S RFM",
+    "url": "https://25343.live.streamtheworld.com/RFM_90SAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "jovembsk",
+    "url": "https://stream-54.zeno.fm/ppgb4k7vhqztv?zs=16hfH25BROGMPgJQytuZKg",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cascais FM 105.4",
+    "url": "https://play.radioregional.pt:8220/stream/2/;/stream.mp3",
+    "country": "Portugal",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube de Lamego",
+    "url": "http://audio.ptisp.com:8110/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Nova",
+    "url": "http://centova.radios.pt:9528/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MetalON - The Heavy",
+    "url": "https://radiometalon.com/radio/8000/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Foz do Mondego",
+    "url": "https://nl.digitalrm.pt:8216/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM JAZZY",
+    "url": "https://27753.live.streamtheworld.com/RFM_JAZZYAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Porão da nau radio",
+    "url": "https://stream.zeno.fm/rwmao7mxxt8vv",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM ROCKS",
+    "url": "https://25343.live.streamtheworld.com/RFMONTHEROCKAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Maiorca",
+    "url": "https://nl.digitalrm.pt:8182/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Clube Foz do Mondego",
+    "url": "http://nl.digitalrm.pt:8216/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Alto Minho",
+    "url": "https://ec2.yesstreaming.net:3705/stream",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM LATINAS",
+    "url": "https://25693.live.streamtheworld.com/RFM_LATINASAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "00's RFM",
+    "url": "https://27793.live.streamtheworld.com/LIVESTREAMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Caria - Rádio Natal",
+    "url": "https://stream-57.zeno.fm/zb5w8yybqxhvv?zs=UFTgWO6XTcKToIndJPUT6w",
+    "country": "Portugal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: The Thrasher",
+    "url": "https://radiometalon.com/listen/radio_metal_on_the_thrasher/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFM",
+    "url": "https://22593.live.streamtheworld.com/RFMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO SAO MIGUEL",
+    "url": "https://nl.digitalrm.pt:8140/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Lafões FM",
+    "url": "https://sp0.redeaudio.com/9304/stream",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Elvas",
+    "url": "https://radios2.justweb.pt:8066/stream?type=http&nocache=297",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Botareu",
+    "url": "https://nl.digitalrm.pt:8238/stream",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MFM",
+    "url": "https://radios.justweb.pt/8074/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radar",
+    "url": "http://proic1.redeaudio.com/radar_aac",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Monsanto",
+    "url": "https://s9.yesstreaming.net:9029/",
+    "country": "Portugal",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Movimento",
+    "url": "https://stream.rcast.net/61025",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: The Heavy",
+    "url": "https://radiometalon.com/listen/radio_metal_on_the_heavy/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Fronteira",
+    "url": "https://radios2.justweb.pt/8074/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: Toxic",
+    "url": "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: 80s HNH",
+    "url": "https://radiometalon.com/listen/radio_metal_on_80s_hnh/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO NOVA ANTENA",
+    "url": "https://radios2.justweb.pt:8068/stream?type=http&nocache=82",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: The Brutal",
+    "url": "https://radiometalon.com/listen/radio_metal_on_the_brutal/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO CAMPO MAIOR",
+    "url": "https://radios2.justweb.pt:8064/stream?type=http&nocache=32",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

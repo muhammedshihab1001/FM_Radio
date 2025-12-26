@@ -1,0 +1,1619 @@
+[
+  {
+    "name": "Radyo Alaturka",
+    "url": "https://yayin.jumboserver.net:9100/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADYO VOYAGE",
+    "url": "http://voyagewmp.radyotvonline.com/;",
+    "country": "Turkey",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Voyage",
+    "url": "http://voyagewmp.radyotvonline.com/",
+    "country": "Turkey",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danceland",
+    "url": "https://likeradiostream.com/danceland",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ereğli FM",
+    "url": "http://radyo.yayindakiler.com:3000/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gözyaşı FM",
+    "url": "http://yayin1.canliyayin.org:8700/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Antalya",
+    "url": "https://my.radiolize.com/radio/8000/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Özel FM",
+    "url": "https://ozelfm.80.yayin.com.tr/;stream/1",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "90lar turkey",
+    "url": "http://37.247.98.8/stream/166/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yaren FM",
+    "url": "https://yarenfmn.80.yayin.com.tr//stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 44",
+    "url": "https://radyo44.80.yayin.com.tr/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pal Doğa",
+    "url": "http://shoutcast.radyogrup.com:1040/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Banko",
+    "url": "http://yayin.netradyom.com:9910/RADYOBANKO",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo MODyAn",
+    "url": "http://stream.radio.co/s55d598f42/listen",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Taksi",
+    "url": "https://live.radyo.in/8006/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Can Radyo",
+    "url": "http://yayin1.yayindakiler.com:3124/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MaxFM",
+    "url": "http://live.radyotvonline.com:8090/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Şiran",
+    "url": "https://live.radyositesihazir.com/8078/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Eksen 96.2",
+    "url": "http://eksenwmp.radyotvonline.com/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Park Fm",
+    "url": "http://yayin.netradyom.com:8050/PARKFM/",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Yalova",
+    "url": "https://studio25.radiolize.com/radio/8200/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Banko Fm",
+    "url": "http://yayin.netradyom.com:8050/RADYOBANKO",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Havaları",
+    "url": "http://37.247.98.8/stream/30/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Loops Radio House Station",
+    "url": "https://loopsdeep.ozelip.com/7806/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Odtu Easy",
+    "url": "https://stream3.radyoodtu.com.tr:8000/easy",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Her An Kur'an Her An Mutluluk",
+    "url": "https://radio.mihr.com/radio/8050/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Light",
+    "url": "http://yayin.radiolight.net:8005/live",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ALTIN SARKILAR",
+    "url": "http://37.247.98.8/listen.pls?sid=25",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super Fm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER_FM_SC",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "GİMSA RADYO",
+    "url": "http://yayin1.canliyayin.org:9482/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Türkülerle Türkiye",
+    "url": "http://37.247.98.8/listen.pls?sid=22",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "meteorolojinin sesi",
+    "url": "http://radyomgm.canliyayinda.com/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tezene",
+    "url": "http://37.247.98.8/stream/22/.mp3?%26token=Bsx3vK2u28-xMp98IZDV2Q%26expires=1618686860%27%20type=%27audio/mp3%27&rd2=%27https://radyo.vip/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "lokum fm",
+    "url": "http://37.247.98.9/stream/493/?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo A (Radyo Anadolu Üniversitesi)",
+    "url": "http://canli.radyoa.anadolu.edu.tr:44445/Radyo_A_MP3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fenerbahce Radyo",
+    "url": "http://91.232.174.18:8000/Stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "dinamo.fm sleep",
+    "url": "http://channels.dinamo.fm/sleep-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm smog",
+    "url": "http://channels.dinamo.fm/smog-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm legacy",
+    "url": "http://channels.dinamo.fm/legacy-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm fluent",
+    "url": "http://channels.dinamo.fm/fluent-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm locodyno",
+    "url": "http://channels.dinamo.fm/locodyno-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm caffe",
+    "url": "http://channels.dinamo.fm/caffe-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm discotheque",
+    "url": "http://channels.dinamo.fm/discotheque-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "dinamo.fm deep",
+    "url": "http://channels.dinamo.fm/deep-mp3",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Vatan Türkü",
+    "url": "http://95.0.173.195:9000/turku",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo S",
+    "url": "http://icecast.netmedya.net/radyos",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NTV Radyo",
+    "url": "http://ntvrdwmp.radyotvonline.com/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ava Turkiye",
+    "url": "http://play.markaradyo.com:8002/stream",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Trio",
+    "url": "http://radyotrio.radyotvonline.net/radyotrio",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Hayat",
+    "url": "http://live4.radyotvonline.com:9450/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RadyoVoyage",
+    "url": "http://voyagesc.radyotvonline.com/",
+    "country": "Turkey",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Arkadas Radyo",
+    "url": "http://yayin2.yayindakiler.com:4134/;stream.nsv",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hemdem Radyo",
+    "url": "http://yayin.hemdemradyo.com/",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Glamorize",
+    "url": "https://live.radioglamorize.com/stream1",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LALEGÜL FM",
+    "url": "https://icecast.netmedya.net/lalegulfm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TGRT FM",
+    "url": "https://icecasttgrt.ihlasdigitalassets.com/tgrtfm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Max Fm 95.8 ‘Maximum Music'",
+    "url": "https://maxfm.radyotvonline.net/stream/164/;",
+    "country": "Turkey",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "SUPER FM 2 TURKEY",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC?/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOY TÜRK TURKEY",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOY_TURK_SC?/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOY TÜRK ROCK TURKEY",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/JOYTURK_ROCK_SC?/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Süper 2 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC.mp3",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "literal",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LITERAL128AAC.aac",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Metro fm turkey",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/METRO_FM_SC?",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo 13",
+    "url": "https://radyo.yayindakiler.com:3050/stream?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mayday Records",
+    "url": "https://stream.maydayrecords.net/radio/8000/maydayrecords.mp3",
+    "country": "Turkey",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Venüs",
+    "url": "https://stream2.rtvtakip.com:7005/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TRT Radyo Haber",
+    "url": "https://trt.radyotvonline.net/trthaber",
+    "country": "Turkey",
+    "bitrate": 132,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TRT Radyo 1",
+    "url": "https://trt.radyotvonline.net/trt1",
+    "country": "Turkey",
+    "bitrate": 138,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Ekin",
+    "url": "https://yayin.turkhosted.com/6006/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Erkam Radyo 2nd Stream",
+    "url": "https://yayin2.canliyayin.org:10910/stream?",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kurd1",
+    "url": "https://www.radioking.com/play/kurd1-radyo",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dost FM",
+    "url": "http://yayin.dostfm.com:8920/;.mp3?no_dl",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Fıtrat",
+    "url": "http://radyofitrat.radyotvonline.net/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Trafik İstanbul",
+    "url": "http://37.247.100.118/stream/157/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best Fm",
+    "url": "http://46.20.7.126/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mega Site .",
+    "url": "http://yayin.netradyom.com:7900/;stream.mp3RADYO%20MEGAS%C4%B0TE%20=",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mega Site",
+    "url": "http://yayin.netradyom.com:7900/;",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Damar Turk FM",
+    "url": "https://live.radyositesihazir.com:10997/;",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo 7",
+    "url": "http://46.20.3.250/;stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ribat FM",
+    "url": "http://yayin1.canliyayin.org:7010/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "X Radio",
+    "url": "http://stream.xradio.com.tr:8770/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "X Radio",
+    "url": "http://yayin.radyomadyo.com:8770/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Arabesk FM",
+    "url": "http://yayin.arabeskfm.biz:8042/",
+    "country": "Turkey",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DAMAR TURK FM",
+    "url": "https://live.radyositesihazir.com:10997/",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KRAL TÜRK FM",
+    "url": "https://live.radyositesihazir.com/8032/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ankara Havalari",
+    "url": "http://37.247.98.8/listen.pls?sid=30",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baba Radyo",
+    "url": "http://46.20.7.116/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Fenomen",
+    "url": "https://live.radyofenomen.com/fenomen/128/icecast.audio",
+    "country": "Turkey",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Seymen",
+    "url": "https://yayin.radyoseymen.com.tr:1070/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "DamarTurk FM",
+    "url": "https://live.radyositesihazir.com:10997/stream?type=http&nocache=99881",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Voyage",
+    "url": "http://voyagewmp.radyotvonline.com/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pal station",
+    "url": "http://shoutcast.radyogrup.com:1020/",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RS FM",
+    "url": "http://nfw.video.ria.ru/flv/audio.aspx?ID=99244423&type=mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Number one",
+    "url": "https://n10101m.mediatriple.net/numberone",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Slow Turk",
+    "url": "https://radyo.duhnet.tv/ak_dtvh_slowturk",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dost",
+    "url": "http://yayin1.yayindakiler.com:3156/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Numberone Turk",
+    "url": "https://n10101m.mediatriple.net/numberoneturk",
+    "country": "Turkey",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo 45lik yeni",
+    "url": "https://stream.radyo45lik.com:4545/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kurd1 FM",
+    "url": "https://listen.radioking.com/radio/119251/stream/158701",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Habertürk Radyo",
+    "url": "https://haberturkradyo.radyotvonline.net/haberturkradyo",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "baba radyo",
+    "url": "http://officialbabaradyo.radyotvonline.net/babaofficial",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Ekin",
+    "url": "http://yayin.turkhosted.com:6006/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic FM",
+    "url": "http://yayin1.yayindakiler.com:3032/",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Halk Radyo",
+    "url": "https://anadolu.liderhost.com.tr:10876/;",
+    "country": "Turkey",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Havin FM",
+    "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "KEYF STATION",
+    "url": "http://yayin.radyomadyo.com:8002/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Avrasya Türk Radyo",
+    "url": "https://sslyayin.netyayin.net:10909/",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Erzincan Cem Radyo",
+    "url": "https://erzincan.80.yayin.com.tr/stream",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Fenomen Clubbin",
+    "url": "https://live.radyofenomen.com/fenomenclubbin/128/icecast.audio",
+    "country": "Turkey",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Pir Yolu",
+    "url": "http://radyopiryolu.canliyayinda.com:8165/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BAYRAM FM TURKEY",
+    "url": "https://sslyayin.netyayin.net/3442/stream",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Max Fm 95.8 Maximum Music",
+    "url": "http://live2.radyotvonline.com:8025/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KİSS LOVE RADYO TURKEY",
+    "url": "https://anadolu.liderhost.com.tr:10964/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Gundi FM",
+    "url": "http://gundifm.ozelip.com:7830/;",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "HAYATMİX",
+    "url": "https://hayatmix.yayin.com.tr/mp3",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Azadi Fm",
+    "url": "https://amed.ozelip.com/8040/;",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "BİLECİK FM TURKEY",
+    "url": "http://bilecikfm.kesintisizyayin.com:9980/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Sputnik",
+    "url": "https://icecast-rian.cdnvideo.ru/voicestm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pazarcık",
+    "url": "http://yayin.pazarcikfm.com:9090/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ALEM FM",
+    "url": "https://edge1.radyotvonline.net/shoutcast/play/alemfm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "GÖKKUŞAĞI RADYO TURKEY",
+    "url": "http://gokkusagiradyo.kesintisizyayin.com:8008/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KUZEY FM TURKEY",
+    "url": "http://yayin.yayindakiler.com:3028/",
+    "country": "Turkey",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Trio",
+    "url": "https://radyotrio.radyotvonline.net/radyotrio",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "radyo mezopotamya",
+    "url": "https://anadolu.liderhost.com.tr/9404/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Istanbul FM",
+    "url": "https://yayin.istanbulfm.com.tr/istanbulfm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Denge Gundeme",
+    "url": "http://kesintisizyayin.com:1656/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Süper Fm",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUPER2_SC",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "KLAS RADİO TURKEY",
+    "url": "https://anadolu.liderhost.com.tr:10929/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dost Radyo",
+    "url": "http://yayin1.yayindakiler.com:3156/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Axa Rojava",
+    "url": "https://stream.zeno.fm/h6mn2c8ha8zuv",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Gül",
+    "url": "http://yayin2.canliyayin.org:8866/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Onur Radyo",
+    "url": "http://anadolu.liderhost.com.tr:8094/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HOS MİX",
+    "url": "https://anadolu.liderhost.com.tr:10871/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss Türk",
+    "url": "https://kiss.radyotvonline.net/kissturk",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "S1lhoutte Arabesk FM",
+    "url": "https://yayin.radyoarabesk.com.tr:8000/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Arkadaş",
+    "url": "https://ssl120.radyotelekom.com.tr/9998/stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "BRTK",
+    "url": "http://sc.brtk.net:8000/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Munzur 97.7",
+    "url": "http://yayin1.yayindakiler.com:3002/;stream.nsv",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TürküRadyo",
+    "url": "https://yayin.turkhosted.com/4591/stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADYO AKDENIZ",
+    "url": "https://yayin.radyoakdeniz.com/9470/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Enderun FM",
+    "url": "http://yayin2.canliyayin.org:7052/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "HaYaTMiX Slow",
+    "url": "https://radyo.yayin.com.tr:4090/mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Doğan 22",
+    "url": "http://yayin1.yayindakiler.com:3024/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Can",
+    "url": "http://yayin2.yayindakiler.com:4174/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aşk FM",
+    "url": "http://yayin.asymedya.com:8020/;",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FG 93.8 (Future Generation) mp3 128k",
+    "url": "https://edge1.radyotvonline.net/shoutcast/play/fg",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Küpe FM",
+    "url": "https://icecast.netmedya.net/kupefm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Turk",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RETROTURK_SC?/;",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Doğu Radyo",
+    "url": "http://198.7.59.28:8146/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Govend radyo",
+    "url": "https://stream-56.zeno.fm/xzzu8kynq2zuv?zs=nZP7ZCRXQPOpDFenayr0bQ",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dijital radyo",
+    "url": "https://anadolu.liderhost.com.tr:10961/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Erkam Radyo",
+    "url": "https://api-tv5.yayin.com.tr:8002/mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kıyı Caz",
+    "url": "http://caz.radioca.st/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Batı Radyo",
+    "url": "https://sslyayin.netyayin.net:10902/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "AÇS Radyo",
+    "url": "https://ip169.ozelip.com:10838/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KIYI Muzik",
+    "url": "https://kiyi.radioca.st/stream",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mydonose Türk",
+    "url": "https://27913.live.streamtheworld.com/MYDONOSE_TURK128AAC.aac?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Loops Radio Progressive",
+    "url": "https://progressive.ozelip.com/7670/stream",
+    "country": "Turkey",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Gol",
+    "url": "https://edge1.radyotvonline.net/shoutcast/play/radyogol",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lig Radyo",
+    "url": "https://ligradyo.radyotvonline.net/ligradyo",
+    "country": "Turkey",
+    "bitrate": 73,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fakir Fm",
+    "url": "https://live.radyositesihazir.com/1025/stream/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mega Ask FM",
+    "url": "https://embed.tawk.to/_s/v4/assets/audio/chat_sound.mp3",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power Dance",
+    "url": "https://listen.powerapp.com.tr/powerdance/mpeg/icecast.audio",
+    "country": "Turkey",
+    "bitrate": 250,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Mori",
+    "url": "https://amed.ozelip.com/8040/stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Loops Radio Elektronica Station",
+    "url": "https://ssl22.radyotelekom.com/8232/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bizim Radyo",
+    "url": "https://ip132.ozelip.com:7017/",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Maranata",
+    "url": "http://medya.radyomaranata.com:8005/live",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Loops Radio Techno",
+    "url": "https://ip179.ozelip.com/7688//asistan/stream/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Sinerji",
+    "url": "https://radio.guventechnology.com/9994/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emek radyo",
+    "url": "http://yayin1.radyohizmeti.com:8585/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wanderlust",
+    "url": "http://radyo.yayin.com.tr:5898/",
+    "country": "Turkey",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Elazığ Mavi Radyo",
+    "url": "https://yayin.turkhosted.com/6066/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DanceLand Anthems",
+    "url": "https://likeradiostream.com/dancelandanthems",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Yol",
+    "url": "https://radyo.yayin.com.tr:5932/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MEGA SİTE",
+    "url": "http://yayin.netradyom.com:7900/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Line",
+    "url": "https://online.radioline.fm:8443/stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "oyunpiyat",
+    "url": "https://yayin.hostwin.net/8888/stream%20%20oyunpiyatfm",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Nida",
+    "url": "https://anadolu.liderhost.com.tr/8106/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "X Radio",
+    "url": "https://stream.xradio.com.tr:8770/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MEGASITE",
+    "url": "https://stream.netradyom.com/listen/megasite/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo 2000 Erzincan",
+    "url": "https://radyo.yayindakiler.com:3030/stream?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo 35",
+    "url": "https://yayin.turkhosted.com/6012/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Göktürk",
+    "url": "https://ip231.ozelip.com:8004/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Giresun FM",
+    "url": "http://yayin.canliyayin.org:9482/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "playdancetürk",
+    "url": "https://radyo1.radyo-dinle.tc/playdanceradiotur/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Apacik Radyo",
+    "url": "http://stream.34bit.net/ar.aac",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Diyarbakır Çağrı FM",
+    "url": "https://live.cagrifm.com.tr/cagrifm",
+    "country": "Turkey",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Viva",
+    "url": "https://edge1.radyotvonline.net/shoutcast/play/radyoviva",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Mydonose",
+    "url": "https://29083.live.streamtheworld.com/RADIO_MYDONOSE128AAC.aac?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Duygusal",
+    "url": "https://radyoduygusal.kesintisizyayin.com:9596/;*.nsv",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Alevi Canlar",
+    "url": "https://alevifm.80.yayin.com.tr/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kıyı Türkçe",
+    "url": "https://kiyiturk.radioca.st/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Engelliler radyo",
+    "url": "https://stream.zeno.fm/iuqovax9ftsvv",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "KIYI Turkce",
+    "url": "https://kiyiturk.radioca.st/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Apacik Radyo",
+    "url": "http://stream.34bit.net/ar.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Show radio",
+    "url": "https://edge1.radyotvonline.net/shoutcast/play/showradyo",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sezen Radyo",
+    "url": "http://radyo1.radyo-dinle.tc:8038/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Erzincan Nostalji Radyo",
+    "url": "https://erzincannostalji.ozelip.com/8238/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Konya İsra FM",
+    "url": "https://yayin2.canliyayin.org:8210/;stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Karabalı",
+    "url": "https://radyokarabali.ozelip.com:9884/;",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "İstanbul FM",
+    "url": "https://yayin.istanbulfm.com.tr/istanbulfm?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Moral FM",
+    "url": "https://stream-157.zeno.fm/0cfiqwdkobavv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiIwY2ZpcXdka29iYXZ2IiwiaG9zdCI6InN0cmVhbS0xNTcuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Ik1kcEtfTUtQUm5xS3N4Mk8yXzl5YnciLCJpYXQiOjE3MzEyNzQ1ODIsImV4cCI6MTczMTI3NDY0Mn0.0eDtTzJb2qydtHkWls4Op4nmAZvg_Q9AyObMw0XOy50",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo 9",
+    "url": "https://radyo.yayin.com.tr:4010/",
+    "country": "Turkey",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hemdem Radyo",
+    "url": "https://yayin.hemdemradyo.com/",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Köroğlu FM",
+    "url": "https://yayin.turkhosted.com:6068/stream?/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Gökçeada",
+    "url": "https://radyo.yayin.com.tr:6179/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Megasite",
+    "url": "http://mega.netradyom.com:7900/;",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dadaş Fm Erzurum",
+    "url": "https://sslyayin.netyayin.net:8084/stream/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "imaj fm Erzurum",
+    "url": "https://sslyayin.netyayin.net/imajfm/stream/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo EN",
+    "url": "https://yayin2.canliyayin.org:7222/;",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "KTU",
+    "url": "https://sslyayin.netyayin.net/radyoktu/stream/;type=mp3",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bayram FM",
+    "url": "https://sslyayin.netyayin.net:10962/320.mp3",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kıyı Caz",
+    "url": "https://caz.radioca.st/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "S1lhoutte - Slow FM",
+    "url": "https://anadolu.liderhost.com.tr:10973/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NUR Radyo",
+    "url": "https://canli.hidayetradyolari.com/listen/radyo_nur/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Hakkın Sesi",
+    "url": "https://radio.mihr.com/radio/8010/hakkinsesi",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo ODTU Hiphop",
+    "url": "https://stream3.radyoodtu.com.tr:8000/hiphop",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Göl Radyo",
+    "url": "https://28553.live.streamtheworld.com/SUPER_FM_ITUNES.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FIND A CUTİE",
+    "url": "https://stream.zeno.fm/lyl2uv7fcvovv",
+    "country": "Turkey",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPL Radyo",
+    "url": "https://canli.hidayetradyolari.com/listen/mpl_radyo/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radyo Esenler",
+    "url": "https://yayin2.canliyayin.org:10978/;",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Hidayet Çağı",
+    "url": "https://radio.mihr.com/radio/8000/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Abuzer FM",
+    "url": "http://live.radyotvonline.com:9030/;stream.nsv",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "andromedaradio",
+    "url": "https://radyo1.radyo-dinle.tc/andromedaradio/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kıyı Gece",
+    "url": "https://gece.radioca.st/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Life Kayseri",
+    "url": "https://yayin2.canliyayin.org:10990/;*.mp3",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "playdanceradio",
+    "url": "https://radyo1.radyo-dinle.tc/playdanceradio/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ostim Radyo",
+    "url": "https://stream.netradyom.com/radio/8010/radio.mp3%22",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radyo Bilkent",
+    "url": "https://stream.netradyom.com/listen/radyobilkent/radio.mp3",
+    "country": "Turkey",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kıyı Gece",
+    "url": "https://gece.radioca.st/",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tarsus FM",
+    "url": "https://tarsusfm.80.yayin.com.tr//stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

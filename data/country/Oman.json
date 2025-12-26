@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Virgin Radio Oman",
+    "url": "http://uk5.internet-radio.com:8115/stream",
+    "country": "Oman",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hala FM",
+    "url": "https://listen-halafm.sharp-stream.com/halafmlow.mp3",
+    "country": "Oman",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Al Wisal",
+    "url": "http://uk7.internet-radio.com:8067/;",
+    "country": "Oman",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Merge",
+    "url": "http://uk7.internet-radio.com:8040/",
+    "country": "Oman",
+    "bitrate": 96,
+    "codec": "MP3"
+  }
+]

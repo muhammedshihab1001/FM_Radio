@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Kringvarp Føroya (KVF)",
+    "url": "http://netvarp.kringvarp.fo:443/uvhm",
+    "country": "Faroe Islands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KVF2",
+    "url": "http://netvarp.kringvarp.fo:4443/kvf2_2",
+    "country": "Faroe Islands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KVF - Tingvarp",
+    "url": "http://netvarp.kringvarp.fo:4443/tingvarp",
+    "country": "Faroe Islands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "VoxPop",
+    "url": "http://stream.midlar.fo/voxpop",
+    "country": "Faroe Islands",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

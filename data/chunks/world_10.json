@@ -1,0 +1,3502 @@
+[
+  {
+    "name": "FM Cosecha",
+    "url": "http://www.genexservicios.com:8068/;",
+    "country": "Argentina",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Caprice - Neurofunk",
+    "url": "http://79.111.119.111:8004/neurofunk",
+    "country": "Russia",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Freies Radio Neumünster",
+    "url": "http://streaming.fueralle.org:8000/frn",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rhema FM - Newcastle - 99.7 FM (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RHEMA_FM.mp3",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KCH Radio FM",
+    "url": "http://radiokchr.ru/kchrfm.aac",
+    "country": "Russia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Star FM Baguio",
+    "url": "https://stream.zeno.fm/sa27v4d29heuv",
+    "country": "Philippines",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "WHDZ101.5 \"Radio Hatteras\" Buxton, NC",
+    "url": "http://ice64.securenetsystems.net/WHDZ",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Roks",
+    "url": "https://live.relaxfm.lv/06",
+    "country": "Latvia",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMF Przeboj roku",
+    "url": "http://31.192.216.10/PRZEBOJROKU",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Европа Плюс Киров 102.2 FM",
+    "url": "http://185.76.147.85:8000/europapluskirov",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Coop",
+    "url": "http://uk1.streamingpulse.com:7013/live",
+    "country": "Italy",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "WORT 89.9 Madison, WI",
+    "url": "http://stream.wort-fm.org:8000/high.mp3",
+    "country": "United States",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fußball-Bundesliga 2: Spiel 9",
+    "url": "https://wdr-sportschau-liga2spiel9.icecastssl.wdr.de/wdr/sportschau/liga2spiel9/mp3/high",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fire-Base-Sound-Radio",
+    "url": "http://stream.laut.fm/fbsr",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WRPG-DB Pura Gracia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM05AAC459_SC",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESDES Radio",
+    "url": "https://esdesradio.netpro.tv/listen/esdes_radio/radio.mp3",
+    "country": "Madagascar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "贵州经济广播",
+    "url": "https://lhttp.qtfm.cn/live/20065/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blaj Radio",
+    "url": "https://ssl.asculta.live:8016/",
+    "country": "Romania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Schwany Heimatwelle",
+    "url": "https://hoamatwelle.schwany.de/",
+    "country": "Germany",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Praiseworld Radio",
+    "url": "https://streaming.radio.co/s7dc18f0ad/listen",
+    "country": "Nigeria",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rivercom Chelan / Douglas County Dispatch",
+    "url": "https://broadcastify.cdnstream1.com/24557",
+    "country": "United States",
+    "bitrate": 16,
+    "codec": "MP3"
+  },
+  {
+    "name": "Universidad Católica de Valparaíso",
+    "url": "http://sonando.us.digitalproserver.com/ucvradio",
+    "country": "Chile",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Collines La Radio",
+    "url": "http://collineslaradio.ice.infomaniak.ch/collineslaradio-128.mp3",
+    "country": "France",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPB Radio 1",
+    "url": "https://sc.mpbnl.nl/radio1.mp3",
+    "country": "Ireland",
+    "bitrate": 384,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KRAL TÜRK FM",
+    "url": "https://live.radyositesihazir.com/8032/stream",
+    "country": "Turkey",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 3 Bodø",
+    "url": "https://stream.radio3.no/Radio3Bodo48?rp_source=1&=&&___cb=322377588283394",
+    "country": "Norway",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Waringarri Media",
+    "url": "https://firstnationsmedia.stream:8048/stream",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Max Fm 95.8 ‘Maximum Music'",
+    "url": "https://maxfm.radyotvonline.net/stream/164/;",
+    "country": "Turkey",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mirage Space",
+    "url": "http://s0.radiohost.pl:9563/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Monte Olivete",
+    "url": "https://online.monteolivete.org:8005/stream",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Version FM",
+    "url": "https://versionfm.com:8100/stream",
+    "country": "Syria",
+    "bitrate": 24,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sladko Izkushenie",
+    "url": "http://g5.turbohost.eu:8006/autodj",
+    "country": "Bulgaria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Virgin Radio Metal",
+    "url": "https://virginmetal.ice.infomaniak.ch/virgin-radio-metal.mp3",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Smooth FM 95.3 - Sydney - 95.3 FM (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SMOOTH953.mp3",
+    "country": "Australia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "ATL BLUMENAU",
+    "url": "https://27593.live.streamtheworld.com/ATL_BLU.mp3",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "107.1 the X",
+    "url": "http://sc1.reignradio.net:9302/",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Lehovo",
+    "url": "http://s4.onweb.gr:8468/",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Intamixx Radio",
+    "url": "http://217.13.107.32:8000/;",
+    "country": "Uk",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cañón (Villahermosa) - 96.5 FM - XHOP-FM - Grupo Radio Cañón - Villahermosa, Tabasco",
+    "url": "https://streaming.servicioswebmx.com/8298/stream",
+    "country": "Mexico",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bigfoot Legends WWCH 94.1-101.3",
+    "url": "https://ice23.securenetsystems.net/WWCH",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Art - Guitar",
+    "url": "http://air-tunein.radioart.com/fGuitar.mp3",
+    "country": "Greece",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "ROCK ANTENNE Blues rock",
+    "url": "https://stream.rockantenne.de/blues-rock/stream/mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cat Country 107.3",
+    "url": "https://live.amperwave.net/manifest/townsquare-wpurfmaac-ibc3",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMC Romantic Rock",
+    "url": "http://edge.radiomontecarlo.net/rmcweb015",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Christmas Station (MP3 192 kb/s)",
+    "url": "http://stream.radio.co/s63541ce9b/listen",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "WRP Musicmix",
+    "url": "http://wrp.stream.dicast.fr:8000/wrpmusicmix-128.mp3",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Konect Radio",
+    "url": "https://listen.radioking.com/radio/129973/stream/169819",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magesh online radio 24/7",
+    "url": "http://stream.zeno.fm/8pm38q5dr7zuv",
+    "country": "India",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Arkadaş",
+    "url": "https://ssl120.radyotelekom.com.tr/9998/stream",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "HITRADIO RT1 Augsburg",
+    "url": "https://rt1.radio/augsburg",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Energia Dance",
+    "url": "https://s05.w3bserver.com:20025/;",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "邯郸新闻综合广播",
+    "url": "https://lhttp.qtfm.cn/live/5072/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Samsons FM",
+    "url": "https://samsonsfm.stream.laut.fm/samsons_fm",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Неслабое",
+    "url": "https://myradio24.org/neslaboe",
+    "country": "Russia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "cmr-tamil-hd-radio",
+    "url": "https://live.cmr24.net/CMR/TamilHD-HQ/icecast.audio",
+    "country": "India",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TrancePulse Dublin",
+    "url": "https://stream.trance.ie:8443/stream",
+    "country": "Ireland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rock Antenne - 90er Rock",
+    "url": "https://stream.rockantenne.de/90er-rock/stream/mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bombay Beats Radio",
+    "url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+    "country": "India",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NG Radio Show",
+    "url": "https://listen2.myradio24.com/8840",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Єден радіо",
+    "url": "http://31.128.79.192:8000/live",
+    "country": "Ukraine",
+    "bitrate": 224,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rocková zábava",
+    "url": "http://ice.abradio.cz/rockzabava128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Faro",
+    "url": "https://cast1.torontocast.com:5230/stream?x=1720272389034",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "1FM Molde",
+    "url": "https://s2.radio.co/s914ffa700/listen?rp_source=1&=&&___cb=962597539110953",
+    "country": "Norway",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "ZENO FM - XoneFM",
+    "url": "https://stream.zeno.fm/dnukwf7q3a0uv",
+    "country": "Spain",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Melody Music",
+    "url": "http://sp.streams.ovh/8052/stream",
+    "country": "Greece",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTRFM",
+    "url": "https://live.rtrfm.com.au/stream1",
+    "country": "Australia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Australian Digital Radio Network - Van Halen (MP3)",
+    "url": "http://abm22.com.au:8000/CONTAINER112",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERA Deftero Programma",
+    "url": "http://radiostreaming.ert.gr/ert-deftero",
+    "country": "Greece",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Navahang",
+    "url": "https://navairan.com/;stream.nsv",
+    "country": "Iran",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FRESHRadio (AAC+)",
+    "url": "http://stream.hopemedia.com.au/fresh",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pooki",
+    "url": "https://stream.bauermedia.fi/radiopooki/radiopooki_128.mp3?aw_0_1st.bauer_loggedin=false&aw_0_1st.playerid=BMUK_tunein&aw_0_1st.skey=1697625781",
+    "country": "Finland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Art - Harpsichord",
+    "url": "http://air.radioart.com/fHarpsichord.mp3",
+    "country": "Greece",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Canal Radio Cruces Cienfuegos",
+    "url": "https://stream.laut.fm/canalradio",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "sasagordaradio",
+    "url": "http://stream.zeno.fm/s4s85axxaseuv",
+    "country": "Colombia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "景德镇综合广播",
+    "url": "https://lhttp.qtfm.cn/live/5022025/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Simulator Radio",
+    "url": "https://simulatorradio.stream/stream.mp3",
+    "country": "Uk",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Regenbogen Modern Rock",
+    "url": "http://streams.regenbogen.de/rr-modernrock-128-aac?usid=0-0-H-A-D-01",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Jazzradio.fr Jazz & Cinema",
+    "url": "https://jzr-wr20.ice.infomaniak.ch/jzr-wr20.mp3",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Afera",
+    "url": "http://radio.afera.com.pl/afera128.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Paradise Main Mix 128k MP3",
+    "url": "http://stream.radioparadise.com/mp3-128",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hangos Rádió",
+    "url": "https://stream.zeno.fm/mv62tmd8wp8uv.aac",
+    "country": "Romania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM del Lago 92.1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FM921_56.mp3",
+    "country": "Argentina",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RPP FM - Mornington, Melbourne - 98.7 FM (MP3)",
+    "url": "http://streaming.radio.co/sfbd79db12/listen",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RPR1. 70er Rock",
+    "url": "https://stream.rpr1.de/70errock/mp3-128/radiobrowser",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "1079 life - Good Taste Radio",
+    "url": "https://stream01.sigile.net/1079life-64-aac",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WVOS 1240 & 95.9 FM",
+    "url": "http://ice66.securenetsystems.net/WVOS?",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antenne Bayern - 90er",
+    "url": "http://mp3channels.webradio.antenne.de/90er-hits",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bosanski Brod",
+    "url": "https://zpilipov-geckohost.radioca.st/stream",
+    "country": "Bosnia And Herzegovina",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rap/Hip Hop",
+    "url": "http://185.32.188.17:8097/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Charalá Estéreo 103.2 FM",
+    "url": "https://stream.zeno.fm/4ili1p9hiyktv",
+    "country": "Colombia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "104.6 RTL NFL Radio",
+    "url": "https://rtlberlin.streamabc.net/rtlb-nflradio-mp3-128-1113369",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sun 91.1",
+    "url": "http://listen.digital-origin.com:8005/",
+    "country": "Uk",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM2",
+    "url": "http://58.97.187.52:5007/fm2",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BLT Radio",
+    "url": "https://play.radioking.io/blt-radio",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Trinitas 88.5",
+    "url": "https://live.radiotrinitas.ro:8003/;stream.nsv",
+    "country": "Romania",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fats Waller Just Jazz",
+    "url": "https://nl4.mystreaming.net/uber/jjrfatswaller/icecast.audio",
+    "country": "Uae",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Karolinka",
+    "url": "http://91.232.4.33:8358/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Aetter",
+    "url": "http://stream.aetter.sk:8000/aetter",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cosmos 96.5",
+    "url": "https://sp3.streams.ovh/8064/stream",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deep Purple",
+    "url": "https://stream.pcradio.ru/Deep_purple-hi",
+    "country": "Uk",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Porchooneh",
+    "url": "http://porchooneh.com:8000/porchooneh.mp3",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gresivaudan Chambery",
+    "url": "https://live.aurafm.org/Radio-Gresivaudan-Chambery",
+    "country": "France",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pi FM Moskow",
+    "url": "https://cdn.pifm.ru/mp3",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gamma Gioiosa",
+    "url": "http://95.110.186.253:8000/radiogamma.mp3",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "24-7 The ‘80s",
+    "url": "http://antares.dribbcast.com:4424/stream",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radiowave NZ",
+    "url": "https://listen.radioking.com/radio/106324/stream/145267",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TLA Rádio",
+    "url": "http://centova.radio.com.pt:8545/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lueneburger Radio,AutoDJ",
+    "url": "https://luneburgerradio.sp.radio.fm/stream.mp3",
+    "country": "Germany",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "U1 Tirol",
+    "url": "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Дача Тула 106.9 FM",
+    "url": "http://87.244.47.90:8000/Dacha",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "4RPH Reading Radio",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/2416c895-f32d-4faa-90a6-b2cf9212488d",
+    "country": "Australia",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "URALSOUND FM | DEEP HOUSE",
+    "url": "https://5.restream.one/1392_1",
+    "country": "Russia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFI Romania",
+    "url": "http://asculta.rfi.ro:9128/live.aac",
+    "country": "Romania",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "EPIC CLASSICAL - Classical Violin",
+    "url": "https://stream.epic-classical.com/classical-violin",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "90.1 Happy Fm",
+    "url": "https://stream.sigile.net/happyfm-128-mp3?1692452622660",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Bom Sucesso 95.5 FM",
+    "url": "http://euroticast5.euroti.com.br:8110/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "945 MIX FM",
+    "url": "http://www.ophanim.net:8970/;",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Bestia Grupera (León) - 90.3 FM - XHML-FM - Grupo Audiorama Comunicaciones - León, GT",
+    "url": "https://ss1.audiorama.com.mx:6636/",
+    "country": "Mexico",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "8Beats",
+    "url": "https://n10.radiojar.com/2fa4wbch308uv",
+    "country": "France",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Onda 40 music",
+    "url": "https://radioonda40music.es:8000/radio.mp3",
+    "country": "Spain",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ItaloDance Fm",
+    "url": "http://hubble.shoutca.st:8120/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wijaya FM 103.5 FM Surabaya",
+    "url": "http://wijayafm.onlivestreaming.net:9880/stream?",
+    "country": "Indonesia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádió 1 - Békéscsaba",
+    "url": "https://icast.connectmedia.hu/5233/live.mp3",
+    "country": "Hungary",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Olympia Classics - Greatest Hits Of The 60s 70s 80s & 90s",
+    "url": "http://streams.olympia-streams.nl/classics192",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Pogoda Gdańsk",
+    "url": "http://radiostream.pl/tuba145-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "PromoDJ: Dubstep",
+    "url": "http://radio.promodj.com:8000/dubstep-192",
+    "country": "Russia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "938 Now Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Klassikradio - Barock",
+    "url": "http://stream.klassikradio.de/barock/mp3-192/www.klassikradio.de/",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Indie Experience",
+    "url": "http://stream.laut.fm/indie_experience",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHWC-FM \"Country 104.9\" Goderich, ON (AAC Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CHWCFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "DASDING Weekend WarmUp",
+    "url": "https://liveradio.swr.de/d245tgd/raka04/",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Principios",
+    "url": "http://stream.zeno.fm/i5darmt2oi7tv",
+    "country": "Chile",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "97 Country FM",
+    "url": "https://vistaradio.streamb.live/SB00040?=&&___cb=491767877535127",
+    "country": "Uk",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Heimatmelodie",
+    "url": "http://rhm1.de/listen.mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "THE LYNX CLASSIC ROCK",
+    "url": "http://rock-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CMC Dalmatina",
+    "url": "http://radio-stream.cmc.com.hr:8040/autodj",
+    "country": "Croatia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bilingual Sounds HD3 88.5 fm",
+    "url": "https://stream.885fm.org/2",
+    "country": "United States",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "105 FM - SP",
+    "url": "http://www.appradio.app:8010//live",
+    "country": "Brazil",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Παύλος Βασιλείου Live",
+    "url": "https://azuracast.streams.gr/listen/paulosvasileioulive/radio.mp3",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tequila Manele",
+    "url": "http://live.radiotequila.ro:7000/;",
+    "country": "Romania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Barranquilla Estereo",
+    "url": "http://radio.yaservers.com:8197/;stream.mp3",
+    "country": "Colombia",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sportschau Radio Liga2 Konferenz",
+    "url": "https://wdr-sportschau-liga2konferenz.icecastssl.wdr.de/wdr/sportschau/liga2konferenz/mp3/high?file=.mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris SLO",
+    "url": "http://stream02.exit.si:8000/SLO?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Canal Sur Radio Sevilla",
+    "url": "https://rtva-live-radio.flumotion.com/rtva/csrsev.mp3",
+    "country": "Spain",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Whisperings Solo Piano Radio",
+    "url": "https://pianosolo.streamguys1.com/live",
+    "country": "United States",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ishizwe FM",
+    "url": "https://stream.zeno.fm/zhhawbqoikatv",
+    "country": "Tanzania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Πόλις 99.4",
+    "url": "http://s2.e-resellers.gr:8020/stream?type=http&nocache=103230",
+    "country": "Greece",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio DEEA",
+    "url": "http://radiocdn.nxthost.com/radio-deea",
+    "country": "Romania",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "laut.fm eins",
+    "url": "https://stream.laut.fm/eins",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Art - Soft Rock & Folk",
+    "url": "https://air.radioart.online/fFolk_and_soft_rock.mp3",
+    "country": "Greece",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Keith F'em",
+    "url": "https://keithfem2.out.airtime.pro/keithfem2_a",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Korinthos",
+    "url": "http://cast.radiohost.ovh:9004/stream?1501748611584.mp3",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "disco diamond 2",
+    "url": "http://discodiamond.radioca.st/stream",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radiosilenci",
+    "url": "https://enacast.com/radiosilenci/streams/HD",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Subasio+",
+    "url": "http://icy.unitedradio.it/SubasioPiu.mp3",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "1LIVE RnB & Hip Hop",
+    "url": "https://wdr-1live-hiphoprnb.icecast.wdr.de/wdr/1live/hiphoprnb/mp3/128/stream.mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "飛碟聯播網 苗栗中港溪",
+    "url": "http://cast.uforadio.com.tw:8000/miao-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "П'ятниця Кременчук",
+    "url": "http://radio.moa.org.ua/Friday",
+    "country": "Ukraine",
+    "bitrate": 256,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Salsa 92.7 FM",
+    "url": "https://stream.zeno.fm/h7lnwv51bh5uv",
+    "country": "The Dominican Republic",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Мелодия СПб",
+    "url": "http://stream.salyutfm.ru:4020/stream",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SounBox FM",
+    "url": "https://soundboxfm.stream.laut.fm/soundbox_fm",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KJIC 90.5 FM Houston",
+    "url": "https://ice42.securenetsystems.net/KJIC",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Arc Musique",
+    "url": "https://arcmusique.ice.infomaniak.ch/arcmusique-128.mp3",
+    "country": "Switzerland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "БНР – Радио Кърджали",
+    "url": "http://stream.bnr.bg:8038/radio-kardzhali.aac",
+    "country": "Bulgaria",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "i love radio - puentez live",
+    "url": "http://stream01.ilovemusic.de/iloveradio19.mp3",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Feierfreund - 100% Eskalation",
+    "url": "http://streams.feierfreund.de/eskalation/mp3-192/streams.feierfreund.de/",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mia - Los Santos",
+    "url": "https://sonic.globalstream.pro/8040/stream",
+    "country": "Panama",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Regenbogen Kinderlieder",
+    "url": "https://stream.regenbogen.de/kinderlieder/mp3-128/radiobrowser",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Life Radio Tirol - MUSIC ONLY",
+    "url": "https://stream.liferadio.tirol/MUONLY/mp3-192/link",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio S3 Crna Gora",
+    "url": "https://stream.radios.rs:9018/",
+    "country": "Montenegro",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "92.3 KOMP",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KOMPFM.mp3",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "涞水县流行音乐广播999正青春",
+    "url": "https://lhttp-hw.qtfm.cn/live/20211620/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super 90.4",
+    "url": "http://dione.shoutca.st:8530/;?1644228381005",
+    "country": "Greece",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chill Russia",
+    "url": "https://chillrussia.ru/chillradio",
+    "country": "Russia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ravenz Radio - Melbourne (MP3)",
+    "url": "http://radio.torchwoodhosting.com:8028/;",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WYPR 88.1 FM",
+    "url": "https://wtmd-ice.streamguys1.com/wypr-1",
+    "country": "United States",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "#TOP 200 DJ CHARTS - JUST MUSIC - DJ REMIX & CHARTS RADIO @ TikTok Charts, Electronic Music, EDM, House, Deep House, Dance Music, Techno & Hypertechno, Top40, Latin Charts, Reggaeton, Urban, HipHop, Club & Party Radio - & LIVE DJ SETS @ Festival Melodic House, Melodic Techno. Best 100 Lounge, Mixed Radio Station @ PartyHits / Schlager Remix Top 50",
+    "url": "https://breakz-high.rautemusik.fm/stream.mp3?ref=DJCHARTSRB",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Folk Alley Fresh Cuts",
+    "url": "https://freshgrass.streamguys1.com/freshcuts-128mp3",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Urban Hit rap FR",
+    "url": "https://urbanhitrapfr.ice.infomaniak.ch/urbanhitrapfr-128.mp3",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caribbean KISS FM 105.5 Castries",
+    "url": "http://auds2.intacs.com/caribbeankissfm",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "cmrthamilfm",
+    "url": "https://live.cmr24.net/CMR/CMR-MQ/icecast.audio",
+    "country": "India",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 70s",
+    "url": "http://31.192.216.7/70S",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Madness 95",
+    "url": "http://s7.onweb.gr:8044/stream?type=http&nocache=40904",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cabo Mil - 96.3 FM - XHSJS-FM - San José del Cabo, Baja California",
+    "url": "https://streamingcwsradio30.com:7070/stream",
+    "country": "Mexico",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "96.9 Hits FM",
+    "url": "https://ice9.securenetsystems.net/KLTAHD2",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Eska - Rzeszów",
+    "url": "http://ic1.smcdn.pl/2240-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio M",
+    "url": "http://www.team-data.ba:8030/stream/",
+    "country": "Bosnia And Herzegovina",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFI Russia",
+    "url": "https://rfiukraine.ice.infomaniak.ch/rfiukraine-96.mp3",
+    "country": "France",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RauteMusik TechHouse",
+    "url": "http://techhouse-high.rautemusik.fm/",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tru",
+    "url": "http://stream.laut.fm/tru",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Online Fusagasuga",
+    "url": "https://stream-159.zeno.fm/rxsg20wcfg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJyeHNnMjB3Y2ZnOHV2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6InMxRG9kSkFlVC1tcDVMR1hfenJuZ3ciLCJpYXQiOjE3MTkzNjk4NDAsImV4cCI6MTcxOTM2OTkwMH0.ZYQdhHXHyr9wpgXN4FuFWCWislc_VXXiDJ52MVSGEiw",
+    "country": "Colombia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Европа + Кемерово",
+    "url": "https://online2.gkvr.ru:8001/europa_kem_64.aac",
+    "country": "Russia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tonic Fitness Radio Milano Giambellino",
+    "url": "http://radioserver-professional.it:8000/radio-004",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Multicolore Radio",
+    "url": "http://www.radioking.com/play/multicolore-radio",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sierpc",
+    "url": "https://ssl-1.radiohost.pl:10700/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Australian Digital Radio Network - Fleetwood Mac (MP3)",
+    "url": "http://abm22.com.au:8000/CONTAINER111",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maria Südtirol",
+    "url": "http://dreamsiteradiocp.com:8054/stream",
+    "country": "Italy",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Trianon 740 AM",
+    "url": "https://shout25.crossradio.com.br:18014/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WZEU 102.9 The Mermaid",
+    "url": "http://stream.wzeufm.com:8000/stream.mp3",
+    "country": "United States",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM del Sol 91.1",
+    "url": "https://streaming.radiosenlinea.com.ar/9026/stream",
+    "country": "Argentina",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Emisoras Unidas 89.7",
+    "url": "https://stream.zenolive.com/z96sq8tndseuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "COMANDO VIP OFC Siga IG: @comando.vip.ofc",
+    "url": "http://jpdofunk3.com.br:8072/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "黑龙江交通广播",
+    "url": "https://lhttp-hw.qtfm.cn/live/4973/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "7WAY 105.3 Way FM - Launceston, TAS",
+    "url": "https://stream2.cnmns.net/wayfm-mp3",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss Collector",
+    "url": "http://live7.avf.ch:8000/kisscollector_main",
+    "country": "Switzerland",
+    "bitrate": 1090,
+    "codec": "OGG"
+  },
+  {
+    "name": "ABC Portugal",
+    "url": "http://centova.radio.com.pt:8547/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nostalgi SE",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Portuguesa do Var",
+    "url": "https://sonic.servsonic.com:7003/;",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "IloveHardstyle",
+    "url": "https://ilm.stream35.radiohost.de/ilm_ilovehardstyle_mp3-192",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ecos del Combeima (HJNC, 790 kHz AM, Ibagué, Tolima)",
+    "url": "http://s2.viastreaming.net:8030/;",
+    "country": "Colombia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ηχώ Πάρος",
+    "url": "http://eco.onestreaming.com:8280/stream?type=http&nocache=44956",
+    "country": "Greece",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Suisse Jazz",
+    "url": "https://stream.srg-ssr.ch/m/rsj/aacp_96",
+    "country": "Switzerland",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RFM TOCA PORTUGAL",
+    "url": "https://27793.live.streamtheworld.com/RFM_PORTUGALAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Ton - Ostwürttemberg",
+    "url": "http://live2.radioton.de/rt-live-owb",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Voz del Cinaruco 1050 AM",
+    "url": "https://radiolatina.info/7438/stream/",
+    "country": "Colombia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO INTIRAYMI DEL CUSCO 830 AM",
+    "url": "https://streamhotsperu.purosurfm.com:8150/intiraymi",
+    "country": "Peru",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Manastirea Putna",
+    "url": "https://www.ortodoxradio.ro:8000/stream48",
+    "country": "Romania",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "LRMAROCKRADIO",
+    "url": "https://c22.radioboss.fm:18318/stream",
+    "country": "Latvia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yle Radio Suomi, Mikkeli",
+    "url": "https://icecast.live.yle.fi/radio/YleMikkeli/icecast.audio",
+    "country": "Finland",
+    "bitrate": 0,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Australian Digital Radio Network - Katy Perry (MP3)",
+    "url": "http://abm22.com.au:8000/CONTAINER116",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Like Radio - ONE (AAC+)",
+    "url": "http://likeradiostream.com/likeoneukaac",
+    "country": "Uk",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Lounge.FM Kanal 2 - Wien",
+    "url": "https://s35.derstream.net/ukwwien.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LFM Radio",
+    "url": "https://www.radioking.com/play/passionauto974/63343",
+    "country": "France",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MFM",
+    "url": "https://radios.justweb.pt/8074/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Петербург",
+    "url": "https://radio.5-tv.ru/radio.mp3",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MB Music Radio",
+    "url": "http://s33.myradiostream.com:16150/",
+    "country": "Romania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova 96.9 - Sydney - 96.9 FM (AAC+ 128k)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/NOVA_969_AAC128.aac",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Espectaculo 100.7 FM",
+    "url": "https://laradiossl.online:10583/;?_=2#.mp3",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q107.3",
+    "url": "https://ice66.securenetsystems.net/WCGQFM",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BLAZIN 99.3FM",
+    "url": "https://streams.radio.co/s5f11a7ef9/listen",
+    "country": "Saint Lucia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "- 0 N - K-Pop on Radio",
+    "url": "https://0n-kpop.radionetz.de/0n-kpop.mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Classics AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Extraterrestrial Radio",
+    "url": "https://audio-edge-w4d68.yul.o.radiomast.io/3049eeff-028f-4acb-a907-dc90fe19f828",
+    "country": "United States",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Quillota 101.5",
+    "url": "http://archi-us.digitalproserver.com/quillota-fm.aac",
+    "country": "Chile",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "台北古典廣播",
+    "url": "https://stream.zeno.fm/w66d3dp6ynhvv",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Броди ФМ",
+    "url": "https://complex.in.ua/brody64",
+    "country": "Ukraine",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Svensk Folkmusik - AkkA radio",
+    "url": "http://mediaserv38.live-streams.nl:8107/stream",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Energia 97 FM",
+    "url": "https://streaming.inweb.com.br/energia",
+    "country": "Brazil",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "SmoothLounge.com 32k mp3",
+    "url": "https://smoothjazz.cdnstream1.com/2586_32.mp3",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "绵阳综合广播",
+    "url": "https://lhttp.qtfm.cn/live/4024/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio SOMEȘ",
+    "url": "http://radio.mediacp.eu/stream/radiosomes",
+    "country": "Romania",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antena 1 FM 103.7 Rio de Janeiro",
+    "url": "http://a1rj.streams.com.br:7801/stream",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Радио \"Искатель\"",
+    "url": "https://iskatel.hostingradio.ru:8015/iskatel-128.mp3",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Serra",
+    "url": "http://nr9.newradio.it:9432/stream",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.9 Bright FM",
+    "url": "http://icecast.eradioportal.com:8000/radyo-veritas-846",
+    "country": "Philippines",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Play Trance Radio Uplifting Only Channel (High Quality)",
+    "url": "https://streaming.playtrance.com/playtrance-uplifting-high",
+    "country": "Spain",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "All Dixie Rock",
+    "url": "http://streaming.live365.com/a88164",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "iHeart dance Australia",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
+    "country": "Australia",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CubanFlow Radio",
+    "url": "http://nap.casthost.net:9194/",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MyNoise Zen Garden",
+    "url": "http://zengarden.radio.mynoise.net/",
+    "country": "Belgium",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Комсомольская правда Владивосток 90.4 FM",
+    "url": "http://kpradio.hostingradio.ru:8000/vladivostok.radiokp64.mp3",
+    "country": "Russia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zuerisee",
+    "url": "http://mp3.radio.ch/radiozuerisee256k",
+    "country": "Switzerland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Multisom Hits Cataguases",
+    "url": "https://servidor28-3.brlogic.com:8124/live?source=website",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "[Infowars] [The War Room With Owen Shroyer] ACC+ [32] [https] [Streams1]",
+    "url": "https://streams1.infowars.com/stream/4/",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fuse FM",
+    "url": "https://streaming.radio.co/s53051f118/low",
+    "country": "Uk",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Teddy - Classics",
+    "url": "https://streamtdy.ir-media-tec.com/teddyclassics/mp3-128/web/play.mp3",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WDEV 550 AM Waterbury, VT",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WDEVFM.mp3",
+    "country": "United States",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Victoria - Cadena Eich 101.7",
+    "url": "http://transmision.cadenaeich.com:8000/RadioH-Maestra.mp3?1733242976982",
+    "country": "Argentina",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rodon 95",
+    "url": "http://live3.istoikona.net:8324/stream",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio del Plata",
+    "url": "https://streaming01.shockmedia.com.ar:10217/stream",
+    "country": "Argentina",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Point Independent Radio",
+    "url": "https://nebcoradio.com:8443/WNCS",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COPE + Sevilla",
+    "url": "http://wecast09-h-cloud.flumotion.com/copesedes/sevilla-mas.mp3",
+    "country": "Spain",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wadah FM",
+    "url": "https://19183.live.streamtheworld.com/WARNA942FMAAC.aac",
+    "country": "Malaysia",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ZUM 1",
+    "url": "https://streams.radiozum.md/listen/zum1/ZUM1",
+    "country": "The Republic Of Moldova",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Italia Settanta",
+    "url": "http://stream.laut.fm/italia70",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wildmountain Radio",
+    "url": "https://wildmountain.ice.infomaniak.ch/wmr.mp3",
+    "country": "Switzerland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wespennest",
+    "url": "http://stream.laut.fm/wespennest",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AM 790",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WPRVAMAAC.aac",
+    "country": "United States",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Zenith Classic Rock",
+    "url": "http://91.189.64.188:3644/zenith128mp3",
+    "country": "Ireland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Первое Сетевое",
+    "url": "https://streamer.radiovseti.ru:8000/320",
+    "country": "Russia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFBV \"The Moose\" 870 Smithers, 106.5 Houston, 760 Burns Lake, BC",
+    "url": "https://vistaradio.streamb.live/SB00077",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio estereo mixes fm",
+    "url": "https://stream.zeno.fm/qlwpb1ipqd7tv",
+    "country": "Mexico",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Medi 1 Nayda",
+    "url": "http://live.medi1.com/Nayda",
+    "country": "Morocco",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deutschlandfunk Nova | DLF | AAC 48k",
+    "url": "https://st03.sslstream.dlf.de/dlf/03/low/aac/stream.aac?aggregator=web",
+    "country": "Germany",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "НАШЕ Радио Тюмень",
+    "url": "http://nashe1.hostingradio.ru/nashe-256",
+    "country": "Russia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Limfjord Slager",
+    "url": "https://media.limfjordnetradio.dk/plusslageraac",
+    "country": "Denmark",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Europa Plus",
+    "url": "http://ep256.hostingradio.ru:8052/europaplus256.mp3",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rainbow Gospel Radio",
+    "url": "http://102.130.114.184:8000/Stream/1",
+    "country": "South Africa",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RTP 96.5 FM",
+    "url": "https://streamingecuador.net:8167/radiotropicana",
+    "country": "Ecuador",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rai Gr Parlamento",
+    "url": "http://icestreaming.rai.it/7.mp3",
+    "country": "Italy",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Maxi France",
+    "url": "http://stream.maxifrance.fr:8358/stream",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Student 100.5",
+    "url": "http://161.53.122.184:8000/AAC128.aac",
+    "country": "Croatia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - Ogg FLAC - Lossless Stereo",
+    "url": "https://streams.radiomast.io/ref-lossless-ogg-flac-stereo",
+    "country": "Canada",
+    "bitrate": 1500,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio Balkan Narodna",
+    "url": "https://radiobalkan.live/radio/live/narodna.mp3",
+    "country": "Serbia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "X_X",
+    "url": "https://stream.zeno.fm/n63xpx3o8imuv",
+    "country": "Egypt",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BDJ Eurodance 90s",
+    "url": "https://stream-90s.bdjradio.com/",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MIX Cancún - 93.1 FM - XHYI-FM - Grupo ACIR - Cancún, QR",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/XHYIFMAAC.aac",
+    "country": "Mexico",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "La Magnífica (Puebla) - 95.5 FM - XHZT-FM - Tribuna Comunicación - Puebla, Puebla",
+    "url": "https://stream.zeno.fm/zskjbd7n200tv",
+    "country": "Mexico",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dance Wave Retro!",
+    "url": "https://retro.dancewave.online/retrodance.opus",
+    "country": "Hungary",
+    "bitrate": 96,
+    "codec": "OGG"
+  },
+  {
+    "name": "UNIWA DRM",
+    "url": "https://stream-176.zeno.fm/q38yd26rcg8uv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJxMzh5ZDI2cmNnOHV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Im9HQXRLVmtMUWxDNUNLNGlCSElPemciLCJpYXQiOjE3MjgzMjIwNDUsImV4cCI6MTcyODMyMjEwNX0.0GSZM0QK-L_qxEL0-_zV9lCJT6N52Pn3KZ7dJtuHXeU&aw_0_req_lsid=2bcbca64888703e84d2eb1011cfa577b&dot-uid=0b14220400fae63a8eb57922&amb-uid=8677843517994978339&an-uid=0&triton-uid=cookie%3Aec86263c-b05f-49bb-a6ca-7953e83d18e5",
+    "country": "Greece",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Prostor",
+    "url": "https://bcast.spmmedia.cz/prostor-mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL Die besten Hits aller Zeiten",
+    "url": "http://stream.rtlradio.de/rtl-de-beste-hits/aac-64",
+    "country": "Luxembourg",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cosmo Radio 101.9 FM Bandung",
+    "url": "http://scg.streamingmurah.com:8074/stream",
+    "country": "Indonesia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lodiko Sodonyo",
+    "url": "https://stream-047.zeno.fm/nztzeroxluuuv",
+    "country": "Indonesia",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "义乌新闻",
+    "url": "https://lhttp.qtfm.cn/live/20537/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "bigFM Tomorrowland One World Radio",
+    "url": "https://stream.bigfm.de/tomorrowland/mp3-128/radiobrowser",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "रेडियो हिमालय",
+    "url": "https://live.itech.host/himalayaradio",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klubrádió - Zebrádió",
+    "url": "https://stream.zebradio.hu:8443/zebradio",
+    "country": "Hungary",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rhema Stereo",
+    "url": "https://radio.fiberstreams.com:2000/stream/8710",
+    "country": "Guatemala",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Goa Trance Chillout",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s117843&",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-Goldenwave",
+    "url": "http://mscp3.live-streams.nl:8070/radio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pereraadio Tallinn",
+    "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+    "country": "Estonia",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yesterday FM",
+    "url": "http://stream.yesterday.fm:8030/",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TOXICAS HR [EVE07]",
+    "url": "https://stream.zeno.fm/b29cslbyte1vv",
+    "country": "Argentina",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICE RADIO WALDKRAIBURG 3 Dolce Vita mit Italienischen Hits",
+    "url": "https://irw.tunefm.de:8050/stream",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Orión",
+    "url": "http://01.solumedia.com.ar:7834/stream?icy=http",
+    "country": "Argentina",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "XERW Radio",
+    "url": "https://stream-153.zeno.fm/uz79wmx8twzuv",
+    "country": "United States",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "GRRIF",
+    "url": "https://rjb.ice.infomaniak.ch/rjb-high.mp3",
+    "country": "Switzerland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VBRO Radio",
+    "url": "http://stream.vbro.be:9100/vbro",
+    "country": "Belgium",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nindy Radio 98.2 FM",
+    "url": "http://radio.garden/api/ara/content/listen/823zxnHk/channel.mp3",
+    "country": "Indonesia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M40 Rnb",
+    "url": "https://live.m40radio.fr/listen/m40-rnb/m40-rnb-128.mp3",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHWC-FM \"Country 104.9\" Goderich, ON (MP3 Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CHWCFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technolovers ELECTRO HOUSE",
+    "url": "https://stream.technolovers.fm/electro-house?ref=radiobrowser",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "VIP Radio Queensland (MP3)",
+    "url": "http://stream.zeno.fm/rdrdf239f0hvv",
+    "country": "Australia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kibut",
+    "url": "https://www.radioking.com/play/radiokibut",
+    "country": "Romania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AC-PLUS",
+    "url": "https://stream.laut.fm/ac-plus",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KSFO 560 AM San Francisco, CA",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KSFOAM_SC",
+    "country": "United States",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "OCEANO",
+    "url": "https://oceano-2.nty.uy/netradio/listen.mp3",
+    "country": "Uruguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sunshine Live - Charts",
+    "url": "http://stream.sunshine-live.de/sp6/mp3-192/stream.sunshine-live.de/",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTS Béziers",
+    "url": "http://str0.creacast.com/rts-beziers",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mexicanísima (Mérida) - 98.9 FM - XHYW-FM - Grupo Radio Digital - Mérida, YU",
+    "url": "http://stream.zeno.fm/4xwhyk6xr98uv",
+    "country": "Mexico",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Exclusively Alison Moyet",
+    "url": "https://streaming.exclusive.radio/er/alisonmoyet/icecast.audio",
+    "country": "Uae",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Totally Radio - 70s (AAC+)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/T_RAD_70S_S01AAC.aac",
+    "country": "Australia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "温岭1036·温岭人民广播电台",
+    "url": "http://lhttp.qingting.fm/live/4567/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "101.ru Михаил Боярский (Mikhail Boyarsky)",
+    "url": "https://srv02.gpmradio.ru:8443/stream/personal/aacp/64/1786150",
+    "country": "Russia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Φυστίκι 95.8",
+    "url": "http://s4.onweb.gr:8444/;",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caprice - Chicago blues",
+    "url": "http://79.111.14.76:8000/chicagoblues",
+    "country": "Russia",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "181.FM - Energy 98",
+    "url": "http://listen.181fm.com/181-energy98_128k.mp3",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Радио Радонеж",
+    "url": "http://icecast.radonezh.cdnvideo.ru:8000/rad128",
+    "country": "Russia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo6 Radio Slovakia International",
+    "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Fm Blues",
+    "url": "https://live.rockfm.ro/blues",
+    "country": "Romania",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Baladas Románticas",
+    "url": "http://stream.zeno.fm/y5ztkzpqhueuv",
+    "country": "Colombia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Palmos Patras",
+    "url": "http://i.streams.ovh:9521/stream",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AM Original 1180 Veraguas",
+    "url": "http://rosetta.shoutca.st:9264/stream",
+    "country": "Panama",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "WEFT 90.1 East Central Illinois Community Radio",
+    "url": "https://weft.broadcasttool.stream/stream",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Stomp Radio",
+    "url": "http://carol.epichosts.co.uk:8490/live.mp3",
+    "country": "Uk",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MEXICO LA GRAN X (FM 101.7)",
+    "url": "https://ice10.securenetsystems.net/KEGE",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cugat Ràdio",
+    "url": "http://directe.cugat.cat/directeHQ.mp3",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Symi Radio",
+    "url": "https://stream-47.zeno.fm/2me3a1e6ag0uv?zs=3WKmTDgjSoW6sclZWjyckg",
+    "country": "Greece",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "La Ke Buena (Ciudad Serdán) - 93.5 FM - XHLU-FM - Ciudad Serdán, Puebla",
+    "url": "https://stream.zeno.fm/f7rmwpnakuhvv",
+    "country": "Mexico",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio SRF Musikwelle",
+    "url": "http://stream.srg-ssr.ch/m/drsmw/aacp_96",
+    "country": "Switzerland",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 91.2",
+    "url": "https://radio912--di--nacs-ais-lgc--02--cdn.cast.addradio.de/radio912/live/mp3/high",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KSLO 105.3 The Home Of Zydeco",
+    "url": "https://ice6.securenetsystems.net/KSLO",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kickynit Satellite Radio",
+    "url": "https://streaming.live365.com/a64542",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTL",
+    "url": "http://streaming.radio.rtl.fr/rtl-1-44-128",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Havin FM",
+    "url": "http://yayin6.radyohizmeti.com:7050/;stream.mp3",
+    "country": "Turkey",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "WLYN 1360 AM",
+    "url": "http://peace.str3am.com:6660/WLYN",
+    "country": "United States",
+    "bitrate": 39,
+    "codec": "MP3"
+  },
+  {
+    "name": "Teamsport Radio",
+    "url": "https://uksouth1.juiceboxradio.com/tsradionational",
+    "country": "Uk",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO BOB! BOBs Gothic Rock",
+    "url": "http://streams.radiobob.de/gothic/mp3-192/streams.radiobob.de/",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "包头文艺广播",
+    "url": "https://lhttp.qingting.fm/live/21259/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "No Lies Radio",
+    "url": "http://noliesradio.out.airtime.pro:8000/noliesradio_b",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Australian Digital Radio Network - Bruce Springsteen (MP3)",
+    "url": "http://abm22.com.au:8000/CONTAINER76",
+    "country": "Australia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "00'S RFM",
+    "url": "https://25343.live.streamtheworld.com/LIVESTREAMAAC.aac",
+    "country": "Portugal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sifm Almeria",
+    "url": "https://broadcast.radioponiente.org:8030/",
+    "country": "Spain",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dimensione Italia .NET",
+    "url": "http://usa1-vn.mixstream.net:9278/;stream.mp3",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "宜昌新闻综合广播",
+    "url": "https://lhttp.qingting.fm/live/20565/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WSIE 88.7 FM Edwardsville,IL",
+    "url": "http://streaming.siue.edu:8000/wsie",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioEmergency2",
+    "url": "https://www.radioemergency.de/2radioemergency.mp3",
+    "country": "Germany",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "WLHA",
+    "url": "https://streaming.live365.com/a04907",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "egofm Chillout",
+    "url": "https://streams.egofm.de/egoCHILLOUT-hq",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Paradise Main Mix (EU) 64k AAC",
+    "url": "http://stream-uk1.radioparadise.com/aac-64",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "JAZZ MANOUCHE / GYPSY JAZZ / GYPSY SWING - Radio Caprice",
+    "url": "http://79.120.77.11:8004/manouche",
+    "country": "Russia",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Activa Honduras",
+    "url": "https://stream.zeno.fm/6n7fp9t2pceuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Studio 97",
+    "url": "https://sechin.grupocentroserver.com/radio/8140/radio.mp3",
+    "country": "Peru",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Glonntalradio",
+    "url": "http://server7.streamserver24.com:21163/stream",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO FM1",
+    "url": "https://chmedia.streamabc.net/79-fm1-mp3-192-7523806?sABC=6499oos8%230%230016or1p1r381r4485n244q3016qs660%23qverpg&aw_0_1st.playerid=direct&amsparams=playerid:direct;skey:1687796728",
+    "country": "Switzerland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FIP Sacré Français !",
+    "url": "http://icecast.radiofrance.fr/fipsacrefrancais-hifi.aac",
+    "country": "France",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Service",
+    "url": "http://stream.radioserviceweb.fr/radioservice.mp3",
+    "country": "France",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hemdem Radyo",
+    "url": "http://yayin.hemdemradyo.com/",
+    "country": "Turkey",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "🕺 Konpa Mix Radio",
+    "url": "http://das-edge09-live365-dal03.cdnstream.com/a15951",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Metal On: Toxic",
+    "url": "https://radiometalon.com/listen/radio_metal_on_toxic/radio.mp3",
+    "country": "Portugal",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Altrok Radio",
+    "url": "http://ice.wbjb.net/ALT-MP3-High",
+    "country": "United States",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Yoo (MP3)",
+    "url": "http://stream.zeno.fm/v73tc5gwaphvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dobré Rádio",
+    "url": "https://stream.dobreradio.sk/dobreradio.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Olsztyn",
+    "url": "https://rostr1.radioolsztyn.pl:8443/RO",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WQXR New York Public Radio \"Operavore\" Stream",
+    "url": "http://opera-stream.wqxr.org/operavore-tunein",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Birch street radio",
+    "url": "https://jenny.torontocast.com:8172/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Decibelia FM",
+    "url": "https://streaming.shoutcast.com/decibelia",
+    "country": "Spain",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "潍坊市潍城区 FM100.8城市之声",
+    "url": "https://lhttp.qtfm.cn/live/20211696/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Idea Radio Nel Mondo",
+    "url": "http://nr7.newradio.it:9361/;",
+    "country": "Italy",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Anbu FM Kannada",
+    "url": "http://stream.zeno.fm/45f9c2byfy8uv",
+    "country": "India",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WAIL FM 99.5",
+    "url": "http://ice42.securenetsystems.net/WAIL",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Woking",
+    "url": "https://radiowoking.radioca.st/stream.m3u?rp_source=1&=&",
+    "country": "Uk",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Andrea Bocelli - Classical Radio",
+    "url": "https://drive.uber.radio/uber/crandreabocelli/icecast.audio",
+    "country": "Uae",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fantasy Radio 97.0 - Devizes",
+    "url": "http://server.fantasyradio.co.uk:8300/;stream/1",
+    "country": "Uk",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emotion",
+    "url": "http://stream.radioemotion.be/;stream.mp3",
+    "country": "Belgium",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Salt & Light Radio",
+    "url": "http://salt-light-stream-01.miriamtech.net:8000/live",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "United Music Cinema",
+    "url": "https://icy.unitedradio.it/um058.mp3",
+    "country": "Italy",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio QK 107.2FM",
+    "url": "http://212.231.231.169:8000/radioqk_master.mp3",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESPN Radio 101.7 The TEAM",
+    "url": "https://ice8.securenetsystems.net/KQTM",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KAMU-Classical",
+    "url": "https://kamu.streamguys1.com/hd2-192",
+    "country": "United States",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hit FM Plus",
+    "url": "http://ice.abradio.cz:8000/fmplus64.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Bhumi",
+    "url": "https://stream.zeno.fm/ybf1umk1k18uv",
+    "country": "India",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "WUKY-HD2",
+    "url": "https://wuky.streamguys1.com/HD2",
+    "country": "United States",
+    "bitrate": 98,
+    "codec": "AAC"
+  },
+  {
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://mail.guidetw.com.tw:8000/live",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cantinho dos Emigrantes",
+    "url": "https://cast.redewt.net:9825/stream",
+    "country": "Portugal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kalamaria FM 101.7 - Thessaloniki - Greece",
+    "url": "https://ice.greekstream.net/focusfm_128",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "__JAM__ by rautemusik (rm.fm)",
+    "url": "https://jam-high.rautemusik.fm/?ref=radiobrowser",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "נושמים מזרחית - Noshmim Mizrahit",
+    "url": "http://www.rs.mizrahit.fm:7777/",
+    "country": "Israel",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "衡水交通评书广播",
+    "url": "https://lhttp.qtfm.cn/live/5021940/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Madjoura Nourou Dine Touba",
+    "url": "https://stream.zeno.fm/kgnvaarqu0quv",
+    "country": "Mali",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sud Radio",
+    "url": "https://live.sudradio.fr/sudradio-mp3-128",
+    "country": "France",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classical 89",
+    "url": "https://radio.byub.org/classical89/classical89_aac",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "La Zeta 105.3 FM",
+    "url": "https://ice3.securenetsystems.net/WZSP",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "92.5 The Fox",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WOFXFMAAC.aac",
+    "country": "United States",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "the x",
+    "url": "https://streaming.live365.com/a15683",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vilmar Stereo",
+    "url": "https://stream.zeno.fm/pfrwo2fzcbktv?zt=",
+    "country": "Colombia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "M-1 Dance",
+    "url": "https://radio.m-1.fm/m-1dance/aac",
+    "country": "Lithuania",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "StreamD",
+    "url": "https://live.streamd.de/streamd-live/mp3-192",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kosova 1",
+    "url": "http://82.114.72.2:8088/",
+    "country": "Kosovo",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Radio - Country",
+    "url": "https://drive.uber.radio/uber/lrcountry/icecast.audio",
+    "country": "Uae",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RCS.  Manabi Stereo",
+    "url": "http://stream.zeno.fm/esda9vaw438uv",
+    "country": "Ecuador",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "iHeartDance Australia (AAC)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ARN_IHRT7AAC.aac",
+    "country": "Australia",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Bravo",
+    "url": "http://31.192.216.8/BRAVO",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Essex",
+    "url": "https://stream.aiir.com/ujzy590c3stvv",
+    "country": "Uk",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "项城广播-国风国潮105.9",
+    "url": "https://lhttp-hw.qtfm.cn/live/20210757/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Globo 95.9 (Maravatío) - 95.9 FM - XHCCBE-FM - Maravatío, Michoacán",
+    "url": "https://stream.zeno.fm/mefi7y11grwtv",
+    "country": "Mexico",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "SUPER (Acapulco) - 94.5 FM - XHNU-FM - Grupo Audiorama Comunicaciones  - Acapulco, GR",
+    "url": "https://ss1.audiorama.com.mx:6608/super",
+    "country": "Mexico",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ретро Хит",
+    "url": "https://retro.volna.top/Retro",
+    "country": "Russia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Natin Masbate",
+    "url": "https://net.radyonatinfm.com:8030/masbate",
+    "country": "Philippines",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Zion (Tijuana) - 540 AM - XESURF-AM - Zion Multimedia - Tijuana, BC",
+    "url": "http://zionmultimedia.live/radio/8010/radio.mp3",
+    "country": "Mexico",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM del Viento 97.7",
+    "url": "https://cdn.instream.audio:9125/stream",
+    "country": "Argentina",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Caturité",
+    "url": "http://radio01.logicahost.com.br:8255/;stream.nsv?1732909310643",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WQXR 105.9 FM",
+    "url": "https://stream.wqxr.org/wqxr-web?nyprBrowserId=32c67956bf1d5600",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yunque93",
+    "url": "http://server7.servistreaming.com:10021/stream?type=.mp3",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Petrinjski radio",
+    "url": "http://s8.iqstreaming.com:8062/",
+    "country": "Croatia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KBAQ 89.5 \"K-Bach\" Classical - Phoenix, AZ",
+    "url": "http://stream.kbaq.org/kbaq_mp3_128",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WHOU 100.1 - The Best - Classic Hits Radio",
+    "url": "https://audio.whoufm.com//radio//8000//radio.mp3",
+    "country": "United States",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RNE 1 - Zaragoza",
+    "url": "https://dispatcher.rndfnk.com/crtve/rne5/zgz/mp3/high?idasset=3894741",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best of Rock FM - Metal",
+    "url": "https://bestofrockfm.stream.vip/metal/mp3-256",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Guardian",
+    "url": "https://s1.slotex.pl/shoutcast/7508/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Canarias Radio",
+    "url": "https://rtvc-radio.flumotion.com/rtvc-radio/radio1-high.mp3",
+    "country": "Spain",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - AAC-LC - 128K Stereo, with Preroll",
+    "url": "https://streams.radiomast.io/ref-128k-aaclc-stereo-preroll",
+    "country": "Canada",
+    "bitrate": 120,
+    "codec": "AAC"
+  },
+  {
+    "name": "KFIR 720 AM",
+    "url": "https://ice10.securenetsystems.net/KFIR",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "La seconda è Radio Radio Italia",
+    "url": "http://176.31.117.120:8282/stream/1/",
+    "country": "Italy",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Web Rádio E5",
+    "url": "http://paineldj6.com.br:8496/stream",
+    "country": "Brazil",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pinguin Classics",
+    "url": "http://streams.pinguinradio.com/PinguinClassics192.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TheGoosh Radio - 2000",
+    "url": "http://eu2.fastcast4u.com:3662/stream/stream/",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "89.0 RTL 2010er",
+    "url": "https://stream.89.0rtl.de/2010er/mp3-256",
+    "country": "Germany",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love Soul Radio London",
+    "url": "https://s1.citrus3.com:8018/stream",
+    "country": "Uk",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "WSJY 107.3 FM - Fort Atkinson, WI",
+    "url": "https://live.amperwave.net/direct/magnumbroadcasting-wsjyfmmp3-ibc1",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://online.kissfm.ua/KissFM_HD",
+    "country": "Ukraine",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "WirtshausMusik",
+    "url": "http://stream.laut.fm/wirtshausmusik",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MR2 - Petőfi Rádió",
+    "url": "https://mr-stream.connectmedia.hu/4738/mr2.mp3",
+    "country": "Hungary",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Faro del Caribe 97.1 FM y 1080 AM",
+    "url": "https://sp.unoredcdn.net/8032/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "pure fm - Frankfurts Stadtradio",
+    "url": "http://purefm.radionetz.de/purefm-ff.mp3",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Epic Lounge - SHISHA LOUNGE",
+    "url": "https://stream.epic-lounge.com/shisha-lounge?ref=radiobrowser",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Laut.fm/funksoulbrother",
+    "url": "http://stream.laut.fm/funksoulbrother",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "- 0 N - Schlager Gold on Radio",
+    "url": "https://0n-schlagergold.radionetz.de/0n-schlagergold.aac",
+    "country": "Germany",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Q-dance Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Liesse",
+    "url": "http://stream.zeno.fm/fddnhyrvgfzvv",
+    "country": "United States",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Play Radio Montenegro",
+    "url": "https://stream.playradio.me:8443/play-me.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOE",
+    "url": "https://stream.joe.nl/joe/aachigh",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jubilee Hospital Radio",
+    "url": "https://jubileehr.radioca.st/stream",
+    "country": "Uk",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 2: The Monday Revolution",
+    "url": "https://radio.eduneu.eu:8010/radio.mp3",
+    "country": "Argentina",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NQP Radio",
+    "url": "http://cdn.instream.audio:8111/stream",
+    "country": "Argentina",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio 95 FM Jequié - BA",
+    "url": "https://stream01.ouveai.com.br:1040/stream?1716398413708=",
+    "country": "Brazil",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "潍坊经济广播",
+    "url": "https://lhttp.qtfm.cn/live/20839/64k.mp3",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.5 Bukedde Fm",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream/1/",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Σήμαντρο 93.1",
+    "url": "http://65.108.133.10:8050/;",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Island 92",
+    "url": "https://ais-sa1.streamon.fm/7338_48k.aac",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "22 West Media Radio (California State University)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/22WESTRADIOONLINEAAC.aac",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "P11 Dance (MP3 192k)",
+    "url": "https://p11.p4groupaudio.com/P11_MH",
+    "country": "Norway",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brigada News FM Cotabato",
+    "url": "http://18.141.67.248:8006/stream/1/",
+    "country": "Philippines",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Thira Radio",
+    "url": "https://neos.win:59261/stream",
+    "country": "Greece",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cartier Romania",
+    "url": "https://live.radiocartier.eu:8048/stream",
+    "country": "Romania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Studio Enns",
+    "url": "https://server4.streamserver24.com:61414/",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Crazy4live",
+    "url": "https://stream.laut.fm/crazy4live",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "plant80s",
+    "url": "https://laut.fm/planet80s",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio SRF 3",
+    "url": "https://stream.srg-ssr.ch/m/drs3/aacp_96",
+    "country": "Switzerland",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "La Patrona 102.9 FM",
+    "url": "https://lapatrona-zikoxweb2.radioca.st/stream",
+    "country": "Spain",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SoundFM",
+    "url": "http://s1.slotex.pl:7494/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mast Japanese",
+    "url": "https://streams.radiomast.io/a622d414-52a6-4426-b3b8-ed2a4dbb704b",
+    "country": "United States",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Goldy Garba",
+    "url": "https://stream.zeno.fm/n0zkr7wa6p8uv",
+    "country": "India",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Caprice - Lo-Fi",
+    "url": "http://79.111.14.76:8000/lo-fi",
+    "country": "Russia",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "101.ru - House",
+    "url": "https://pub0202.101.ru:8000/stream/trust/mp3/128/10",
+    "country": "Russia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lumpen Radio",
+    "url": "https://radio.mensajito.mx/lumpenradio",
+    "country": "United States",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Berliner Rundfunk - 100% deutsch",
+    "url": "https://stream.berliner-rundfunk.de/brf-100prozent-deutsch/mp3-128/?ref=radiode",
+    "country": "Germany",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Limfjord Plus Slager",
+    "url": "http://media.limfjordnetradio.dk/plusslager128",
+    "country": "Denmark",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "რადიო აჭარა (Radio Adjara)",
+    "url": "https://edge.mixlr.com/channel/bzorq",
+    "country": "Georgia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "publicdomainproject   classic",
+    "url": "http://relay.publicdomainproject.org/classical.mp3",
+    "country": "Switzerland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "muji music",
+    "url": "https://stream.zeno.fm/brv193g9468uv",
+    "country": "China",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Madmix Radio",
+    "url": "http://usa19.fastcast4u.com:1780/;",
+    "country": "United States",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova S",
+    "url": "http://radio.novas.tv/novas.mp3",
+    "country": "Serbia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Art - Inspire",
+    "url": "http://air.radioart.com/fDisney.mp3",
+    "country": "Greece",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Potsdam",
+    "url": "https://stream.radiogroup.de/radio-potsdam/mp3-192/",
+    "country": "Germany",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ελληνικός 107.2",
+    "url": "http://everest.streams.ovh:2390/;",
+    "country": "Greece",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJTT-FM 104.5 Temiskaming Shores, ON",
+    "url": "https://connelly.radioca.st/cjtt",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Такси FM - Москва",
+    "url": "https://stream2.n340.com/13_taxi_28?type=.aac&UID=4D9A64A113E478565B7443DA00E31A80",
+    "country": "Russia",
+    "bitrate": 28,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Italiana 531",
+    "url": "http://5rti.igateway.com.au:8000/stream",
+    "country": "Australia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "C9 Radio",
+    "url": "https://stream.c9.fr/c9radio-192.mp3",
+    "country": "France",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Talk 94.5",
+    "url": "https://ice64.securenetsystems.net/WYEZ",
+    "country": "United States",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Encuentro",
+    "url": "http://www.rkmradio.com:8000/stream/4/",
+    "country": "Spain",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Bestia Grupera (Córdoba) - 96.1 FM - XHSIC-FM - Radiorama - Córdoba, VE",
+    "url": "https://ss1.audiorama.com.mx:6656/",
+    "country": "Mexico",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pulsas",
+    "url": "https://pulsas.lt/stream",
+    "country": "Lithuania",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Гора",
+    "url": "https://skycaster.ru/8114/stream",
+    "country": "Russia",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Noordzee (48k)",
+    "url": "http://stream.noordzee105.be:8000/noordzee_48",
+    "country": "Belgium",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SubSonic Radio - Background",
+    "url": "https://www.subsonicradio.com:8443/background.mp3",
+    "country": "United States",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Detské Rádio",
+    "url": "http://stream.21.sk/detskeradio-192.mp3",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

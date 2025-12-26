@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Hot FM 87.7",
+    "url": "http://s2.yesstreaming.net:7091/stream?type=.mp3%2F%3Bstream.mp3&_=1",
+    "country": "Zambia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sun Fm Zambia",
+    "url": "http://11233.cloudrad.io:9102/live",
+    "country": "Zambia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hot 102.7FM",
+    "url": "https://edge.iono.fm/xice/57_medium.aac?ref=https%3A%2F%2Fhot1027.co.za%2F&adToken=",
+    "country": "Zambia",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

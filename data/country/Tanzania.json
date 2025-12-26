@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Clouds FM",
+    "url": "http://eu6.fastcast4u.com:5306/;",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kwizera",
+    "url": "http://uk4-vn.mixstream.net:8052/;listen.mp3",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nuru FM",
+    "url": "https://radiotadio.co.tz/nuru-fm-stream",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA TANZANIA",
+    "url": "http://dreamsiteradiocp2.com:8034/stream",
+    "country": "Tanzania",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "East Africa Radio FM",
+    "url": "https://eatv.radioca.st/stream",
+    "country": "Tanzania",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio One Stereo",
+    "url": "https://radioonetanzania.radioca.st/stream",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wasafi Fm",
+    "url": "http://streaming.radionomy.com/JamendoLounge",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital Radio",
+    "url": "https://capitalradio.radioca.st/stream",
+    "country": "Tanzania",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Uhai",
+    "url": "https://s2.citrus3.com:8050/stream",
+    "country": "Tanzania",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Mbiu",
+    "url": "http://dreamsiteradiocp5.com:8004/stream.mp3",
+    "country": "Tanzania",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "street One radio",
+    "url": "http://stream.zeno.fm/d3as2fmadnruv",
+    "country": "Tanzania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ngamia",
+    "url": "http://stream.zeno.fm/41e3gsdgmdouv",
+    "country": "Tanzania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mungu Kwanza Radio",
+    "url": "https://mungukwanza.radioca.st/;",
+    "country": "Tanzania",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ImbaNasi",
+    "url": "https://stream.zeno.fm/dsfhivkawjiuv",
+    "country": "Tanzania",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ishizwe FM",
+    "url": "https://stream.zeno.fm/zhhawbqoikatv",
+    "country": "Tanzania",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

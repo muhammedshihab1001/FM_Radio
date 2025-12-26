@@ -1,0 +1,135 @@
+[
+  {
+    "name": "Hot 93 - 93.5 - Port of Spain",
+    "url": "http://ice41.securenetsystems.net/HOTT93",
+    "country": "Trinidad And Tobago",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "103.1 FM Trinidad",
+    "url": "http://psn3.prostreaming.net:8310/;",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Talk City 91.1 FM",
+    "url": "https://media.streambrothers.com:8450/stream",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Next 99.1FM",
+    "url": "https://media.streambrothers.com:8442/stream",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sangeet fm",
+    "url": "https://streams.radiomast.io/22e2c991-fc0c-4242-8cba-0a64d0aea809",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BOOM 94FM",
+    "url": "https://s8.yesstreaming.net:17103/stream",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vibe CT 105",
+    "url": "https://audio-edge-vqwx4.yyz.g.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tambrin 92.7 - Scarborough",
+    "url": "http://ice42.securenetsystems.net/TAMBRIN",
+    "country": "Trinidad And Tobago",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Isaac 98.1fm",
+    "url": "https://ice66.securenetsystems.net/FFBN?playSessionID=8D29A2B7-D966-0B14-AFCD7A340AFA6C15",
+    "country": "Trinidad And Tobago",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "95 the ultimate one",
+    "url": "https://www.radiomast.io/stream/aae72a18-3fa0-4b9a-a4c4-5a19655e1c68/listen",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TAMBRIN",
+    "url": "https://ice42.securenetsystems.net/TAMBRIN",
+    "country": "Trinidad And Tobago",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Vibe CT (Port of Spain)",
+    "url": "https://streams.radiomast.io/c35d311e-cc60-41b9-b0c5-339e62c14dee",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freedom FM 106.5",
+    "url": "https://media.slactech.com:8012/stream?1597658711680",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam 100.5",
+    "url": "https://www.radiomast.io/stream/68540e88-54b8-4924-b098-5a668f7da7b6/listen",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Woods Hit Radio",
+    "url": "https://stream.zeno.fm/2f33725t4mzuv",
+    "country": "Trinidad And Tobago",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Music Radio 97.1 FM",
+    "url": "https://ice42.securenetsystems.net/MR97?playSessionID=C3852F04-F653-4223-80E2177BC1CE1988",
+    "country": "Trinidad And Tobago",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LIT 102.3FM",
+    "url": "https://s8.yesstreaming.net:17106/stream",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bacchanal Radio",
+    "url": "https://c13.radioboss.fm:18470/stream",
+    "country": "Trinidad And Tobago",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fully Catholic Radio",
+    "url": "https://usa10.fastcast4u.com/fullycat2?x=1740578197868",
+    "country": "Trinidad And Tobago",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

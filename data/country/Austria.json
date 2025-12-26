@@ -1,0 +1,1353 @@
+[
+  {
+    "name": "Radio OP",
+    "url": "https://server4.streamserver24.com:26250/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Tirol HQ",
+    "url": "http://orf-live.ors-shoutcast.at/tir-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Oberösterreich | HQ",
+    "url": "https://orf-live.ors-shoutcast.at/ooe-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eurodance-X-Press",
+    "url": "https://secureonair.krone.at/eurodance.aac",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "ORF Ö1 Campus | HQ",
+    "url": "https://orf-live.ors-shoutcast.at/campus-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM4 | ORF",
+    "url": "https://orf-live.ors-shoutcast.at/fm4-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Ö1 Campus",
+    "url": "https://orf-live.ors-shoutcast.at/campus-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ViyanaFM",
+    "url": "https://radyo.viyanafm.at/1453/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LCR Radio",
+    "url": "https://streaming.radio.co/sba5c95896/listen",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM4 | ORF | HQ",
+    "url": "https://orf-live.ors-shoutcast.at/fm4-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NJoy Radio 88.2 Steiermark",
+    "url": "http://live.njoyradio.at/njoy",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soundportal (MP3, 128 kBit)",
+    "url": "http://rs8.stream24.net/radio-soundportal.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Burgenland",
+    "url": "https://orf-live.ors-shoutcast.at/bgl-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Kärnten HQ",
+    "url": "https://orf-live.ors-shoutcast.at/ktn-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Splatoon Station Seven",
+    "url": "http://audio.gendercriminals.gay/listen/splatoon_station_seven/radio-browser",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lo-Fi Halloween and Chill",
+    "url": "http://audio.gendercriminals.gay/listen/lo-fi_halloween_and_chill/radio-browser",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KroneHit Radio",
+    "url": "http://onair-ha1.krone.at/kronehit64.aac",
+    "country": "Austria",
+    "bitrate": 163,
+    "codec": "AAC"
+  },
+  {
+    "name": "KroneHit Digital",
+    "url": "http://onair-ha1.krone.at/kronehit1058.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Garage Sounds",
+    "url": "http://audio.gendercriminals.gay/listen/garage_sounds/radio.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soundportal",
+    "url": "https://rs8.stream24.net/radio-soundportal.mp3?ref=soundportal.at",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Freequenns",
+    "url": "http://livestream.freequenns.at/live",
+    "country": "Austria",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Xmas",
+    "url": "http://www.radio-xmas.at:443/xmas?1512905036085",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vorarlberg HQ",
+    "url": "https://orf-live.ors-shoutcast.at/vbg-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Burgenland HQ",
+    "url": "http://orf-live.ors-shoutcast.at/bgl-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ö1 | ORF | HQ",
+    "url": "http://orf-live.ors-shoutcast.at/oe1-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Wien | HQ",
+    "url": "http://orf-live.ors-shoutcast.at/wie-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Niederösterreich | HQ",
+    "url": "http://orf-live.ors-shoutcast.at/noe-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Hitradio Ö3 | HQ",
+    "url": "https://orf-live.ors-shoutcast.at/oe3-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Tirol",
+    "url": "http://orf-live.ors-shoutcast.at/tir-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vorarlberg",
+    "url": "https://orf-live.ors-shoutcast.at/vbg-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Salzburg HQ",
+    "url": "https://orf-live.ors-shoutcast.at/sbg-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Steiermark | HQ",
+    "url": "http://orf-live.ors-shoutcast.at/stm-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Niederösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/noe-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Oberösterreich",
+    "url": "https://orf-live.ors-shoutcast.at/ooe-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF - Radio Salzburg",
+    "url": "https://orf-live.ors-shoutcast.at/sbg-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Osttirol",
+    "url": "http://streamplus20.leonex.de:28768/;",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Her.st Propaganda Broadcast",
+    "url": "https://radio.her.st/listen/listen/128.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Purzelradio",
+    "url": "https://s5.radio.co/sa760ba7af/listen",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Alpenstar",
+    "url": "http://streamplus62.leonex.de:22674/;",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Spirit Live Radio",
+    "url": "http://server7606.streamplus.de/;",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ö1 | ORF",
+    "url": "http://orf-live.ors-shoutcast.at/oe1-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arabella Niederösterreich",
+    "url": "http://frontend.streams.arabella.at/arabella-niederoesterreich/stream/mp3?aggregator=arabella-playlistfile",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Max Billa",
+    "url": "http://listen.radiomax.technology/billa",
+    "country": "Austria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Max Merkur",
+    "url": "http://listen.radiomax.technology/merkur",
+    "country": "Austria",
+    "bitrate": 100,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Max Penny",
+    "url": "http://listen.radiomax.technology/penny",
+    "country": "Austria",
+    "bitrate": 100,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Max Bipa",
+    "url": "http://listen.radiomax.technology/bipa",
+    "country": "Austria",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Wien",
+    "url": "http://orf-live.ors-shoutcast.at/wie-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Antenne Österreich",
+    "url": "http://mp3channels.webradio.de/rockantenne-oesterreich",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radioYpsilon - Wir hör'n uns!",
+    "url": "http://mp3.radioypsilon.at:8000/mp3-160",
+    "country": "Austria",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CITY23",
+    "url": "http://live.radiomax.technology/city23",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maria Austria (56 kbps)",
+    "url": "http://live.radiomaria.at:8000/rma2",
+    "country": "Austria",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Klassik Stephansdom",
+    "url": "http://radioklassikstephansdom.ice.infomaniak.ch/radioklassikstephansdom.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum ONE",
+    "url": "http://radiotechnikum.macjingle.at:8200/;stream/1",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "88.6 Hard Rock",
+    "url": "http://radio886.at/streams/88.6_Hard_Rock/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio 88.6",
+    "url": "http://radio886.at/streams/radio_88.6/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "88.6 Classic Rock",
+    "url": "http://radio886.at/streams/88.6_Classic_Rock/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio SOL 95.5",
+    "url": "http://sol.anw.at:8023/stream",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freies Radio Salzkammergut",
+    "url": "http://stream.xaok.org:8000/frs.mp3",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pfarr-Radio Enzersfeld",
+    "url": "http://server4.streamserver24.com:43615/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hardstyle and Hardcore",
+    "url": "http://stream.laut.fm/hardstyle-and-hardcore",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Himmelberg",
+    "url": "http://stream.laut.fm/radio-himmelberg",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chromatique-Sky",
+    "url": "http://stream.laut.fm/chromatique-sky",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AustriaKult-Radio",
+    "url": "http://stream.laut.fm/austria-kultradio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "1000 ELECTRONIC DANCE MUSIC",
+    "url": "http://stream.laut.fm/1000-electronic-dance-music",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 192k",
+    "url": "http://stream.erf.at/nowradio_192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Plus Oesterreich 192k",
+    "url": "http://stream.erf.at/erfplus_192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Superfly FM",
+    "url": "http://stream01.superfly.fm:8080/live128",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radino - Mein Kinderradio Wien 103,2",
+    "url": "http://stream01.zogl.net:8906/stream",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Energy NRJ Innsbruck",
+    "url": "http://stream1.energy.at:8000/ibk",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "antennevorarlberg coffee",
+    "url": "http://web.radio.antennevorarlberg.at/av-coffee/stream/mp3?aggregator=icecastdirectory",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freies Radio Österreich",
+    "url": "http://www.fro.at:8008/fro64.mp3",
+    "country": "Austria",
+    "bitrate": 131,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio FRO",
+    "url": "http://www.fro.at:8008/fro-128.ogg",
+    "country": "Austria",
+    "bitrate": 131,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio Flamingo",
+    "url": "https://live.antenne.at/rf",
+    "country": "Austria",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio U1 Tirol",
+    "url": "https://live.u1-radio.at/",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Popwelle Wörthersee,AutoDJ",
+    "url": "https://popwellezwei.sp.radio.fm/stream",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio VM1",
+    "url": "https://radiovm1.fluidstream.eu/radiovm1.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Weanerisch gspielt",
+    "url": "https://radiovm1.fluidstream.eu/weanarisch",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metal Radio",
+    "url": "https://stream.radiotechnikum.at:80/METALRadio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metal Radio",
+    "url": "https://stream.radiotechnikum.at/METALRadio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-M1",
+    "url": "https://stream.laut.fm/m1",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Antenne Österreich",
+    "url": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "I-love-Radio-104",
+    "url": "https://streams.ilovemusic.de/iloveradio104.mp3",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Austrianpower radio",
+    "url": "https://streamsrv-austrianpub.kechit.eu/main_lo",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Kärnten",
+    "url": "http://ors-sn02.ors-shoutcast.at/ktn-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Vorarlberg Chillout",
+    "url": "https://web.radio.antennevorarlberg.at/av-chillout/stream/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Vorarlberg Lovesongs",
+    "url": "https://web.radio.antennevorarlberg.at/av-lovesongs/stream/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio886",
+    "url": "https://frontend.streamonkey.net/radio886-onair/stream/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freies Radio Freistadt",
+    "url": "http://212.89.182.114:8008/frf",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "JazzW3",
+    "url": "http://jazz.w3.at:8000/w3jazz.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freies Radio Salzkammergut",
+    "url": "https://streaming.xaok.org/frs.ogg",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Antenne Vorarlberg Classic Rock",
+    "url": "https://web.radio.antennevorarlberg.at/av-classicrock/stream/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rockhuhn",
+    "url": "http://stream.laut.fm/rockhuhn",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Slovenski spored | HQ",
+    "url": "http://ors-sn03.ors-shoutcast.at/slo-q2a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Radio Steiermark",
+    "url": "http://orf-live.ors-shoutcast.at/stm-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 192k",
+    "url": "http://stream.erf.at:8000/nowradio_192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 128k",
+    "url": "http://stream.erf.at:8000/nowradio_128",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Suedtirol 192k",
+    "url": "http://stream.erf.at:8000/erfplus_192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 96k",
+    "url": "http://stream.erf.at:8000/nowradio_96",
+    "country": "Austria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Plus Oesterreich 320k",
+    "url": "http://stream.erf.at:8000/erfplus_320",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Plus Oesterreich 192k (A1)",
+    "url": "http://stream.erf.at:8000/erfplus_a1",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Plus Oesterreich 96k",
+    "url": "http://stream.erf.at:8000/erfplus_96",
+    "country": "Austria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 320k",
+    "url": "http://stream.erf.at:8000/nowradio_320",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lounge.FM - 100% Austria",
+    "url": "https://s35.derstream.net/100austria.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Darksynth Radio",
+    "url": "http://stream.laut.fm/darksynthradio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DrumandBass.FM",
+    "url": "http://stream.laut.fm/drumandbass_fm",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mountain Reggae Radio",
+    "url": "https://mountainreggaeradio.stream.laut.fm/mountainreggaeradio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio",
+    "url": "http://stream1.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Arabella Oberösterreich",
+    "url": "https://frontend.streams.arabella.at/arabella-oberoesterreich?aggregator=tunein",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kronehit",
+    "url": "http://onair.krone.at/kronehit.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORF Hitradio Ö3",
+    "url": "https://ors-sn03.ors-shoutcast.at/oe3-q1a",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WELLE 1 - Oberösterreich - HQ",
+    "url": "https://live.welle1.at:17256/stream",
+    "country": "Austria",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Orange 94.0 secure",
+    "url": "https://securestream.o94.at/live.mp3",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio Chill Out",
+    "url": "https://stream8.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oldie Party",
+    "url": "http://streams.norawebstreams.de/oldieparty/mp3-192/vtuner/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio ClassicRock",
+    "url": "https://stream.liferadio.at/clrock/mp3-192/stream.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blechradio 1",
+    "url": "https://streamt.at/radio/8000/blechradio1.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Austro Hits",
+    "url": "https://live.antenne.at/auh",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KroneHit Radio",
+    "url": "http://onair-ha1.krone.at/kronehit.aac",
+    "country": "Austria",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antenna Österreich",
+    "url": "https://frontend.streamonkey.net/antoesterreich-live",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Life Radio Tirol",
+    "url": "http://stream.liferadio.tirol/live/aac-256/SHQ",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dark Synth Radio",
+    "url": "http://darksynthradio.stream.laut.fm/darksynthradio?t302=2023-11-20_08-30-31&uuid=c4e07d87-378c-4318-bb0a-00c0fd1be5aa",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ARBÖ Verkehrsradio",
+    "url": "http://live.datamatix.at:8022/",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Vorarlberg Chillout Lounge",
+    "url": "https://web.radio.antennevorarlberg.at/av-chillout",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Steiermark 80er POP",
+    "url": "https://live.antenne.at/80s",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio 90er",
+    "url": "http://stream3.liferadio.at/;",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gamesboro Radio - Video Game Music 24/7",
+    "url": "https://radio.gamesboro.org/listen/gamesboro_radio/radio.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Museumsradio AM 1476",
+    "url": "https://museum.streamserver24.com:8080/stream",
+    "country": "Austria",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "JazzW3",
+    "url": "https://air.jazz.w3.at/jazzw3.ogg",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "T-Rock",
+    "url": "https://trock.fluidstream.eu/trock.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lounge.FM Kanal 2 - Wien",
+    "url": "https://s35.derstream.net/ukwwien.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum CITY",
+    "url": "http://technikumsmoothjazz.macjingle.at:8206/;stream/1",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum Gold",
+    "url": "https://stream.radiotechnikum.at/TECHGOLD",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Welle 1 - Salzburg - HQ",
+    "url": "https://live.welle1.at:18256/stream",
+    "country": "Austria",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Vorarlberg TOP40",
+    "url": "https://web.radio.antennevorarlberg.at/av-top40",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "WELLE 1 - Oberöstereich",
+    "url": "https://live.welle1.at:17128/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "City Jazz",
+    "url": "https://stream.radiotechnikum.at/CITYJAZZ",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RES.RADIO",
+    "url": "https://edge.mixlr.com/channel/zwtuo",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum One",
+    "url": "https://stream.radiotechnikum.at/TECHONE",
+    "country": "Austria",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Antenne Österreich (AAC)",
+    "url": "https://stream.rockantenne.at/rockantenne-oesterreich/stream/aacp",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "88.6 Rot-Weiß-Rock",
+    "url": "http://radio886.at/streams/88.6_Rot_Weiss_Rock/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum City",
+    "url": "https://stream.radiotechnikum.at/TECHCITY",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pirate Radio Austria",
+    "url": "https://secureonair.krone.at/pirate.aac",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "88.6 Metal",
+    "url": "http://radio886.at/streams/88.6_Metal/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Styrialounge",
+    "url": "https://styrialounge.out.airtime.pro/styrialounge_a",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Technikum Rock",
+    "url": "https://stream.radiotechnikum.at/TECHROCK",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Flash90s",
+    "url": "https://stream.flash90s.at/flash90s/mp3-192/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yeshua.at Radio",
+    "url": "https://yeshua.at:8443/stream",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "PetersPlattentek",
+    "url": "https://server7524.streamplus.de/stream.mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio Chill Out Hits",
+    "url": "https://stream.liferadio.at/chillout/mp3-192/stream.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rot Weiß Rot",
+    "url": "https://secureonair.krone.at/rwr.aac",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Welle 1 - Wien/DAB+",
+    "url": "https://live.welle1.at:19000/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Popwelle. Das Musikradio,AutoDJ",
+    "url": "https://popwelle.sp.radio.fm/stream",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Styrialounge",
+    "url": "http://styrialounge.out.airtime.pro:8000/styrialounge_a",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio GÖD",
+    "url": "https://radiogoed.securestream.kapper.net/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Balkan EU",
+    "url": "http://cast2.name.ba:8185/",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vorarlberg 80s",
+    "url": "https://edge63.radio.antennevorarlberg.at/av-live?listenerId=%5BIFA%5D&aw_0_req.userConsentV2=%5BPLAYER_TC_STRING%5D&aggregator=Webplayer",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Schwendermarkt",
+    "url": "https://laut.fm/schwendermarkt",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Agora 105,5",
+    "url": "https://livestream.agora.at/agora",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Proton - das freie Radio",
+    "url": "https://radioproton.at:8443/proton",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Now Radio 96k",
+    "url": "http://stream.erf.at/nowradio_96",
+    "country": "Austria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio 80er",
+    "url": "https://stream.liferadio.at/80er/mp3-192/stream.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio Tirol",
+    "url": "https://stream.liferadio.tirol/live/mp3-192/link",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Life Radio Tirol - MUSIC ONLY",
+    "url": "https://stream.liferadio.tirol/MUONLY/mp3-192/link",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antenne Salzburg",
+    "url": "https://edge69.streamonkey.net/antsalzburg-live",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Heiligenkreuz_101 (102k)",
+    "url": "http://live.radiomaria.at:8000/rma101",
+    "country": "Austria",
+    "bitrate": 109,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Studio Enns",
+    "url": "https://server4.streamserver24.com:61414/",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life Radio Greatest Hits",
+    "url": "https://stream.liferadio.at/greatest-hits/mp3-192/stream.liferadio.at/",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "88.6 New Rock",
+    "url": "http://radio886.at/streams/88.6_New_Rock/mp3",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio X-MAS",
+    "url": "http://www.radio-xmas.at:443/xmas?type=http",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ÖsterreichRadio",
+    "url": "https://laut.fm/oesterreichradio",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "28Radio - Black Metal",
+    "url": "https://streaming.28radio.cc:8020/blackmetal.mp3",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Welle 1 - Salzburg",
+    "url": "https://live.welle1.at:18128/stream",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blechradio 2",
+    "url": "https://streamt.at:8010/website_popandrock.mp3?ver=141186",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Süd",
+    "url": "http://erfradio.com/ERF_Sued",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CR 94.4",
+    "url": "https://cr944.at:50443/cr944",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio MORA - HQ",
+    "url": "http://server4.streamserver24.com:26253/stream",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jö.Live",
+    "url": "https://live.stream.maxfive.com/max5-joelive",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Schlagerrausch",
+    "url": "https://az13.yesstreaming.net:8120/radioschlagerrausch.mp3",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "U1 Tirol",
+    "url": "https://u1-tirol-stream07.radiohost.de/u1-tirol-live_mp3-192",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blechradio 3",
+    "url": "https://streamt.at:8020/website_tanzlmusi.mp3?ver=800211",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yu Radio",
+    "url": "https://stream.radiotechnikum.at:80/YURADIO",
+    "country": "Austria",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio VM1 - Steiermark",
+    "url": "https://radiovm1.fluidstream.eu/radiovm1_a1.mp3",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ERF Plus Oesterreich 128k",
+    "url": "http://stream.erf.at:8000/erfplus_128",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rudina",
+    "url": "https://azuracast.datea.services:8000/radio.mp3",
+    "country": "Austria",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grün-Weiss",
+    "url": "https://live.gruen-weiss.at/rgw.aac",
+    "country": "Austria",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Freies Radio Innviertel",
+    "url": "https://radiofri.out.airtime.pro/radiofri_a",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "28Radio - Rock",
+    "url": "https://streaming.28radio.cc:8000/rock.mp3",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Welle 1 - Kärnten",
+    "url": "https://live.welle1.at:15128/live",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio MORA",
+    "url": "https://server4.streamserver24.com:26250/stream?1655820557881",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Revisited",
+    "url": "https://revisited.stream.laut.fm/revisited",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "U1 Tirol",
+    "url": "https://live.u1-radio.at/u1-tirol-live/mp3-192/?ref=u1-website",
+    "country": "Austria",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Callshop Radio Wien",
+    "url": "https://icecast.callshopradio.com/callshopradio-wien",
+    "country": "Austria",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "jö.live - Mein Tag. Meine Musik.",
+    "url": "https://live.stream.maxfive.com/max5-joelive?aggregator=maxfive-homepage",
+    "country": "Austria",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

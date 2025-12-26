@@ -1,0 +1,5693 @@
+[
+  {
+    "name": "ALT/80",
+    "url": "https://jenny.torontocast.com:8050/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Oasis Modern Easy Listening",
+    "url": "https://jenny.torontocast.com:2000/stream/the-oasis",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "irock24/7",
+    "url": "https://streamer.radio.co/s493283a7e/listen",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "80's New Wave Radio",
+    "url": "https://puma.streemlion.com:2910/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic Rock 109",
+    "url": "http://listen.classicrock109.com:10042/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic Hits 109 - Yacht Rock / Mellow Gold",
+    "url": "https://broadcast.classichits109.com/softrock",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHRY \"Vibe 105.5\" York University Toronto, ON",
+    "url": "http://ice7.securenetsystems.net/CHRY",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "# 70s 80s 90s RdMix Network",
+    "url": "https://cast1.torontocast.com:1830/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nature Radio Rain",
+    "url": "https://maggie.torontocast.com:2020/stream/natureradiorain",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKCU FM 93.1",
+    "url": "https://stream2.statsradio.com:8124/stream",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "100 GREATEST OF THE 80'S",
+    "url": "https://maggie.torontocast.com:2020/stream/100greatestofthe80s",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "1 Pure Alternative Radio",
+    "url": "https://kathy.torontocast.com:2475/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate - Alt Rock Grunge",
+    "url": "https://s2.ssl-stream.com/radio/8190/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIRV 88.9 Toronto, ON",
+    "url": "http://ice5.securenetsystems.net/CIRV",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHKS \"K-106.3\" Sarnia, ON",
+    "url": "http://live.leanstream.co/CHKSFM",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKSY 94.3 Chatham, ON",
+    "url": "http://live.leanstream.co/CKSYFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJSP/CJWF \"Windsor's Country 95.9 & 92.7\" Leamington, ON",
+    "url": "http://live.leanstream.co/CJWFFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKUE \"Cool 95.1\" Chatham, ON",
+    "url": "http://live.leanstream.co/CKUEFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CILU 102.7 \"LU Radio\" Lakehead University - Thunder Bay, ON",
+    "url": "http://luradio-server.lakeheadu.ca:8000/stereo128",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHME-FM 94.9 Les Escoumins, QC",
+    "url": "http://149.56.234.138:8278/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNX-FM 101.7 \"The One\" Wingham, ON",
+    "url": "http://live.leanstream.co/CKNXFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHOK 103.9 FM & 1070 AM  \"Country CHOK\" Sarnia, ON  (MP3 Stream)",
+    "url": "http://live.leanstream.co/CHOKAM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNX-AM 920 Wingham, ON",
+    "url": "http://live.leanstream.co/CKNXAM",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIBU \"Classic Rock 94.5\" Wingham, ON",
+    "url": "http://live.leanstream.co/CIBUFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CILV-FM 88.5 \"Live Eighty Eight Five\" - Ottawa, ON",
+    "url": "https://newcap.leanstream.co/CILVFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHYR \"MIX 96.7\" Leamington, ON",
+    "url": "http://live.leanstream.co/CHYRFM",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHOK 1070 & 103.9 Sarnia, ON",
+    "url": "http://live.leanstream.co/CHOKAM",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIBU-FM \"Cool 94.5\" Wingham, ON (MP3 Stream)",
+    "url": "http://live.leanstream.co/CIBUFM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas Crooners Radio (MP3)",
+    "url": "http://cheetah.streemlion.com:3040/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFCW  \"840 CFCW\" Edmonton / Camrose AB",
+    "url": "http://newcap.leanstream.co/CFCWAM",
+    "country": "Canada",
+    "bitrate": 141,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJSW 90.9 University of Calgary, AB - (AAC Stream)",
+    "url": "https://cjsw.leanstream.co/CJSWFM",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFCW \"New Country 98.1\" Camrose, AB",
+    "url": "http://newcap.leanstream.co/CFCWFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "# RdMix DJSET 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4560/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKDJ-FM 107.9 Algonquin College, Ottawa, ON (AAC Stream)",
+    "url": "https://live.leanstream.co/CKDJFM",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKDJ-FM 107.9 Algonquin College, Ottawa, ON (MP3 Stream)",
+    "url": "https://live.leanstream.co/CKDJFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHNI \"Rock 88.9\" Saint John, NB",
+    "url": "http://newcap.leanstream.co/CHNIFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKJR \"Sports 1440\" Wetaskiwin, AB (MP3 Stream)",
+    "url": "https://newcap.leanstream.co/CKJRAM-MP3",
+    "country": "Canada",
+    "bitrate": 142,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJTN 107.1 \"Rock 107\" Trenton, ON",
+    "url": "http://live.leanstream.co/CJTNFM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHNL 610 \"Radio NL\" Kamloops, BC",
+    "url": "http://newcap.leanstream.co/CHNLAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHHI \"95.9 Sun FM\" Miramichi, NB",
+    "url": "http://newcap.leanstream.co/CHHIFM",
+    "country": "Canada",
+    "bitrate": 140,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKJR \"W1440\" Wetaskiwin, AB",
+    "url": "https://newcap.leanstream.co/CKJRAM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFCO \"Country 92.9 & 630\" - Chatham, ON",
+    "url": "http://live.leanstream.co/CFCOFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIRK 97.3 \"K-97\" Edmonton, AB",
+    "url": "http://newcap.leanstream.co/CIRKFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFHI \"Boom 104.9\" Hinton, AB",
+    "url": "https://newcap.leanstream.co/CFHIFM",
+    "country": "Canada",
+    "bitrate": 138,
+    "codec": "AAC"
+  },
+  {
+    "name": "92.5FM The X - CFBX, Kamloops, B.C. Canada",
+    "url": "http://198.162.21.84:8002/;?type=http&nocache=10%2Fstream.mp3&_=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJMO-FM 103.1 \"Q103\" - Moncton, NB",
+    "url": "http://newcap.leanstream.co/CJMOFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJIQ 88.3 Conestoga College - Kitchener, ON",
+    "url": "https://conestoga.leanstream.co/CJIQFM",
+    "country": "Canada",
+    "bitrate": 55,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKDJ \"AIR-AM 1700\" Algonquin College-Ottawa, ON",
+    "url": "https://live.leanstream.co/AIR1700",
+    "country": "Canada",
+    "bitrate": 95,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ottawa Live 885 (CLIVFM)",
+    "url": "https://newcap.leanstream.co/CILVFM-MP3?args=web_03",
+    "country": "Canada",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJKC 103.1 \"Country 103\" Kamloops, BC",
+    "url": "http://newcap.leanstream.co/CJKCFM-MP3?args=mobile_03",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFJB-FM 95.7 \"Rock 95\" Barrie, ON",
+    "url": "https://cob-ais.leanstream.co/CFJBFM",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHOO-FM \"Boom 99.5\" Drumheller, AB",
+    "url": "https://newcap.leanstream.co/CHOOFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKRV-FM \"K 97.5 Classic Rock\" Kamloops, BC",
+    "url": "http://newcap.leanstream.co/CKRVFM-MP3",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Vibe 105",
+    "url": "https://ice7.securenetsystems.net/CHRY",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRV \"97.5 The River\" Kamloops, BC",
+    "url": "http://newcap.leanstream.co/CKRVFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "MyRadio 580am",
+    "url": "http://ais-sa1.streamon.fm/7681_64k.mp3",
+    "country": "Canada",
+    "bitrate": 71,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSQ-FM 92.7 \"Radio Classique\" Quebec City, QC  (128K MP3 Stream)",
+    "url": "https://listen.radioking.com/radio/256885/stream/301504",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSQ \"Radio Classique\" Montreal, QC web stream (320K MP3)",
+    "url": "https://listen.radioking.com/radio/228241/stream/271810",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jamz 403",
+    "url": "https://streams.radio.co/s6e4a1311e/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSQ \"Radio Classique\" Montreal, QC web stream (128K MP3)",
+    "url": "https://listen.radioking.com/radio/228241/stream/271804",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSQ-FM 92.7 \"Radio Classique\" Quebec City, QC  (320K MP3 Stream)",
+    "url": "https://listen.radioking.com/radio/256885/stream/301510",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CINA 1650 AM Mississauga, ON",
+    "url": "http://ice8.securenetsystems.net/CINA",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJLO 1690 Concordia University, Montreal, QC",
+    "url": "http://rosetta.shoutca.st:8883/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIZL 98.9 \"Z99\" Regina, SK",
+    "url": "http://rawlco.leanstream.co/CIZLFM",
+    "country": "Canada",
+    "bitrate": 31,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFBW \"BWR 91.3\" Hanover, ON",
+    "url": "http://s41.myradiostream.com:29922/listen.mp3",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIRV-HD3 88.9 \"Thaalam FM\"(Tamil Stream) Toronto, ON",
+    "url": "http://ec4.yesstreaming.net:1990/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKJR 1440 \"W1440\" Wetaskiwin, AB",
+    "url": "http://newcap.leanstream.co/CKJRAM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKDH 101.7 Amherst, NS",
+    "url": "http://mbsradio.leanstream.co/CKDHFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNB 950 Campbellton, NB",
+    "url": "http://mbsradio.leanstream.co/CKNBAM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CISO-FM 89.1 \"MAX FM\" Orillia, ON (AAC Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CISOFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFPS -FM \"97.9 The Bruce\"  Port Elgin, ON (AAC Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CFPSFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHWC-FM \"Country 104.9\" Goderich, ON (MP3 Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CHWCFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CISO-FM 89.1 \"MAX FM\" Orillia, ON (MP3 Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CISOFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHWC-FM \"Country 104.9\" Goderich, ON (AAC Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CHWCFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFPS-FM \"97.9 The Bruce\" Port Elgin, ON (MP3 Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CFPSFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJEC \"WKND 91.9\" Quebec City, QC",
+    "url": "http://streaming.cjec.leclerccommunication.ca:8000/cjec.mp3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHNO \"Rewind 103.9\"  Sudbury, ON",
+    "url": "http://newcap.leanstream.co/CHNOFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Calm Radio - Chamber Music",
+    "url": "http://streams.calmradio.com:7528/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFAN \"99.3 The River\" Miramichi, NB",
+    "url": "http://mbsradio.leanstream.co/CFANFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFDC 104.9 \"Country 105\" Shelburne, ON (MP3 Stream)",
+    "url": "http://bayshore-ais.leanstream.co/CFDCFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKJM-FM 106.1 Cheticamp, NS",
+    "url": "http://stream2.statsradio.com:8036/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKSW 570am",
+    "url": "http://goldenwest.leanstream.co/goldenwest/CKSWAM.stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFXL 103.1 \"XL103\" Calgary, AB",
+    "url": "http://newcap.leanstream.co/CFXLFM-MP3",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHTN 100.3 \"Ocean 100\" Charlottetown, PE",
+    "url": "http://newcap.leanstream.co/CHTNFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHLG 104.3 \"LG104\" Vancouver, BC",
+    "url": "http://newcap.leanstream.co/CHLGFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHOW 105.3 \"Radio Boreale\" Amos, QC",
+    "url": "http://stream.statsradio.com:8022/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Suite Jazz Radio",
+    "url": "https://jenny.torontocast.com:2000/stream/suitejazzradio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Lynx Retro 80s",
+    "url": "http://80s-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rumsey Retro Radio",
+    "url": "https://jenny.torontocast.com:8042/stream",
+    "country": "Canada",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Regent.com Toronto, ON",
+    "url": "https://streamer.radio.co/se3e1e3815/low",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "70 80 90 ITALIA D'AUTORE",
+    "url": "https://maggie.torontocast.com:2020/stream/708090italiadautore",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHOC 88.7",
+    "url": "https://stream2.statsradio.com:8110/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "# RdMix Italo Disco 80s",
+    "url": "https://cast1.torontocast.com:2130/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "HITS 100",
+    "url": "https://sboucher.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Early 60's - Calm Radio",
+    "url": "http://streams.calmradio.com:16128/stream/1/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKRA 96.3 \"Capital 96.3\" Edmonton, AB",
+    "url": "http://newcap.leanstream.co/CKRAFM",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJRW 102.1 \"Spud FM\" Summerside, PE",
+    "url": "http://mbsradio.leanstream.co/CJRWFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHGB 97.7 \"The Beach\" Wasaga Beach, ON",
+    "url": "http://bayshore.leanstream.co/CHGBFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFMC 95.1 \"C95\" Saskatoon, SK  -AAC",
+    "url": "http://rawlco.leanstream.co/CFMCFM",
+    "country": "Canada",
+    "bitrate": 31,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKPE \"The Cape 94.9\" Sydney, NS",
+    "url": "http://mbsradio.leanstream.co/CKPEFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIOK 100.5 \"K-100\" Saint John, NB",
+    "url": "http://mbsradio.leanstream.co/CIOKFM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFPS 97.9 \"98 The Beach\" Port Elgin, ON",
+    "url": "http://bayshore.leanstream.co/CFPSFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com/kawaii",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIHT \"Hot 89.9\" Ottawa, ON",
+    "url": "http://newcap.leanstream.co/CIHTFM",
+    "country": "Canada",
+    "bitrate": 133,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFGX 99.9 Sarnia, ON",
+    "url": "http://live.leanstream.co/CFGXFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hang 10 Rock Radio - Tofino, BC",
+    "url": "http://158.69.227.214:8113/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHWC \"104.9 The Beach\" Goderich, ON",
+    "url": "http://bayshore.leanstream.co/CHWCFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFRO Vancouver Cooperative Radio",
+    "url": "https://listen-coopradio.sharp-stream.com/coopradio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKBW-FM 98.1 Bridgewater, 94.5 Liverpool, 93.1 Shelburne, NS",
+    "url": "https://ais-sa1.streamon.fm/7239_128k.aac",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "SHER E PUNJAB AM 600",
+    "url": "https://ais-sa1.streamon.fm/7676_48k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Nr92",
+    "url": "https://ais-sa1.streamon.fm/7023_48k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Surge 105",
+    "url": "https://ais-sa1.streamon.fm/7737_128k.aac",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Crucial Velocity Radio",
+    "url": "https://ais-sa2.cdnstream1.com/1369_128",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIAY-FM Life 100.7 FM",
+    "url": "https://ais-sa1.streamon.fm/7154_24k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHAH \"My Radio 580\" Edmonton, AB",
+    "url": "https://ais-sa1.streamon.fm/7681_64k.mp3",
+    "country": "Canada",
+    "bitrate": 77,
+    "codec": "MP3"
+  },
+  {
+    "name": "Spirit FM",
+    "url": "https://ais-sa1.streamon.fm/7155_48k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJCW 590 Sussex, NB",
+    "url": "http://mbsradio.leanstream.co/CJCWAM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKZZ \"Z95.3\" Vancouver, BC",
+    "url": "http://newcap.leanstream.co/CKZZFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "88.9 Shine FM",
+    "url": "https://shinefm.streamguys1.com/cjsi",
+    "country": "Canada",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJWA 107.1 \"JJAM FM\" Wawa, ON",
+    "url": "http://nap.casthost.net:8428/stream?type=.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKGB-FM 99.3 \"Kiss 99.3 Timmins\"",
+    "url": "http://rogers.leanstream.co/rogers/tim993.stream/icy",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hutton Orbital Radio",
+    "url": "https://quincy.torontocast.com/hutton",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHRK \"Giant 101.9\" Sydney, NS",
+    "url": "http://newcap.leanstream.co/CHRKFM",
+    "country": "Canada",
+    "bitrate": 145,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKOA 89.7 \"The Coast\"  Glace Bay, NS",
+    "url": "http://198.100.145.187:15204/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIHO \"Charlevoix 96.3\" Saint-Hilarion, QC",
+    "url": "http://stream.cloudmjs.com:8000/ciho.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Taal Radio",
+    "url": "http://radio.punjabrocks.com:9998/taal",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CityNews 95.7 Halifax",
+    "url": "http://rogers-hls.leanstream.co/rogers/hal957.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRB Cool FM",
+    "url": "http://stream.statsradio.com:8040/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Flute",
+    "url": "http://streams.calmradio.com:4828/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIHI \"Up 93.1\" Fredericton, NB",
+    "url": "http://newcap.leanstream.co/CIHIFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIXF \"Boom 101,1\" Brooks, AB",
+    "url": "http://newcap.leanstream.co/CIXFFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKMP \"90.3 Amp Radio\" Calgary, AB",
+    "url": "http://newcap.leanstream.co/CKMPFM",
+    "country": "Canada",
+    "bitrate": 133,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIXK \"MIX 106.5\" Owen Sound, ON",
+    "url": "http://bayshore.leanstream.co/CIXKFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Valley Heritage Radio",
+    "url": "http://178.obj.netromedia.com:8000/6?type=http",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHSL-FM \"Boom 92.7\"\" Slave Lake , AB",
+    "url": "http://newcap.leanstream.co/CHSLFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Calm Radio - Cello",
+    "url": "http://streams.calmradio.com:4628/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKWM \"Magic 94.9\" Kentville, NS",
+    "url": "http://mbsradio.leanstream.co/CKWMFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKAJ 92.5 & 99.7 Saguenay, QC",
+    "url": "http://stream.statsradio.com:8060/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKCK \"Jack FM 94.5\" Regina, SK",
+    "url": "http://rawlco.leanstream.co/CKCKFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKIX 99.1 \"Hits FM\" St. John's, NL",
+    "url": "http://newcap.leanstream.co/CKIXFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "KONA Stream",
+    "url": "http://jenny.torontocast.com:9002/stereo",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Forest Green Radio",
+    "url": "http://s1.streamaudio.de:8000/forest-green",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHNC-FM 107.1 New Carlisle, 99.1 Carleton, 99.3 Gaspe, 98.1 Chandler, 107.3 Perce, 106.7 Riviere-au-Renaud, QC",
+    "url": "https://stream2.statsradio.com:8098/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "All sound Radio",
+    "url": "https://kathy.torontocast.com:2495/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CamoesRadio.com - Toronto, ON",
+    "url": "http://camoesradio.out.airtime.pro:8000/camoesradio_a#.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA CANADA - TORONTO",
+    "url": "http://dreamsiteradiocp4.com:8016/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RadioSky Music Jazz",
+    "url": "http://jazz.radioskymusic.com:7006/live",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFCY 95.1 Charlottetown, PE",
+    "url": "http://mbsradio.leanstream.co/CFCYFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHFX \"FX 101.9\" Halifax, NS",
+    "url": "http://mbsradio.leanstream.co/CHFXFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKTP 95.7 \"The Wolf\" Fredericton, NB",
+    "url": "http://149.56.234.138:8173/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA CANADA - HMWN",
+    "url": "http://dreamsiteradiocp.com:8016/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJLV 1570 LaSalle, QC",
+    "url": "http://centova.radioservers.biz:8264/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFYX-FM 93.3 Rimouski, QC",
+    "url": "http://stream.statsradio.com:8048/stream",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "DJFM.ca Toronto, ON",
+    "url": "http://mux.mtl.djfmradio.com/djfm",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFPL-AM 980 London, ON",
+    "url": "http://live.leanstream.co/CFPLAM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFXE 94.3 \"Real Country West\" Edson, AB",
+    "url": "http://newcap.leanstream.co/CFXEFM",
+    "country": "Canada",
+    "bitrate": 141,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFRK \"New Country 92.3\" Fredericton, NB",
+    "url": "http://newcap.leanstream.co/CFRKFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFLN 97.9 \"Big Land - Labrador's FM\" Happy Valley-Goose Bay, NL",
+    "url": "http://newcap.leanstream.co/CFLNFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "iLive Radio.com - Toronto, ON",
+    "url": "http://streaming.radio.co/s735df8c1c/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFXW \"Boom 96.7\" Whitecourt, AB",
+    "url": "http://newcap.leanstream.co/CFXWFM",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHES 91.7 Erin Radio, ON",
+    "url": "http://streaming.radio.co/saa34f11f4/listen",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFXJ \"93.5 The Move\" Toronto, ON",
+    "url": "http://newcap.leanstream.co/CFXJFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFRQ 104.3 \"Q104\" Halifax,NS",
+    "url": "http://newcap.leanstream.co/CFRQFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIUR-FM \"Now Country 104.7\" Winnipeg, MB",
+    "url": "http://178.obj.netromedia.com:8000/5",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKIA 88.3 \"Radio Urbaine\" Quebec City, QC",
+    "url": "https://stream2.statsradio.com/8148/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soul 57",
+    "url": "http://rosetta.shoutca.st:8558/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNJ 99,1 Saint-Gabriel-de-Brandon, QC",
+    "url": "http://66.70.178.194:9700/stream",
+    "country": "Canada",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJOY 1460 \"Greatest Hits\" Guelph, ON",
+    "url": "http://live.leanstream.co/CJOYAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ItaloDance Fm",
+    "url": "http://hubble.shoutca.st:8120/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Truck Stop Quebec",
+    "url": "http://canada1.reliastream.com:8052/live",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ancient FM",
+    "url": "https://mediaserv73.live-streams.nl:18058/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKYC 93.7 \"Country 93\" Owen Sound, ON",
+    "url": "http://bayshore.leanstream.co/CKYCFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "THE LYNX CLASSIC ROCK",
+    "url": "http://rock-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio VM",
+    "url": "https://s5.radio.co/sec326ff8a/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIN-AM 1540 Toronto, ON",
+    "url": "http://ice7.securenetsystems.net/CHINAM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Great Lakes Country",
+    "url": "http://rosetta.shoutca.st:8216/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "PunkRockRadio.ca",
+    "url": "https://stream.radio.co/s904013bb1/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHVO 103.9 \"KIXX Country\" Carbonear, NL",
+    "url": "http://newcap.leanstream.co/CHVOFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "BPM sports 91.9",
+    "url": "http://icecast-cklx.rncm.ca/cklx.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RDMIX LOVE SONGS",
+    "url": "http://maggie.torontocast.com:8022/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIN-FM 100.7 Toronto, ON",
+    "url": "http://ice7.securenetsystems.net/CHINFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHSP \"Real Country 97.7\"  St. Paul, AB",
+    "url": "http://newcap.leanstream.co/CHSPFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKDJ 107.9 Algonquin College, Ottawa",
+    "url": "http://live.leanstream.co/CKDJFM-MP3?tunein",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJOB 680 Winnipeg, MB",
+    "url": "http://live.leanstream.co/CJOBAM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFWN \"Northumberland 89.7\" Cobourg, ON",
+    "url": "http://northumberland.serverroom.net:8850/;",
+    "country": "Canada",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Valley Heritage Radio 98.7 CJHR",
+    "url": "http://178.obj.netromedia.com:8000/listen.m3u?sid=6",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUA",
+    "url": "https://ais-sa1.streamon.fm/7000_64k.mp3",
+    "country": "Canada",
+    "bitrate": 74,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJMP 90.1 Powell River, BC",
+    "url": "http://usa2.fastcast4u.com:3264/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFTA 107.9 Tantramar FM  Amherst, NS",
+    "url": "http://176.31.118.39:14808/;.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJXL 96.1 \"XL 96\" Moncton, NB",
+    "url": "http://newcap.leanstream.co/CJXLFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJYQ \"930 KIXX Country\" St. John's, NL",
+    "url": "http://newcap.leanstream.co/CJYQAM",
+    "country": "Canada",
+    "bitrate": 145,
+    "codec": "AAC"
+  },
+  {
+    "name": "Squirrel FM",
+    "url": "http://s25.myradiostream.com:10092/stream/1/listen.mp3",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KiSS 103.1 Victoria",
+    "url": "http://rogers.leanstream.co/rogers/vic1031.stream/icy",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKQK 105.5 \"Hot 105\" Charlottetown, PE",
+    "url": "http://newcap.leanstream.co/CKQKFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Power92 FM",
+    "url": "http://s12.myradiostream.com:5608/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJBQ 800 Belleville, ON",
+    "url": "http://live.leanstream.co/CJBQAM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKKO 96.3 \"K 96.3\" Kelowna, BC",
+    "url": "http://newcap.leanstream.co/CKKOFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKLO \"Classic Rock 98.1 FM\" London, ON",
+    "url": "http://live.leanstream.co/CKLOFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKLN 97.1 \"KIXX Country\" Clarenville, NL",
+    "url": "http://newcap.leanstream.co/CKLNFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Quebec Country.com - Thetford Mines, QC",
+    "url": "http://play.quebec-country.com/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOCM-AM 590 St. John's, NL",
+    "url": "http://newcap.leanstream.co/VOCMAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "VOCM-FM 97.5 \"K-Rock\" St. John's, NL",
+    "url": "http://newcap.leanstream.co/VOCMFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "REGGAE CHILL CAFE",
+    "url": "https://maggie.torontocast.com:2020/stream/reggaechillcafe",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Classique Montréal 99.5",
+    "url": "https://www.radioking.com/play/radio-classique",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii (http)",
+    "url": "http://kathy.torontocast.com:3060/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "International Pagan Radio",
+    "url": "https://studio22.radiolize.com/radio/8160/radio.mp3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "NRZ FM 1",
+    "url": "https://serv1-online-ca.net/listen/nrzfm1/nrzfm1.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tripletail FM",
+    "url": "https://radio.blueberry.coffee/radio.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q104.3",
+    "url": "http://newcap.leanstream.co/CFRQFM-MP3?args=tunein_01",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "metalrock.fm",
+    "url": "http://kathy.torontocast.com:2820/;?type=http&nocache=1594751889",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHYZ 94.3 Universite Laval - Quebec City, QC",
+    "url": "http://ecoutez.chyz.ca:8000/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Peaceful Currents Radio",
+    "url": "http://cast1.torontocast.com:2660/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Folk'd Up Radio",
+    "url": "https://s4.radio.co/s129fcc067/listen",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFMU 93.3 McMaster University Radio - Hamilton, ON",
+    "url": "http://138.197.136.105:8000/mount.128mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFUZ-FM 88.7 \"Peach City Radio\" Penticton, BC",
+    "url": "http://167.114.11.80:5073/peachcityradio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Scratch Radio",
+    "url": "http://24.87.64.59:8000/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFWD 96.3 \"CRUZ FM\" Saskatoon, SK",
+    "url": "http://cfwd.streamon.fm/stream/CFWD-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFWF 104.9 \"The Wolf\" Regina, SK",
+    "url": "http://cfwf.streamon.fm/stream/CFWF-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIHR 104.7 \"Heart FM\" Woodstock, ON",
+    "url": "http://cihrfm.streamon.fm:8000/CIHRFM-48k.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHFT \"100.5 CRUZ FM\" Fort McMurray, AB",
+    "url": "http://chft.streamon.fm/stream/CHFT-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFQK 104.5 \"Energy 103 & 104\" Kaministiquia, ON",
+    "url": "http://cfqk.streamon.fm/stream/CFQK-32k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFUV 101.9 University of Victoria, BC",
+    "url": "http://cfuv.streamon.fm:8000/CFUV-64k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFVR \"Mix 103.7\" Fort McMurray, AB",
+    "url": "http://cfvr.streamon.fm/stream/CFVR-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJSD 94.3 \"Rock 94\" Thunder Bay, ON",
+    "url": "http://cjsd.streamon.fm/stream/CJSD-32k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJGX 940 \"GX94\" Yorkton, SK aac",
+    "url": "http://cjgx.streamon.fm/stream/CJGX-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJLR 89.9 \"Missinipi Broadcasting Corporation\" LaRonge, SK",
+    "url": "http://cjlr.streamon.fm/stream/CJLR-32k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJNW 107.1 \"Hot 107\" Edmonton, AB",
+    "url": "http://cjnw.streamon.fm/stream/CJNW-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJSR 88.5 University of Alberta, Edmonton, AB",
+    "url": "http://cjsr.streamon.fm:8000/CJSR-24k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CISF 107.7 \"Pulse FM\" Surrey, BC",
+    "url": "http://cisffm.streamon.fm/stream/CISFFM-48k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJED-FM \"105.1 The River\" Niagara Falls, ON",
+    "url": "http://cjed.streamon.fm:8000/CJED-48k.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKLB 101.9 Yellowknife, NT",
+    "url": "http://cklb.streamon.fm:8000/CKLB-24k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKEA \"95.7 CRUZ FM\" Edmonton, AB",
+    "url": "http://ckea.streamon.fm/stream/CKEA-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRW 96.1 \"The Rush\" Whitehorse, YT",
+    "url": "http://ckrw.streamon.fm:8000/CKRW-32k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Bizzz",
+    "url": "http://cast1.my-control-panel.com:7551/stream?type=http&nocache=8",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKPR 91.5 Thunder Bay, ON",
+    "url": "http://ckpr.streamon.fm/stream/CKPR-32k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKRM 620 Regina, SK",
+    "url": "http://ckrm.streamon.fm/stream/CKRM-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFEX \"X 92.9\" Calgary, AB",
+    "url": "http://cfex.streamon.fm/stream/CFEX-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFGW 94.1 \"Fox FM\" Yorkton, SK",
+    "url": "http://cfgw.streamon.fm/stream/CFGW-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHMA-FM 106.9 Mount Allison University - Sackville, NB",
+    "url": "http://chma-nicecast.mta.ca:8000/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHMX \"My 92.1\" Regina. SK",
+    "url": "http://chmx.streamon.fm/stream/CHMX-64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
+    "url": "http://icecast-choi.rncm.ca/choi.mp3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHOI 98.1 \"Radio X\" Quebec City, QC",
+    "url": "http://icecast-choi.rncm.ca/choi.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "PowerPlant Radio",
+    "url": "http://eagle.streemlion.com:4013/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prog Frog",
+    "url": "http://eagle.streemlion.com:4040/stream?icy=http",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "fairchildren radio",
+    "url": "http://icecast01.eseenet.com:8000/am1430",
+    "country": "Canada",
+    "bitrate": 49,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFNE-FM 93.9 \"Waswanipi Communications Society\" - Mistissini, QC",
+    "url": "http://jbccs.streamon.fm:8000/JBCCS-24k.aac",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJSB  104.5 \"CJ104\" Swan River, MB",
+    "url": "http://dns4.83north.ca:8000/cjsb.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIR.com \"Greek Radio Station\" (alternate stream) Toronto, ON",
+    "url": "http://nap.casthost.net:8004/stream",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJLX 91.3 \"91X\" Loyalist College - Belleville, ON",
+    "url": "http://lweb04.lcaat.ca:8000/91x.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIR.com \"Greek Radio Station\" Toronto, ON",
+    "url": "http://s6.yesstreaming.net:7032/stream",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Squirrel FM",
+    "url": "http://s25.myradiostream.com:10092/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKC455 91.9 \"CFRE Radio\"  University of Toronto Mississauga, ON",
+    "url": "http://s2.yesstreaming.net:7069/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLOWLY RADIO",
+    "url": "http://stream.slowlyradio.com/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Techno.FM (CA) 96k MP3",
+    "url": "http://stream.techno.fm/radio1-96k.mp3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "TECHNO.FM (CA) 320 kbps",
+    "url": "http://stream.techno.fm/radio1-320k.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Techno.FM (CA) 192k MP3",
+    "url": "http://stream.techno.fm/radio1-192k.mp3",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio-Opera",
+    "url": "http://streams.calmradio.com/api/59/128/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Brahms - Sampler",
+    "url": "http://streams.calmradio.com/api/287/128/stream/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKXL-FM 91.1 \"Envol FM\" Saint Boniface, MB",
+    "url": "http://stream03.ustream.ca:8000/ckxl128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio BluesFlac",
+    "url": "http://streams.radiomast.io/radioblues-flac",
+    "country": "Canada",
+    "bitrate": 1500,
+    "codec": "OGG"
+  },
+  {
+    "name": "Calm Radio - Gregorian",
+    "url": "http://streams.calmradio.com/api/103/128/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CISM 89.3",
+    "url": "http://stream03.ustream.ca:8000/cism128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFID 103.7 \"Radio Acton\" Acton Vale, QC",
+    "url": "http://stream02.ustream.ca:8000/cfid128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIBL-FM 101.5 Montreal, QC",
+    "url": "http://stream02.ustream.ca/cibl128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIBL Montreal",
+    "url": "http://stream02.ustream.ca:8000/cibl128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJRG 94.5 Radio-Gaspesie, Gaspe, QC",
+    "url": "http://stream02.ustream.ca:8000/cjrg128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIP 101.7 Fort Coulonge, QC",
+    "url": "http://stream02.ustream.ca/chip128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFIM 92.7 Cap-Aux-Meules, QC",
+    "url": "http://stream02.ustream.ca:8000/cfim128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHGA 97.3 Maniwaki, QC",
+    "url": "http://stream02.ustream.ca/chga128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio ckrl",
+    "url": "http://stream02.ustream.ca:8000/ckrl128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CISM 89,3 MHz FM Université de Montréal, QC",
+    "url": "http://stream03.ustream.ca/cism128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gritty Rock Radio",
+    "url": "http://www.radioking.com/play/gritty-rock",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKPC \"Lite 92\"",
+    "url": "https://evanov.streamb.live/SB00226?",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Vinyl Voyage Radio",
+    "url": "https://jenny.torontocast.com:8018/stream2",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "J1 XTRA",
+    "url": "https://jenny.torontocast.com:2000/stream/J1XTRA",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RED FM",
+    "url": "https://ice24.securenetsystems.net/CKYE?playSessionID=FEC6C3A5-AAAF-839F-F4F9CC684849AEA6",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KFM Edge",
+    "url": "https://listen.radioking.com/radio/453416/stream/508289",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Bonita X101",
+    "url": "https://listen.labonita.torontocast.stream/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHOI 98.1 Radio X",
+    "url": "https://lb0-stream.radiox981.ca/choi.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Plaisirs Country",
+    "url": "https://onlineradiobox.com/json/ca/plaisirs/play?platform=web",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHPD 105.9 \"De Brigj Radio\" Aylmer, ON",
+    "url": "https://radio.mcson.org/stream",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "IRONWOOD Radio",
+    "url": "https://quincy.torontocast.com:2155/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKMS-FM Radio Waterloo S2",
+    "url": "https://radiowaterloo.ca/stream2",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKMS-FM Radio Waterloo DI",
+    "url": "https://radiowaterloo.ca/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "93.7 JR Country - Vancouver, BC",
+    "url": "https://redirect.jpbgdigital.com/CJJR",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKCE 101.5 Today Radio",
+    "url": "https://redirect.jpbgdigital.com/CKCE",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHON-FM 98.1 Whitehorse, YT",
+    "url": "https://stream.chonfm.com:8042/stream",
+    "country": "Canada",
+    "bitrate": 73,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q Country 91.5 FM",
+    "url": "https://redirect.jpbgdigital.com/CKLQ",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Lounge 99.9",
+    "url": "https://redirect.jpbgdigital.com/CHPQ",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BPM Sport 91.9",
+    "url": "https://stream.bpmsports.ca/cklx.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas Melody (MP3)",
+    "url": "https://ssl1.viastreaming.net:7000/stream?icy=http",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFTX-FM 96.5 \"BPM Sports\" Gatineau, QC",
+    "url": "https://stream0.bpmsports.ca/cftx.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - HE-AAC v1 - 64K Stereo",
+    "url": "https://streams.radiomast.io/ref-64k-heaacv1-stereo",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - HE-AAC v1 - 24K Mono",
+    "url": "https://streams.radiomast.io/ref-24k-heaacv1-mono",
+    "country": "Canada",
+    "bitrate": 24,
+    "codec": "AAC"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - Ogg Vorbis - 64K Stereo",
+    "url": "https://streams.radiomast.io/ref-64k-ogg-vorbis-stereo",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "OGG"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - HE-AAC v2 - 64K Stereo",
+    "url": "https://streams.radiomast.io/ref-64k-heaacv2-stereo",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - AAC-LC - 128K Stereo, with Preroll",
+    "url": "https://streams.radiomast.io/ref-128k-aaclc-stereo-preroll",
+    "country": "Canada",
+    "bitrate": 120,
+    "codec": "AAC"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - Ogg Opus - 64K Stereo",
+    "url": "https://streams.radiomast.io/ref-64k-ogg-opus-stereo",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "OGG"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - MP3 - 128K Stereo, with Preroll",
+    "url": "https://streams.radiomast.io/ref-128k-mp3-stereo-preroll",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - MP3 - 128K Stereo",
+    "url": "https://streams.radiomast.io/ref-128k-mp3-stereo",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - Ogg FLAC - Lossless Stereo",
+    "url": "https://streams.radiomast.io/ref-lossless-ogg-flac-stereo",
+    "country": "Canada",
+    "bitrate": 1500,
+    "codec": "OGG"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - MP3 - 32K Mono",
+    "url": "https://streams.radiomast.io/ref-32k-mp3-mono",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Royalty Free Music 24/7 - AAC-LC - 128K Stereo",
+    "url": "https://streams.radiomast.io/ref-128k-aaclc-stereo",
+    "country": "Canada",
+    "bitrate": 120,
+    "codec": "AAC"
+  },
+  {
+    "name": "KSKQ Community Radio",
+    "url": "https://streams.radiomast.io/517bd02e-89a3-46aa-83ec-a49122a08c4a",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKVE-FM 88.7 \"Cove FM\"  Halifax, NS",
+    "url": "https://us3.streamingpulse.com/ssl/CoveFM",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFRZ-FM 98.3 Walpole Island First Nation, ON",
+    "url": "https://streams.radiomast.io/97c9ddeb-e3f7-4da7-a4a6-132bd0f7c683",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHTM 102.9 FM & 610 AM \"Arctic Radio\" Thompson, MB",
+    "url": "https://us2.maindigitalstream.com/ssl/CHTM",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUW Winnipeg",
+    "url": "http://shout.mtl.gameservers.com:9025/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-Classique",
+    "url": "https://www.radioking.com/play/radio-classique/271810",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "((( WEFUNK Radio ))) . raw uncut funk . classic & underground hip-hop . playlist & archive on wefunkradio.com",
+    "url": "https://www.wefunkradio.com/play/radio.mp3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio classique quebec",
+    "url": "https://www.radioking.com/play/radio-classique-quebec-92-7/301510",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Idols Project Radio",
+    "url": "http://bluford.torontocast.com:8081/stream/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKLX-FM 91.9 \"BPM Sports\" Montreal, QC",
+    "url": "https://stream.bpmsports.ca/cklx.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFBS-FM 89.9 & 93.1 Blanc Sablon, QC",
+    "url": "http://stream02.ustream.ca/cfbs128.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prog Core Radio",
+    "url": "http://193.70.122.141:9011/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFLZ-FM 101.1 \"More FM 101\" Fort Erie, ON",
+    "url": "http://cflz.streamon.fm:8000/CFLZ-48k.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "[XRM] - Electronic",
+    "url": "http://stream.xrm.fm:8000/xrm-ele.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "iHeart The Holidays (AAC+)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1AAC.aac",
+    "country": "Canada",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "iHeart The Holidays (MP3)",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ST29_SO1.mp3",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICI Première - Montreal, QC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CBFFM_SRC.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICI Première Nouveau-Brunswick",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CBAFFM_SRC.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICI Musique Classique - Montreal, QC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ICI_MusiqueClassique_SRC.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICI Musique - Montreal, QC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CBFXFM_SRC.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bellissima Christmas",
+    "url": "https://puma.streemlion.com:1340/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SomehowJazz",
+    "url": "http://154.38.165.78:3406/128K",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Merry Christmas Radio (AAC)",
+    "url": "http://radio1.streamserver.link/radio/8090/mcr-aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "JBRadio2",
+    "url": "https://mediacp.jb-radio.net:8001/aac",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Metal Shop",
+    "url": "https://quincy.torontocast.com:1505/stream?x=1733539450407",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "d-moos",
+    "url": "http://uk1.streamingpulse.com:7097/listen.pls?sid=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LapFox Radio",
+    "url": "https://radio.lapfoxradio.com/radio/8000/stream-ogg-320.ogg",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "OGG"
+  },
+  {
+    "name": "Lawen Met Hopninj Radio",
+    "url": "https://c13.radioboss.fm:18322/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Edmonton Sports Talk",
+    "url": "https://s4.radio.co/sf54cd4560/listen",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tits.FM",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_americas",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Solo Piano",
+    "url": "http://streams.calmradio.com:1228/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate - Progressive Rock",
+    "url": "https://s2.ssl-stream.com/radio/8180/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "# RdMix Classic Rock 70s 80s 90s",
+    "url": "https://cast1.torontocast.com:4610/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "70 80 90 Vibrazioni Rock Radio",
+    "url": "https://maggie.torontocast.com:2020/stream/vibrazionirockradio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "# 100 GREATEST HEAVY METAL",
+    "url": "https://cast1.torontocast.com:4660/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Bach",
+    "url": "http://streams.calmradio.com:6828/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate P.YG. Pink Floyd, Yes, Genesis",
+    "url": "https://s2.ssl-stream.com/radio/8160/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AIRPORT LOUNGE RADIO",
+    "url": "https://az1.mediacp.eu/listen/airport-lounge-radio/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gritty Rock Radio",
+    "url": "https://listen.radioking.com/radio/10713/stream/224413",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Mozart",
+    "url": "http://streams.calmradio.com:7328/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CILQ 107.1 \"Q107\" Toronto",
+    "url": "http://live.leanstream.co/CILQFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Clam Radio - Solo Piano & Guitar",
+    "url": "http://streams.calmradio.com:30228/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Violin",
+    "url": "http://streams.calmradio.com:4528/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "THE LYNX SUPER 70S",
+    "url": "http://70s-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DKFM Shoegaze Radio",
+    "url": "https://kathy.torontocast.com:2005/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Johann Strauss II",
+    "url": "http://streams.calmradio.com:8328/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "# 100 GREATEST JAZZ LOUNGE BAR",
+    "url": "https://cast1.torontocast.com:4640/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "#100 BEST IBIZA DEEP HOUSE",
+    "url": "https://stream.zeno.fm/lwv6zqgtv1dtv",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHBM \"Boom 97.3\" Toronto, ON",
+    "url": "http://newcap.leanstream.co/CHBMFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Calm Radio - Vivaldi",
+    "url": "http://streams.calmradio.com:8928/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RDMIX ITALIAN VINTAGE 70 80 90",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixitalianvintage",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eurodance Classic ... Pure - Classic - Addictive",
+    "url": "http://quincy.torontocast.com:2380/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "# 100 GREATEST CLASSICAL MUSIC",
+    "url": "https://az1.mediacp.eu/listen/100greatestclassicalmusic/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soundstorm Radio",
+    "url": "http://stream.soundstorm-radio.com:8000/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Indie88",
+    "url": "https://localradio.streamb.live/SB00348",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFIQ 640 \"Global News Radio\" Toronto, ON",
+    "url": "https://corus.leanstream.co/CFIQAM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Choice Classic Rock",
+    "url": "https://streamer.radio.co/s66f2626b4/listen",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHUP \"Soft Rock 97.7\" Calgary, AB",
+    "url": "http://rawlco.leanstream.co/CHUPFM-MP3",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prog Frog",
+    "url": "http://eagle.streemlion.com:4040/listen.pls?sid=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Addictive-50s - Golden oldies",
+    "url": "http://quincy.torontocast.com:2920/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CityNews Toronto",
+    "url": "https://rogers-hls.leanstream.co/rogers/tor680.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFNY 102.1 \"The Edge\" Toronto, ON (MP3)",
+    "url": "http://live.leanstream.co/CFNYFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Symphony",
+    "url": "http://streams.calmradio.com:1028/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Italia Canada",
+    "url": "https://streaming.radiostreamlive.com/radioitaliacanada_devices",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gritty Rock Radio",
+    "url": "https://listen.radioking.com/radio/10713/stream/21674",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "101.9 ROCK",
+    "url": "https://rogers-hls.leanstream.co/rogers/nor1019.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "100% ACID JAZZ",
+    "url": "https://mpc1.mediacp.eu:8356/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFOX 99.3 Vancouver, BC",
+    "url": "http://live.leanstream.co/CFOXFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Schubert",
+    "url": "http://streams.calmradio.com:8228/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKOM News/Talk 650 (Saskatoon, SK)",
+    "url": "http://rawlco.leanstream.co/CKOMAM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "J1 GOLD",
+    "url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "#1 RdMix Love Songs",
+    "url": "https://maggie.torontocast.com:2020/stream/rdmixlovesongs",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKYE-FM 93.1 \"Red FM\" Vancouver, BC",
+    "url": "https://ice24.securenetsystems.net/CKYE",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Calm Radio - Debussy",
+    "url": "http://streams.calmradio.com:10228/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKGY \"Real Country 95.5\"  Red Deer, AB",
+    "url": "http://newcap.leanstream.co/CKGYFM-MP3",
+    "country": "Canada",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Pakistan Toronto",
+    "url": "https://s3.radio.co/s3b10a57ef/listen",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SMOOTH JAZZ DELUXE",
+    "url": "https://cast1.torontocast.com:4490/;?type=http&nocache=1745925758",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ChroniX Radio - Aggression",
+    "url": "http://usa19.fastcast4u.com:5720/",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "A MISSISSIPPI BLUES",
+    "url": "https://cast1.torontocast.com:4450/;?type=http&nocache=1745625391",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHED 630 (Edmonton, AB)",
+    "url": "http://live.leanstream.co/CHEDAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ottawa Hot 89.9 (CIHTFM)",
+    "url": "https://newcap.leanstream.co/CIHTFM?args=web_01",
+    "country": "Canada",
+    "bitrate": 137,
+    "codec": "AAC"
+  },
+  {
+    "name": "Calm Radio - Tchaikovsky",
+    "url": "http://streams.calmradio.com:8728/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RetroSouvenirs",
+    "url": "https://listen.radioking.com/radio/108/stream/61183",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRY 105.1 \"Country 105\" Calgary, AB",
+    "url": "http://live.leanstream.co/CKRYFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJOT \"Boom 99.7\" Ottawa, ON",
+    "url": "http://live.leanstream.co/CJOTFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Wagner",
+    "url": "http://streams.calmradio.com:11428/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SENSUAL LOUNGE RADIO",
+    "url": "https://kathy.torontocast.com:3590/;?type=http&nocache=1739707069",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cladrite Radio at Live365",
+    "url": "http://streaming.live365.com/a43564",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DKFM Edge",
+    "url": "https://radio.streemlion.com:4405/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJDJ 102.1 \"Rock 102\" Saskatoon, SK",
+    "url": "http://rawlco.leanstream.co/CJDJFM-MP3",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boom Tamil",
+    "url": "https://s20.reliastream.com:8050/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Red FM 88.9",
+    "url": "https://ice9.securenetsystems.net/CIRVFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Oasis Modern Easy Listening",
+    "url": "https://jenny.torontocast.com:2000/stream/the-oasis/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Oboe",
+    "url": "http://streams.calmradio.com:25028/stream/1/Calm%20Radio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CRIK - The Lynx Classic Rock - Calgary, Alberta, Canada",
+    "url": "https://rock-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate - Classic Rock",
+    "url": "https://s2.ssl-stream.com/radio/8170/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHQR 770 Global News Radio - Calgary, AB",
+    "url": "https://live.leanstream.co/CHQRAM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz FM CJRT",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup&uid=503beb0b-556c-4002-9ed8-cb847eb6402c&user_hash=9dctTbLqKqhACbI8GuosOLT2EbVMS0Oi&gdpr=true&aw_0_req.gdpr=true&listenerid=3f1526922470a8b11f0ebcf5ed4a4b03&awparams=companionAds%3Atrue",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "J-Club Powerplay HipHop",
+    "url": "https://kathy.torontocast.com:3350/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "chronix radio metalcore",
+    "url": "http://usa17.fastcast4u.com:5508/",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIGV \"New Country 100.7\" Penticton, BC",
+    "url": "http://newcap.leanstream.co/CIGVFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKBT 91.5 \"The Beat\" Kitchener, ON",
+    "url": "http://live.leanstream.co/CKBTFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HAIR BAND RADIO",
+    "url": "https://quincy.torontocast.com:3115/stream?x=1703514162706",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFFM \"The Goat\" 97.5 Williams Lake, 99.7 100 Mile House, 94.9 Quesnel, BC",
+    "url": "https://vistaradio.streamb.live/SB00074",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKDQ \"910 CFCW\"  Drumheller, AB",
+    "url": "http://newcap.leanstream.co/CKDQAM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHQR 770 (Calgary, AB)",
+    "url": "http://live.leanstream.co/CHQRAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Irish Radio Canada",
+    "url": "https://c5.radioboss.fm:18213/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CALMRADIO.COM - Sleep Channel",
+    "url": "https://streams.calmradio.com/api/39/128/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKDK 103.9 \"Country 104\" Woodstock, ON",
+    "url": "http://live.leanstream.co/CKDKFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKYR-FM 106.7 \"Red FM\" Calgary, AB",
+    "url": "https://ice10.securenetsystems.net/CKYR",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fusion 101",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s191877&formats=mp3",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJYC 98.9 \"Kool 98\" Saint John, NB",
+    "url": "https://mbsradio.leanstream.co/CJYCFM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Epic Rock Radio TorontoCast",
+    "url": "https://443-1.autopo.st/107/stream/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIZZ \"Z 98.9\" Red Deer, AB",
+    "url": "http://newcap.leanstream.co/CIZZFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rock 95",
+    "url": "https://cob-ais.leanstream.co/CFJBFM-MP3?args=tunein_01",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKQB \"JUMP! 106.9\" Ottawa, ON",
+    "url": "http://live.leanstream.co/CKQBFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJME News/Talk 980 (Regina, SK)",
+    "url": "http://rawlco.leanstream.co/CJMEAM-MP3",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate Pop Rock",
+    "url": "https://s2.ssl-stream.com/radio/8200/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Richard Strauss",
+    "url": "http://streams.calmradio.com:19328/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CINA-FM 102.3 (Radio CINA Arabic Hits Stream)  Windsor, ON",
+    "url": "https://ice9.securenetsystems.net/CINAFM3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKKI 89.9 \"KIC Country\" Montreal, QC",
+    "url": "http://andromeda.shoutca.st:8221/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNG \"Fresh Radio 92.5\" Edmonton, AB",
+    "url": "http://live.leanstream.co/CKNGFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Tibet",
+    "url": "https://streams.calmradio.com:6528/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUA Radio Network",
+    "url": "https://ais-sa1.streamon.fm/7000_48k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFQM 103.9 \"MAX FM\" Moncton, NB",
+    "url": "http://mbsradio.leanstream.co/CFQMFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Zen",
+    "url": "http://streams.calmradio.com:14028/stream/1/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFMI 101.1 \"Rock 101\" New Westminster, BC",
+    "url": "http://live.leanstream.co/CFMIFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beach Booster Radio - Wasaga Beach, ON",
+    "url": "http://us3.streamingpulse.com:8082/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CISN \"Country 103.9\" Edmonton, AB",
+    "url": "http://live.leanstream.co/CISNFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prog Palace Radio's The Courtyard",
+    "url": "https://puma.streemlion.com:5045/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Prokofiev",
+    "url": "http://streams.calmradio.com:16928/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JAZZ.FM91 (CJRT-FM)",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_02&player_type=popup",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIGM \"Hot 93.5\" Sudbury, ON",
+    "url": "http://newcap.leanstream.co/CIGMFM",
+    "country": "Canada",
+    "bitrate": 133,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Maria Canada - Spanish",
+    "url": "http://rmcesp.radiomaria.ca:8050/;stream.mp3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJRJ 1200 \"Spice Radio\" Vancouver, BC",
+    "url": "http://134.209.0.236:8000/CJRJ",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lightning Country CNTY",
+    "url": "http://216.126.196.154:4102/;?type=http&nocache=7",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lapfox Radio (MP3 320k)",
+    "url": "https://radio.lapfoxradio.com/radio/8000/stream-mp3-320.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Time Capsule Show",
+    "url": "http://sc3.mystreamserver.com:8060/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calm Radio - Puccini",
+    "url": "http://streams.calmradio.com:13028/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Rock Powerplay",
+    "url": "https://kathy.torontocast.com:3340/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKCH \"New Country 103.5\"  Sydney, NS",
+    "url": "http://newcap.leanstream.co/CKCHFM",
+    "country": "Canada",
+    "bitrate": 145,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHNS 89.9 \"The Wave\" Halifax, NS",
+    "url": "http://mbsradio.leanstream.co/CHNSFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "650 CKGA",
+    "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CKGAAM",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "SomehowJazz",
+    "url": "https://443-1.autopo.st/36/320K/;&type=mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSA-HD4 CMR Diversity FM 101.3 (Punjabi Stream) Toronto, ON",
+    "url": "https://live.cmr24.net/CMR/Punjabi-MQ/icecast.audio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFCH \"Country 90.5\" North Bay, ON",
+    "url": "https://vistaradio.streamb.live/SB00101",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "100 % COVERS LOUNGE",
+    "url": "https://az1.mediacp.eu/listen/100coverslounge/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFGQ 107.3 \"Q107\" Calgary, AB",
+    "url": "http://live.leanstream.co/CFGQFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate Radio Progressive Rock",
+    "url": "https://s2.ssl-stream.com/listen/labgate_prog/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prog Palace Radio's The Armory",
+    "url": "https://cheetah.streemlion.com/progpalace64",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "J-Pop Powerplay (Asia DREAM Radio)",
+    "url": "http://kathy.torontocast.com:3560/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKWR 98.5  \"Real Community Radio\" Kitchener, ON",
+    "url": "https://stream2.statsradio.com:8150/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFPL-FM 95.9 \"FM96\" London, ON",
+    "url": "http://live.leanstream.co/CFPLFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Exclusively Buddy Holly",
+    "url": "https://streaming.exclusive.radio/er/buddyholly/icecast.audio",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas Songs Radio",
+    "url": "https://cheetah.streemlion.com:1050/stream#.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vallamaiyin Alaikal - Waves of Power",
+    "url": "http://radio.pixelinmedia.com/vallamai",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate Alternative Rock and Grunge",
+    "url": "https://s2.ssl-stream.com/listen/labgate_alt_rock_grunge/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calmradio Rossini",
+    "url": "https://proxy.calmradio.com:14128/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFMK \"Big 96.3\" Kingston, ON",
+    "url": "http://live.leanstream.co/CFMKFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNY 102.1 Toronto, ON (AAC+)",
+    "url": "http://live.leanstream.co/CFNYFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CityNews Vancouver",
+    "url": "https://rogers.leanstream.co/rogers/van1130.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "JB Radio",
+    "url": "https://mediacp.jb-radio.net:8001/live",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "CJSS \"Boom 101.9\" Cornwall, ON",
+    "url": "http://live.leanstream.co/CJSSFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJPR 94.9 \"Real Country Southwest\" Blairmore, AB",
+    "url": "http://newcap.leanstream.co/CJPRFM-MP3",
+    "country": "Canada",
+    "bitrate": 142,
+    "codec": "AAC"
+  },
+  {
+    "name": "RadioSkyMusic Jazz",
+    "url": "http://listen.radioskymusic.com:7006/live",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz.FM91",
+    "url": "https://jazzfm91.streamb.live/SB00009?args=web_01",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJQC 99.3 Queen's County Community Radio - Liverpool, NS",
+    "url": "http://us3.streamingpulse.com:8074/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUE-FM2 \"Cool 100.7\" Windsor, ON",
+    "url": "http://live.leanstream.co/CKUEF2",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Terry Callaghan's Real Oldies Channel",
+    "url": "http://ec4.yesstreaming.net:2730/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "93.7 K Country",
+    "url": "https://torres-media.streamb.live/SB00191?starttime=1692206600",
+    "country": "Canada",
+    "bitrate": 49,
+    "codec": "AAC+"
+  },
+  {
+    "name": "630 CHED",
+    "url": "https://corus.leanstream.co/CHEDAM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJKR 97.5 \"Power 97\" Winnipeg, MB",
+    "url": "http://live.leanstream.co/CJKRFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJCB 1270 Sydney, NS",
+    "url": "http://mbsradio.leanstream.co/CJCBAM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJXY 107.9 \"Y108\" Burlington, ON",
+    "url": "http://live.leanstream.co/CJXYFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJBB 103.1 \"The Train\" Englehart, ON",
+    "url": "https://ice10.securenetsystems.net/CJBB",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJLL 97.9 \"CHIN Radio Ottawa\", ON",
+    "url": "http://ice7.securenetsystems.net/CJLLFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BestNewAge",
+    "url": "http://104.153.209.180:8000/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUL \"Mix 96.5\" Halifax, NS",
+    "url": "http://newcap.leanstream.co/CKULFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sonic 102.9",
+    "url": "https://rogers.leanstream.co/rogers/edm1029.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIRX-FM 94.3 \"The Goat\" Prince George, BC",
+    "url": "https://vistaradio.streamb.live/SB00066",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Base",
+    "url": "https://listen.thebase.sc/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Crucial Velocity Radio Blown",
+    "url": "https://ais-sa2.cdnstream1.com/1370_128",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic House Music",
+    "url": "https://classichousemusic.ca/listen/classic_house_music/radio.mp3",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 42° North (R42N) [AAC+ 64kbps]",
+    "url": "http://ice66.securenetsystems.net/R42N",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJRP-FM - Alive FM Saint John Canada",
+    "url": "https://us9.streamingpulse.com/ssl/NewsongFM",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHER 98.3 \"MAX FM\" Sydney, NS",
+    "url": "http://mbsradio.leanstream.co/CHERFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss 107.7",
+    "url": "https://rogers.leanstream.co/rogers/let1077.stream/icy?environment=tunein",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "RetroHits",
+    "url": "https://s1.nexuscast.com:8038/;stream.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNJ 99.1 Saint-Gabriel-de-Brandon, QC",
+    "url": "http://cfnjzp.mine.nu:9700/",
+    "country": "Canada",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKWB  \"Real Country 97.9\" Westlock, AB",
+    "url": "http://newcap.leanstream.co/CKWBFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "the oscar peterson channel",
+    "url": "https://jazzfm91.streamb.live/SB00023",
+    "country": "Canada",
+    "bitrate": 131,
+    "codec": "AAC"
+  },
+  {
+    "name": "metal shop",
+    "url": "https://quincy.torontocast.com:1500/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Country Acadienne",
+    "url": "https://shout.radiocountryacadienne.com:8004/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUT 90.3 FM",
+    "url": "https://ckut.out.airtime.pro/ckut_a",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKWF 101.5 \"The Wolf\" Peterborough",
+    "url": "http://live.leanstream.co/CKWFFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIBQ 105.7 \"Real Country\" Brooks, AB",
+    "url": "http://newcap.leanstream.co/CIBQFM-MP3",
+    "country": "Canada",
+    "bitrate": 143,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHOZ-FM 94.7 \"OZ FM\" St. John's, NL",
+    "url": "https://ozfm.streamb.live/SB00174",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "jb radio 2",
+    "url": "https://mediacp.jb-radio.net:8001/flac",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "CKAY 91.7 \"Coast FM\" Nanaimo, BC",
+    "url": "https://vistaradio.streamb.live/SB00081",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CBFM.ca  Gaelic College - St. Ann's, NS",
+    "url": "https://s4.radio.co/s6f58ddb4f/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJDV 107.5 \"Dave Rocks\" Kitchener, ON",
+    "url": "http://live.leanstream.co/CJDVFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Masalabeats Toronto",
+    "url": "http://usa10.fastcast4u.com:7070/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKSA 95.9 \"Real Country Lloydminster\", AB",
+    "url": "http://newcap.leanstream.co/CKSAFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bolly Radio.com",
+    "url": "https://onlineradiobox.com/json/ca/bolly/play?platform=web",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKUT-FM 90.3 McGill University - Montreal, QC",
+    "url": "https://delray.ckut.ca:8001/ckut-live-128",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CityNews 101.1 Ottawa",
+    "url": "https://rogers-hls.leanstream.co/rogers/ott1011.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Z103.5 - CIDC-FM",
+    "url": "https://evanov.leanstream.co/CIDCFM",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJRU 1280 \"The Scope\" Ryerson University - Toronto, ON",
+    "url": "http://ryerson.out.airtime.pro:8000/ryerson_a",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "THE LYNX DISCO CLASSICS",
+    "url": "https://disco-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Enigma",
+    "url": "https://cast1.torontocast.com:4765/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKVH \"Real Country 93.5\" High Prairie, AB",
+    "url": "http://newcap.leanstream.co/CKVHFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "The Tri City's Alternative",
+    "url": "https://conestoga.leanstream.co/CJIQFM?args=3rdparty_01&starttime=1605211812",
+    "country": "Canada",
+    "bitrate": 55,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKCW 94.5 \"K94\" Moncton, NB",
+    "url": "http://mbsradio.leanstream.co/CKCWFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKEZ \"Z97.9\"  New Glasgow, NS",
+    "url": "https://newcap.leanstream.co/CKEZFM",
+    "country": "Canada",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJXK 95.3 \"K-Rock\" Cold Lake, AB",
+    "url": "http://newcap.leanstream.co/CJXKFM",
+    "country": "Canada",
+    "bitrate": 126,
+    "codec": "AAC"
+  },
+  {
+    "name": "CHLQ 93.1 \"Q93\" Charlottetown, PE",
+    "url": "http://mbsradio.leanstream.co/CHLQFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nitty-Gritty Music Radio",
+    "url": "https://cast1.torontocast.com:1490/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFMC 95.1 \"C95\" Saskatoon, SK -MP3",
+    "url": "http://rawlco.leanstream.co/CFMCFM-MP3",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "95.7 Cruz FM Edmonton",
+    "url": "https://ais-sa1.streamon.fm/7263_64k.mp3",
+    "country": "Canada",
+    "bitrate": 66,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cariboo Country",
+    "url": "https://vistaradio.streamb.live/SB00071",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bolly radio Canada",
+    "url": "https://carina.streamerr.co/stream/8206",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic FM Montreal",
+    "url": "https://s7.yesstreaming.net/stream/8024",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "620 CKRM The Source",
+    "url": "https://ais-sa1.streamon.fm/7267_64k.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIQB \"Big 101.1\" Barrie, ON",
+    "url": "http://live.leanstream.co/CIQBFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKAU-FM \"Radio Kushapetsheken\" 104.5 Maliotenam & 90.1 Sept-Iles, QC",
+    "url": "https://edge.mixlr.com/channel/qjvlw",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Smooth Motion FM",
+    "url": "https://vm.motionfm.com/motiontwo_free",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "z103.5",
+    "url": "https://evanov.leanstream.co/CIDCFM?args=web_01",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Kalighat fm",
+    "url": "https://stream-166.zeno.fm/60ef4p33vxquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI2MGVmNHAzM3Z4cXV2IiwiaG9zdCI6InN0cmVhbS0xNjYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IjNINXZicmozVFY2Uy1iTU5oS3h4anciLCJpYXQiOjE",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKSQ 93.3 \"Real Country Stettler\", AB",
+    "url": "http://newcap.leanstream.co/CKSQFM",
+    "country": "Canada",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKUW 95.9 University of Winnipeg, MB",
+    "url": "http://shout.mtl.gameservers.com:9025/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJJM 99.3 \"Moose FM\" Espanola, ON",
+    "url": "https://vistaradio.streamb.live/SB00099",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFHK 103.1 \"Fresh Radio\" St. Thomas, ON",
+    "url": "http://live.leanstream.co/CFHKFM-MP3?args=web_02",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHAB 800 Moose Jaw, SK",
+    "url": "https://goldenwest.leanstream.co/CHABAM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHRN 1610 \"Radio Humsafar\" Montreal. QC",
+    "url": "http://ice2.securenetsystems.net/HUMSAFAR",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKEN \"AVR 97.7\" Kentville, NS",
+    "url": "http://mbsradio.leanstream.co/CKENFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Virsa",
+    "url": "https://stream.zeno.fm/25h82wv629duv",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIGL 97.1 \"MIX 97\" Belleville, ON",
+    "url": "http://live.leanstream.co/CIGLFM-MP3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Moose FM 93.5 Haliburton - CFZN",
+    "url": "https://vistaradio.streamb.live/SB00113",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRK \"K103.7\" Kahnawake, QC",
+    "url": "http://stream.statsradio.com:8092/stream",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJRW 102.1 \"Spud FM\" Summerside, PE",
+    "url": "https://mbsradio.leanstream.co/CJRWFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CITR - University of British Columbia",
+    "url": "https://live.citr.ca/live.aac",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIMJ 106.1 \"Magic 106\" Guelph, ON",
+    "url": "http://live.leanstream.co/CIMJFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFLG 104.5 \"Fresh Radio\" Cornwall, ON",
+    "url": "http://live.leanstream.co/CFLGFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNR 92.1 Terrace, BC",
+    "url": "http://nnb.leanstream.co/CFNRFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJGV \"Peggy @ 99.1\" Winnipeg, MB",
+    "url": "http://live.leanstream.co/CJGVFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKXD 98.7 \"K Rock\"  Gander, NL",
+    "url": "http://newcap.leanstream.co/CKXDFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Italia Canada",
+    "url": "https://streaming.radiostreamlive.com/radioitaliacanada_devices-low?token=%3C?%20echo%20rand%20(1,200000);%20?%3E",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ambient Art Sound",
+    "url": "https://ambientartsound.skydesignltd.com:8000/radio.mp3?refresh=1652750904243",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DKFM Shoegaze Radio",
+    "url": "https://kathy.torontocast.com:1750/api/links/?t=winamp&l=fbzvxbvs&c=3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIJK 89.3 \"K-Rock\" Kentville, NS",
+    "url": "http://newcap.leanstream.co/CIJKFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKWY 93.7 \"Wayne FM\" Wainwright, AB",
+    "url": "http://newcap.leanstream.co/CKWYFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "ETN.fm",
+    "url": "http://8.43.48.6:8130/",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHAY 93.1 \"Fresh Radio\" Barrie, ON",
+    "url": "http://live.leanstream.co/CHAYFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKBN \"VIA 90.5 FM\" Bécancour, QC",
+    "url": "http://stream.statsradio.com:8056/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CINA-FM 102.3 \"Radio CINA\" Windsor, ON",
+    "url": "http://ice7.securenetsystems.net/CINA-FM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "92 CITI FM",
+    "url": "https://rogers-hls.leanstream.co/rogers/win921.stream/icy",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKMB 107.5 \"KOOL FM\" Barrie, ON",
+    "url": "https://cob-ais.leanstream.co/CKMBFM",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Flow 98 7 CKFG-FM Toronto",
+    "url": "https://ice64.securenetsystems.net:80/CKFG",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHMA 106.9 FM Sackville, NB",
+    "url": "https://securestreams6.autopo.st:2111/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Unicité",
+    "url": "https://listen.radioking.com/radio/521287/stream/579484",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Happy Christmas Radio (AAC)",
+    "url": "http://radio1.streamserver.link/radio/8070/hcr-aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKXX 103.9 \"K Rock\" Corner Brook, NL",
+    "url": "http://newcap.leanstream.co/CKXXFM",
+    "country": "Canada",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKWS 104.3 \"Fresh Radio\" Kingston, ON",
+    "url": "http://live.leanstream.co/CKWSFM?args=web_01",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "96.5 The Breeze",
+    "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CKULFM",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJUV-FM 94.1 Sunny 94",
+    "url": "https://goldenwest.leanstream.co/CJUVFM-MP3",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFMF 103.1 Fermont, QC",
+    "url": "http://stream.statsradio.com:8068/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CILG-FM 100.7 \"Country 100\" Moose Jaw, SK",
+    "url": "https://goldenwest.leanstream.co/CILGFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "AFTERHOURS | AH.FM",
+    "url": "https://fr.ah.fm/mobile",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFCB 570 Corner Brook, NL",
+    "url": "http://newcap.leanstream.co/CFCBAM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Giant 101.9",
+    "url": "https://newcap.leanstream.co/CHRKFM",
+    "country": "Canada",
+    "bitrate": 133,
+    "codec": "AAC"
+  },
+  {
+    "name": "D1 Alternative",
+    "url": "https://cast1.torontocast.com:2545/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Country 106.7",
+    "url": "https://rogers.leanstream.co/rogers/kit1067.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKBA \"Boom 94.1\" Athabasca, AB",
+    "url": "http://newcap.leanstream.co/CKBAFM-MP3",
+    "country": "Canada",
+    "bitrate": 137,
+    "codec": "AAC"
+  },
+  {
+    "name": "RadioProgram",
+    "url": "http://radio.streemlion.com:2190/radioprogram",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHSR-FM 97.9",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24750",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "THE LYNX CLASSIC HITS",
+    "url": "https://hits-lynxradio.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKXG 102.3  \"K-Rock\" Grand Falls-Windsor, NL",
+    "url": "http://newcap.leanstream.co/CKXGFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKKY \"Boom 101.9\" Wainwright, AB",
+    "url": "http://newcap.leanstream.co/CKKYFM",
+    "country": "Canada",
+    "bitrate": 136,
+    "codec": "AAC"
+  },
+  {
+    "name": "CING 95.3 \"Fresh Radio\" Hamilton, ON",
+    "url": "http://live.leanstream.co/CINGFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "103.9 CISN Country",
+    "url": "https://corus.leanstream.co/CISNFM?args=web_01&startTime=1692203406",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIWV-FM \"Wave 98.3\" Vancouver, BC",
+    "url": "https://stream2.statsradio.com:8152/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFBX 92.5 \"The X\" Thompson Rivers University - Kamloops, BC",
+    "url": "http://198.162.21.84:8002/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.9 The Wave - CKTO-FM, Truro",
+    "url": "https://mbsradio-ais.leanstream.co/CKTOFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIUT 89.5FM",
+    "url": "https://ice23.securenetsystems.net/CIUT",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "840 CFSX",
+    "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CFSXAM",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Praise FM Cape Breton",
+    "url": "https://streaming.radio.co/s1a936367b/low",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CILB \"Boom 103.5\" Lac La Biche, AB",
+    "url": "http://newcap.leanstream.co/CILBFM-MP3",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CityNews 570 Kitchener",
+    "url": "https://rogers-hls.leanstream.co/rogers/kit570.stream/icy?environment=tunein&args=tunein_01",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHLC-FM \"FM 97.1 La radio des hits\" Baie-Comeau, QC",
+    "url": "https://stream2.statsradio.com:8120/stream",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKEC \"Mix 94.1\" New Glasgow, NS",
+    "url": "https://newcap.leanstream.co/CKECFM",
+    "country": "Canada",
+    "bitrate": 145,
+    "codec": "AAC"
+  },
+  {
+    "name": "Harmony Beautiful Music",
+    "url": "http://173.208.177.90:13410/",
+    "country": "Canada",
+    "bitrate": 72,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hair Band Radio",
+    "url": "https://quincy.torontocast.com:3115/stream?x=1733618321799",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Seaside FM 105.9 - CFEP-FM - Eastern Passage",
+    "url": "https://seasidefm1059.radioca.st/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Lounge CHPQ-FM 99.9 Parksville",
+    "url": "https://icy.jpbgdigital.com/CHPQ.aac",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJOC 94.1  \"Classic Hits\" Lethbridge, AB",
+    "url": "https://vistaradio.streamb.live/SB00093",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKVS 93.7 Voice of the Shuswap, BC",
+    "url": "http://s2.stationplaylist.com:9240/listen.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIMY-FM 104.9 \"MyFM\" Pembroke, ON",
+    "url": "https://mybroadcasting.streamb.live/SB00305",
+    "country": "Canada",
+    "bitrate": 31,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIXX 106.9 \"The X\" Fanshawe College, London, ON",
+    "url": "https://ice23.securenetsystems.net/CIXXFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJTT-FM 104.5 Temiskaming Shores, ON",
+    "url": "https://connelly.radioca.st/cjtt",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJMD 96.9  Levis, QC",
+    "url": "https://arcq.streamb.live/SB00213",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "dubplate.fm Urban Boogie",
+    "url": "https://sc2.dubplate.fm/radio/8010/urbanboogie/uhifi",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJCS-FM 107.1 \"Classic Hits\" Stratford, ON",
+    "url": "https://vistaradio.streamb.live/SB00107",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "101.5 - The Hawk - CIGO-FM",
+    "url": "https://ais-sa1.streamon.fm/7932_96k.aac",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKNG-FM \"The Chuck 92.5\" Edmonton, AB (AAC Stream)",
+    "url": "https://corus.leanstream.co/CKNGFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJUV-FM 94.1 \"Sunny 94\" Lacombe, AB   (AAC Stream)",
+    "url": "https://goldenwest.leanstream.co/CJUVFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fighting Game Community Radio",
+    "url": "https://radio.fgcast.com/listen/fgc_radio/standard.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJRY 105.9 Shinefm",
+    "url": "https://shinefm.streamguys1.com/cjry",
+    "country": "Canada",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKCB 95.1 \"The Peak\" Collingwood, ON",
+    "url": "http://live.leanstream.co/CKCBFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CoolFM Beauce",
+    "url": "https://stream.statsradio.com:8040/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNG-FM \"The Chuck 92.5\" Edmonton, AB (MP3 Stream)",
+    "url": "https://corus.leanstream.co/CKNGFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJRB 1220 Boissevain, MB",
+    "url": "https://goldenwest.leanstream.co/CJRBAM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFAI-FM 101.1 Edmundston &105.1 Grand Sault, NB",
+    "url": "https://stream2.statsradio.com:8028/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas Songs Radio (MP3)",
+    "url": "http://cheetah.streemlion.com:1050/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "https://truskoolbreakz.com/now-playing/",
+    "url": "http://ec2.yesstreaming.net:4450/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFMK 96.3 Big FM",
+    "url": "https://corus.leanstream.co/CFMKFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKMO 101.5 \"FM101\" Orangeville, ON",
+    "url": "https://localradio.streamb.live/SB00096",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFMK-FM 96.3 \"Big FM\" Kingston, ON (AAC Stream)",
+    "url": "http://live.leanstream.co/CFMKFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIOWAVES",
+    "url": "https://quincy.torontocast.com/radiowaves",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "102.3 NOW Radio",
+    "url": "https://redirect.jpbgdigital.com/CKNO?player_type=tunein",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "UMFM 101.5 (CJUM)",
+    "url": "http://opml.radiotime.com/Tune.ashx?id=s24644",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJNY-FM 106.3 \"The Journey\" Vancouver, BC",
+    "url": "https://torres-media.streamb.live/SB00168",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "620 CKCM",
+    "url": "https://nyc-edge1-entry1.leanstream-hd.com:2113/CKCMAM",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rythme 100,1 Mauricie",
+    "url": "https://s33.myradiostream.com/15364/listen.mp3",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJOJ-FM 95.5 \"Hits FM\" Belleville, ON",
+    "url": "https://starboard.streamb.live/SB00160",
+    "country": "Canada",
+    "bitrate": 98,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJEG \"Kool 101.3 FM\" Bonnyville, AB",
+    "url": "http://newcap.leanstream.co/CJEGFM",
+    "country": "Canada",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "CKOE-FM Radio 107.3 FM Moncton",
+    "url": "http://us2.streamingpulse.com:8110/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFPW 95.7 \"Coast FM\" Powell River, BC",
+    "url": "https://vistaradio.streamb.live/SB00082",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJCD-FM 100.1 \"True North FM\" Yellowknife, NT",
+    "url": "https://vistaradio.streamb.live/SB00088",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Easy Like Sunday Morning Radio",
+    "url": "https://stream.zeno.fm/1tcpv7b2mqzuv",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "94.9 The Wave - CKPE-FM",
+    "url": "https://mbsradio.leanstream.co/CKPEFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "KNVBC - Revival Radio",
+    "url": "https://stream.knvbc.com:8443/listen",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNA 99.7 \"Country 99 FM\" Bonnyville, AB",
+    "url": "https://vistaradio.streamb.live/SB00089",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fusion 101",
+    "url": "https://quincy.torontocast.com:2045/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKBF-FM 104.1 \"BFBS Canada\" CFB Suffield, AB",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs12.aac",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Country 102",
+    "url": "https://bayshore-ais.leanstream.co/CJMUFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKVV 97.5 \"Juice FM\" Kemptville, ON",
+    "url": "https://vistaradio.streamb.live/SB00108",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHCQ-FM 100.1 \"Cool 100\" Belleville, ON",
+    "url": "https://torres-media.streamb.live/SB00159",
+    "country": "Canada",
+    "bitrate": 98,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Glory To Jesus",
+    "url": "https://ca.publicssl.net/8006/",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Lynx Classic Hits",
+    "url": "https://stream.lynxradionetwork.com/hits/stream",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKOU \"K Country 93.7\" Georgina, ON",
+    "url": "https://torres-media.streamb.live/SB00191",
+    "country": "Canada",
+    "bitrate": 49,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJKL-FM 101.5  Kirkland Lake, ON",
+    "url": "https://connelly.radioca.st/cjkl",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "103.9 MAX FM - Moncton's Greatest Hits",
+    "url": "http://mbsradio-ais.leanstream.co/CFQMFM-MP3?args=mobile_01&aw_0_req.gdpr=false&gdpr=false",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Мегаполис Торонто",
+    "url": "https://c25.radioboss.fm:8297/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHAW-FM 103.1 \"Country 103\" Little Current, ON",
+    "url": "http://rosetta.shoutca.st:8216/stream;audio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJFO 94.5 \"Unique FM\" Ottawa, ON",
+    "url": "http://stream2.statsradio.com:8038/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSU-FM 89.7 \"Sun FM\" Duncan, BC",
+    "url": "https://vistaradio.streamb.live/SB00080",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFJU 90.1 \"Route 17\" Kedgewick, NB",
+    "url": "http://stream2.statsradio.com:8040/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Musicbox4friends",
+    "url": "https://maggie.torontocast.com:8038/musicbox",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DKFM Edge",
+    "url": "http://radio.streemlion.com:4170/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Country 94.1",
+    "url": "https://ais-sa1.streamon.fm/7230_128k.aac",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "The Coast 89.7 CKOA-FM",
+    "url": "https://s45.myradiostream.com/:15204/listen.mp3/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJTM 1280 \"Met Radio\"  Toronto Metropolitan University, ON",
+    "url": "https://ryerson.out.airtime.pro/ryerson_a",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIAT-FM 98.1 \"Cat Country 98\" Assiniboia, SK",
+    "url": "https://cat-country-98.streamb.live/SB00148",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHIN Radio 100.7",
+    "url": "https://ice7.securenetsystems.net/CHINFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "my FM 88.1",
+    "url": "https://mybroadcasting.streamb.live/SB00315",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFXN 106.3 \"Jet FM\" North Bay, ON",
+    "url": "https://vistaradio.streamb.live/SB00100",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRD-FM 90.5 \"Shine FM\"",
+    "url": "https://shinefm.streamguys1.com/ckrd",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Illsoundvibe",
+    "url": "http://listen.spacial.com/api/listen/?sid=65782&method=sc&rid=1191491",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFLO-FM 104.7 Mont-Laurier, 101.9 Riviere Rouge, QC",
+    "url": "http://stream.statsradio.com:8088/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKPP 107.9 \"Moose FM\"  Prescott, ON",
+    "url": "https://vistaradio.streamb.live/SB00111",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRU 100.5 \"Fresh Radio\" Peterborough, ON",
+    "url": "http://live.leanstream.co/CKRUFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHOD 92.1 & 91.9 \"GO FM\" Cornwall, ON",
+    "url": "https://stream2.statsradio.com:8032/live",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIBM-FM 107.1 \"FM107\" Riviere-du-Loup, QC (128 kbps MP3)",
+    "url": "https://stream.statsradio.com:8050/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADS",
+    "url": "http://radio7.pro-fhi.net:9051/;stream.nsv",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHPB 98.1 \"Moose FM\" Cochrane, ON",
+    "url": "https://vistaradio.streamb.live/SB00103",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFLX - La radio communautaire de l'estrie",
+    "url": "https://stream.statsradio.com:8110/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHJM \"Mix 99.7\" Saint-Georges, QC",
+    "url": "https://stream.statsradio.com:8054/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "102.3 Juice FM Grand Forks BC",
+    "url": "https://vistaradio.streamb.live/SB00084",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJUV-FM 94.1 \"Sunny 94",
+    "url": "https://goldenwest.leanstream.co/CJUVFM-MP3?args=tunein_02",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "CICW-FM 101.1 \"The Grand 101\" Centre Wellington, ON",
+    "url": "https://stream2.statsradio.com:8130/stream",
+    "country": "Canada",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKLM \"106.1 FM The Goat\" Lloydminster, AB",
+    "url": "https://vistaradio.streamb.live/SB00090",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHUO-FM 89.1  University of Ottawa, ON",
+    "url": "https://stream.statsradio.com:8102/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CINB-FM \"Oldies96\" - Saint John, NB",
+    "url": "https://us9.streamingpulse.com/ssl/oldies96",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJEM 92.7 \"Frontiere FM\" Edmunston, NB",
+    "url": "https://stream2.statsradio.com:8096/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ETN.fm",
+    "url": "http://ch1relay1.etn.fm:8130/listen.pls?sid=1",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ritmo X99",
+    "url": "https://listen.ritmo.torontocast.stream/",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKGN 89.7 Kapuskasing & 94.7 Smooth Rock Falls, ON",
+    "url": "https://stream2.statsradio.com:8070/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CILT-FM \"Mix 96.7\" Steinbach,MB",
+    "url": "https://goldenwest.leanstream.co/CILTFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKRZ 100.3  \"Voice of the Grand\" Ohsweken, ON",
+    "url": "https://stream2.statsradio.com:8132/stream",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Birch street radio",
+    "url": "https://jenny.torontocast.com:8172/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFBO \"Plus 90.7\" Dieppe, NB",
+    "url": "https://stream2.statsradio.com:8010/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic Hits 109 - Country Hits",
+    "url": "https://broadcast.classichits109.com/country",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJBE 90.5 \"Radio Anticosti\" Port-Menier, QC",
+    "url": "https://stream2.statsradio.com:8126/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFRY 920 Portage La Prairie, MB",
+    "url": "https://goldenwest.leanstream.co/CFRYAM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFTA 107.9 Tantramar FM Amherst, NS",
+    "url": "https://s15.myradiostream.com/:14808/stream.mp3?_=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "QCIndie.com",
+    "url": "https://stream.qcindie.com/live",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cabin Radio.ca - Yellowknife, NT",
+    "url": "https://streams.radiomast.io/5f60e08a-1c90-43ed-8714-66e41d15497d",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Southwestern Ontario Scaremas FM",
+    "url": "https://stream.zeno.fm/wzzwkskd6gruv",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "989 XFM - CJFX",
+    "url": "https://edge.mixlr.com/channel/zwjte",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKBD 98.1 \"2 Day FM\"  Lethbridge, AB",
+    "url": "https://vistaradio.streamb.live/SB00094",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHBY-FM 106.5 \"Moose FM\" Barry's Bay, ON",
+    "url": "https://vistaradio.streamb.live/SB00109",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFRC 101.9fm - Queen's University, Kingston, ON",
+    "url": "https://audio.cfrc.ca/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CINZ NET Radio",
+    "url": "https://stream.cinz.net/",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJLI am700 The Light",
+    "url": "https://shinefm.streamguys1.com/cjli",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFBC 930 Saint John, NB",
+    "url": "https://mbsradio-ais.leanstream.co/CFBCAM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJSE 89.5 \"Country 89\" Shediac, NB",
+    "url": "http://stream2.statsradio.com:8008/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKFT \"Mix 107.9\" Fort Saskatchewan, AB",
+    "url": "https://goldenwest.leanstream.co/CKFTFM",
+    "country": "Canada",
+    "bitrate": 55,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Labgate Pop Rock",
+    "url": "https://s2.ssl-stream.com/listen/labgate_pop_rock/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIMS-FM 103.9 Balmoral, NB & 96.7 Dalhousie, NB",
+    "url": "https://stream2.statsradio.com:8068/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Virgin Most Powerful Radio",
+    "url": "https://edge.mixlr.com/channel/uhbay",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIQC-FM \"99.7 The River\"  Campbell River, BC",
+    "url": "https://vistaradio.streamb.live/SB00078",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFCY 95.1 Charlottetown, PE",
+    "url": "https://mbsradio.leanstream.co/CFCYFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIFA 104.1 FM",
+    "url": "https://stream2.statsradio.com:8080/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKJM-FM 106.1",
+    "url": "https://stream2.statsradio.com:8036/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJLY Kootenay Co-op Radio",
+    "url": "https://relay1.cjly.net/64",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFNI 1240 \"Coast AM\"  Port Hardy, BC",
+    "url": "https://vistaradio.streamb.live/SB00083",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJLO 1690AM",
+    "url": "http://rosetta.shoutca.st:8883/;",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIDI-FM 99.1 Knowlton, QC",
+    "url": "http://s2.radioservers.biz:9998/;stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Energy 95.3",
+    "url": "https://corus.leanstream.co/CINGFM?args=web_01&startTime=1701264975",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHMT \"93.1 Country FM\" Timmins, ON",
+    "url": "https://vistaradio.streamb.live/SB00105",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Greater Napanee MyFM 88.7",
+    "url": "https://mybroadcasting.streamb.live/SB00309?args=web_01&player_type=popup&uid=8ad0e759-ec27-4a34-b190-5a8250c5722c&user_hash=ZqCfyHBSqpdmwfMWFXB36kdc3R2oCueW&aw_0_req.gdpr=true&gdpr=true&listenerid=e2c90224a0169ebe996ff44d8d7bd88b&awparams=companionAds%3Atrue",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKQR \"99.3 FM The Goat\" Castlegar, BC",
+    "url": "https://vistaradio.streamb.live/SB00085",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHNV-FM 103.5 \"The Bridge\" Nelson, BC",
+    "url": "https://vistaradio.streamb.live/SB00086",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHHR-FM 94.7 MHz",
+    "url": "https://sheetharbour.out.airtime.pro/sheetharbour_a",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHOX-FM  97.5 La Pocatiere, QC",
+    "url": "http://stream.statsradio.com:8052/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Francophonie Express",
+    "url": "https://www.radioking.com/play/francophonie-express/63439",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIDG-FM \"Rebel Rock101.7\" Ottawa, ON",
+    "url": "https://torres-media.streamb.live/SB00189",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "96.3 Reach FM",
+    "url": "https://goldenwest.leanstream.co/CJGYFM?args=web_03&=&&___cb=122114544527137",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHEV-FM 94.5 \"Valley Radio\" Grand Falls-Windsor, NL",
+    "url": "https://exploits.radioca.st/evcr/",
+    "country": "Canada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKLP 103.3 \"Moose FM\" Parry Sound, ON",
+    "url": "https://vistaradio.streamb.live/SB00114",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CING-FM \"Energy 95.3\" Hamilton, ON (AAC Stream)",
+    "url": "http://live.leanstream.co/CINGFM",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJCB 1270 Sydney, NS",
+    "url": "https://mbsradio.leanstream.co/CJCBAM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIVH \"95.9 FM The Goat\" Vanderhoof, BC",
+    "url": "https://vistaradio.streamb.live/SB00076",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJCA AM930 The Light",
+    "url": "https://shinefm.streamguys1.com/cjca",
+    "country": "Canada",
+    "bitrate": 95,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cabin Radio",
+    "url": "https://streams.radiomast.io/5f60e08a-1c90-43ed-8714-66e41d15497d?t=dark",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "cbc Calgary",
+    "url": "https://27033.live.streamtheworld.com/CBR1FM_CBC.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJCI 97.3 \"Country 97\" Prince George, BC",
+    "url": "https://vistaradio.streamb.live/SB00040",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHLW-FM \"The Bear 93.1\" Barriere, BC",
+    "url": "https://barriere.streamb.live/SB00250",
+    "country": "Canada",
+    "bitrate": 198,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIWS-FM 102.9 \"Whistle FM\" Stoufville, ON  (alternative stream)",
+    "url": "https://audio-edge-qse4n.yyz.g.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFDC-FM 104.9 \"Country 105\" Shelburne, ON (AAC Stream)",
+    "url": "https://bayshore-ais.leanstream.co/CFDCFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFCP 98.9 \"Jet FM\" Courtenay, BC",
+    "url": "https://vistaradio.streamb.live/SB00079",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Emily.ca - Emily Carr University of Art & Design - Vancouver, BC",
+    "url": "https://s3.radio.co/s072f9aefd/listen",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Max FM 98.3 - CHER-FM",
+    "url": "https://mbsradio.leanstream.co/CHERFM-MP3",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKMN 96.5 FM",
+    "url": "https://arcq.streamb.live/SB00217",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHYK \"Le Loup\" 104.1 Timmins, 92.9 Hearst,  93.7 Kapuskasing, ON",
+    "url": "https://chyk104.radioca.st/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFIT-FM \"Air 106.1\" Airdrie, AB",
+    "url": "https://goldenwest.leanstream.co/CFITFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFBV \"The Moose\" 870 Smithers, 106.5 Houston, 760 Burns Lake, BC",
+    "url": "https://vistaradio.streamb.live/SB00077",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Labgate Classic Rock",
+    "url": "https://s2.ssl-stream.com/listen/labgate_classic_rock/radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "102.9 CFAR Your Radio - Flin Flon",
+    "url": "https://us7.maindigitalstream.com/2715/?pl=vlc&c=CFAR",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIMA 92.1 \"FM 92 South Simcoe\" Alliston, ON",
+    "url": "https://localradio.streamb.live/SB00097",
+    "country": "Canada",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHMA 106.9 FM Sackville, NB",
+    "url": "https://securestreams6.autopo.st:2111/?1731303876903=",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Stonata",
+    "url": "https://quincy.torontocast.com:1745/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kool 98",
+    "url": "https://mbsradio-ais.leanstream.co/CJYCFM-MP3?args=web_01",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIAU-FM 103.1 Radisson, QC",
+    "url": "https://s47.myradiostream.com:15778/;",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "94.1 Juice FM",
+    "url": "https://vistaradio.streamb.live/SB00087?=&&___cb=750829174267127",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Countryradio.Musicbox4friends",
+    "url": "https://maggie.torontocast.com:8092/country",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJPB-FM 90.7 \"La Voix de St-Lo\" Saint-Laurent, QC",
+    "url": "https://listen.radioking.com/radio/11310/stream/22574",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFSF 99.3 \"Moose FM\" Sturgeon Falls, ON",
+    "url": "https://vistaradio.streamb.live/SB00102",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKVL-FM 100.1 LaSalle, QC",
+    "url": "https://stream.statsradio.com:8072/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.7 ICON Radio",
+    "url": "https://vistaradio.streamb.live/SB00081?=&&___cb=30649978586825",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKAP 100.9 \"Moose FM\" Kapuskasing, ON",
+    "url": "https://vistaradio.streamb.live/SB00104",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJRO-FM 107.7 Carlsbad Springs, ON",
+    "url": "https://c5.radioboss.fm:18049/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CFBG 99.5 \"Moose FM\" Bracebridge, ON",
+    "url": "https://vistaradio.streamb.live/SB00115",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LOVE MOMENTS RADIO",
+    "url": "https://radio.mediacp.eu/stream/lovemomentsradio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJPG-FM \"Mix 96.5\" Portage la Prairie, MB",
+    "url": "https://goldenwest.leanstream.co/CJPGFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Reach 96.3 FM",
+    "url": "https://goldenwest.leanstream.co/CJGYFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFBK 105.5 \"Moose FM\" Huntsville,  ON",
+    "url": "https://vistaradio.streamb.live/SB00116",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CITA-FM Harvesters FM",
+    "url": "https://harvestersfm.radioca.st/NB",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIOG-FM harvesters.fm",
+    "url": "https://harvestersciog.radioca.st/CIOG",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CHRI 99.1 Ottawa",
+    "url": "https://s8.yesstreaming.net:17186/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FAITH 99.9 CHJX",
+    "url": "https://ice7.securenetsystems.net/CHJXFM",
+    "country": "Canada",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJGB-FM \"LITE 99.3\" Meaford, ON",
+    "url": "https://evanov.streamb.live/SB00234",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Country Acadienne",
+    "url": "http://shout.radiocountryacadienne.com:8004/index.html?sid=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LATINA 101.9FM",
+    "url": "https://radiostream.interven.ca/listen/latina101.9fm/radio.mp3",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "CJAR 102.9 FM & 1240 AM \"Arctic Radio\" The Pas, MB",
+    "url": "https://us2.maindigitalstream.com/ssl/CJAR",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKSE 106.1 \"Rock 106\" Estevan, SK",
+    "url": "https://goldenwest.leanstream.co/CKSEFM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "88.7 The Ghoat",
+    "url": "http://72.167.53.106:8018/MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "A Dick Ted Radio",
+    "url": "http://adickted.ca:8000/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Laurier",
+    "url": "https://radiolaurier.out.airtime.pro/radiolaurier_a",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHBO 107.5 \"Bolt FM\" Humboldt, SK",
+    "url": "https://goldenwest.leanstream.co/CHBOFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFAR 102.9 FM & 590 AM \"Arctic Radio\" Flin Flon, MB",
+    "url": "https://us2.maindigitalstream.com/ssl/CFAR",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFSM 107.5 \"2Day FM\" Cranbrook, BC",
+    "url": "https://vistaradio.streamb.live/SB00075",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Audiofumes Radio",
+    "url": "https://audiofumes.ca:8443/AudiofumesRadio",
+    "country": "Canada",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJWV Oldies 96.7 FM",
+    "url": "https://mybroadcasting.streamb.live/SB00335",
+    "country": "Canada",
+    "bitrate": 31,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKCV 94.1 \"Juice FM\" Creston, BC",
+    "url": "https://vistaradio.streamb.live/SB00087",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FM96",
+    "url": "https://live.leanstream.co/CFPLFM-MP3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CJJR 93.7 JR Country",
+    "url": "https://redirect.jpbgdigital.com/CJJR?player_type=mytuner",
+    "country": "Canada",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKJS",
+    "url": "https://evanov.streamb.live/SB00231?args=web_01&starttime=1707827603",
+    "country": "Canada",
+    "bitrate": 47,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Faro",
+    "url": "https://cast1.torontocast.com:5230/stream?x=1720272389034",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "102.9 CHTM Your Radio - Thompson",
+    "url": "https://us7.maindigitalstream.com/2777/?pl=vlc&c=CHTM%20-%20Your%20Radio%20102.9",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHGK-FM 107.7 \"2 Day FM\" Stratford, ON",
+    "url": "https://vistaradio.streamb.live/SB00106",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKVM - La VOIX du Témiscamingue québécois et ontarien",
+    "url": "https://stream2.statsradio.com:8138/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKFI-FM \"Magic 97.1\" Swift Current, SK",
+    "url": "https://goldenwest.leanstream.co/CKFIFM",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Allsound radio (AAC 64k)",
+    "url": "https://kathy.torontocast.com:2525/stream",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIUX-FM \"Hits 105.5\" Uxbridge, ON",
+    "url": "https://torres-media.streamb.live/SB00161",
+    "country": "Canada",
+    "bitrate": 49,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Country Acadienne",
+    "url": "https://shout.radiocountryacadienne.com:8004/index.html?sid=1",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Newfoundland and Labrador's Pioneer Radio Station",
+    "url": "https://c21.radioboss.fm/stream/193",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Superstation CKLE",
+    "url": "https://stream2.statsradio.com:8114/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKRP-FM 95.7 \"Nord Ouest FM\" Falher, AB",
+    "url": "http://stream2.statsradio.com:8078/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CKNR 94.1 \"Moose FM\" Elliot Lake, ON",
+    "url": "https://vistaradio.streamb.live/SB00098",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CJML-FM 101.3 \"FM 101\" Milton, ON",
+    "url": "https://localradio.streamb.live/SB00095",
+    "country": "Canada",
+    "bitrate": 55,
+    "codec": "AAC+"
+  },
+  {
+    "name": "100.1 BayFM",
+    "url": "https://stream.statsradio.com:8148/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Revolution Radio",
+    "url": "https://revolution.radioca.st/stream.mp3?rp_source=1&=&&___cb=193902462013237",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFSL 1190 Weyburn, SK",
+    "url": "https://goldenwest.leanstream.co/CFSLAM",
+    "country": "Canada",
+    "bitrate": 63,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KFM Contemporary",
+    "url": "https://us2.streamingpulse.com/ssl/KFM",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Party Dog Radio",
+    "url": "https://us7.maindigitalstream.com/3152/?pl=winamp&c=Party%20Dog%20Radio",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Riley And Lucian FM",
+    "url": "https://stream.zeno.fm/mfm1zq8kh5zuv",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Labgate Radio P.Y.G.",
+    "url": "https://s2.ssl-stream.com/listen/labgate_p.y.g./radio.mp3",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio faro.net",
+    "url": "https://cast1.torontocast.com:5230/stream",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Q Online",
+    "url": "http://listen.theqonline.net:8000/radio.mp3",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHQC-FM \"C105 FM\" - Saint John, NB",
+    "url": "https://stream2.statsradio.com:8026/stream",
+    "country": "Canada",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SPUD 102",
+    "url": "https://mbsradio-ais.leanstream.co/CJRWFM-MP3?args=mobile_02&uid=d0c97a6c-4bdf-417f-bb7e-fcbc7868f11a&user_hash=FAd3YTwjSZ95ReIXsrcUJwlApcg4XAYi&gdpr=true&aw_0_req.gdpr=true&listenerid=94d1ac3bf877b65e4e17cd7e9bfec132&awparams=companionAds%3Atrue",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFXN",
+    "url": "https://vistaradio.streamb.live/SB00100?=&&___cb=27428096384366",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "JUMP Radio",
+    "url": "https://corus.leanstream.co/CKQBFM?args=web_01&startTime=1718541471",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CKBG 107.9 Amherstburg, ON",
+    "url": "https://ckbg.streamb.live/SB00219",
+    "country": "Canada",
+    "bitrate": 57,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ice Radio",
+    "url": "https://streamer.radio.co/s8d485e12a/listen",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nova",
+    "url": "https://streams.radio.co/s1ae1175cf/listen",
+    "country": "Canada",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Absoluut FM",
+    "url": "https://absoluutfm.stream.laut.fm/absoluutfm",
+    "country": "Canada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Crescendo",
+    "url": "https://maggie.torontocast.com:8154/stream",
+    "country": "Canada",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIWS-FM 102.9 \"Whistle FM\" Stoufville, ON",
+    "url": "https://streams.radiomast.io/5fcb1172-3cfc-48e2-92d8-8ff86401c1bd",
+    "country": "Canada",
+    "bitrate": 64,
+    "codec": "AAC"
+  }
+]

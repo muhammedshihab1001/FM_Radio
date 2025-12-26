@@ -1,0 +1,5364 @@
+[
+  {
+    "name": "Happy Radio Monique 963 Gold on Ice",
+    "url": "https://server-10.rcgoldserver.nl/listen/happy_oldies/radio320.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Joy Radio",
+    "url": "http://stream.joyradio.nl/joyradio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "i-turn radio",
+    "url": "http://live.i-turnradio.nl/live",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rivierenland Radio",
+    "url": "https://rivierenlandradio.stream-server.nl/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Joe 70s & 80s",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Readymix",
+    "url": "https://server-26.stream-server.nl:8522/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Roundandsound Radio",
+    "url": "https://stream.roundandsound.nl/1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Twente Gold",
+    "url": "https://c18.radioboss.fm:8403/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radionickita",
+    "url": "https://fra-pioneer08.dedicateware.com:1685/stream",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "90s Alive",
+    "url": "https://stream.90sa.live/90s-alive.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Waterland Radio",
+    "url": "https://waterlandradio.beheerstream.nl:7020/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Campus Radio",
+    "url": "https://icecast.omroep.nl/3fm-serioustalent-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio.DANCE 90s dance music",
+    "url": "https://radiodance.streamingmedia.it/audio.aac",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Waterstad FM",
+    "url": "http://stream.waterstadfm.nl/waterstadfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Golden Oldies Radio",
+    "url": "https://sonic.magicdragon.nl/8022/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Maastricht 107.5",
+    "url": "http://stream.rtvmaastricht.nl:8081/rtv/radio_audio/icecast.audio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 3FM Alternative",
+    "url": "http://icecast.omroep.nl/3fm-alternative-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 3FM KXradio",
+    "url": "http://icecast.omroep.nl/3fm-serioustalent-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FunX Slow Jamz",
+    "url": "https://icecast.omroep.nl/funx-slowjamz-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 2",
+    "url": "http://icecast.omroep.nl/radio2-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Old Men’s Rock",
+    "url": "http://mediaserv68.live-streams.nl:8012/OldMenRock",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam! 00's",
+    "url": "https://22353.live.streamtheworld.com/WEB15_MP3_SC",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Rock Radio",
+    "url": "http://mediaserv68.live-streams.nl:8012/RockRadio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Golden Oldies Radio",
+    "url": "https://sonic.magicdragon.nl/8034/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Blackwwod FM",
+    "url": "http://server-24.stream-server.nl:8326/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oude Piraten Hits",
+    "url": "http://server-67.stream-server.nl:8910/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zeeuws FM",
+    "url": "https://server-28.stream-server.nl:8838/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wonderjaren streaming radio",
+    "url": "https://server-67.stream-server.nl:8748/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Webradio Happy-Tigers",
+    "url": "https://server-67.stream-server.nl:8756/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Aalburg FM",
+    "url": "https://server-28.stream-server.nl:8808/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Olympia Classics",
+    "url": "http://streams.olympia-classics.nl/classics",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "80's Alive",
+    "url": "https://stream.80sa.live/80s-alive.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 5",
+    "url": "https://icecast.omroep.nl/radio5-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 5",
+    "url": "http://icecast.omroep.nl/radio5-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radyo Kewra",
+    "url": "http://198.7.59.28:8146/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sterren.nl",
+    "url": "https://icecast.omroep.nl/radio2-sterrennl-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Global Voices Radio",
+    "url": "http://gvoices.out.airtime.pro:8000/gvoices_b",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pure Radio Holland - Hardcore Channel",
+    "url": "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_hardcore_channel/aac-plus?ver=866785",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "TWR.NL - Richt je hart op God",
+    "url": "http://twrnl.out.airtime.pro:8000/twrnl_a",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Great American Songbook",
+    "url": "http://tgas.dyndns.org:8001/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Extreme Metal",
+    "url": "http://mediaserv68.live-streams.nl:8012/ExtremeMetal",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hardcore Radio",
+    "url": "http://shoutcast1.hardcoreradio.nl/",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klokradio",
+    "url": "http://cloud-faro.beheerstream.com:8320//stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Funx Arab",
+    "url": "http://icecast.omroep.nl/funx-arabfb-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 2",
+    "url": "http://icecast.omroep.nl/radio2-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hi On Line Radio - Latin",
+    "url": "http://mediaserv33.live-streams.nl:8034/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hardcore Power Radio",
+    "url": "https://hardcorepower.beheerstream.nl/8012/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Lounge Radio",
+    "url": "http://mediaserv33.live-streams.nl:8036/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Hardrock Channel Speler",
+    "url": "http://mediaserv68.live-streams.nl:8012/HardRockChannel",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Klokradio",
+    "url": "http://cloud-faro.beheerstream.com:8320/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Island 92",
+    "url": "https://ais-sa1.streamon.fm/7338_48k.aac",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BrightFamilyRadio",
+    "url": "http://str1.hollanddata.eu:8006/;",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "http://icecast.omroep.nl/radio6-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BrightFM Kids",
+    "url": "http://str1.hollanddata.eu:8020/;",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NPO 3FM Serious Radio",
+    "url": "http://icecast.omroep.nl/3fm-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 4",
+    "url": "http://icecast.omroep.nl/radio4-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "NPO Radio 4 - Concerten",
+    "url": "http://icecast.omroep.nl/radio4-eigentijds-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 4 Concerten",
+    "url": "https://icecast.omroep.nl/radio4-eigentijds-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Klassiek",
+    "url": "https://icecast.omroep.nl/radio4-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FunX Fissa",
+    "url": "https://icecast.omroep.nl/funx-dance-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Latin Radio",
+    "url": "http://mediaserv33.live-streams.nl:8034/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO FunX Dance",
+    "url": "http://icecast.omroep.nl/funx-dancefb-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 3FM",
+    "url": "http://icecast.omroep.nl/3fm-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "NPO FunX NL",
+    "url": "http://icecast.omroep.nl/funx-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "http://icecast.omroep.nl/radio6-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Drenthe",
+    "url": "https://cdn.rtvdrenthe.nl/icecast/rtvdrenthe/rtvradio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Aardschok",
+    "url": "https://streams.pinguinradio.com/Aardschok192.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio %",
+    "url": "https://icecast.omroep.nl/radio5-sb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soulshow Radio",
+    "url": "https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 6 Soul & Jazz",
+    "url": "https://icecast.omroep.nl/radio6-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Freez FM",
+    "url": "http://stream.freezfm.nl/freezfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "GRUNN FM",
+    "url": "https://stream.grunn.fm/grunnfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fomix",
+    "url": "https://stream.radiofomix.nl/listen/fomix/stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 328,
+    "codec": "AAC"
+  },
+  {
+    "name": "Olympia Radio",
+    "url": "http://streams.olympia-radio.nl/olympia",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO FunX Hip Hop",
+    "url": "http://icecast.omroep.nl/funx-hiphopfb-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO FunX Latin",
+    "url": "http://icecast.omroep.nl/funx-latinfb-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO FunX Reggae",
+    "url": "http://icecast.omroep.nl/funx-reggaefb-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO BLEND",
+    "url": "https://icecast.omroep.nl/npoblend-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Continu",
+    "url": "http://stream.radiocontinu.nl/radiocontinu",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Optimaal fm",
+    "url": "http://stream-10.pmteurope.com:8002/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MaiBus Radio",
+    "url": "https://server-67.stream-server.nl:8818/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 1",
+    "url": "http://icecast.omroep.nl/radio1-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Rock Radio XXL",
+    "url": "http://mediaserv68.live-streams.nl:8012/XXL",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Studio Music Station",
+    "url": "https://stream.studiomusicstation.nl/radio/8010/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "1.fm movie Sound",
+    "url": "http://185.33.21.112/moviesoundtracks_128",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 3Heuvelland",
+    "url": "http://caster04.streampakket.com:8115/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 2",
+    "url": "https://icecast.omroep.nl/radio2-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "4 The Music - Dance, House and Techno. Live DJs.",
+    "url": "http://master.shoutcast.com:8000/4-the-music",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Halloo",
+    "url": "http://mediacp.audiostreamen.nl:8174/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nostalgia",
+    "url": "http://cast1.torontocast.com:1630/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Keizertstad Classics",
+    "url": "http://stream.keizerstad.nl/classics.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Radio Active",
+    "url": "http://mediaserv68.live-streams.nl:8012/RadioActive",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Blues Cafe",
+    "url": "http://mediaserv68.live-streams.nl:8012/BluesCafe",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "HotrodRadio",
+    "url": "https://everestcast.live-streams.nl:8171/api/links/?t=winamp&l=hotrodradio&c=1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Klassiek",
+    "url": "https://icecast.omroep.nl/radio4-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "NPO Klassiek",
+    "url": "http://icecast.omroep.nl/radio4-eigentijdsfb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Esperando",
+    "url": "http://server-28.stream-server.nl:8888/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soundtrack Radio Station",
+    "url": "http://quincy.torontocast.com:2410/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The SID Station",
+    "url": "http://173.208.54.18:8144/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 3FM",
+    "url": "https://icecast.omroep.nl/3fm-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "PJD2 The Voice of Sint Maarten 1300 AM",
+    "url": "http://142.4.219.8:8193/stream",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 1",
+    "url": "http://icecast.omroep.nl/radio1-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "FunX",
+    "url": "https://icecast.omroep.nl/funx-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "NPO Radio 4",
+    "url": "https://icecast.omroep.nl/radio4-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Calypso AM 675",
+    "url": "http://178.19.116.3:8016/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pearl FM 98.1 Philipsburg",
+    "url": "http://201.220.14.41:8060/channel6.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tropixx FM 105.5 Philipsburg",
+    "url": "http://201.220.14.41:8060/channel2.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oasis 96.3 FM Philipsburg",
+    "url": "http://201.220.14.41:8060/channel5.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Laser 101.1 FM Philipsburg",
+    "url": "http://201.220.14.41:8060/channel7.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "X104.3 Philipsburg",
+    "url": "http://201.220.14.41:8060/1043.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Emmeloord",
+    "url": "http://86.93.49.78:8080/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "40ROCK Radio",
+    "url": "http://40rockstream.live-streams.nl/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Team FM Gelderland",
+    "url": "http://audiostreamen.nl/gelderland",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Niederlande - Donderschoer Radio",
+    "url": "http://audiostreamen.nl:8400/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio eXtra",
+    "url": "http://91.227.77.124/extra",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Extra AM",
+    "url": "http://caster04.streampakket.com:8047/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Italoradio.fm",
+    "url": "http://cc6.beheerstream.com:8102/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Intense Radio - We love Dance 256k",
+    "url": "http://intenseradio.live-streams.nl:8000/main",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Blend - http",
+    "url": "http://icecast.omroep.nl/npoblend-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Gemeente Oldambt",
+    "url": "http://icecast.radiowesterwolde.nl:8000/G1_RTVLOGO",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZFM Zoetermeer",
+    "url": "http://kippingmultimediaal.nl:8000/ZFMmobiel",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Superstar",
+    "url": "http://kippingmultimediaal.nl:8000/superMP3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Impact AM",
+    "url": "http://kippingmultimediaal.nl:8000/impactweb",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rijnmond",
+    "url": "http://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-mp3",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Extra Gold",
+    "url": "http://extragold.stream-server.nl/stream?type=http&nocache=124795",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "KilRock",
+    "url": "http://mediaserv30.live-streams.nl:8013/high",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Radio - France",
+    "url": "http://mediaserv21.live-streams.nl:8000/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Calypso",
+    "url": "http://mcp-1.streampanel.nl:18024/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Nice & Easy",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR07.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sublime - Live",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio 90's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR05.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Dance Departmetn",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR01.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10 Disco Classics",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR23.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Radio - Flac",
+    "url": "http://mscp2.live-streams.nl:8100/flac.flac",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio 10 90's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR22.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO 10 TOP 4000",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR24.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Unique Rock",
+    "url": "http://mscp2.live-streams.nl:8180/radio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 TOP 50",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR13AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Starlicht",
+    "url": "http://live.urkfm.nl:8000/urkfm.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Non-Stop",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR09.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Noord",
+    "url": "http://media.rtvnoord.nl/icecast/rtvnoord/radio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10  80's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR20.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 538 Hitzone",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q-dance Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCEAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sky Radio 80's Hits",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR04.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Christmas",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR08.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-Goldenwave",
+    "url": "http://mscp3.live-streams.nl:8070/radio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "PureClassix #Flac",
+    "url": "http://mscp4.live-streams.nl:8140/flac.ogg",
+    "country": "The Netherlands",
+    "bitrate": 1411,
+    "codec": "OGG"
+  },
+  {
+    "name": "Alles Plat",
+    "url": "http://mediacdn.rtvoost.nl/icecast/rtvoost/alles-plat-mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KINK - http",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "dizgo radio fm",
+    "url": "http://mediaserv30.live-streams.nl:8079/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line World Radio",
+    "url": "http://mediaserv38.live-streams.nl:8027/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Jazz Radio",
+    "url": "http://mediaserv38.live-streams.nl:8006/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ijsselstreekradio",
+    "url": "http://mediaserv38.live-streams.nl:8029/radio",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hi On Line Radio - Classical",
+    "url": "http://mediaserv30.live-streams.nl:8088/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groove95",
+    "url": "http://mediaserv68.live-streams.nl:8053/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dutch Delite Drum and Bass",
+    "url": "http://radio.dutchdelite.nl:8000/dnb",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "NH Radio",
+    "url": "http://rrr.sz.xlcdn.com/?account=nhnieuws&file=NHRadio_mp3&type=live&service=icecast&protocol=http&port=8000&output=m3u",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Goud van Oud",
+    "url": "http://server-23.stream-server.nl:8118/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "2FM Retro",
+    "url": "http://server.2fm.nl:8000/retro",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "D2BS",
+    "url": "http://solid1.streamupsolutions.com:8041/d2bs",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Intense Radio - We love Dance #HQ# FLAC",
+    "url": "http://secure.live-streams.nl/flac.ogg",
+    "country": "The Netherlands",
+    "bitrate": 1411,
+    "codec": "OGG"
+  },
+  {
+    "name": "Pureclassix",
+    "url": "http://server5.radio-streams.net:8001/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "100% NL",
+    "url": "http://stream.100p.nl/100pctnl.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DANCEableRADIO",
+    "url": "http://s14.myradiostream.com:19580/listen.pls?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Italo Power",
+    "url": "http://stream.radioitalopower.com:10018/italopower",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free Musi Radio",
+    "url": "http://stream.freemusicradio.nl:8100/stream.oga",
+    "country": "The Netherlands",
+    "bitrate": 2000,
+    "codec": "OGG"
+  },
+  {
+    "name": "Stichting Streekomroep de Bevelanden SOB FM",
+    "url": "http://stream.sobfm.nl:8686/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "GL8 Media,GL8 Media",
+    "url": "http://stream.stream.delivery/gl8media",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Seagull",
+    "url": "http://stream.radioseagull.net:8000/seagull",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beats from Amsterdam",
+    "url": "http://stream.legendhits.nl:8017/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Twente FM",
+    "url": "http://stream.twentefm.nl:8004/high",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Freak31",
+    "url": "http://stream.freak31.com:8322/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten Stream Twente",
+    "url": "http://stream.piratentwente.com:8020/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amsterdam Funk Channel",
+    "url": "http://stream.afc.fm:8504/;stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Decibel",
+    "url": "http://stream.decibel.nl/decibel.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arrow CAZ!",
+    "url": "http://stream.arrowcaz.nl/caz128kmp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam! Mixmarathon",
+    "url": "http://stream.radiocorp.nl/web13_mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam! The Boom Room",
+    "url": "http://stream.radiocorp.nl/web12_aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dance Radio Amsterdam",
+    "url": "http://stream.danceradio.nl:9920/",
+    "country": "The Netherlands",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM!",
+    "url": "http://stream.slam.nl/slam",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! DANCE CLASSICS",
+    "url": "http://stream.slam.nl/WEB15_MP3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! Juize",
+    "url": "http://stream.slam.nl/WEB09_MP3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Foute Radio",
+    "url": "http://stream.dotpoint.nl:8000/fouteradio",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! Housuh In De Pauzuh",
+    "url": "http://stream.slam.nl/WEB16_MP3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! Non Stop",
+    "url": "http://stream.radiocorp.nl/web10_mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Olympia Classics - Greatest Hits Of The 60s 70s 80s & 90s",
+    "url": "http://streams.olympia-streams.nl/classics192",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pinguin Indie",
+    "url": "http://streams.pinguinradio.com/PinguinRadio192.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin On the Rocks",
+    "url": "http://streams.pinguinradio.com/PinguinOnTheRocks192.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Classics",
+    "url": "http://streams.pinguinradio.com/PinguinClassics192.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "VechtdalNL",
+    "url": "http://streams.rtvvechtdal.nl:8000/VechtdalNL.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Jazz",
+    "url": "http://streams.greenhost.nl:8080/jazz",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender",
+    "url": "http://streams.greenhost.nl:8080/live",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Jazznotjazz",
+    "url": "http://streams.greenhost.nl:8080/jazznotjazz",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender De Gehoorde Stilte",
+    "url": "http://streams.greenhost.nl:8080/gehoordestilte",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Raakvlakken",
+    "url": "http://streams.greenhost.nl:8080/raakvlakken",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender - Hard Bop",
+    "url": "http://streams.greenhost.nl:8080/hardbop",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Oost Radio",
+    "url": "http://streams.rtvoost.nl/audio/oost/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rob Stenders stream",
+    "url": "http://streams.robstenders.nl:8063/bonanza_mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Haarlem105",
+    "url": "http://studio.haarlem105.nl:8000/haarlem105high.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "WestRadio | AAC 96kbps",
+    "url": "http://streaming.westradio.nl/WestRadio-aac-96",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Noordzee",
+    "url": "https://22553.live.streamtheworld.com/TLPSTR17.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WeertFM",
+    "url": "http://weertfm.mooo.com:9000/wfm3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 0511",
+    "url": "https://443-1.autopo.st/191/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ChathotelRadio",
+    "url": "https://a5.asurahosting.com:7410/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Urk FM geestelijk",
+    "url": "http://urk.fm:8000/geestelijk.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "dance classics radio",
+    "url": "http://vriezenet.nl:11051/dcflac",
+    "country": "The Netherlands",
+    "bitrate": 1536,
+    "codec": "OGG"
+  },
+  {
+    "name": "Relax FM Online",
+    "url": "https://caster04.streampakket.com/proxy/8009/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Columbia AM 1395",
+    "url": "https://caster04.streampakket.com/proxy/8031/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "L1 Plat-eweg",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/plat-eweg-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omrop Fryslân Radio",
+    "url": "https://d3pvma9xb2775h.cloudfront.net/icecast/omropfryslan/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio M Utrecht",
+    "url": "https://d18rwjdhpr8dcw.cloudfront.net/icecast/rtvutrecht/radiomutrecht-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hulchul",
+    "url": "https://everestcast.live-streams.nl:18010/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MBhitradio",
+    "url": "https://everestcast.live-streams.nl:18116/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grand Prix Radio Classics",
+    "url": "https://eu-player-redirect.streamtheworld.com/api/livestream-redirect/GPRCLASSICSAAC.aac?lsid=app%3Abrowser-1732200021666izj9zpla1",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOE mp3",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZuidWest FM",
+    "url": "https://icecast.zuidwestfm.nl/zuidwest.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Unity NL",
+    "url": "https://icecast.rudeboymedia.nl/unitynl.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Heemskerk",
+    "url": "https://live.omroepheemskerk.nl/hfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BredaNu",
+    "url": "https://icecast.bredanu.nl/high",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BredaNu (576kbit AAC)",
+    "url": "https://icecast.bredanu.nl/bredanu.stl",
+    "country": "The Netherlands",
+    "bitrate": 576,
+    "codec": "AAC"
+  },
+  {
+    "name": "BredaNu (192k MP3)",
+    "url": "https://icecast.bredanu.nl/bredanu.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Waterland Radio (320k)",
+    "url": "https://loa.beheerstream.nl:8034/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Onlinepiraat.NL",
+    "url": "https://loa.beheerstream.nl:8016/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Golfbreker",
+    "url": "https://mcp-1.streampanel.nl/stream/vdijk",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "XXL Stenders",
+    "url": "https://mcp-1.streampanel.nl:8020/bonanza_mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Calypso 64 kbps AAC Plus Stream",
+    "url": "https://mcp-1.streampanel.nl:8024/mobiel",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hete Hits",
+    "url": "https://mcp-2.mm-stream.nl:8000/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grand Prix Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groot Nieuws Radio Blijde Klanken",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRBK.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cream",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CREAM.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groot Nieuws Radio Non-Stop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNRNONSTOP.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "4ever49radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/4EVER49.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10 non-stop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR15.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Classics",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Classics AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR08AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sunlite",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUNLITE_MP3.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Horizon",
+    "url": "https://radio.rtvhorizon.nl/MP3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR01.mp3?dist=skyradio_web&ttag=talpa_consent:0&gdpr=1&gdpr_consent=BO2svb6O2svb6ADABANLDTAAAAAxKAAA",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Veronica Live",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/VERONICA.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Party (AAC Stream)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Noordzee",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR17.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Party (MP3 Stream)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR16.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 90s AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR21AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "538 Zomer",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR06.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nostalgie NL",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NOSTALGIENLAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KINK",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RSO radio",
+    "url": "https://rsoradio.streampartner.nl/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio HB",
+    "url": "https://server1.nl.eu.org/stream.ogg",
+    "country": "The Netherlands",
+    "bitrate": 16,
+    "codec": "OGG"
+  },
+  {
+    "name": "Pinguin World Music",
+    "url": "https://samcloud.spacial.com/api/listen?sid=98570&m=sc&rid=174387",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Koekstad Radio Deventer",
+    "url": "https://server-67.stream-server.nl:8788/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Saba Radio Q 93.9 FM Netherlands",
+    "url": "https://s1.northrich.nl:38123/streamq939",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Pluche",
+    "url": "https://samcloud.spacial.com/api/listen?sid=98569&m=sc&rid=174384",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RaZO Amsterdam",
+    "url": "https://s42.myradiostream.com/33512/listen.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ICE RADIO",
+    "url": "https://stream.iceradio.nl/iceradiohq?ver=30283",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOE mp3",
+    "url": "https://stream.joe.nl/joe/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Airplay Radio",
+    "url": "https://stream.and-stuff.nl:8443/live-airplay_320",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ice Radio Netherlands",
+    "url": "https://stream.iceradio.nl/iceradio",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baars Classic Rock",
+    "url": "https://stream.iceradio.nl/baarsclassicrock",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitzzz das radio",
+    "url": "https://stream.hitzzz.nl/hitzzz",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MediaMarkt FM",
+    "url": "https://stream.cuecreative.nl/mediamarktfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "BNR Niuewsradio",
+    "url": "https://stream.bnr.nl/bnr_mp3_128_01",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BNR Nieuwsradio",
+    "url": "https://stream.bnr.nl/bnr_aac_96_20",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Food and Lounge",
+    "url": "https://stream.laut.fm/food-and-lounge",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Spannenburg",
+    "url": "https://stream.radiospannenburg.nl/radiospannenburg",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NH Gooi",
+    "url": "https://stream.nhgooi.nl:8001/mp3live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qmusic 90's & 00's (64k aac)",
+    "url": "https://stream.qmusic.nl/90s-00s/aaclow",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Magic FM",
+    "url": "https://stream.magicfm.nl/magicfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "QMUSIC NEDERLAND",
+    "url": "https://stream.qmusic.nl/qmusic/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "QMUSIC 90's & 00's (96k aac)",
+    "url": "https://stream.qmusic.nl/90s-00s/aachigh",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Hermax",
+    "url": "https://stream.radiohermax.nl/listen/hermax/hermax",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maria Nederland",
+    "url": "https://stream.radiomaria.nl/mp3",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1224",
+    "url": "https://stream.radio1224.nl/1224",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Xmas Radio",
+    "url": "https://stream.tbmp.nl:8000/xmasradiohigh.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Connect",
+    "url": "https://stream.rtvconnect.nl/radio/8000/ffm-320-mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Rijnstreek",
+    "url": "https://stream.rtvrijnstreek.nl:1973/rtvrstreek",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slow Radio Gold",
+    "url": "https://stream11.slowradio.com/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slow Radio",
+    "url": "https://stream1.slowradio.com/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vibe Radio",
+    "url": "https://stream.viberadio.nl/viberadio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Happy Rock Radio Caroline 259",
+    "url": "https://happy.rcgoldserver.nl/listen/classic_rock/radio320.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Erasmus",
+    "url": "http://caster04.streampakket.com:8636/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 3FM",
+    "url": "http://icecast.omroep.nl/3fm-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pure Radio Holland - Trance-Electro Channel",
+    "url": "https://streamserver.pure-isp.eu/listen/pure_radio_holland_-_trance-electro_channel/aac-plus?ver=560092",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Apeldoorn (high bandwidth)",
+    "url": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornhigh.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pure Radio Holland - The Underground Channel",
+    "url": "https://streamserver.pure-isp.eu/listen/pure_radio_holland_the_underground_channel/aac-plus?ver=412779",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "Kerstradio.nl",
+    "url": "https://mediacp.audiostreamen.nl:8168/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piratenhits Internetradio",
+    "url": "https://www.piratenhits.com:8052/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTW",
+    "url": "https://player.streamforce.nl:8502/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "L.O.V.E. (Lokale Omroep Volendam Edam) DAB",
+    "url": "https://webstream.rtvlove.nl/DAB-RTVLOVE",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Love Volendam Edam",
+    "url": "https://webstream.rtvlove.nl/live",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "PerfectMoods – 24/7 Quality Lounge",
+    "url": "https://www.radioking.com/play/perfectmoods/104227",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Rock Radio RPO (Recent Prog Only)",
+    "url": "http://mediaserv68.live-streams.nl:8012/RockRadio2",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO 2 Soul and Jazz",
+    "url": "http://icecast.npocloud.nl/radio6-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Veronica",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/VERONICAAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NPO Radio 2 Soul & Jazz",
+    "url": "http://icecast.omroep.nl/radio6-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Focus 103",
+    "url": "https://f103.nl/mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Blues",
+    "url": "https://samcloud.spacial.com/api/listen?sid=93462&m=sc&rid=168006",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deep Radio",
+    "url": "http://stream.deep.radio/hd",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "AmorFM",
+    "url": "http://media155.streampartner.nl:8068/live",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Radio",
+    "url": "http://streams.pinguinradio.com/PinguinRadio320.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alleen Klassiek",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SERVICE06.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Regenboog",
+    "url": "https://server-28.stream-server.nl:18828/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Zilt",
+    "url": "https://omroepzilt1.streampartner.nl/live?type=.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grolloo Radio",
+    "url": "https://uk1.streamingpulse.com/ssl/grollooradio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gelderland",
+    "url": "https://d2od87akyl46nm.cloudfront.net/icecast/omroepgelderland/radiogelderland",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Castricum (96 AAC stream)",
+    "url": "http://omroepcastricum.ddns.net:8000/96AAC",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Stad Den Haag",
+    "url": "https://stream.radiostaddenhaag.com/stream/1/;",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groot Nieuws Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GNR.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pureclassix",
+    "url": "http://mscp4.live-streams.nl:8140/live.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capelle",
+    "url": "https://live.radiocapelle.nl/radiocapelle-high.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio 101 FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rozo Radio",
+    "url": "http://server3.radio-streams.net:8007/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "QMUSIC THEMA",
+    "url": "https://stream.qmusic.nl/thema/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Eemsdelta",
+    "url": "https://streams.radiomast.io/063fcf6f-4083-4c4e-85a8-31b0a709f40d",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 538",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Impact Radio",
+    "url": "http://www.kippingmultimediaal.nl:8000/impactweb",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky LoveSongs",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SRGSTR03.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Radio Amsterdam",
+    "url": "https://icecast.bytesheep.net/danceradio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "SchlagerNL",
+    "url": "https://live.schlager.nl/schlagernl",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Zeeland Radio",
+    "url": "https://d3isaxd2t6q8zm.cloudfront.net/icecast/omroepzeeland/omroepzeeland_radio",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Colinblackburn1980",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RN7nl",
+    "url": "http://stream.stream.delivery/rn7nl",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grand Prix Radio Dance",
+    "url": "https://eu-playerservices.streamtheworld.com/api/livestream-redirect/GPRDANCEAAC.aac?lsid=app%3Abrowser-1711892652042l1lq6akqk",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "538 Hitzone",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR11.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Saba Radio Q 93.9 FM Netherlands",
+    "url": "http://s1.northrich.nl/streamq939",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio 101 FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIOAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KilRock",
+    "url": "http://mediaserv30.live-streams.nl:8013/low",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Omroep Brabant",
+    "url": "http://streaming.omroepbrabant.nl/mp3hq",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jazz & World Radio",
+    "url": "https://stream.jazzandworld.radio//JAZZANDWORLD.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bollenstreek Omroep",
+    "url": "https://stream.bollenstreekomroep.nl/live-mp3-192-stereo",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "L1 Radio",
+    "url": "http://d34pj260kw1xmk.cloudfront.net/icecast/l1/radio-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Pop",
+    "url": "https://samcloud.spacial.com/api/listen?sid=98586&m=sc&rid=174409",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hot radio Classics",
+    "url": "https://443-1.autopo.st/191/hrc",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BredaNu (96k AAC)",
+    "url": "https://icecast.bredanu.nl/bredanu.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "KL85",
+    "url": "https://s19.myradiostream.com/18068/listen.mp3?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Riverside Radio",
+    "url": "https://stream.and-stuff.nl:8443/riverside",
+    "country": "The Netherlands",
+    "bitrate": 2000,
+    "codec": "OGG"
+  },
+  {
+    "name": "Riverside Radio",
+    "url": "https://stream.and-stuff.nl:8443/riversideMp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soul Radio",
+    "url": "http://listen.soulradio.com/SOULRADIOAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SLAM",
+    "url": "http://streaming.slam.nl/slam_aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Grandprix radio - http",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GRAND_PRIX_RADIO.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 2",
+    "url": "http://icecast.omroep.nl/radio2-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "BNR Business Beats",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/BNR_BUSINESS_BEATS.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Event Radio",
+    "url": "https://s3.radio.co/sc83fe614c/listen",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Purmerend (DAB)",
+    "url": "http://stream.zxp.nl:8000/radiopurmerend_dab",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Island 92 Philipsburg",
+    "url": "http://ais-sa1.streamon.fm/7338_48k.aac",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Amerika Rotterdam",
+    "url": "http://79.143.187.96:8035/;",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 80 (Nonstop)",
+    "url": "http://81.169.251.143:7900/live",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "i-turn Radio",
+    "url": "http://live2.i-turnradio.nl/stream4",
+    "country": "The Netherlands",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ideaal FM",
+    "url": "http://server-10.stream-server.nl:8564/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "IndieXL",
+    "url": "http://server-23.stream-server.nl:8438/;listen.pls_",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rijnmond (AAC+)",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-aacp",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Midland FM",
+    "url": "http://qxjr001.digiplay.nl:9188/listen.pls?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Only Live",
+    "url": "https://mediaserv68.live-streams.nl:18012/OnlyLive",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "PJD2 The Voice of Sint Maarten 102.7 FM",
+    "url": "http://142.4.219.8:8181/stream",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rivierenland Radio",
+    "url": "http://194.88.105.64:8840/listen.pls?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "PJD3 Power 102.7 FM Philipsburg",
+    "url": "http://201.220.14.41:8060/channel3.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Powersound Radio",
+    "url": "https://mscp2.live-streams.nl:8112/",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beyond The Beat Generation",
+    "url": "http://86.94.213.59:8000/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "De Vrolijke Snuiters",
+    "url": "https://server-67.stream-server.nl:8794/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 4 Brainport (192 k MP3)",
+    "url": "https://server-67.stream-server.nl:8774/rbij.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 4 Brainport, Eindhoven (64 k AAC)",
+    "url": "https://server-67.stream-server.nl:8770/listen",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KilRock",
+    "url": "http://mediaserv30.live-streams.nl:8013/medium",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio 9 Oostzaan",
+    "url": "http://caster01.streampakket.com:9350/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polder radio",
+    "url": "https://server-67.stream-server.nl:8734/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Amersfoort",
+    "url": "http://qxjr001.digiplay.nl:9180/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The SID Station",
+    "url": "http://173.208.54.18:8144/stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RPL",
+    "url": "http://qxjr001.digiplay.nl:9101/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! WKNDMX",
+    "url": "http://streaming.slam.nl/web11_aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "NPO Radio5",
+    "url": "https://icecast.omroep.nl/radio5-bb-aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "NPO Radio 1",
+    "url": "https://icecast.omroep.nl/radio1-sb-aac",
+    "country": "The Netherlands",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "Wave",
+    "url": "https://stream.wavefm.nl/listen/wavefm/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "XD Radio",
+    "url": "http://streams.xdradio.nl/stream/xdradio",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Boven IJ",
+    "url": "http://server-67.stream-server.nl:8774/rbij.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BNR nieuwsradio - http",
+    "url": "http://stream.bnr.nl/bnr_mp3_128_20",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arrow Classic Rock",
+    "url": "http://stream.gal.io/arrow",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Arrow Classic Rock",
+    "url": "https://stream.player.arrow.nl/arrowcr",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Baroque",
+    "url": "http://streams.greenhost.nl:8080/barok",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_96.mp3",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fantasy Italo Dance 90s radio",
+    "url": "https://mscp2.live-streams.nl:8152/italodance",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "C-Dance RETRO",
+    "url": "http://s45.myradiostream.com:18304/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NPO Radio 4",
+    "url": "http://icecast.omroep.nl/radio4-bb-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Oude Muziek",
+    "url": "http://streams.greenhost.nl:8080/oudemuziek",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nashville FM",
+    "url": "http://server-10.stream-server.nl:8300/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Stad Den Haag",
+    "url": "http://94.228.133.3/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "All Oldies Channel",
+    "url": "http://radio.alloldieschannel.com:8000/stream",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "192 Radio (HQ)",
+    "url": "http://server-27.stream-server.nl:8192/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sjeffm",
+    "url": "https://caster05.streampakket.com/proxy/8112/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Real Hardstyle Radio",
+    "url": "https://stream.realhardstyle.nl/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "JOE",
+    "url": "https://stream.joe.nl/joe/aachigh",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sky Radio",
+    "url": "https://www.mp3streams.nl/zender/skyradio/stream/8-mp3-128",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Gregoriaans",
+    "url": "http://streams.greenhost.nl:8080/gregoriaans",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q-Dance Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/Q_DANCE.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Baars classic Rock",
+    "url": "http://server-66.stream-server.nl:8840/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "BNR Nieuwsradio",
+    "url": "https://stream.bnr.nl/bnr_mp3_128_20",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tukker FM",
+    "url": "https://stream.tukkerfm.nl/tukkerfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caroline 319 Gold",
+    "url": "http://www.rmgoldserver.eu:8313/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Feel Good Radio 107.6 FM",
+    "url": "http://live.feelgoodradio.eu:8344/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Celtcast",
+    "url": "https://caster04.streampakket.com/proxy/8982/CeltCast",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIONL",
+    "url": "http://stream.radionl.fm/radionl",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qmusic Non-Stop",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_nonstop_96.mp3",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qmusic Het Foute Uur",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_fouteuur_96.mp3",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pure Lounge Radio FLAC",
+    "url": "https://mscp4.live-streams.nl:8142/lounge.ogg",
+    "country": "The Netherlands",
+    "bitrate": 1411,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio Monique 963 Gold",
+    "url": "http://www.rmgoldserver.eu:8963/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q music Nederland",
+    "url": "https://stream.qmusic.nl/qmusic/aachigh",
+    "country": "The Netherlands",
+    "bitrate": 95,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RTV Noord Holland (NH Radio)",
+    "url": "https://ice.cr6.streamzilla.xlcdn.com:8000/sz=nhnieuws=NHRadio_mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ujala Radio",
+    "url": "http://stream2.ujala.nl/stream/2/listen.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Coastline",
+    "url": "http://81.169.223.8/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Old Men's Rock",
+    "url": "https://443-1.autopo.st/79/OldMenRock",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Geen dag zonder Bach",
+    "url": "http://streams.greenhost.nl:8080/bach",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender De Muzikant",
+    "url": "http://streams.greenhost.nl:8080/amateurmuziek",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/kxclassics_mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sublime Live",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "A.D.M. Hardstyle Radio",
+    "url": "http://kathy.torontocast.com:2450/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10.mp3?dist=radio10_web&amp;ttag=talpa_consent:0&amp;gdpr=1&amp;gdpr_consent=CPR8CQMPR8CRCADABCNLB7CgAAAAAEJAAAAAAAAMEgKgAVAAuACAAGQARAAmgBPADEAH4AQAAjABXADvAIQARYAjgBOwCsgIpAXmAwQAsJAJAAqACAAGQARAAmABPAHeARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAwALgCuAIQUgFgAVABAADIAIgATAAngBiAHeARYAjgC8ygAIAC4BOyQAEAC5KAMAEQAJgAYgB3gEcAXmQgCABMADEAO8AjgYACAK4VADACYARwBeYyAGAEwAjgC8w.YAAAAAAAA4AA",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dancegroove Radio",
+    "url": "http://server7.streamserver24.com:31435/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classicnl Opera",
+    "url": "https://classic.nl/streams/?s=opera",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Reformatorische Omroep Radio 3",
+    "url": "http://ro3.reformatorischeomroep.nl:8072/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Noordvaarder Angel Healing",
+    "url": "http://www1.radionoordvaarder.nl:8000/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender X-Rated",
+    "url": "http://streams.greenhost.nl:8080/concertzenderlive",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Old Men's Radio",
+    "url": "http://server-10.stream-server.nl:8140/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender November Music",
+    "url": "http://streams.greenhost.nl:8080/novembermusic",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Oriënt Express",
+    "url": "http://streams.greenhost.nl:8080/orientexpress",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Continu",
+    "url": "https://stream.radiocontinu.nl/radiocontinu",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Keizerstad Radio 80s",
+    "url": "http://server-06.stream-server.nl:8800/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Noordvaarder Reiki",
+    "url": "http://stream.radionoordvaarder.nl:8050/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "192 Radio Veronica",
+    "url": "http://server-14.stream-server.nl:8030/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Nederland",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3?dist=skyradio_web&amp;ttag=talpa_consent:1&amp;gdpr=1&amp;gdpr_consent=CPd5woAPd5woAADABBNLCcCsAP_AAEJAAAAAGgQGAAKgAXABAADIAIkATABNACeAGIANwAfgBAACMAHeAQgAi0BHAEdAJcATsArICKQF5gL2AYIA0ADBICYAFQALgAgABkAEQAJoATwAxAB-AEAAIwAd4BCACLQEcAR0AnYCKQF5gMEAKCQCQAKgAgABkAEQAJgATwB3gEcAXmKgBgBMAI4AvMZADACYARwBeY6AWABUAEAAMgAiABMACeAGIAd4BFgCOALzHAAgALgEIIQBAAmABiAHeARwkABAAuSgDABEACYAGIAd4BHAF5lIBYAFQAQAAyACIAEwAJ4AYgB3gEWAI4AvMoABAAuA.e8AAAAAAA7AA%22%20title=%22Sky%20Radio%20-%20Non-Stop%22",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Echtepiraten.nl",
+    "url": "https://azuraserv3.live-streams.nl:8040/stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Folk it!",
+    "url": "http://streams.greenhost.nl:8080/folkit",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "classic nl soundtracks",
+    "url": "https://stream.classic.nl/classicnl-soundtracks.mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classics Radio (1536Kbps Hi-Res FLAC Stream)",
+    "url": "https://vriezenet.nl:11050/flac",
+    "country": "The Netherlands",
+    "bitrate": 1536,
+    "codec": "OGG"
+  },
+  {
+    "name": "DANCE.FM :: The Beat of Amsterdam ::",
+    "url": "https://streams.dancefm.net/mp3-hq",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Reformatorische omroep",
+    "url": "http://ro1.reformatorischeomroep.nl:8003/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Only 80's Radio",
+    "url": "https://server-28.stream-server.nl:8850/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caroline 259 MP3 320",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio320.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caroline 259 Gold",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio128.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Utrecht Muziek",
+    "url": "http://streams.greenhost.nl:8080/vredenburg",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "538 Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO538.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DesiZone",
+    "url": "http://www.desizone.nl:8000/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.fm top stream 2",
+    "url": "https://piraten.fm/top/2",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Filmmuziek",
+    "url": "http://streams.greenhost.nl:8080/film",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Wereldmuziek",
+    "url": "http://streams.greenhost.nl:8080/wereldmuziek",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.fm Top stream 1",
+    "url": "https://piraten.fm/top/1",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hardstyle FM",
+    "url": "http://stream.laut.fm/hardstylefm",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Synthwave City FM - New",
+    "url": "https://synthwave-rex.radioca.st/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic NL",
+    "url": "https://classic.nl/streams/?s=main",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "100% NL",
+    "url": "http://27903.live.streamtheworld.com/100PNL_MP3_SC",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SuperFM - IJmuiden",
+    "url": "https://stream.edfm.nl/super",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Haarlem Shuffle FLAC",
+    "url": "https://stream.tbmp.nl:8000/haarlemshuffle.flac",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Concertzender Nieuwe Muziek",
+    "url": "http://streams.greenhost.nl:8080/nieuwemuziek",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Heuvellandexpress",
+    "url": "http://server-28.stream-server.nl:8840/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "00s Alive",
+    "url": "https://stream.00sa.live/00s-alive.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "C-Dance RETRO",
+    "url": "https://s45.myradiostream.com/18304/;?type=http&nocache=1728303081?0.29796721986116603",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Simone FM",
+    "url": "https://stream.simone.nl/simone",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christelijke Omroep",
+    "url": "http://primastream1.primareclame.nl:11231/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Qmusic",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "New Dance Radio",
+    "url": "https://modspeedy.radioca.st/stream2",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Solta a Franga",
+    "url": "http://streams.greenhost.nl:8080/slotaafranga",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caroline 259 AAC 96",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio96.acc",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Studio040",
+    "url": "https://stream.studio040.nl/studio040.mp3",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q-Music",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_live_high.aac?aw_0_1st.playerId=redirect",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Pinguin Groove",
+    "url": "https://samcloud.spacial.com/api/listen?sid=98587&m=sc&rid=174412",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas Hits Radio NL",
+    "url": "https://stream06.dotpoint.nl:8006/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Radio Non-Stop",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SKYRADIO.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TRANCE 21",
+    "url": "https://mscp3.live-streams.nl:8022/radio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ISKC Rock Radio RPO (Recent Prog Only)",
+    "url": "https://443-1.autopo.st/79/RockRadio2",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Danceradio Den Haag",
+    "url": "http://server5.radio-streams.net:8065/",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "LX Classics",
+    "url": "https://mcp-1.streampanel.nl:8020/lxclassics_mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MONIQUE 918",
+    "url": "https://radiomonique918.radioca.st/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ALEX FM DE/NL",
+    "url": "https://stream.radiostreamserver.de/listen/alexfm/de-nl.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alternative Rock Radio",
+    "url": "https://25243.live.streamtheworld.com/KINK_SC",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 3",
+    "url": "https://piraten.fm/top/3",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Candlelight Radio",
+    "url": "https://candlelight.nl/candlelight.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deep Dance Radio",
+    "url": "https://cast1.torontocast.com:2205/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Noordvaarder Healing Wellness",
+    "url": "http://www1.radionoordvaarder.nl:8300/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FRENCHCORE24FM Radio",
+    "url": "https://a8.asurahosting.com:7890/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sublime",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SUBLIME.mp3?dist=sublime_website",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "100% NL Non-Stop",
+    "url": "https://stream.100p.nl/web02_mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Noordvaarder Healing",
+    "url": "http://www1.radionoordvaarder.nl:8500/;",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertzender Radiophonics",
+    "url": "http://streams.greenhost.nl:8080/radiophonics",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radioachterhoek.nl",
+    "url": "https://stream.radioachterhoek.nl/index.html?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO UNIQUE FM /HI-RES",
+    "url": "https://hilversumdrie.beheerstream.nl/8038/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Concertzender Crosslinks",
+    "url": "http://streams.greenhost.nl:8080/pop",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic nl original",
+    "url": "https://stream.classic.nl/classicnl.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool Dance Radio",
+    "url": "https://stream.cooldanceradio.com/stream1/stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Apres Ski Radio",
+    "url": "https://stream-24.zeno.fm/qqbwd2x8d2zuv?zs=VzE6e4CwROOSeWMCik-I-Q",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chilling Station",
+    "url": "http://mediaserv30.live-streams.nl:8090/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kick Radio - 80s & 90s Hits",
+    "url": "https://live.onlineradiostreaming.nl/kick",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classicnl Soundtracks",
+    "url": "https://classic.nl/streams/?s=soundtracks",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Andys80s",
+    "url": "https://stream02.pcradio.ru/andys_80s-med",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Joe",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl.mp3?aw_0_1st.playerId=redirect",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pyro-Tec Retro",
+    "url": "http://stream.zeno.fm/nqtl8hjdqzxvv",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Classicnl Mind Radio",
+    "url": "https://classic.nl/streams/?s=mindradio",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "classic nl mind radio",
+    "url": "https://stream.classic.nl/classicnl-mindradio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Platinum Radio HardStyle",
+    "url": "https://live.platinumradio.nl:8030/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Olympia - 100% Piratenhits en Nederlandstalige muziek",
+    "url": "https://streams.olympia-streams.nl/olympia",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rijnmond Extra",
+    "url": "https://d2e9xgjjdd9cr5.cloudfront.net/icecast/rijnmond/radio-extra-mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Caroline 259 Gold 64kbps",
+    "url": "https://happy.radiocaroline.nl/listen/classic_rock/radio64.mp3",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "All Day Jazz",
+    "url": "https://mediaserv73.live-streams.nl:8027/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "SLAM! MixMarathon 96kbps",
+    "url": "http://streaming.slam.nl/web13_aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Decibel Eurodance",
+    "url": "https://stream.decibel.nl/02.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "happy.radio (NL)",
+    "url": "https://stream.happy.radio:8000/192",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Grunn FM",
+    "url": "https://stream.grunnfm.nl/grunnfm",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Time Out Trance",
+    "url": "https://s3.slotex.pl/shoutcast/7056/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Orinoco Radio",
+    "url": "http://185.87.186.220:8000/orinoco",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "HappyHits",
+    "url": "https://mediacp.audiostreamen.nl:8150/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Reformatorische Omroep Radio 2",
+    "url": "http://ro2.reformatorischeomroep.nl:8003/live",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "80's Hitradio",
+    "url": "https://s22.myradiostream.com/7728/listen.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slam! 40",
+    "url": "https://22673.live.streamtheworld.com/WEB14_MP3_SC",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Glow FM",
+    "url": "https://stream.glowfm.nl/glowfm.mp3",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Concertgebouworkest Webradio",
+    "url": "https://i2.cdn.jetstre.am:8000/sz=RCOLiveWebradio=mp3-192?token=574b9ab1904fb5420aa2eaeae31feff2&time=6703887c",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIONL",
+    "url": "https://stream.radionl.fm/radionl",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Experience 1008AM",
+    "url": "https://totaal-streaming.de:8030/radio2",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Showcase",
+    "url": "https://samcloud.spacial.com/api/listen?sid=110690&m=sc&rid=190799",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "247Spice Radio Amsterdam",
+    "url": "https://stream.247streaming.live/247spice.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radion Veronica Top 1000 AllerTijden",
+    "url": "https://28973.live.streamtheworld.com/WEB06_AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hardcore Power Radio (2nd server)",
+    "url": "https://loa.beheerstream.nl:8012/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "40up Radio",
+    "url": "https://stream.40upradio.nl/40up",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "World Music Radio Classic",
+    "url": "https://server-67.stream-server.nl:8792/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tigray Beat FM Radio",
+    "url": "https://stream.zeno.fm/pd13h8kft68uv",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "L11 Alaaf",
+    "url": "https://d34pj260kw1xmk.cloudfront.net/icecast/l1/L11Alaaf",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "ConcertZender Klassieke Muziek",
+    "url": "http://streams.greenhost.nl:8080/klassiek",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amsterdam Funk Channel",
+    "url": "https://live.afc.fm/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Soul Show NL",
+    "url": "https://icecast-soulshow-cdp.triple-it.nl/soulshow_128.mp3?ver=402073",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sublime Jazz",
+    "url": "https://stream.sublime.nl/web21_mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Indie",
+    "url": "https://streams.pinguinradio.com/PinguinRadio320.mp3?ngsw-bypass",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Armin van Buuren",
+    "url": "https://stream01.pcradio.ru/Armin_van_buuren-med",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Haarlem Shuffle",
+    "url": "https://stream.tbmp.nl:8000/haarlemshufflehigh.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Good Times Bad Times",
+    "url": "https://radio.goodtimesbadtimes.club/radio/8000/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Operator Radio",
+    "url": "https://origin.streamnerd.nl/operator/operator/icecast.audio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SinterklaasRadio",
+    "url": "https://stream06.dotpoint.nl:8004/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "OOG Radio",
+    "url": "https://nlpo.stream.vip/oogfm/mp3-192/nlpo/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pinguin Vintage",
+    "url": "https://samcloud.spacial.com/api/listen?sid=131111",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pure Lounge Radio",
+    "url": "https://mscp4.live-streams.nl:8142/lounge.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tiësto in Concert",
+    "url": "https://ia801804.us.archive.org/33/items/tiesto-tiesto-in-concert-2003/Tiesto%20-%20Tiesto%20In%20Concert%20%282003%29.mp3",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dancevibes Radio",
+    "url": "https://everestcast.live-streams.nl:8025/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amsterdam Funk Channel (AFC)",
+    "url": "https://stream.afc.fm/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Decibel Party (Sound of Ibiza)",
+    "url": "https://stream.decibel.nl/04.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio-Goldenwave",
+    "url": "https://mscp3.live-streams.nl:8072/radio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Veronica Goud van oud",
+    "url": "https://21633.live.streamtheworld.com/DAB01_AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "100% NL Liefde",
+    "url": "https://www.mp3streams.nl/zender/100-nl-liefde/stream/105-aac-96",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Exclusief Pijnacker",
+    "url": "http://radioexclusiefpijnacker.nl:8000/mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "keizerstad classic",
+    "url": "https://stream.keizerstad.nl/classics.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Monique 963 AAC 96",
+    "url": "https://happy.radiomonique.nl/listen/happy_oldies/radio96.acc",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Veronica Non-stop",
+    "url": "https://21633.live.streamtheworld.com/DAB02_AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Omroep Land van Cuijk",
+    "url": "https://nlpo.stream.vip/cuijkrad/mp3-192/nlpo/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Delta Radio Nijmegen (Works in Home Assistant)",
+    "url": "http://streamdelta.lokaalradio.nl:9005/download.mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hotradiohits Dab",
+    "url": "https://server-67.stream-server.nl:8400/listen.pls?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Veronica",
+    "url": "https://19993.live.streamtheworld.com/VERONICA_SC",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bloemendaal",
+    "url": "http://audio.radiobloemendaal.nl/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Oranje",
+    "url": "https://securestream.digipal.nl:1816/;stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioNL kids",
+    "url": "https://stream.radionlkids.nl/rnlkids",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ValleiRadio.nl",
+    "url": "http://server-25.stream-server.nl:8366/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jinglegek",
+    "url": "https://server-26.stream-server.nl:8632/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ABTT",
+    "url": "http://server-06.stream-server.nl:8600/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Veronica Rock Radio",
+    "url": "https://21223.live.streamtheworld.com/VERONICAAAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO UNIQUE FM /mobile",
+    "url": "https://hilversumdrie.beheerstream.nl/8038/mobile",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "PiratenRadio.nl - 24/7 de Beste PiratenHits vanuit Twente",
+    "url": "https://stream.piratenradio.nl/listen/piratenradio/prradio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Streekstad Centraal",
+    "url": "https://radiostreams.streekstadcentraal.nl:9443/01",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q-Dance",
+    "url": "http://25273.live.streamtheworld.com/Q_DANCE.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radion JND",
+    "url": "https://stream.radiojnd.nl/radiojnd.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "95.5 EASY FM",
+    "url": "https://mediaserv68.live-streams.nl:18007/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eternal 'project'",
+    "url": "http://stream-57.zeno.fm/ewtv4c3htyduv?zs=Lez02kZQSp-fZkstUkBMTw",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hardrock",
+    "url": "http://server-23.stream-server.nl:8326/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 10 60's & 70's Hits",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TLPSTR18.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sinterklaas Radio",
+    "url": "http://stream.tbmp.nl:8000/sinterklaasradiohigh.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Non Stop AlexFM",
+    "url": "https://radioalexfmhits.stream.laut.fm/radioalexfmhits?ref=web-app&start_time=1709718823255",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hot Jamz Urban Radio",
+    "url": "https://stream02.dotpoint.nl:8030/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amsterdam Funk Channel (AFC) low bandwidth",
+    "url": "https://stream.afc.fm/index.html?sid=2",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Havenstad Radio",
+    "url": "https://mediaserv33.live-streams.nl:8056/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "AccentFM",
+    "url": "https://stream.accentfm.nl/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Arrow",
+    "url": "https://stream.player.arrow.nl/arrow",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hallo Kids Radio",
+    "url": "https://stream.hallokidsradio.nl/hallokids",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christelijke Omroep",
+    "url": "https://stream.christelijkeomroep.nl/192?_gl=1*tymsna*_ga*MTEwODM5OTM1MC4xNjgxMDcyNjUx*_ga_1717X15JX8*MTY4MTEwMjQ5OC4yLjAuMTY4MTEwMjQ5OC4wLjAuMA..",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vera Radio",
+    "url": "https://mscp3.live-streams.nl:8082/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ALEX FM CHRISTMAS NL/DE",
+    "url": "https://stream.laut.fm/radioalexfmchristmas",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Joe",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Joe_nl_high.aac?aw_0_1st.skey=1728963448&aw_0_1st.playerid=site-player",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Danceclassic.eu",
+    "url": "https://mediaserv21.live-streams.nl:8011/stream/;type=v2",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Weleer 64kbps",
+    "url": "http://whsh4u-server.com:11100/transcoder2",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Q-Music Limburg",
+    "url": "https://www.mp3streams.nl/zender/qmusic-limburg/stream/49-aac-64",
+    "country": "The Netherlands",
+    "bitrate": 95,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SuperMixFM",
+    "url": "https://loa.beheerstream.nl:8110/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shine Radio",
+    "url": "https://caster05.streampakket.com/proxy/9320/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "HitRadio1.nl",
+    "url": "https://everestcast.live-streams.nl:8556/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deurne Media Groep",
+    "url": "http://s22.myradiostream.com:13628/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "flitsradio van willem",
+    "url": "https://streamer.hosting078.nl:1835/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Happy Sound Music Limburg",
+    "url": "https://server-28.stream-server.nl/stream/happysoundmusic",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Variafm",
+    "url": "http://server1.streamgigant.nl:9031/varia192",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "40UP (320k stream)",
+    "url": "https://stream.40upradio.nl/bp-transmit",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hoppa Radio",
+    "url": "http://mscp3.live-streams.nl:8132/radio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Samen1",
+    "url": "https://server-67.stream-server.nl:18752/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Happy Sound Music",
+    "url": "https://server-28.stream-server.nl:8918/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Haarlem105",
+    "url": "https://stream.tbmp.nl:8010/haarlem105.web",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "KingFM",
+    "url": "https://server-28.stream-server.nl:8870/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "A1 Radio",
+    "url": "https://www.a1mediagroep.nl/a1radio_256",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "https://www.openstageradio.eu/",
+    "url": "https://server-28.stream-server.nl:8834/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Century Radio NI mom",
+    "url": "https://s2.radio.co/s87ffbc098/listen",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sinterklaas Radio",
+    "url": "https://stream.tbmp.nl:8000/sinterklaasradiohigh.mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free Radio Rotterdam",
+    "url": "https://streams.freeradiorotterdam.nl:9443/freeradiorotterdam",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio 038",
+    "url": "https://loa.beheerstream.nl:8018/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Grensland",
+    "url": "https://digistreamer.nl:8030/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Powerstation Buddha",
+    "url": "https://a11.asurahosting.com:7110/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Disco Factory",
+    "url": "https://s5.radio.co/s253044a7a/listen",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BoemerangFM",
+    "url": "https://radio.mediacp.eu/stream/boemerangfm",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "American Forces Network Benelux-The Eagle",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BLX_SC",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "KribbeRadio.nl 24/7 de beste PiratenMix",
+    "url": "https://azura.kribberadio.nl/listen/kribberadio/kribberadio",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Apeldoorn",
+    "url": "https://streamingradio.rtv-apeldoorn.nl/listen/radio_apeldoorn/rtvapeldoornmid.mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Veluwe FM",
+    "url": "https://server-51.stream-server.nl:18438/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lokale Omroep Zeewolde (LOZ 106.4FM)",
+    "url": "https://icecast.lokaleomroepzeewolde.nl:8443/high",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Deventer Radio",
+    "url": "https://stream.deventerrtv.nl:8443/stream",
+    "country": "The Netherlands",
+    "bitrate": 88,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Piraten.FM - 19",
+    "url": "https://piraten.fm/top/19",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piratenkanjers",
+    "url": "https://ex52.voordeligstreamen.nl/8095/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZFM Zandvoort",
+    "url": "https://icecast.bytesheep.net/zfmzandvoort.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Quality FM",
+    "url": "https://icecast.lokaleomroepzeewolde.nl:8443/QualityFMHigh",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "L.O.V.E. (Lokale Omroep Volendam Edam)",
+    "url": "https://nlpo.stream.vip/rtvlove/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Decibel greatest hits",
+    "url": "https://stream.decibel.nl/03.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jumbo Radio",
+    "url": "https://streams.automates.media/jumboradio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Toekan",
+    "url": "http://server-10.stream-server.nl:8544/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "GLXY THROWBACK RADIO",
+    "url": "https://stream.glxy.radio/GLXY_OG",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Parkstad",
+    "url": "https://stream.rtvparkstad.nl/rtvparkstad.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "TraxxRadio",
+    "url": "https://server-28.stream-server.nl:8896/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "beeRadio",
+    "url": "https://stream.beeradio.nl/main",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Moonlight-Radio",
+    "url": "https://server-67.stream-server.nl:8780/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 8",
+    "url": "https://piraten.fm/top/8",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "VC 1 | Veluwe Centraal",
+    "url": "https://caster04.streampakket.com/proxy/8018/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 105",
+    "url": "https://loa.beheerstream.nl:8094/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 16",
+    "url": "https://piraten.fm/top/16",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piratenhits.fm",
+    "url": "http://mscp3.live-streams.nl:8330/live.ogg",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radioachterhoek.nl",
+    "url": "https://stream.radioachterhoek.nl/live",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classics Radio",
+    "url": "https://vriezenet.nl:11050/mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MFM Brabant",
+    "url": "https://nlpo.stream.vip/brabant/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio twentestad",
+    "url": "https://mscp2.live-streams.nl:8072/twentestad320",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "PinQradio",
+    "url": "https://s18.myradiostream.com/3194/;?type=http&nocache=1744091383?0.841561797877854",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "1Achterhoek",
+    "url": "https://nlpo.stream.vip/achterhoek/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Land van Cuijk (2nd server, 320k)",
+    "url": "https://loa.beheerstream.nl:8048/listen.pls?sid=1",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clubstitute Radio",
+    "url": "https://stream01.eliveld-ict.nl/listen/clubstitute_radio/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic-PowerRadio",
+    "url": "https://server-28.stream-server.nl:8904/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rivierenland Radio (2nd server,320k)",
+    "url": "https://server-28.stream-server.nl:8802/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio de Branding",
+    "url": "https://server-28.stream-server.nl:8814/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Seaport",
+    "url": "https://nlpo.stream.vip/seaport/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "HoornRadio",
+    "url": "https://server-23.stream-server.nl:18382/;",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MeerRadio",
+    "url": "https://nlpo.stream.vip/radiomer/mp3-192/nlpo/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 13",
+    "url": "https://piraten.fm/top/13",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "4EverRadio",
+    "url": "https://ex52.voordeligstreamen.nl/8036/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Q Musik Top40 NL",
+    "url": "https://icecast-qmusicnl-cdp.triple-it.nl/Qmusic_nl_top40_high.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RTV Hollands Midden",
+    "url": "https://securestream2.digipal.nl:1805/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sleutelstad Radio",
+    "url": "https://sleutelstad.radioca.st/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Lelystad",
+    "url": "https://nlpo.stream.vip/lelystad/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "NORA FM",
+    "url": "https://25333.live.streamtheworld.com/NORA_FM.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "News Internetradio",
+    "url": "https://audio.newsinternetradio.nl/mp3",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Planet 90",
+    "url": "https://loa.beheerstream.nl:8010/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 17",
+    "url": "https://piraten.fm/top/17",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "AlexFM Nonstop",
+    "url": "https://radioalexfmhits.stream.laut.fm/radioalexfmhits?t302=2024-03-06_08-21-40&uuid=25a57695-a22f-4083-b348-b104684576af",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ML5 Radio",
+    "url": "https://mediacp.audiostreamen.nl:2000/stream/8182",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Free Amsterdam",
+    "url": "https://cdn.voscast.com/resources/?key=07310b2448cdea5d13faff91268e178d&c=winamp",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "UNKNOWN"
+  },
+  {
+    "name": "Studio DMN",
+    "url": "https://stream.it-facilities.be:9006/stream;",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Brabant - Radio",
+    "url": "https://av.omroepbrabant.nl/icecast/omroepbrabant/mp3hq",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio n31",
+    "url": "https://radion31.beheerstream.nl:8092/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTW FM",
+    "url": "https://loa.beheerstream.nl:8104/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hollands Op Zijn Best",
+    "url": "https://mediaserv33.live-streams.nl:8009/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "das total erlebnis",
+    "url": "https://radio.dastotalerlebnis.com/listen/main/hifi.aac",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "AAC"
+  },
+  {
+    "name": "BR6 Radio",
+    "url": "https://qxjr001.digiplay.nl/stream/9160/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV NOF",
+    "url": "https://stream.rtvnof.nl/rtvnof1",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Leuk FM",
+    "url": "https://nlpo.stream.vip/leukfm/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "40UP KBC (128k)",
+    "url": "https://stream.40upradio.nl/kbc-high",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RTV Connect Radio",
+    "url": "https://nlpo.stream.vip/connectfm/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Glow FM",
+    "url": "https://nlpo.stream.vip/glowfm/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tirolia-Express",
+    "url": "https://server-28.stream-server.nl:8846/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "OnDair",
+    "url": "https://stream.zeno.fm/vistyzosypbvv",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pidi Radio",
+    "url": "https://mobile.pidiradio.nl/",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio ZO-NWS",
+    "url": "https://nlpo.stream.vip/zonws/mp3-192/nlpo/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zender Groenveld",
+    "url": "https://server-28.stream-server.nl:8912/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "devrolijkesnuiters",
+    "url": "https://server-67.stream-server.nl:8794/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "GLXY.RADIO",
+    "url": "https://stream23.gal.io/GLXY_CF01",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zuyd",
+    "url": "http://radiozuyd.shoutcaststream.com:8199/stream",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Acacia",
+    "url": "https://securestream3.digipal.nl:2259/;192kbs.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Station amg",
+    "url": "https://stream.rcast.net/71079",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Glind Radio",
+    "url": "https://live.glindradio.nl/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "AnZoRadio",
+    "url": "https://stream.laut.fm/anzoradio",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sunset Radio",
+    "url": "https://server-28.stream-server.nl:8854/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 9",
+    "url": "https://piraten.fm/top/9",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Centrum Radio",
+    "url": "https://stream.centrumradio.eu/centrumradio.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Trammelant",
+    "url": "https://server-67.stream-server.nl:8762/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SAMEN 1",
+    "url": "https://server-67.stream-server.nl:8754/stream",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Venlo Vintage",
+    "url": "https://stream-10.pmteurope.com:8040/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Haarlem Shuffle",
+    "url": "https://stream.tbmp.nl:8000/haarlemshufflelow.aac",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lokale Omroep Goirle Radio",
+    "url": "https://nlpo.stream.vip/logfm/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO10AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO10AAC.aac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "mArt radio",
+    "url": "https://beta.surilive.com/mart/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Omroep Lekstroom",
+    "url": "https://mpc2.mediacp.eu:8268/omroephouten",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Roulette FM",
+    "url": "https://stream.roulettefm.nl/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "i-turn Radio",
+    "url": "https://live.i-turnradio.nl:8035/;?type=http&nocache=1741419755",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Non-Stop Cobra Team",
+    "url": "https://server-67.stream-server.nl:8496/relay",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "onverantwoord.com",
+    "url": "https://loa.beheerstream.nl:8008/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Omroep Venlo",
+    "url": "https://nlpo.stream.vip/venlo/mp3-192/nlpo",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dilemaradio",
+    "url": "https://dilemaradiolive.radioca.st/mobile",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio A-FM",
+    "url": "https://nlpo.stream.vip/radioafm/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hit Radio Loz",
+    "url": "https://loa.beheerstream.nl:8112/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Robintimo Radio",
+    "url": "https://stream.robintimo.nl:8000/radio.mp3",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RtvAlbrandswaard",
+    "url": "https://streamer.hosting078.nl:1850/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ridderkerk",
+    "url": "https://nlpo.stream.vip/ridderk/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio N31",
+    "url": "https://loa.beheerstream.nl:8092/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Donderschoer Radio (2nd server)",
+    "url": "https://server-28.stream-server.nl:8806/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oude Piraten Hits",
+    "url": "https://server-67.stream-server.nl:8910/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lokale Omroep Dronten (107.4 FM)",
+    "url": "https://icecast.lokaleomroepzeewolde.nl:8443/drontenhigh",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kromhout Radio",
+    "url": "https://server-67.stream-server.nl:8784/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Atletico Den Haag",
+    "url": "https://mediaserv38.live-streams.nl:8074/stream.mp3",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Stad Montfoort",
+    "url": "http://stream001.digiplay.nl:9038/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 7",
+    "url": "https://piraten.fm/top/7",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Son en Breugel",
+    "url": "https://nlpo.stream.vip/breugel/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lokale Omroep Ameland",
+    "url": "https://loa.beheerstream.nl:8040/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Omroep Assen",
+    "url": "https://i1.cdn.jetstre.am:8000/sz=OmroepAssen=RadioOmroepAssen",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 25",
+    "url": "https://piraten.fm/top/25",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 15",
+    "url": "https://piraten.fm/top/15",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Regio FM",
+    "url": "http://audiostreamen.nl:8030/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 10",
+    "url": "https://piraten.fm/top/10",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bie Os Radio",
+    "url": "https://nlpo.stream.vip/stein/mp3-192/nlpo",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 80",
+    "url": "https://nlpo.stream.vip/rtv80/mp3-192/nlpo",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 21",
+    "url": "https://piraten.fm/top/21",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Music from earth",
+    "url": "https://server-28.stream-server.nl:8922/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Quest Radio",
+    "url": "https://ams-pioneer02.dedicateware.com:1735/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio074",
+    "url": "https://server-67.stream-server.nl:8746/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Station One Internet Radio",
+    "url": "https://server-67.stream-server.nl:8758/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clos FM",
+    "url": "https://server-28.stream-server.nl:8864/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 23",
+    "url": "https://piraten.fm/top/23",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "GodenzonenFM",
+    "url": "https://live.godenzonenfm.nl/mp3",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Planet 90",
+    "url": "https://loa.beheerstream.nl:8010/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Loeradio",
+    "url": "https://loestream.nl/live.ogg",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Piraten.FM - 6",
+    "url": "https://piraten.fm/top/6",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 182",
+    "url": "https://player.streamforce.nl/listen/radio182/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio De Stemmingmaker",
+    "url": "https://server-28.stream-server.nl:8894/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Stad Woerden",
+    "url": "https://server-28.stream-server.nl:8886/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOORSTVELUWEZOOM",
+    "url": "https://mscp2.live-streams.nl:8122/radio",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitstream FM",
+    "url": "https://stream.streamhits.nl/stream/1/",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polder Radio (stream 2)",
+    "url": "https://server-67.stream-server.nl:8738/",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 18",
+    "url": "https://piraten.fm/top/18",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Groeistad Radio",
+    "url": "http://213.202.241.176:8564/stream",
+    "country": "The Netherlands",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 14",
+    "url": "https://piraten.fm/top/14",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 24",
+    "url": "https://piraten.fm/top/24",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wagenbergtotaal",
+    "url": "https://server-28.stream-server.nl:8826/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 12",
+    "url": "https://piraten.fm/top/12",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lichtstad Radio",
+    "url": "https://securestream.digipal.nl:1687/;luister.mp3?1734446627077",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 20",
+    "url": "https://piraten.fm/top/20",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio De Musketiers",
+    "url": "https://loa.beheerstream.nl:8022/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRC FM 2 - Rivierenland en Vijfheerenlanden",
+    "url": "https://loa.beheerstream.nl:8126/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 11",
+    "url": "https://piraten.fm/top/11",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Samen1 radio",
+    "url": "https://server-67.stream-server.nl:8752/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Piraten.FM - 22",
+    "url": "https://piraten.fm/top/22",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Friendtastic Radio",
+    "url": "http://server-26.stream-server.nl:8652/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Langstraat FM",
+    "url": "https://nlpo.stream.vip/langstra/mp3-192/nlpo.stream.vip/",
+    "country": "The Netherlands",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Maenda Country",
+    "url": "https://radio.streampanel.nl/mcraac",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Aladna FM",
+    "url": "https://aladnafm.beheerstream.nl/8024/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Continu",
+    "url": "https://stream.radiocontinu.nl/radio-continu",
+    "country": "The Netherlands",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Terranova",
+    "url": "https://server-28.stream-server.nl:8914/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Intercity Radio",
+    "url": "https://server-28.stream-server.nl:8804/stream",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hoppa Music Holland",
+    "url": "https://server-28.stream-server.nl:8822/stream",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "DailyBaseRadio",
+    "url": "https://stream.rcast.net/63861",
+    "country": "The Netherlands",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Centrum Radio",
+    "url": "http://live.centrumradio.eu/?pl=winamp&c=Centrum%20Radio",
+    "country": "The Netherlands",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Joyride",
+    "url": "https://server-67.stream-server.nl:8776/stream",
+    "country": "The Netherlands",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Blacklight",
+    "url": "https://server-28.stream-server.nl:8876/autodj",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "GLXY RADIO",
+    "url": "https://stream.glxy.radio/GLXY",
+    "country": "The Netherlands",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "F Test",
+    "url": "https://server-67.stream-server.nl:8768/stream",
+    "country": "The Netherlands",
+    "bitrate": 256,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,268 @@
+[
+  {
+    "name": "super radio",
+    "url": "https://c32.radioboss.fm:8139/stream",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Amambay 100.5 FM",
+    "url": "http://cp9.serverse.com:7221/stream",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO MARIA PARAGUAY",
+    "url": "http://dreamsiteradiocp.com:8090/stream",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Urbana 106.9 FM",
+    "url": "http://us-b4-p-e-pb13-audio.cdn.mdstrm.com/live-audio-aw/62d81cdabff0bc082f8f1a24",
+    "country": "Paraguay",
+    "bitrate": 125,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio ABC Cardinal 730 AM",
+    "url": "http://sc.abc.com.py:8000/stream",
+    "country": "Paraguay",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cerro Cora 91.5 FM",
+    "url": "http://135.181.103.10:8018/stream",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Nacional del Paraguay 920 AM",
+    "url": "http://audio.radionacional.gov.py:8085/920",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ABC Cardinal 730AM",
+    "url": "http://media.streambrothers.com:18342/stream",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Impacto 95.3 FM",
+    "url": "http://radio.host.com.py:9714/stream",
+    "country": "Paraguay",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Top Milenium 91.5 FM",
+    "url": "http://sonic.host-live.com:8398/stream",
+    "country": "Paraguay",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Monumental 1080 AM",
+    "url": "https://mdstrm.com/audio/62d81ca6a459e4082203c95b/icecast.audio",
+    "country": "Paraguay",
+    "bitrate": 125,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio ABC Cardinal 730 AM (Asunción)",
+    "url": "https://media.streambrothers.com:8342/stream",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Educación FM 99.7",
+    "url": "https://proxy01.servidorenlinea.net/cdehosting/8050/;",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ABC FM 98.5",
+    "url": "http://200.3.249.91:8000/abcradio/fm.mp3",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capital 101.7 FM",
+    "url": "http://ic2489.c1788.fastserv.com/stream",
+    "country": "Paraguay",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "94.3 FM del Este",
+    "url": "http://radio.cdehosting.net:8040/;",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO VALLENATOS CLÁSICOS",
+    "url": "http://stream.zeno.fm/z07vyxbqz8quv",
+    "country": "Paraguay",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO EXITOS DE AYER",
+    "url": "http://stream.zeno.fm/hvnh6d5uebruv",
+    "country": "Paraguay",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Digital 88.5 Fm Paraguay",
+    "url": "http://streaming.camaronhosting.com:8036/",
+    "country": "Paraguay",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tereré Mix Paraguay",
+    "url": "https://stream.zeno.fm/a0z8gjrlucluv",
+    "country": "Paraguay",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Universo 92.5 Fm",
+    "url": "http://radio.cdehosting.net:8042/stream",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cuevas FM 91.7",
+    "url": "https://radio.host.com.py:7020/;",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Ysapy 90.7 FM",
+    "url": "http://streamsoymedios.com:8014/stream",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fabulosa FM 104.5",
+    "url": "https://radio.host.com.py:7034/;",
+    "country": "Paraguay",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pop 93.3 FM",
+    "url": "http://rps1.radiopop.com.py:8000/stream",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estacion 105  105.1 FM",
+    "url": "http://radio.host.com.py:9460/;",
+    "country": "Paraguay",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ñanduti Radio",
+    "url": "https://rds3.desdeparaguay.net:8002/1020",
+    "country": "Paraguay",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Estación 40 91.1 FM",
+    "url": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81cfbbfbcee0837ba1b60",
+    "country": "Paraguay",
+    "bitrate": 125,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Monumental 1080 AM",
+    "url": "http://us-b4-p-e-cg11-audio.cdn.mdstrm.com/live-audio-aw/62d81ca6a459e4082203c95b",
+    "country": "Paraguay",
+    "bitrate": 125,
+    "codec": "AAC"
+  },
+  {
+    "name": "La Clave 103.9",
+    "url": "https://radio.host.com.py:7181/",
+    "country": "Paraguay",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CFA Radio",
+    "url": "https://rds3.desdeparaguay.net:8002/cfa",
+    "country": "Paraguay",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Palma 106.5 FM",
+    "url": "http://us-b4-p-e-qg12-audio.cdn.mdstrm.com/live-audio-aw/62d81d48f5ef320830c8becf",
+    "country": "Paraguay",
+    "bitrate": 125,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Sagrados Online",
+    "url": "https://rds3.desdeparaguay.net:8002/sagrados",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Concierto 89.1",
+    "url": "https://radio.host.com.py/9572/stream",
+    "country": "Paraguay",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Impacto 95.3",
+    "url": "https://radio.host.com.py:7137/;",
+    "country": "Paraguay",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "GO Radio",
+    "url": "https://rds3.desdeparaguay.net:8002/go",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Amabmay FM 100.5",
+    "url": "http://cp9.serverse.com:7221/amambayfm",
+    "country": "Paraguay",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio 1000 AM",
+    "url": "https://1000noticias.live:8000/radio.mp3",
+    "country": "Paraguay",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

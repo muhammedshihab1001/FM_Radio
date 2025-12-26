@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Radioplus Fever",
+    "url": "https://streamer.radio.co/s3fe39a4a4/listen",
+    "country": "Mauritius",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SENSUELLE RADIO",
+    "url": "https://forwardmystream.com/sensuelleradio",
+    "country": "Mauritius",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Plus Mauritius",
+    "url": "https://stream.radioplus.mu:8000/radio.mp3",
+    "country": "Mauritius",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Top FM",
+    "url": "https://s1.radioforge.com:4433/topfmlive/stream?hash=1663883843609.mp3",
+    "country": "Mauritius",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tamizen",
+    "url": "https://c34.radioboss.fm:18023/stream",
+    "country": "Mauritius",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

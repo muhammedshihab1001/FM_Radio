@@ -1,6 +1,7 @@
 # Ignore JSON data file
 data/station.json
 data/station_clean1.json
+data/stations_clean.json
 
 # Ignore temporary script
 clean.py

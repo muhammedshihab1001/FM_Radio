@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Fresh FM 1043",
+    "url": "http://www.coolaruba.com:8006/stream/;",
+    "country": "Aruba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic 96.5 - Oranjestad",
+    "url": "http://158.69.114.190:8072/;",
+    "country": "Aruba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bo Guia 88.9 FM",
+    "url": "http://whooshserver.net:9880/live",
+    "country": "Aruba",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Massive Aruba",
+    "url": "http://surilive.com:8350/",
+    "country": "Aruba",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Tropical Aruba",
+    "url": "https://live9.livemus.com.br:27282/;",
+    "country": "Aruba",
+    "bitrate": 320,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Voice of Ummah",
+    "url": "http://mediati.me/radio/8010/radio.mp3",
+    "country": "Bahrain",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "AFN GO BAHRAIN",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNE_BHNAAC.aac",
+    "country": "Bahrain",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Live FM",
+    "url": "https://stream.aiir.com/dbv0rxpwp6ytv",
+    "country": "Bahrain",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

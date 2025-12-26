@@ -1,0 +1,331 @@
+[
+  {
+    "name": "FM 100 Pakistan Islamabad",
+    "url": "http://162.244.80.118:4900/stream.mp3?ver=604498",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 100 Pakistan Abbottabad",
+    "url": "http://162.244.80.118:4900/stream.mp3",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 100 Pakistan",
+    "url": "http://162.244.80.118:4900/;stream.mp3",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 100 Pakistan Gujrat",
+    "url": "http://162.244.80.118:4900/stream.mp3?ver=682776",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 100 Pakistan Hyderabad",
+    "url": "http://162.244.80.118:3024/stream.mp3?ver=517748",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "live",
+    "url": "http://live.mp3quran.net:9752/",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hot FM 105",
+    "url": "http://172.93.237.106:8000/listen.mp3",
+    "country": "Pakistan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Karachi",
+    "url": "https://whmsonic.radio.gov.pk:7022/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "fm.92",
+    "url": "http://s33.myradiostream.com:13872/listen.m4a",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Samaa FM 107.4",
+    "url": "https://samaakhi107-itelservices.radioca.st/stream",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Multan MW",
+    "url": "https://whmsonic.radio.gov.pk:8034/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7003/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 100 Pakistan Karachi",
+    "url": "http://162.244.80.118:3024/stream.mp3?ver=349829",
+    "country": "Pakistan",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Lahore News and Current Affair AM 1332 KHZ",
+    "url": "https://whmsonic.radio.gov.pk:7004/stream?type=http&nocache=12",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 101 Islamabad",
+    "url": "https://whmsonic.radio.gov.pk:7008/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "City FM 89",
+    "url": "https://radio.cityfm89.com/stream",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "FM 93 Rawalpindi",
+    "url": "https://whmsonic.radio.gov.pk:8036/relay",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan World Service",
+    "url": "https://whmsonic.radio.gov.pk:7005/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hum FM 106.2",
+    "url": "https://server.mediacast4u.stream/8002/stream",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Hyderabad MW 1008 KHz",
+    "url": "https://whmsonic.radio.gov.pk:8042/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HOT FM Karachi",
+    "url": "http://172.93.237.106:8000/",
+    "country": "Pakistan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Lahore",
+    "url": "https://whmsonic.radio.gov.pk:8088/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love-Islam-Radio",
+    "url": "https://stream-52.zeno.fm/f9h69cgbu68uv",
+    "country": "Pakistan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Peshawar MW",
+    "url": "https://whmsonic.radio.gov.pk:8072/relay",
+    "country": "Pakistan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Multan",
+    "url": "https://whmsonic.radio.gov.pk:8032/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 101 Karachi",
+    "url": "https://whmsonic.radio.gov.pk:8048/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Quetta MW",
+    "url": "https://whmsonic.radio.gov.pk:8060/relay",
+    "country": "Pakistan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Faisalabad",
+    "url": "https://whmsonic.radio.gov.pk:8022/relay",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Mianwali",
+    "url": "https://whmsonic.radio.gov.pk:8028/relay",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ILM Radio Renala FM 92",
+    "url": "https://stream.zeno.fm/7wre21u7xa0uv",
+    "country": "Pakistan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 101 Larkana",
+    "url": "https://whmsonic.radio.gov.pk:8050/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 101 Mithi",
+    "url": "https://whmsonic.radio.gov.pk:8052/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio One FM 91 Gwadar",
+    "url": "http://cc.vmakerhost.com:8147/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fm.94.4",
+    "url": "https://whmsonic.radio.gov.pk:7002/stream?type=http&nocache=12",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Multan",
+    "url": "https://whmsonic.radio.gov.pk:8034/stream?type=http&nocache=12",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93 Chitral",
+    "url": "https://whmsonic.radio.gov.pk:8066/relay",
+    "country": "Pakistan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "fm.92.",
+    "url": "http://s47.myradiostream.com:12804/listen.m4a",
+    "country": "Pakistan",
+    "bitrate": 28,
+    "codec": "AAC+"
+  },
+  {
+    "name": "পাকিস্তান",
+    "url": "https://whmsonic.radio.gov.pk:7005/stream?type=http&nocache=12",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pakistan Lahore",
+    "url": "https://whmsonic.radio.gov.pk:8026/relay?type=http&nocache=9",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "101peshawar",
+    "url": "https://whmsonic.radio.gov.pk:8070/relay?type=http&nocache=9",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "fm",
+    "url": "http://canada1.reliastream.com:8191/stream",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "All4Masti",
+    "url": "http://stream.zeno.fm/bahhkuge5zhvv",
+    "country": "Pakistan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BAHAWAL PUR MW STATION",
+    "url": "https://whmsonic.radio.gov.pk:8088/stream?type=http&nocache=4",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirpur",
+    "url": "https://whmsonic.radio.gov.pk:8074/?type=http&nocache=9",
+    "country": "Pakistan",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "AK radio Trarkhal",
+    "url": "https://whmsonic.radio.gov.pk:8076/relay?type=http&nocache=9",
+    "country": "Pakistan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mera FM 107.4 Lahore",
+    "url": "https://samaalhr107-itelservices.radioca.st/stream",
+    "country": "Pakistan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shopen Anime Radio",
+    "url": "https://s97.radiolize.com:8040/radio.mp3",
+    "country": "Pakistan",
+    "bitrate": 96,
+    "codec": "AAC"
+  }
+]

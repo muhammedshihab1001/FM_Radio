@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Apparatid",
+    "url": "http://icecast.365net.is:8000/orbApparatid.aac",
+    "country": "Iceland",
+    "bitrate": 130,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bylgjan 98.9 Reykjavik",
+    "url": "http://icecast.365net.is:8000/orbbylgjan.aac",
+    "country": "Iceland",
+    "bitrate": 131,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Trolli FM 103.7 Siglufjordu",
+    "url": "http://live.trolli.is:8200/;",
+    "country": "Iceland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Visir \"FM 957 Extra\" Reykjavik",
+    "url": "http://icecast.365net.is:8000/orbFmExtra.aac",
+    "country": "Iceland",
+    "bitrate": 130,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Restro 89,5",
+    "url": "http://ice-11.spilarinn.is/retromobile",
+    "country": "Iceland",
+    "bitrate": 170,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bodun 105.5 Reykjavik",
+    "url": "http://radio.bodun.is:8000/stream",
+    "country": "Iceland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Útvarp Saga",
+    "url": "https://stream.utvarpsaga.is/Hljodver",
+    "country": "Iceland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "K 100",
+    "url": "https://ice-11.spilarinn.is/kaninnmobile",
+    "country": "Iceland",
+    "bitrate": 170,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rás2",
+    "url": "http://netradio.ruv.is/ras2.aac",
+    "country": "Iceland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Flashback 60s",
+    "url": "https://ice-11.spilarinn.is/60flashback",
+    "country": "Iceland",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

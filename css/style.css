@@ -5,6 +5,7 @@ body {
   min-height: 100vh;
   margin: 0;
   color: #ffffff;
+  padding-bottom: 90px; /* space for mini player */
 }
 
 /* Container */
@@ -100,7 +101,7 @@ body {
 /* ===== SCROLL TO TOP ===== */
 #scrollTopBtn {
   position: fixed;
-  bottom: 25px;
+  bottom: 110px;
   right: 25px;
   width: 45px;
   height: 45px;
@@ -110,8 +111,9 @@ body {
   font-size: 20px;
   cursor: pointer;
   display: none;
-  z-index: 999;
+  z-index: 900;
 }
+
 
 /* ===== BACK BUTTON ===== */
 #backBtn {
@@ -133,6 +135,44 @@ body {
 /* ===== TOAST ===== */
 .toast {
   border-radius: 12px;
+}
+
+/* ===== MINI PLAYER (NEW) ===== */
+.mini-player {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: #1a1a1a;
+  border-top: 1px solid #333;
+  padding: 12px 16px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+}
+
+.mini-info {
+  overflow: hidden;
+}
+
+.mini-title {
+  font-size: 0.95rem;
+  font-weight: 600;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mini-country {
+  font-size: 0.8rem;
+  color: #aaa;
+}
+
+.mini-controls {
+  display: flex;
+  align-items: center;
+  gap: 10px;
 }
 
 /* ===== RESPONSIVE ===== */

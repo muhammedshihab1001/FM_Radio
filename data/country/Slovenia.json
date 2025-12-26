@@ -1,0 +1,576 @@
+[
+  {
+    "name": "Hitradio center megamix",
+    "url": "http://stream3.radiocenter.si:8066/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center love",
+    "url": "http://stream3.radiocenter.si:8060/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center latin",
+    "url": "http://stream3.radiocenter.si:8200/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center fresh pop",
+    "url": "http://stream3.radiocenter.si:8058/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center yu",
+    "url": "http://stream3.radiocenter.si:8100/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hitradio center top 100",
+    "url": "http://stream3.radiocenter.si:9020/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center rock",
+    "url": "http://stream.rockradio.si:9034/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mister Deejay",
+    "url": "http://stream.mister-deejay.com:9008/;",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ROCK RADIO SI",
+    "url": "http://stream.rockradio.si:9034/;",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio Center",
+    "url": "http://stream2.radiocenter.si:8058/stream",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio center 80's",
+    "url": "http://stream3.radiocenter.si:8064/;stream/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maribor",
+    "url": "https://mp3.rtvslo.si/rmb",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Timea",
+    "url": "http://evcast.mediacp.eu:1480/stream",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rogla",
+    "url": "http://193.105.67.24:8010/;?type=http&nocache=3804",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sraka",
+    "url": "http://193.105.67.24:8006/",
+    "country": "Slovenia",
+    "bitrate": 112,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Salomon",
+    "url": "http://84.52.138.44/Salomon",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Student",
+    "url": "http://kruljo.radiostudent.si:8000/ehiq",
+    "country": "Slovenia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Student",
+    "url": "http://kruljo.radiostudent.si:8000/hiq",
+    "country": "Slovenia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zica",
+    "url": "http://live.1chi.si/zica",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Muravidéki Magyar Rádió",
+    "url": "http://mp3.rtvslo.si/mmr",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Val 202",
+    "url": "http://mp3.rtvslo.si/val202",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "VAL 202",
+    "url": "http://mp3.rtvslo.si:8000/val202",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Koper",
+    "url": "http://mp3.rtvslo.si/rakp",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Prvi",
+    "url": "http://mp3.rtvslo.si/ra1",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ars",
+    "url": "http://mp3.rtvslo.si/ars",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Capodistria",
+    "url": "http://mp3.rtvslo.si/capo",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Sora",
+    "url": "http://radio-sora.si:8000/radio-sora.mp3",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO NET FM",
+    "url": "http://reflector.radionet.si:8000/stream.ogg",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gorenc",
+    "url": "http://stream.radiogorenc.si:8000/radiogorenc.mp3",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Center 80s",
+    "url": "http://stream2.radioekspres.si:8064/stream",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris LOVE",
+    "url": "http://stream02.exit.si:8000/LOVE?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris 90 DANCE",
+    "url": "http://stream02.exit.si:8000/MEGAMIX?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris ITALIA",
+    "url": "http://stream02.exit.si:8000/ITA?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nula Classics",
+    "url": "http://streaming.radionula.com:8800/classics",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio nula 2",
+    "url": "http://streaming.radionula.com:8800/channel2",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio nula lounge",
+    "url": "http://streaming.radionula.com:8800/lounge",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nula Organic",
+    "url": "https://strm.radionula.com/channel2",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nula Beatz",
+    "url": "https://strm.radionula.com/lounge",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Radio",
+    "url": "https://zvok.ragla.si/gr",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Triglav",
+    "url": "http://live.radiotriglav.si/Triglav",
+    "country": "Slovenia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Student",
+    "url": "https://kruljo.radiostudent.si:8001/hiq",
+    "country": "Slovenia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Antena",
+    "url": "http://live.radioantena.si/Antena",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio BOB",
+    "url": "http://live6.infonetmedia.si/Europa05",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 2",
+    "url": "http://live.radio2.si/Radio2?1448457274706.mo3",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris Rock",
+    "url": "http://stream02.exit.si:8000/ROCK?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Radio",
+    "url": "https://zvok.ragla.si/gr?1670057106819",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "http://stream3.radiocenter.si:9032/;",
+    "country": "Slovenia",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Aktual",
+    "url": "http://195.95.158.131:9080/",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://live.radio.si/Radio1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris 80",
+    "url": "http://stream02.exit.si:8000/80?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio Center",
+    "url": "http://stream3.radiocenter.si:8000/center",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Si",
+    "url": "http://mp3.rtvslo.si/rsi",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio KRka",
+    "url": "https://live.radio.si/Krka",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nula",
+    "url": "https://strm.radionula.com/classics",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris Dalmacija",
+    "url": "http://stream02.exit.si:8000/DALMACIJA?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best FM Ljubljana",
+    "url": "https://live.radio.si/BestFM",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris SLO",
+    "url": "http://stream02.exit.si:8000/SLO?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 2",
+    "url": "http://live.radio2.si/Radio2?1448457274706.mp3",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hit",
+    "url": "http://stream03.exit.si:8000/radiohit",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Expres",
+    "url": "http://stream2.radioekspres.si:8016/stream?type=http&nocache=138",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris 90 POP",
+    "url": "http://stream02.exit.si:8000/90?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris EX - YU",
+    "url": "http://stream02.exit.si:8000/EXYU?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hit Radio Center (Ljubljana - 102.4MHz)",
+    "url": "http://stream3.radiocenter.si:8000/;center/1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ognjišče",
+    "url": "https://live.radio.si/ognjisce.mp3",
+    "country": "Slovenia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris Hits",
+    "url": "http://stream02.exit.si:8000/HITS?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Antena (105.2MHz)",
+    "url": "https://live.radio.si/Antena",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toti Radio",
+    "url": "https://live.radio.si/Toti",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Terminal",
+    "url": "https://air.radioterminal.si/live",
+    "country": "Slovenia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio City",
+    "url": "https://stream1.radiocity.si/CityMp3128.mp3",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zeleni val",
+    "url": "https://jurepeterka.radioca.st/stream",
+    "country": "Slovenia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1 - Maribor (107.9MHz)",
+    "url": "https://live.radio1.si/Radio1",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Capris POLETJE",
+    "url": "http://stream02.exit.si:8000/POLETJE?",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio City MB",
+    "url": "http://82.149.22.34:8000/CityMp3128.mp3",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tomi",
+    "url": "http://93.103.130.12:8080/tomi.mp3",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Meteor",
+    "url": "http://eu1.fastcast4u.com:20052/stream",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bob",
+    "url": "https://live.radio.si/BOB",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toti Radio",
+    "url": "https://live.radio.si/Toti?t=1722581297315",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Maribor",
+    "url": "https://live.radio.si/RockMB?t=1732114443550",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Maxi",
+    "url": "https://live.radio.si/Maxi?t=1722577989752",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ptuj",
+    "url": "https://live.radio.si/Ptuj",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio1",
+    "url": "https://live.radio1.si/Radio80",
+    "country": "Slovenia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toti Maxi",
+    "url": "https://live.radio.si/Maxi",
+    "country": "Slovenia",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

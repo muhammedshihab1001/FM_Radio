@@ -1,0 +1,457 @@
+[
+  {
+    "name": "寶島聯播網",
+    "url": "http://125.227.87.206:8000/FM98.5",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "電台測試2",
+    "url": "http://125.227.87.206:8000/SuperUS",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classical 古典音樂台 FM 97.7",
+    "url": "http://59.120.88.155:8000/live.mp3",
+    "country": "Taiwan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 90.5 大樹下電台",
+    "url": "http://60.250.148.112:8000/live",
+    "country": "Taiwan",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "飛碟聯播網 北宜產業電台",
+    "url": "http://cast.uforadio.com.tw:8000/ilan-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 台中真善美",
+    "url": "http://cast.uforadio.com.tw:8000/tai-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 苗栗中港溪",
+    "url": "http://cast.uforadio.com.tw:8000/miao-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "台中城市廣播",
+    "url": "http://fm901.cityfm.tw:8080/901.mp3",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "城市廣播網-城市廣播",
+    "url": "http://fm929.cityfm.tw:8080/929.mp3",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "城市廣播網•台南知音",
+    "url": "http://fm971.cityfm.tw:8080/971.mp3",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "新客家廣播電台",
+    "url": "http://live.fm935newhakka.com.tw:5006/live",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://mail.guidetw.com.tw:8000/live",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "1766線上電臺-私房音樂",
+    "url": "http://livestream.1766.today:1769/live1.mp3",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "1766線上電臺-百家知識",
+    "url": "http://livestream.1766.today:1768/live1.mp3",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Phate",
+    "url": "http://phate.io/listen",
+    "country": "Taiwan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "勝利之聲台南1台AM774",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM774",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "好家庭廣播電台（Classical 台中古典音樂台）",
+    "url": "http://test.taiwan-radio.tw:8000/TC.FM97.7",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "正聲台北調幅台 AM819",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM819",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "彰化關懷電台",
+    "url": "http://test.taiwan-radio.tw:8000/CH.FM91.1",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 台中台",
+    "url": "http://test.taiwan-radio.tw:8000/TC.AM774",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 松嶺台",
+    "url": "http://test.taiwan-radio.tw:8000/NT.AM630",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "濁水溪FM90.1",
+    "url": "http://test.taiwan-radio.tw:8000/YL.FM90.1",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 台北二台",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM1188",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "勝利之聲台南2台AM1188",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM1188",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "天聲AM1314",
+    "url": "http://test.taiwan-radio.tw:8000/ML.AM1314",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 台北一台",
+    "url": "http://test.taiwan-radio.tw:8000/TP.AM1323",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台南建國廣播公司",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM801",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "天聲AM1215",
+    "url": "http://test.taiwan-radio.tw:8000/ML.AM1215",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 中興台",
+    "url": "http://test.taiwan-radio.tw:8000/NT.AM963",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "雲端新廣播",
+    "url": "http://test.taiwan-radio.tw:8000/KS.FM99.5",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "勝利之聲AM756",
+    "url": "http://test.taiwan-radio.tw:8000/PH.AM756",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "彰化花園廣播電台",
+    "url": "http://211.72.215.231:8000/OnAir",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "金聲廣播電台",
+    "url": "http://60.249.186.105:9000/;",
+    "country": "Taiwan",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "電聲電台",
+    "url": "http://59.120.102.91:8000/OnAir",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "MCBS 銘傳廣播電台",
+    "url": "http://radio.mcu.edu.tw:8080/radio?1747274117052",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "飛碟聯播網 雲嘉民生展望",
+    "url": "http://cast.uforadio.com.tw:8000/yun-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 澎湖社區電台",
+    "url": "http://cast.uforadio.com.tw:8000/pen-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 台東知本電台",
+    "url": "http://cast.uforadio.com.tw:8000/don-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 太魯閣之音",
+    "url": "http://cast.uforadio.com.tw:8000/hua-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "飛碟聯播網 南台灣之聲",
+    "url": "http://cast.uforadio.com.tw:8000/kao-stream",
+    "country": "Taiwan",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr/radio/8030/stream.mp3",
+    "country": "Taiwan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "台北古典廣播",
+    "url": "https://stream.zeno.fm/w66d3dp6ynhvv",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "台中歡喜之聲FM105.5",
+    "url": "http://59.125.41.65:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "嘉義環球廣播",
+    "url": "http://60.248.53.115:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "牽手之聲網路台",
+    "url": "http://us3.internet-radio.com:8232/stream",
+    "country": "Taiwan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "太陽電台",
+    "url": "http://211.20.119.102:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "屏東大武山廣播",
+    "url": "http://59.120.255.171:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "潮州之聲",
+    "url": "http://59.120.255.170:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "屏東之聲廣播電台FM92.5",
+    "url": "http://59.120.255.169:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "竹塹廣播電台",
+    "url": "http://211.72.230.118:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "凱旋廣播電台",
+    "url": "http://59.125.209.209:8081/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "中國華藝廣播公司 AM873",
+    "url": "https://lhttp-hw.qtfm.cn/live/20500139/64k.mp3",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "TAIWAN LOUNGE RADIO",
+    "url": "https://azuracast.conceptradio.fr:8030/stream.mp3",
+    "country": "Taiwan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boss Online Radio",
+    "url": "https://stream.radiojar.com/ehzvurp9tv8uv",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "幸福廣播電台TR Radio FM102.5",
+    "url": "http://61.218.61.251:8080/",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "栗子的輕音樂",
+    "url": "http://lizeradio.com:8080/",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "南方之音",
+    "url": "http://43.254.16.40:8000/KS.FM89.3",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "資悠網路廣播實驗電台",
+    "url": "http://test.taiwan-radio.tw:8000/GUIDECast.AH",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "城市廣播網-大苗栗廣播",
+    "url": "https://fm983.cityfm.com.tw:8083/983",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "彰化花園廣播電台",
+    "url": "http://test.taiwan-radio.tw:8000/CH.FM88.7",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "電聲電台",
+    "url": "http://test.taiwan-radio.tw:8000/TN.AM1071",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "城市廣播網-南投廣播",
+    "url": "https://fm997.cityfm.com.tw:8083/997",
+    "country": "Taiwan",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "先聲廣播電台 (基北桃竹苗)",
+    "url": "http://43.254.16.40:8000/TY.AM774",
+    "country": "Taiwan",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 大溪二台",
+    "url": "http://43.254.16.40:8000/TY.AM1062",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "台灣廣播 大溪一台",
+    "url": "http://43.254.16.40:8000/TY.AM621",
+    "country": "Taiwan",
+    "bitrate": 48,
+    "codec": "MP3"
+  }
+]

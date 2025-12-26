@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Radio Vaticana Čeština",
+    "url": "https://radio.vaticannews.va/stream-cs",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana English",
+    "url": "https://radio.vaticannews.va/stream-en",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Slovenščina",
+    "url": "https://radio.vaticannews.va/stream-sl",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Solvenčina",
+    "url": "https://radio.vaticannews.va/stream-sk",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Portuguese",
+    "url": "https://radio.vaticannews.va/stream-pt",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Polska",
+    "url": "https://radio.vaticannews.va/stream-pl",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Ukraine",
+    "url": "https://radio.vaticannews.va/stream-uk",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Deutsch",
+    "url": "https://radio.vaticannews.va/stream-de",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Español spanish",
+    "url": "https://radio.vaticannews.va/stream-es",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana România",
+    "url": "https://radio.vaticannews.va/stream-ro",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Hrvatski",
+    "url": "https://radio.vaticannews.va/stream-hr",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Bulgaria",
+    "url": "https://radio.vaticannews.va/stream-bg",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vaticana Italia",
+    "url": "https://radio.vaticannews.va/stream-it",
+    "country": "Vatican City",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Rádio Costa (Archipiélago Uno)",
+    "url": "https://radio.archipielago.uno/radiocosta",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cubania Radio",
+    "url": "https://streamingv2.shoutcast.com/cubania?type=.mp3",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cuban Flow Radio",
+    "url": "http://nap.casthost.net:9194/stream.mp3",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CubanFlow Radio",
+    "url": "http://nap.casthost.net:9194/",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Canal Radio Cruces Cienfuegos",
+    "url": "https://stream.laut.fm/canalradio",
+    "country": "Cuba",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Emisora de Radio \"ATodaMecha\"",
+    "url": "https://stream.zeno.fm/gjexooyemj3uv",
+    "country": "Cuba",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hostal Azul Radio",
+    "url": "https://stream.zeno.fm/b4m2tic2ibbtv",
+    "country": "Cuba",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio María de la Caridad",
+    "url": "https://stream.zeno.fm/5rul798y3xatv",
+    "country": "Cuba",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

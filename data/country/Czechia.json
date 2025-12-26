@@ -1,0 +1,1185 @@
+[
+  {
+    "name": "Chat Rádio",
+    "url": "https://radio.chatujme.cz:8000/chatradio",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "svobodne-radio",
+    "url": "http://svobodneradio.radioca.st:8859/stream",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Evropa 2 - aac",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2AAC.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WeHouseRadio",
+    "url": "https://stream.wehouseradio.com/stream/1/",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "LA RADIO PLUS ANNECY",
+    "url": "https://laradioplus.ice.infomaniak.ch/laradioplus-high.aac?i=96970",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hitrádio Černá Hora",
+    "url": "http://ice.abradio.cz/cernahora128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Blaník živé",
+    "url": "http://ice.abradio.cz/blanikfm128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio MB",
+    "url": "http://icecast3.play.cz/radiomb.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rocková zábava",
+    "url": "http://ice.abradio.cz/rockzabava128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ostravan",
+    "url": "http://icecast9.play.cz/radio-ostravan-256.mp3",
+    "country": "Czechia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio City Brno",
+    "url": "http://ice.abradio.cz/magicbrno128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio 7",
+    "url": "http://icecast8.play.cz/radio7-128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio FM Crystal",
+    "url": "http://ice.abradio.cz/crystal128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oldies Rádio",
+    "url": "http://ice.abradio.cz/oldiesradio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Frekvence 1",
+    "url": "http://ice.actve.net/fm-frekvence1-aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Helax",
+    "url": "http://ice.abradio.cz:8000/helax128.mp3?type=.mp3/;stream.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Classic Praha",
+    "url": "http://icecast8.play.cz/classic128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "hitradio City zona Lasky",
+    "url": "http://ice.abradio.cz/cityzl128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dechovka 1233 Stredni Vlny",
+    "url": "http://icecast5.play.cz/dechovka128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HIT Rádio Orion",
+    "url": "http://ice.abradio.cz/orion128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hit FM Plus",
+    "url": "http://ice.abradio.cz:8000/fmplus64.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "City Milenium",
+    "url": "http://ice.abradio.cz:8000/citymi128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Rádio Šumava",
+    "url": "http://ice.abradio.cz/sumava128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pigy.cz – Písničky z pohádek",
+    "url": "http://ice.actve.net/web-pg-pisnicky",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Legendy",
+    "url": "http://ice.actve.net/web-f1-legendy",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Československé hity",
+    "url": "http://ice.actve.net/web-e2-csweb",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pigy.cz – Disko Trysko",
+    "url": "http://ice.actve.net/web-pg-disko",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Blaník CZ Webové rádio",
+    "url": "http://ice.abradio.cz/blanikcz128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Bonton",
+    "url": "http://ice.actve.net/fm-bonton-128",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pigy.cz – Pohádky",
+    "url": "http://ice.actve.net/web-pg-pohadky",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio City FM",
+    "url": "http://ice.abradio.cz/cityfm128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Samson",
+    "url": "http://icecast2.play.cz:8000/samsonfm128aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Frekvence 1 - Youradio Osmdesátky",
+    "url": "http://ice.actve.net/web-80",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rockzone",
+    "url": "http://icecast5.play.cz/rockzone128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fajn Rádio",
+    "url": "http://ice.abradio.cz/fajn128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "HEY rádio",
+    "url": "http://icecast3.play.cz/hey-radio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Helax 93,7",
+    "url": "http://ice.abradio.cz/helax128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Free Rádio 107,0 FM Brno",
+    "url": "http://icecast8.play.cz/freeradio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Impuls Ráááádio",
+    "url": "http://icecast5.play.cz/impuls128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ČRo Vltava",
+    "url": "http://icecast5.play.cz/cro3-128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Osmdesátka",
+    "url": "http://ice.abradio.cz/hit80128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metalománie",
+    "url": "http://ice.abradio.cz/metalomanie128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ROCK MAX",
+    "url": "http://ice.abradio.cz/rockmax256.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio FM",
+    "url": "http://ice.abradio.cz/hitradiofm128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dixie",
+    "url": "http://icecast8.play.cz/radiodixie192.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ROCK",
+    "url": "http://ice.abradio.cz/rockradio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Devadesátka",
+    "url": "http://ice.abradio.cz/hit90128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Haná",
+    "url": "http://icecast8.play.cz/hana128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fajn Fresh",
+    "url": "http://ice.abradio.cz/fajnfresh128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio PopRock",
+    "url": "http://ice.abradio.cz/hitpoprock128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "http://icecast8.play.cz/samsonfm128.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SKYROCK",
+    "url": "http://icecast8.play.cz/skyrock128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Čas Rock",
+    "url": "http://icecast6.play.cz/casrock128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Čas",
+    "url": "http://icecast6.play.cz/casradio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Expresradio",
+    "url": "http://icecast5.play.cz:8000/expres128mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio 7 32kb",
+    "url": "http://icecast1.play.cz:8000/radio7cz32.mp3",
+    "country": "Czechia",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "SeeJay Radio",
+    "url": "http://icecast6.play.cz/seejay128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Jih",
+    "url": "http://icecast6.play.cz/jih128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Český Impuls",
+    "url": "http://icecast6.play.cz/cesky-impuls.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio JIH Cimbalka",
+    "url": "http://icecast6.play.cz/jihcimbalka128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Vysočina",
+    "url": "http://ice5.abradio.cz/hitvysocina128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "http://icecast2.play.cz/samsonfm128aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "COOP TIP Radio",
+    "url": "http://ice4.abradio.cz/coop128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Proglas",
+    "url": "http://icecast2.play.cz/proglas128",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Praha",
+    "url": "http://icecast2.play.cz/cro7-128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Impuls",
+    "url": "http://icecast1.play.cz/impuls128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metal Heart",
+    "url": "http://fr.radio-streamhosting.com:8000/metalheartradio64aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio pohádka",
+    "url": "http://ice3.abradio.cz/pohadka128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "WebRadio Epigon",
+    "url": "http://ice3.abradio.cz/epigon128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Folk",
+    "url": "http://ice2.abradio.cz/folk64a.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Humor",
+    "url": "http://mp3stream4.abradio.cz:8000/humor128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "COOP TIP Radio",
+    "url": "http://mp3stream4.abradio.cz:8000/coop128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Club FM",
+    "url": "http://mp3stream4.abradio.cz/dance128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Depeche Mode",
+    "url": "http://mp3stream4.abradio.cz/depeche128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio folk Czech",
+    "url": "http://mp3stream2.abradio.cz:8000/folk320.mp3",
+    "country": "Czechia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fajn Fresh Radio",
+    "url": "http://mp3stream4.abradio.cz/fajnfresh64.mp3",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "ABradio Chillout",
+    "url": "http://mp3stream4.abradio.cz/chillout128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Crazy Rádio",
+    "url": "http://live.topradio.cz:8000/crazy128",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "PowerPonies Radio",
+    "url": "http://powerponies.cz:8000/;stream.mp3",
+    "country": "Czechia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Click & Country",
+    "url": "http://radio.clickandcountry.cz:8000/clickandcountry.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Svobodný vysílač",
+    "url": "http://stream.svobodny-vysilac.cz:8000/live.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ELLIS",
+    "url": "http://stream.laut.fm/ellis",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Luc Radio",
+    "url": "https://cast1.torontocast.com:3800/stream",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Český Impuls",
+    "url": "https://icecast6.play.cz/cesky-impuls.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RockZone 105,9 FM",
+    "url": "https://icecast5.play.cz/rockzone128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZUN rádio",
+    "url": "https://icecast9.play.cz/zun48.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Sázava",
+    "url": "https://icecast8.play.cz/sazava192.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "COLOR Music Radio",
+    "url": "https://icecast8.play.cz/color128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Čas Rock (192 kbps)",
+    "url": "https://icecast9.play.cz/casrock192.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Netro Life Radio 100,8 FM",
+    "url": "https://icecast9.play.cz/netro-life-radio.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Energic",
+    "url": "https://icecast9.play.cz/energic.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BIKERS RADIO DOUPE",
+    "url": "https://icecast7.play.cz/bikersradiodoupe128.mp3",
+    "country": "Czechia",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Impuls Ráááádio",
+    "url": "https://icecast5.play.cz/impuls128.mp3?1571059741",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Blaník Oldies",
+    "url": "https://ice.radia.cz/oldiesradio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio Zlín",
+    "url": "https://ice.radia.cz/radiozlin128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio DNB TV",
+    "url": "https://ice3.abradio.cz/shadowbox128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Contact",
+    "url": "https://ice3.abradio.cz/hitradiocontact128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "povídka",
+    "url": "https://ice3.abradio.cz/povidka128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Club Radio",
+    "url": "https://ice4.abradio.cz/dance128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Faktor",
+    "url": "https://ice.abradio.cz/faktor128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Evropa2 Youradio Flashbacky",
+    "url": "https://ice.actve.net/web-e2-flashback",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance rádio cz",
+    "url": "https://ice.actve.net/dance-radio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Evropa 2 - Radio",
+    "url": "https://ice.actve.net/fm-evropa2-128",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Blaník Morava a Slezsko",
+    "url": "https://ice.abradio.cz/blanikmorava128.mp3?gdpr=1&gdpr_consent=Q084aEUyaE84aEUyaEFjQUJCRU5BX0NnQVBfQUFIX0FBQVlnRjVvQmhEeEVCU0ZDQUdKb1lOa2dBQUFXeHdBQUFDQUNBQUFBb0FBQUFCb0FBQVFBQUFBQUFBQWdCQUFBQUJJQUlBSUFBQUJBR0VBQUFBQUFBQUFBQUFBQUFFQUFBQUFBSVFBQUFBQUFBQ0JBQUFBQUFBQUFBQUFBQUFBQVFBQUFnWG5BZUFBV0FCVUFDNEFIQUFRQUFxQUJvQURrQUlnQVRBQW5nQlZBQzRBRjhBTVFBaElCRUFFVUFLVUFXSUF5d0Jtd0R1QU84QWhBQkZnQzBnRjFBTUNBYXdCTm9DOHdBQUFBLllBQUFBQUFBQUFBQQ==",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Evropa 2 - mp3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EVROPA2.mp3",
+    "country": "Czechia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio humor 2",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_HUMOR.aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Blaník",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK_128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROCK_RADIO_128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Prague International",
+    "url": "https://rozhlas.stream/cro7_mp3_128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Punctum",
+    "url": "https://radiopunctum.cz:8001/radio",
+    "country": "Czechia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Český rozhlas Brno",
+    "url": "https://rozhlas.stream/brno.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CRo Vysocina",
+    "url": "https://rozhlas.stream/vysocina_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRo Wave",
+    "url": "https://rozhlas.stream/wave_mp3_128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ČRo Wave",
+    "url": "https://rozhlas.stream/wave_mp3_256.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ČRo Plus",
+    "url": "https://rozhlas.stream/plus_mp3_128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CRo Radiozurnal",
+    "url": "https://rozhlas.stream/radiozurnal_aac_128.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRO Radiožurnál Sport",
+    "url": "https://rozhlas.stream/radiozurnal_sport_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Prague International",
+    "url": "https://rozhlas.stream/radio_prague_int_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRo Ostrava",
+    "url": "https://rozhlas.stream/ostrava_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sunrise Radio (Czechia)",
+    "url": "https://stream.laut.fm/radio-dance-eu",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "We House Radio (AAC+ High)",
+    "url": "https://stream.wehouseradio.com/stream/2/",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WeHouseRadio",
+    "url": "https://stream.wehouseradio.com/stream/3/",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Zoner Underground Network",
+    "url": "https://stream.zunradio.cz/zun3.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio O106",
+    "url": "https://www.radioking.com/play/o106",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Hády",
+    "url": "http://46.36.36.149:8000/live",
+    "country": "Czechia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Černá Hora",
+    "url": "http://ice.abradio.cz/cernahora64.mp3",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Calimeroclub Radio",
+    "url": "http://live.topradio.cz:8000/calimero192",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Express FM",
+    "url": "http://icecast8.play.cz/expres128mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ČRo Dvojka",
+    "url": "http://icecast6.play.cz/cro2-128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cesky Rozhlas Jazz",
+    "url": "https://rozhlas.stream/jazz_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRo Radiožurnál",
+    "url": "http://icecast8.play.cz/cro1-128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wave",
+    "url": "http://rozhlas.stream/wave_mp3_256.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Radio",
+    "url": "http://ice.actve.net/dance-radio128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FREKVENCE 1",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/FREKVENCE1.mp3",
+    "country": "Czechia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Black Hornet Radio",
+    "url": "http://icecast2.play.cz/bhradio-192.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Proglas",
+    "url": "http://icecast1.play.cz/proglas96aac",
+    "country": "Czechia",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Český rozhlas České Budějovice",
+    "url": "https://rozhlas.stream/ceske_budejovice_high.aac",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Hitrádio Devadesátka",
+    "url": "https://ice2.radia.cz/hit90128.aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRO Radiožurnál sport Adhoc stream 2",
+    "url": "http://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ČRo Olomouc",
+    "url": "https://rozhlas.stream/olomouc_low.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "čro radiožurnál sport Stream AdHoc 2",
+    "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_2_high.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "čro Radiožurnál Sport AdHoc stream 1",
+    "url": "https://rozhlas.stream/radiozurnal_sport_adhoc_1_high.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kiss",
+    "url": "http://icecast4.play.cz/kiss128.mp3",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dance Radio",
+    "url": "http://ice.actve.net/dance-radio320.mp3",
+    "country": "Czechia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Funkstar Radio",
+    "url": "https://funkstar.radioca.st/stream",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO 1",
+    "url": "http://icecast2.play.cz/radio1.mp3",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Comedy Club R@dio DIANA",
+    "url": "https://westradio.cz/radio/8010/radio.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fed's Trap Radio",
+    "url": "https://backend.fedstrapradio.com:8000/radio.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "PHONK RADIO",
+    "url": "https://stream-43.zeno.fm/90fvpb27u18uv?zs=vRvgZYxuSUWsgBGCbKMLnA",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio BLANÍK",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_BLANIK.aac?gdpr=0",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Známka Punku",
+    "url": "https://ice.abradio.cz/znamkapunku128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Phonk Nation Radio",
+    "url": "https://radio.mxnticek.eu/listen/phonk/128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioParty.pl",
+    "url": "https://s2.radioparty.pl:8015/stream",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fresh radio 103.6",
+    "url": "https://icecast.beatzone.cz/radio/8000/128.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Diana – Retro Club",
+    "url": "https://westradio.cz/radio/8000/radio.mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Prostor",
+    "url": "https://bcast.spmmedia.cz/prostor-mp3",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock rádio – CZ Rock",
+    "url": "https://ice2.radia.cz/rockzabava128.aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Nostalgie",
+    "url": "https://icecast3.play.cz/radio-nostalgie128.mp3",
+    "country": "Czechia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metal Heart Radio",
+    "url": "https://cz.radio-streamhosting.com:8443/metalheartradio128mp3",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Čro Vltava Flac",
+    "url": "https://amp.cesnet.cz:8443/cro3.flac",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "Rádio Koleda",
+    "url": "https://ice3.radia.cz/koleda_64.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "ČRo Plus",
+    "url": "https://rozhlas.stream/plus_low.aac",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Samson",
+    "url": "https://icecast2.play.cz/samsonfm128aac",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 4U",
+    "url": "http://mpc1.mediacp.eu:8342/stream",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Slobodna Evropa",
+    "url": "https://n08.radiojar.com/bugesa4nn3quv?rj-ttl=5&rj-tok=AAABikFH4NsAib8tua7OjeefLg",
+    "country": "Czechia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bonton",
+    "url": "https://27753.live.streamtheworld.com/BONTONAAC.aac?tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=4ef04b1d-096f-4273-f8be-4c056d2bd182",
+    "country": "Czechia",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BojlerRoom",
+    "url": "https://ice4.abradio.cz/bojler_room_128.aac",
+    "country": "Czechia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "WorldRadio",
+    "url": "https://worldradio100.radioca.st/stream",
+    "country": "Czechia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Jih",
+    "url": "https://icecast6.play.cz/jih32.mp3",
+    "country": "Czechia",
+    "bitrate": 32,
+    "codec": "MP3"
+  }
+]

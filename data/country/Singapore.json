@@ -1,0 +1,345 @@
+[
+  {
+    "name": "973FM: Blasts That Last radio",
+    "url": "https://c16.radioboss.fm:18115/stream?icecast",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "973FM Blasts That Last",
+    "url": "http://c16.radioboss.fm:8115/autodj",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yes 933",
+    "url": "http://28453.live.streamtheworld.com/YES933AAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Love 972",
+    "url": "http://22903.live.streamtheworld.com/LOVE972FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Money 893 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/MONEY_893AAC.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ONE FM 91.3 SPH AAC",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/ONE_FM_913AAC.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ONE FM",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/one_FM_913AAC.aac?dist=radiosingaporeapp",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Oli 968 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "UFM 100.3 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/UFM_1003AAC.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Love 972 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ria 897 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Capital 958 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Warna 942 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "YES 933 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Symphony 924 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924AAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SPH 963 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/HAO_963AAC.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "938 Now Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/938NOWAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jia 883 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/883JIAAAC.aac",
+    "country": "Singapore",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mediacorp 987 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/987FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Gold 905 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905AAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Class 95 Radio",
+    "url": "http://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95AAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Melody with Brother Bjorn",
+    "url": "http://ssl.geckohost.nz:9191/autodj",
+    "country": "Singapore",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AXR Singapore",
+    "url": "http://singaporestream.axr.online/",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "AXR Manila",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AXR_MANILA.mp3",
+    "country": "Singapore",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "OLI 968",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bible Witness Web Radio",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SP_R3179571_SC",
+    "country": "Singapore",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LOVE 972",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LOVE972FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Power 98 Love Songs",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/POWER98_LOVESONGS.mp3",
+    "country": "Singapore",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yes 933",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933AAC_SC",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CLASS 95",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASS95_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "987",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/987FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "987FM",
+    "url": "https://22393.live.streamtheworld.com/987FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Oli 96.8 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/OLI968FMAAC.aac",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "GOLD 905",
+    "url": "https://22403.live.streamtheworld.com/GOLD905_SC",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "CNA 938",
+    "url": "https://22893.live.streamtheworld.com/938NOW_SC",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Singapore Chinese POP YES FM 933",
+    "url": "https://22893.live.streamtheworld.com/YES933_SC?dist=radiosingapore",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "987",
+    "url": "https://14033.live.streamtheworld.com/987FM_SC",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "RIA 897",
+    "url": "https://22393.live.streamtheworld.com/RIA897FM_SC",
+    "country": "Singapore",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "kiss92",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/KISS_92_SC",
+    "country": "Singapore",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CAPITAL 958",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CAPITAL958FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "YES 933",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/YES933_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Ufm 1003",
+    "url": "http://28093.live.streamtheworld.com/UFM_1003AAC.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "GOLD 905",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GOLD905_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Money FM 89.3",
+    "url": "https://22243.live.streamtheworld.com/MONEY_893AAC.aac?dist=sphradio-web&gdpr=0&tdsdk=js-2.9&swm=false&pname=TDSdk&pversion=2.9&banners=none&burst-time=15&sbmid=f94bbefc-acee-4c13-ed7b-9accdb44b7a2",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "WARNA 942",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/WARNA942FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Symphony 924",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SYMPHONY924_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CNA938",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/938NOW_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RIA 897",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RIA897FM_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "indiego",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/INDIEGO_S01_PREM.aac",
+    "country": "Singapore",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

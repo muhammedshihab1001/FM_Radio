@@ -1,0 +1,618 @@
+[
+  {
+    "name": "Guldkanalen Malmö/Lund",
+    "url": "http://stream.dbmedia.se/gk96",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mix Megapol 104,3",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio - Radioapans knattekanal",
+    "url": "https://http-live.sr.se/knattekanalen-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Sjuharad",
+    "url": "https://http-live.sr.se/p4sjuharad-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P4 Dalarna",
+    "url": "http://http-live.sr.se/p4dalarna-aac-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retreat Radio",
+    "url": "http://retreatradio.out.airtime.pro:8000/retreatradio_b",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hope",
+    "url": "http://s2.radio.co/sfbf5f5b85/listen",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hope",
+    "url": "https://s2.radio.co/sfbf5f5b85/listen",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Haninge",
+    "url": "http://213.115.49.175:1157/;",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pirate Rock  Västkustens bästa rock",
+    "url": "http://stream.piraterock.se:8101/webradio",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Best of ericade.radio",
+    "url": "https://radio.ericade.net/sc/stream/2/",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tyresöradion",
+    "url": "https://s5.radio.co/s8ace52d32/listen",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SR P4 Kronoberg",
+    "url": "https://http-live.sr.se/p4kronoberg-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P1 192kbps",
+    "url": "https://http-live.sr.se/p1-mp3-192",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 88 Partille - Golden Hits",
+    "url": "https://streaming.943.se/radio88dans",
+    "country": "Sweden",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Gävleborg",
+    "url": "https://http-live.sr.se/p4gavleborg-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Gotland",
+    "url": "https://http-live.sr.se/p4gotland-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 88 Partille",
+    "url": "http://62.209.164.60:8000/mp128.mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lite FM 101.1",
+    "url": "http://live.litefm.se:8000/stream_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Pop Radio Stockholm",
+    "url": "http://master.shoutcast.com:8000/popradio-stockholm",
+    "country": "Sweden",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Borås Närradio",
+    "url": "http://lyssna.fnf.nu:8080/radioboras.mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SceneSat",
+    "url": "http://oscar.scenesat.com:8000/scenesatmax",
+    "country": "Sweden",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "SDX synthetic experience - EBM, Synth and Industrial",
+    "url": "http://radio.dawnshadow.se:8000/stream",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MRS 90.5 Stockholm",
+    "url": "http://radiostreamone.mine.nu/MRS9050one",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sandviken",
+    "url": "http://rssand.se:4027/listen.pls?sid=1",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic Radio",
+    "url": "http://stream.magicradio.se/magic",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dunken FM",
+    "url": "http://stream.nsp.se:8000/DFM_MP3_Hi",
+    "country": "Sweden",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "FUN RADIO 95,3 Sweden",
+    "url": "http://stream.funradio.se:81/live192",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BozRadio",
+    "url": "http://streaming.live365.com/a80252",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Svensk Pop",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=svenskpop_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mix Megapol GBG",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?i=mixmegapolgbg_instream_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio - P1",
+    "url": "http://sverigesradio.se/topsy/direkt/srapi/132-hi-aac-http",
+    "country": "Sweden",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sveriges Radio P4 Uppland AAC",
+    "url": "https://http-live.sr.se/p4uppland-aac-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Uppland",
+    "url": "https://http-live.sr.se/p4uppland-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio - P4 Västmanland",
+    "url": "https://http-live.sr.se/p4vastmanland-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Redback Radio",
+    "url": "https://redback.mywire.org/stream.mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Linköpings närradio",
+    "url": "https://stream.linkopingsnarradio.se:8005/radioprogram",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveiges Radio - P4 Malmöhus",
+    "url": "https://sverigesradio.se/topsy/direkt/207-hi.mp3",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRJ",
+    "url": "http://live-bauerse-fm.sharp-stream.com/nrj_instreamtest_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P2 flac",
+    "url": "https://live1.sr.se/p2-flac",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "NRJ Sweden",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?i=nrj_instreamtest_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "106,7 Rockklassiker",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=rockklassiker_instream_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mix Megapol",
+    "url": "http://tx-bauerse.sharp-stream.com/http_live.php?ua=WEB&i=mixmegapol_instream_se_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sandviken",
+    "url": "https://shout.rs8990.com/;",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P3",
+    "url": "https://edge1.sr.se/p3-aac-320",
+    "country": "Sweden",
+    "bitrate": 296,
+    "codec": "AAC"
+  },
+  {
+    "name": "SR Din Gata",
+    "url": "https://http-live.sr.se/dingata-aac-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Stockholm",
+    "url": "https://edge1.sr.se/p4sth-aac-320",
+    "country": "Sweden",
+    "bitrate": 288,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sveriges Radio P1",
+    "url": "https://edge1.sr.se/p1-aac-320",
+    "country": "Sweden",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Retro FM Skåne",
+    "url": "https://live-bauerse-fm.sharp-stream.com/retrofm_aacp?ua=WEB&aw_0_1st.playerid=SBS_RP_WEB&aw_0_1st.skey=1575715192&companionAds=true&listenerId=@@GUID@@",
+    "country": "Sweden",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Guldkanalen Helsingborg",
+    "url": "http://stream.dbmedia.se/gkhbg96",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Svensk Folkmusik - AkkA radio",
+    "url": "http://mediaserv38.live-streams.nl:8107/stream",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pop & Rock",
+    "url": "http://62.101.46.15:8000/poporock",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P2",
+    "url": "https://http-live.sr.se/p2musik-aac-320",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vinyl FM",
+    "url": "https://edge-bauerse-06-thn.sharp-stream.com/vinylfm_instream_se_mp3?",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dansbandskanalen.se*",
+    "url": "https://stream.dbmedia.se/dbkMP3",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P2 flac",
+    "url": "https://edge1.sr.se/p2-flac",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Sveriges Radio P4 Stockholm",
+    "url": "https://http-live.sr.se/p4stockholm-mp3-192",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Northern Metal Radio Extreme",
+    "url": "https://s2.free-shoutcast.com/stream/18092",
+    "country": "Sweden",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rivendell",
+    "url": "https://play.radiorivendell.com/radio/8000/radio.mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Göteborg",
+    "url": "https://http-live.sr.se/p4goteborg-mp3-192",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Spinning Seal FM",
+    "url": "https://stream.zeno.fm/9q3ez3k3fchvv",
+    "country": "Sweden",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Laholm",
+    "url": "http://stream.zeno.fm/tf8vczzxrg0uv",
+    "country": "Sweden",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mix Megapol 104,3",
+    "url": "https://live-bauerse-fm.sharp-stream.com/mixmegapol_instream_se_aacp",
+    "country": "Sweden",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Guldkanalen (80-tal)",
+    "url": "https://stream.dbmedia.se/gk80tal96",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sveriges Radio - SR Sápmi",
+    "url": "http://http-live.sr.se/srsapmi-aac-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The ERICADE Radio Network",
+    "url": "https://radio.ericade.net/sc/stream/1/",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Treby",
+    "url": "http://streaming.943.se/treby878",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gold FM Växjö, Sweden",
+    "url": "https://live-bauerse-fm.sharp-stream.com/goldfm_web_se_aacp?direct=true&amp;listenerid=undefined&amp;aw_0_1st.bauer_listenerid=undefined&amp;aw_0_1st.playerid=BMUK_inpage_html5&amp;aw_0_1st.skey=1678939562&amp;aw_0_1st.bauer_loggedin=false&amp;aw_0_req.userConsentV2=CPot5gAPot5gAAGABCENC7CsAP_AAE_AABJ4IoNF5GdUTXFBOH59YJtwKYxXx1BwoKAhBgAFA4AAyJIELJAGVEEaJAyKACACAAYAIEIBAABAEAFAAAgAYIEBIACEAEEEJAAAIAAAEEABIEQAEAAMAAAAUAIAgEBWEhAggBQA4RJETMBACoABCUAwigkEAAAAAgAAAAAAQAAAAAAAAAAAAAAAAAAAgAQNvgEAAIAJ-AXUA7YB-wF2gNoAbeAoEgVgAIAAXABQAFQAMgAcAA8ACAAGQANIAiACKAEwAJ4AVQA3gBzAD8AISARABEgCOAEsAKUAZAA-AB-wD_AQAAigBGACOAEmAJSAT8AoIBigDaAIdATKAtgBeYDDQGSAMnAbeBEMIAKABIAD8ARQA5wCBgHVATYApsBdQDFg0AgAZABAACMAEmgLQAtIB1QEOgMnDABADZAHUATYApsRAHAGQAQAAjABJgDqgIdAZOIABAAkATYKgDgAUACYAI4AjkBaAFpAWwAvMUACAOqAmwZAFACYAI4AjgC2AF5jAAYB1QEnAJsHQMwAFwAUABUADIAHAAQAAuABkADQAH0ARABFACYAE8AKoAYgAzABvADmAH6ARABEgCWAFGAKUAZAAygBogD9AH-AQMAigBFgCMAEcAJMASkAn4BQYC0ALSAYoA2gB1AEOgJUAVYAtgBdoC8wGGgMkAZOAywBt44AsACQAH4AUAAyACKAEcAOcAdwBAACIgGBAOOAdIA6oCYoEyATKAmwBSACmwFqALqAYsQgNgALAAoABkAFwATAAqgBiADMAG8ARwApQBlAD_AIoARwAlIBQYC0ALSAYoA2gB1AEqAKsAWwAu0Bk4DgCIAEA_ZAAOAOcA6oB2wEnAJiATYApAlAbAAQAAsACgAGQAOABEACYAFUAMQAZoBEAESAI4AUYApQBlAEcgLQAtIBigDqAIdAWwAu0BeYDJwGWANvAcASADgBkAFyAO4AgAB1QE2AMWKQKAAFwAUABUADIAHAAQAAyABpAEQARQAmABPACkAFUAMQAZgA5gB-gEQARIAowBSgDIAGUANEAfoBFgCMAEcAJSAUEA2gCHQEnAKsAWwAu0BeYDDQGSAMnAZYA28qABAP2UAKAAkAB-AGQANoAjgBcgDnAHcAQAAkQBigDqgHbATEAmUBNgCkAFNgMWAakAAA.YAAAAAAAAAAA",
+    "country": "Sweden",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SR P2",
+    "url": "https://http-live.sr.se/p2-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nostalgi",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_aacp",
+    "country": "Sweden",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Sydväst Närradio Stockholm FM 88.9",
+    "url": "http://radiosydvast.duckdns.org:12932/stream",
+    "country": "Sweden",
+    "bitrate": 102,
+    "codec": "MP3"
+  },
+  {
+    "name": "P4 Östergötland",
+    "url": "http://http-live.sr.se/p4ostergotland-aac-192?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=1&us_privacy=1YNY&gdpr_consent=CPSxGf7PSxGf7AcABBENB9CsAP_AAAAAACiQIfhBACZEDAFBAGBpAIsAAAAAAAAAACAwAAAAACAACDgAAAQAgAAAAAgAACAAAAgAIAAAAAAAAAAABAAAAAAAAADEAAAAAAEAAABAAAAAAAAAAAAAAICAAAAAAAAQAAAAkAwAPv____f_7-3_3__5_3---_e_V_99zLv9____39nP___9v-_9___4AAAEgkB4ACoAGQAOAAgABkADSAIgAigBMACeAKUAaoA7wEiAMNAYeAyIBkgDJwGXAM5AZ8A0gBp0DWANZAbrA5EDlQHLgOsAeOA-UIAZAC2AOcBiADFgGQgMjAZMA0IBowDSgGpgNoAbcA3QBwQDpAHYAOzAd0A8CB5IHlAPaAe6A-QB9gYAOAFsBkYDQgG6AOJAdmA90NAMARUAkQBh4DGAGTgM5AZ4Az4ByQDlAHWAPwEABgAtgNCAboA4kB2YD3REAkBIgDDwGTgM5AZ8A5IBygDrAH4CoBgATAFNgLzAYeAyIBnIDPAGfANyAckA5QB-AoAIA0IBrwDiQH2DIBYATAF5gMPAZEAzkBngDPgHJAOUAfEA_AYADAaEA4kB9g6BeABUADIAHAAQAAyABpAEQARQAmABPAC-AGIAUoA7wCLAF1ARUAkQBhoDDwGJAMYAY8AyQBk4DKgGWAMuAZyAz4BokDSANJAaWA04BqoDWAGxgN1AcXA5IDlQHLgOsAeOA9IB6oD5QH1gPwHAHwAtgDnAHcAQgBiADFgGQgMmAZeA0KBooGjANKAaaA1MBrwDaAG2ANuAcTA48DkAHSAOwAdmA8CB5IHlAPaAe6A-IB9gD8QH7EICwAGQAmABfADEAO8BIgDDwGJAMiAZOAzkBngDPgGiANJAaWA1UBwADkgHWAPHAfgQAIADnAaEA0UBpQDUwG2ANuAcSA6MB2EDyQPKAeiA90B8QD7AH7EoDAAGQAOABEACYAF8AMQApQBqgDvALqAioBIgDDwGRAMnAZYAzkBngDPgGkANYAcAA6wB-BIAUAO4BiwDSgG5AOJAdIA7AB5QD2gH2FIEoAFQAMgAcABAADIAGkARABFACYAE8AKQAXwAxAClAGqAO8AiwCRAGGgMPAYwAyIBkgDJwGXAM5AZ4Az6BpAGkwNYA1kBsYDdYHJgcoA5cB1gDxwHygPwKAFABzgDuALqAxYBkwDRAGlANNgakBqYDXgHBAOJAdgA7MB5QD2gHugPiAfYA_YA.f_gAAAAAAAAA&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRuZXIiOnRydWUsImlhdCI6MTY0MjA5OTA4OSwiaXNzIjoidGlzcnYifQ.lHS2wM3X_1OBMWllZXm4SFuLlvIaF92RC0UI7VYlDfc",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gbg Sevdah",
+    "url": "https://stream.radiogbg.se:8050/relay4",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Orinoco",
+    "url": "https://icecast.radio-orinoco.com/orinoco",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "P4 Norrbotten",
+    "url": "https://http-live.sr.se/p4norrbotten-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Puls FM Borås",
+    "url": "http://stream.pulsfm.se:8908/stream",
+    "country": "Sweden",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio - P4 Väst",
+    "url": "https://live1.sr.se/p4vast-mp3-96",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio - P4 Jämtland",
+    "url": "https://http-live.sr.se/p4jamtland-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rivendell",
+    "url": "https://play.radiorivendell.com/radio/8000/radio.ogg",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Sveriges Radio - P4 Värmland",
+    "url": "https://http-live.sr.se/p4varmland-mp3-128",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Roxette",
+    "url": "https://stream.pcradio.ru/Roxette-hi",
+    "country": "Sweden",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Banjalučki Sevdah Radio Šeherčani",
+    "url": "https://stream-172.zeno.fm/wazhcyi9ak5vv?zs=tApDLixiTGuqRhXqTfctZQ&1709234440014",
+    "country": "Sweden",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sveriges Radio P4 Skaraborg",
+    "url": "https://http-live.sr.se/p4skaraborg-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nostalgi SE",
+    "url": "https://live-bauerse-fm.sharp-stream.com/nostalgi_mp3",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "P4 Örebro",
+    "url": "http://http-live.sr.se/p4orebro-aac-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SR P4 Jönköping",
+    "url": "https://http-live.sr.se/p4jonkoping-mp3-192",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Guldkanalen (90-tal)",
+    "url": "https://stream.dbmedia.se/gk90tal96",
+    "country": "Sweden",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Nacka",
+    "url": "http://radiostreamone.mine.nu/9990MHz",
+    "country": "Sweden",
+    "bitrate": 64,
+    "codec": "MP3"
+  }
+]

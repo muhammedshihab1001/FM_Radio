@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Harvest Family Radio Guam",
+    "url": "https://streaming.live365.com/a11295",
+    "country": "Guam",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KUSG",
+    "url": "https://ice10.securenetsystems.net/KUSG",
+    "country": "Guam",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "104.3 Boss FM",
+    "url": "https://ice10.securenetsystems.net/KIJI",
+    "country": "Guam",
+    "bitrate": 32,
+    "codec": "AAC+"
+  }
+]

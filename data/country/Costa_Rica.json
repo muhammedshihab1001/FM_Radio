@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Radio María Costa Rica - 100.7 FM",
+    "url": "http://dreamsiteradiocp2.com:8044/stream",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Musical 97.5",
+    "url": "https://live.turadio.stream:7005/stream?type=http&nocache=596",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Columbia Estéreo 92.7 FM",
+    "url": "https://s5.radio.co/sca838cc60/listen",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "95.5 Jazz",
+    "url": "https://streaming.radio.co/s36bd2a451/listen",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO 1075",
+    "url": "http://65.60.45.74:8400/;stream/1;",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Frecuencia Tierra",
+    "url": "http://68.235.35.243:9008/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Disney Costa Rica",
+    "url": "http://ic.streann.com:8000/disneycostarica",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tamarindo Radio",
+    "url": "http://s1.voscast.com:11392/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "103 (FM 103.1)",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_103_1AAC.aac",
+    "country": "Costa Rica",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Azul 99.9 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_999AAC.aac",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CRC 89.1 RADIO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_89_1AAC.aac",
+    "country": "Costa Rica",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Señal Radio Elite",
+    "url": "https://stream20.usastreams.com/8008/;",
+    "country": "Costa Rica",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amplify 95.5 FM",
+    "url": "https://streams.radio.co/s7e8f19c33/listen",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Disney Costa Rica - 101.1 FM - San José, Costa Rica",
+    "url": "https://ic.streann.com/disneycostarica",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "IQ Radio 105.5 FM",
+    "url": "http://rtvhd.net:9942/;",
+    "country": "Costa Rica",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "IQ Radio",
+    "url": "http://rtvhd.net:9942/;stream/1",
+    "country": "Costa Rica",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mil Recuerdos Stereo",
+    "url": "https://sechin.grupocentroserver.com/radio/8060/radio.mp3",
+    "country": "Costa Rica",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "1047hit",
+    "url": "https://live.turadio.stream:7004/stream;",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Planet 107.5",
+    "url": "https://stream20.usastreams.com/8094/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CLUB DANCE MUSIC",
+    "url": "https://stream.zeno.fm/5x4sda9kxtzuv",
+    "country": "Costa Rica",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Nueve Cuatro Siete - 94.7 FM",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CRC_947AAC.aac?_=819140",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Classics Pop & Rock",
+    "url": "http://c9.radioboss.fm:8035/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Puerto Limón Radio",
+    "url": "https://puertolimonradio-rowrigos.radioca.st/listen.pls?sid=1",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Faro del Caribe 97.1 FM y 1080 AM",
+    "url": "https://sp.unoredcdn.net/8032/stream",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tiquicia Rock",
+    "url": "https://usa19.fastcast4u.com:5860/;?type=http&nocache=1690470873",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hit 104.7",
+    "url": "https://live.turadio.stream:7004/stream?type=http&nocache=596",
+    "country": "Costa Rica",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dabar",
+    "url": "https://a1.asurahosting.com:8720/radio.mp3",
+    "country": "Costa Rica",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Elite radio 88.5 FM",
+    "url": "https://stream20.usastreams.com/8008/stream",
+    "country": "Costa Rica",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Casino 98.3FM",
+    "url": "https://host.rowrigo.com/listen/radiocasino/radiocasino",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mundo Rock Radio",
+    "url": "https://as100.globalhost1.com/8046/stream",
+    "country": "Costa Rica",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Costa",
+    "url": "https://sonicpanel.globalstream.pro:10979/;",
+    "country": "Costa Rica",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dabar Radio",
+    "url": "https://a1.asurahosting.com:8720/radio.mp3/;",
+    "country": "Costa Rica",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "MCC Radio",
+    "url": "https://stream.zeno.fm/ufd5gasyvn0tv",
+    "country": "Costa Rica",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Avance Radio",
+    "url": "https://radios.solumedia.com:6512/;",
+    "country": "Costa Rica",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

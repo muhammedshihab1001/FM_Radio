@@ -1,0 +1,51 @@
+[
+  {
+    "name": "اذاعة الحادي والعشرين من سبتمبر",
+    "url": "http://procyon.shoutca.st:8488/index",
+    "country": "Yemen",
+    "bitrate": 112,
+    "codec": "AAC+"
+  },
+  {
+    "name": ". quran",
+    "url": "https://backup.qurango.net/radio/ahmad_khader_altarabulsi",
+    "country": "Yemen",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sam FM",
+    "url": "http://edge.mixlr.com/channel/kijwr",
+    "country": "Yemen",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Huna Aden FM",
+    "url": "https://c30.radioboss.fm:18267/stream",
+    "country": "Yemen",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Lana FM",
+    "url": "http://node-24.zeno.fm/542gubz258quv",
+    "country": "Yemen",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "صوت المقاومة",
+    "url": "https://node-23.zeno.fm/b67qheuk54zuv",
+    "country": "Yemen",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Abdulbasit Abdulsamad",
+    "url": "https://radio.mp3islam.com/listen/abdulbasit/radio.mp3",
+    "country": "Yemen",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

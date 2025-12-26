@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Paradise 98FM",
+    "url": "https://radio.vbtc.vu/paradisefm",
+    "country": "Vanuatu",
+    "bitrate": 90,
+    "codec": "MP3"
+  },
+  {
+    "name": "radioalfa tropical5",
+    "url": "http://stream.zeno.fm/x9y4ytkavqzuv",
+    "country": "Vanuatu",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Femme Pawa FM",
+    "url": "https://radio.vbtc.vu/femmefm",
+    "country": "Vanuatu",
+    "bitrate": 90,
+    "codec": "MP3"
+  },
+  {
+    "name": "BUZZ FM 96.3",
+    "url": "https://streamer.dailypost.vu/live",
+    "country": "Vanuatu",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

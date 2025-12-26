@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dabanga Radio",
+    "url": "https://stream.dabangasudan.org/",
+    "country": "Sudan",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dial Radio",
+    "url": "https://cast.dialradio.live/stream.aac",
+    "country": "Sudan",
+    "bitrate": 128,
+    "codec": "AAC"
+  }
+]

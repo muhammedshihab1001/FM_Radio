@@ -1,0 +1,4412 @@
+[
+  {
+    "name": "Radio Biedrzychowice",
+    "url": "http://195.164.158.230:9070/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radioparty.pl Energy 2000 AAC+",
+    "url": "http://s2.radioparty.pl:8040/energy2000",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio DHT (kanał główny)",
+    "url": "https://radiodht.com/stream_main/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kapitał",
+    "url": "https://radiokapitalpl.out.airtime.pro/radiokapitalpl_a",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage - Italo Dance",
+    "url": "https://ssl-1.radiohost.pl:9569/stream",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "24Dubstep.pl || CalmFlow",
+    "url": "https://stream.24dubstep.pl/listen/chillstep/mp3_normal",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "CoSTa's Ambient Radio",
+    "url": "https://pc.costa-server.info.pl:11020/listen/costas_ambient_radio/radio.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Alternatywa + FAKTY",
+    "url": "http://195.150.20.7/ALTERNATYWAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Gdynia Radio",
+    "url": "http://51.255.8.139:8064/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RM80",
+    "url": "http://91.232.4.33:9011/stream",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 80s",
+    "url": "http://195.150.20.9/80S",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio OIOM",
+    "url": "http://s3.slotex.pl:7240/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Italo4you 64kbps",
+    "url": "http://s0.radiohost.pl:8018/Italo4you",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 80s + FAKTY",
+    "url": "http://195.150.20.9/80SF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 60s",
+    "url": "http://195.150.20.242:8000/rmf_60s",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fama Slupsk",
+    "url": "http://stream3.nadaje.com:9024/listen.pls?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio40plus",
+    "url": "http://s1.slotex.pl:7178/listen.xtl?sid=1",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 2000 + FAKTY",
+    "url": "http://31.192.216.7/2000F",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 2000",
+    "url": "http://31.192.216.7/2000",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radioparty.pl Vocal Trance",
+    "url": "http://s2.radioparty.pl:8025/vocaltrance",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Party + FAKTY",
+    "url": "http://195.150.20.7/PARTYF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "rp",
+    "url": "http://s1.radioparty.pl:8000/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Party",
+    "url": "http://195.150.20.7/PARTY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio pejpal",
+    "url": "https://radio.pejpal.cloud/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RMF Hard and Heavy",
+    "url": "http://31.192.216.10/HARDHEAVY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radioparty.pl",
+    "url": "http://s7.radioparty.pl:8000/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radioparty.pl ACC+",
+    "url": "http://s2.radioparty.pl:7000/stream64aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 70s",
+    "url": "http://31.192.216.7/70S",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Koszalin S.A.",
+    "url": "http://91.232.4.33:9680/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Paranormalium",
+    "url": "http://shoutcast.paranormalium.pl:8000/5",
+    "country": "Poland",
+    "bitrate": 24,
+    "codec": "AAC"
+  },
+  {
+    "name": "Idź Pod Prąd FM",
+    "url": "http://idzpodprad.out.airtime.pro:8000/idzpodprad_a",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Blues",
+    "url": "http://31.192.216.10/BLUES",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Blues + FAKTY",
+    "url": "http://31.192.216.10/BLUESF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Chrzescijanin - 2",
+    "url": "http://s1.slotex.pl:7002/;",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Pallotti.fm",
+    "url": "http://s1.slotex.pl:7074/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chrzescijanin Biblia",
+    "url": "http://s1.slotex.pl:7116/;",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Chillout",
+    "url": "http://31.192.216.8/CHILLOUT",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Chillout + FAKTY",
+    "url": "http://31.192.216.8/CHILLOUTF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Swieta + FAKTY",
+    "url": "http://195.150.20.7/SWIETAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Swieta",
+    "url": "http://195.150.20.7/SWIETA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Aniol Beskidów",
+    "url": "http://media.aniolbeskidow.pl:22000/listen.pls?sid=1",
+    "country": "Poland",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Celtic",
+    "url": "http://31.192.216.7/CELTIC",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Jazzkultura",
+    "url": "http://stream.radio.co/s1136b59f3/listen",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Club + FAKTY",
+    "url": "http://31.192.216.7/CLUBF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "InterStacja",
+    "url": "http://4stream.pl:18322/;stream.nsv",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Club",
+    "url": "http://31.192.216.7/CLUB",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Cuba + FAKTY",
+    "url": "http://31.192.216.8/CUBAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pasja - Klubowa 128kb/s",
+    "url": "http://91.232.4.33:9460/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Relaks 128kb/s",
+    "url": "http://91.232.4.33:8102/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Relaks + FAKTY",
+    "url": "http://31.192.216.8/RELAKSF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Smooth Jazz + FAKTY",
+    "url": "http://31.192.216.8/SJAZZF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Smooth Jazz",
+    "url": "http://31.192.216.8/SJAZZ",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mirage - Prywatka Channel",
+    "url": "http://91.232.4.33:7214/Stream1",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FITNESS FAKTY",
+    "url": "http://195.150.20.7/rmf_fitness_f",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Manhattan",
+    "url": "http://s1.slotex.pl:7780/stream",
+    "country": "Poland",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 80s Disco + FAKTY",
+    "url": "http://195.150.20.9/80SDISCOF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Fitness + FAKTY",
+    "url": "http://31.192.216.7/FITNESSF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Fitness",
+    "url": "http://31.192.216.7/FITNESS",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Safira",
+    "url": "http://stream12.hosterion.pl/stream/safira",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Internetowe Radio Mittendrin",
+    "url": "http://s1.slotex.pl:7592/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Francais + FAKTY",
+    "url": "http://195.150.20.7/FRANCAISF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Hot new + FAKTY",
+    "url": "http://195.150.20.9/HOTNEWF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Hot new",
+    "url": "http://195.150.20.9/HOTNEW",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Hip Hop + FAKTY",
+    "url": "http://195.150.20.8/HIPHOPF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Gold + FAKTY",
+    "url": "http://195.150.20.9/GOLDF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "rmfa classic",
+    "url": "http://195.150.20.242:8000/rmf_classic",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Grunge + FAKTY",
+    "url": "http://195.150.20.7/GRUNGEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF POPLISTA",
+    "url": "http://195.150.20.242:8000/rmf_poplista",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF24",
+    "url": "http://rmfstream1.interia.pl/rmf_24",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX KROSNO",
+    "url": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_ksn",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova",
+    "url": "http://ic1.smcdn.pl/1510-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ALEX/RMF ON",
+    "url": "http://195.150.20.7/radio_alex",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SUPER NOWA RZESZÓW",
+    "url": "http://ic1.smcdn.pl/1240-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Pop 128kb/s",
+    "url": "http://91.232.4.33:8084/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 5 Lagodne Przeboje",
+    "url": "http://31.192.216.8/RMF5",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 2 Pop + FAKTY",
+    "url": "http://195.150.20.8/RMF2F",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mbox",
+    "url": "http://panel.radiombox.pl/radio/8000/RadioMbox128",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM",
+    "url": "http://www.emsoft.ct8.pl/inne/time.m3u?id=3990",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Victoria",
+    "url": "http://stream.v4.radiovictoria.pl:8176/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Dla dzieci",
+    "url": "http://195.150.20.8/BABY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Dla dzieci + FAKTY",
+    "url": "http://195.150.20.8/BABYF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Łódź",
+    "url": "http://217.113.224.171/RadioLodz-1-HQ.aac",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMF FM",
+    "url": "http://195.150.20.242:8000/rmf_fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Stargard 90,3 FM - Twoje pierwsze radio",
+    "url": "http://51.77.59.65:8100/stream.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Michael Jackson",
+    "url": "http://195.150.20.9/MICHALEJACKSON",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Twoje Radio Szczecin",
+    "url": "http://51.77.59.65:8000/stream.ogg",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "RMF 90s Dance",
+    "url": "http://195.150.20.7/90SDANCE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Piosenka literacka + FAKTY",
+    "url": "http://31.192.216.7/PIOSENKALITERACKAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Beatlemania",
+    "url": "http://195.150.20.8/BEATLEMANIA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Styl",
+    "url": "http://31.192.216.7/STYL",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Depeche Mode + FAKTY",
+    "url": "http://31.192.216.7/DEPECHEMODEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 80s Disco",
+    "url": "http://195.150.20.9/80SDISCO",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio RMF - 2000",
+    "url": "http://195.150.20.7/2000",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Grunge",
+    "url": "http://195.150.20.7/GRUNGE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Akademickie Radio Centrum UMCS",
+    "url": "http://5.201.13.191/live",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gra Torun",
+    "url": "http://31.192.216.7:8000/radio_gra",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RMF - 80s Disco",
+    "url": "http://31.192.216.10/80SDISCO",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Niezapomniane melodie + FAKTY",
+    "url": "http://31.192.216.10/NIEZAPOMNIANEMELODIEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Niezapomniane melodie",
+    "url": "http://31.192.216.10/NIEZAPOMNIANEMELODIE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Reggae + FAKTY",
+    "url": "http://195.150.20.7/REGGAEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Francais",
+    "url": "http://195.150.20.7/FRANCAIS",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Przeboj roku + FAKTY",
+    "url": "http://31.192.216.10/PRZEBOJROKUF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Alternatywa",
+    "url": "http://195.150.20.7/ALTERNATYWA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Przeboj roku",
+    "url": "http://31.192.216.10/PRZEBOJROKU",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF w pracy",
+    "url": "http://31.192.216.10/WPRACY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Gold",
+    "url": "http://195.150.20.9/GOLD",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Michael Jackson + FAKTY",
+    "url": "http://195.150.20.9/MICHALEJACKSONF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF w pracy + FAKTY",
+    "url": "http://31.192.216.10/WPRACYF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO CLUB DJ",
+    "url": "http://4stream.pl:18272/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 20 lat + FAKTY",
+    "url": "http://31.192.216.7/20LATF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 20 lat",
+    "url": "http://31.192.216.7/20LAT",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Piosenka literacka",
+    "url": "http://31.192.216.7/PIOSENKALITERACKA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Reggae",
+    "url": "http://195.150.20.7/REGGAE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Trend sounds",
+    "url": "http://195.150.20.7/TRENDSOUNDS",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Trend sounds + FAKTY",
+    "url": "http://195.150.20.7/TRENDSOUNDSF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Beatlemania + FAKTY",
+    "url": "http://195.150.20.8/BEATLEMANIAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF PRL",
+    "url": "http://195.150.20.8/PRL",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Queen + FAKTY",
+    "url": "http://195.150.20.8/QUEENF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF PRL + FAKTY",
+    "url": "http://195.150.20.8/PRLF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Queen",
+    "url": "http://195.150.20.8/QUEEN",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 2 Pop",
+    "url": "http://195.150.20.8/RMF2",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Rock Progresywny",
+    "url": "http://195.150.20.8/ROCKPROGRESYWNY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Rock Progresywny + FAKTY",
+    "url": "http://195.150.20.8/ROCKPROGRESYWNYF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio TCZEW",
+    "url": "http://195.191.180.5:8000/live",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Polski Rock",
+    "url": "http://195.150.20.9/rmf_polski_rock",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FM",
+    "url": "http://195.150.20.9/RMFFM48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Szanty",
+    "url": "http://217.74.72.11/SZANTY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Chopin + FAKTY",
+    "url": "http://31.192.216.8/CHOPINF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Relaks",
+    "url": "http://31.192.216.8/RELAKS",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Classic",
+    "url": "http://31.192.216.8/RMFCLASSIC48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Maryja",
+    "url": "http://51.68.135.155/stream",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Wesołe Slonzoki",
+    "url": "http://51.255.8.139:8380/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chilli ZET Deep",
+    "url": "http://ch02.cdn.eurozet.pl/CHIDEP.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Karolinka",
+    "url": "http://91.232.4.33:8358/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja 128kb/s",
+    "url": "http://91.232.4.33:8049/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Makak",
+    "url": "http://an.cdn.eurozet.pl/ANTMAK.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Covers",
+    "url": "http://an.cdn.eurozet.pl/ANTCOV.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wnet",
+    "url": "http://audio.radiownet.pl:8000/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Racja",
+    "url": "http://air.racyja.com:8000/aacp128",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Disco Radio",
+    "url": "http://kiyi.radioca.st:8108/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA GORĄCA 100",
+    "url": "http://ic1.smcdn.pl/6120-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO SUPER EXPRESS",
+    "url": "http://ic1.smcdn.pl/6260-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nowinki",
+    "url": "http://nowinki.pk.edu.pl:8000/nowinki",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Jard",
+    "url": "http://online.jard.pl:8744/jard1",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET DANCE",
+    "url": "http://pl01.cdn.eurozet.pl/ZETDAN.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MELORADIO POZNAŃ",
+    "url": "http://ml03.cdn.eurozet.pl/mel-poz.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Strefa FM",
+    "url": "http://play.strefa.fm:8000/strefa.ogg",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio Strefa FM",
+    "url": "http://play.strefa.fm:8000/strefa.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "PLUS",
+    "url": "http://plus-gdansk-01.eurozet.pl:8500/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pogoda Poznan",
+    "url": "http://radiostream.pl/tuba138-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio złote przeboje",
+    "url": "http://radiostream.pl/tuba8928-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Złote Przeboje Poznań",
+    "url": "http://radiostream.pl/tuba8926-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Vanessa",
+    "url": "http://s1.slotex.pl:7358/;;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMC - RADIO MUZYKA CZLOWIEK",
+    "url": "http://s1.slotex.pl:7030/stream/",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ostrowiec 95.2 FM",
+    "url": "http://s1.slotex.pl:7050/stream/1/;?type=http",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zaebista Imprezka",
+    "url": "http://s1.slotex.pl:7722/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Light Motiv",
+    "url": "http://s3.slotex.pl:7226/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Margaretka FM",
+    "url": "http://s3.slotex.pl:7260/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rodzina",
+    "url": "http://sluchaj.radiorodzina.pl/RadioRodzinaWroclawLIVE.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ThomCarst",
+    "url": "http://s3.slotex.pl:7248/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Jutrzenka",
+    "url": "http://sluchaj.radiojutrzenka.waw.pl:12854/test",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gdansk",
+    "url": "http://stream.task.gda.pl:8000/rg1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Akademickie Radio Luz 91.6",
+    "url": "http://stream.radioluz.pl:8000/luz_hifi.mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tatry",
+    "url": "http://stream.radiotatry.com:6820/radiotatry.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio PiK",
+    "url": "http://stream.radiopik.pl:9004/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BEST Radio (128Kbps)",
+    "url": "http://stream.radiobest.eu:8000/128",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BEST Radio (192Kbps)",
+    "url": "http://stream.radiobest.eu:8000/192",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BEST Radio (64Kbps)",
+    "url": "http://stream.radiobest.eu:8000/64",
+    "country": "Poland",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Baobab",
+    "url": "http://stream.radiobaobab.pl:8000/radiobaobab.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BEST Radio (28Kbps)",
+    "url": "http://stream.radiobest.eu:8000/28",
+    "country": "Poland",
+    "bitrate": 28,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio SUD",
+    "url": "http://stream2.nadaje.com:8012/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Szczecin (128K MP3)",
+    "url": "http://stream4.nadaje.com:11986/prs",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Szczecin (64K AAC)",
+    "url": "http://stream4.nadaje.com:11986/prs.aac",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Warszawa 106.2",
+    "url": "http://streaming01.technologicznie.net:8765/radio_warszawa.mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polskie Radio RDC - Radio Dla Ciebie",
+    "url": "http://stream2.nadaje.com:11140/rdc",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Malbork",
+    "url": "http://stream3.nadaje.com:9022/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RAM (AAC)",
+    "url": "http://stream2.nadaje.com:9228/ram.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Konin FM",
+    "url": "http://stream2.technologicznie.net/konin.fm",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polskie Radio Bialystok",
+    "url": "http://stream4.nadaje.com:15476/radiobialystok",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Polskie Radio Poznań",
+    "url": "http://stream4.nadaje.com:8578/poznan",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rekord Radio Świętokrzyskie",
+    "url": "http://stream4.nadaje.com:8308/ostrowiec",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Polskie Radio Katowice",
+    "url": "http://stream4.nadaje.com:9212/radiokatowice",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RAM",
+    "url": "http://stream4.nadaje.com:9220/ram",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Parada 96.00 fm",
+    "url": "http://stream4.nadaje.com:15274/live",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wroclaw",
+    "url": "http://stream4.nadaje.com:9240/prw",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wroclaw Kultura",
+    "url": "http://stream4.nadaje.com:9230/rwkultura",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TOK   Muzyka",
+    "url": "http://stream10.radioagora.pl/ytBTynyvd3e.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01",
+    "url": "http://zt01.cdn.eurozet.pl/zet-old.mp3?redirected=01",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zet",
+    "url": "http://zet-net-01.cdn.eurozet.pl:8400/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radioparty.pl Trance Party",
+    "url": "http://trance.radioparty.pl:8015/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Latino",
+    "url": "https://ch.cdn.eurozet.pl/ZETLTN.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ChilliZet Covers",
+    "url": "https://ch01.cdn.eurozet.pl/CHICOV.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Plus Bydgoszcz",
+    "url": "https://pl.cdn.eurozet.pl/plu-bdg.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM 128kbps",
+    "url": "https://pldm.one.pl/radio?url=https://www.eskago.pl/radio/vox-fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Afera",
+    "url": "https://radio.afera.com.pl/afera128.ogg",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radio Dimash",
+    "url": "https://samcloud.spacial.com/API/listen?sid=125052&rid=262397&f=mp3,any%20&br=128000,any&m=m3u",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Złote Przeboje Bydgoszcz",
+    "url": "https://radiostream.pl/tuba8902-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Złote Przeboje Wrocław",
+    "url": "https://radiostream.pl/tuba9-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Złote Przeboje Białystok",
+    "url": "https://radiostream.pl/tuba8900-1.mp3?cache=1647512038",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Olsztyn",
+    "url": "https://rostr1.radioolsztyn.pl:8443/RO",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bahary",
+    "url": "https://s1.slotex.pl/shoutcast/7838/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elbląg",
+    "url": "https://rostr1.radioolsztyn.pl:8543/ELBLAG",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zloteprzeboje",
+    "url": "https://radiostream.pl/tuba8904-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zlote Przeboje Wroclaw",
+    "url": "https://radiostream.pl/tuba8940-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tango Uno",
+    "url": "https://radiotangouno-online.pl/radio/8000/radio.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Wiatraczek",
+    "url": "https://s3.slotex.pl:7082/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio MagMa",
+    "url": "https://s3.slotex.pl:7180/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pogoda",
+    "url": "https://radiostream.pl/tuba140-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TokFM",
+    "url": "https://radiostream.pl/tuba10-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TOK FM",
+    "url": "https://radiostream.pl/tuba10-1.mp3#TOK_FM",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Italo4you",
+    "url": "https://ssl-1.radiohost.pl:8018/stream",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage - Space",
+    "url": "https://ssl-1.radiohost.pl:9563/stream?ver=987766",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nocne Radio",
+    "url": "https://stream.nocneradio.pl/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Orthodoxia",
+    "url": "https://stream.orthodoxia.pl/stream192.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Imperium",
+    "url": "https://stream.radioimperium.pl:8443/stream",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kampus 97,1 FM",
+    "url": "https://stream.radiokampus.fm/kampus",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ŁÓDŹ",
+    "url": "https://stream.radiolodz.pl/RadioLodz-1-HQ.aac",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "RADIO ŁÓDŹ EXTRA",
+    "url": "https://stream.radiolodz.pl/RadioLodz-2-HQ.aac",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Warszawa 106.2 FM",
+    "url": "https://stream2.technologicznie.net/radio_warszawa.mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gdańsk REGIONY DAB2",
+    "url": "https://stream.task.gda.pl:8443/rg4",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Super FM 97,5 FM - Szczecin",
+    "url": "https://stream.super.fm:8443/superfm.mp3?1703660705890",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super FM 97.5",
+    "url": "https://stream.super.fm:8443/superfm.mp3?1697692156303",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trendy Radio Mobile",
+    "url": "https://stream.trendyradio.pl/m",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "OGG"
+  },
+  {
+    "name": "RMF TOP 30 DANCE",
+    "url": "http://195.150.20.244/rmf_top_5_dance",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF PIOSENKA FILMOWA",
+    "url": "http://217.74.72.10/rmf_piosenka_filmowa",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM 128",
+    "url": "https://ic2.smcdn.pl/3990-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage - Euro Dance",
+    "url": "http://s0.radiohost.pl:9569/;",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Uniwersytet",
+    "url": "https://www.radiouniwersytet.pl/ru192.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SuperNova Rock",
+    "url": "https://waw.ic.smcdn.pl/6090-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Dance",
+    "url": "http://rmfstream1.interia.pl:8000/rmf_dance",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Classic",
+    "url": "http://rmfstream1.interia.pl:8000/rmf_classic",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Eska 2 Kultowe Polskie",
+    "url": "https://waw.ic.smcdn.pl/6040-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Plus 106.1 Kraków",
+    "url": "https://waw.ic.smcdn.pl/4070-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA Ostrzeszów",
+    "url": "https://waw.ic.smcdn.pl/2500-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Opatów",
+    "url": "http://stream2.nadaje.com:11144/;stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Same Hity",
+    "url": "https://zt.cdn.eurozet.pl/ZETHIT.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Na Swieta",
+    "url": "https://zt.cdn.eurozet.pl/ZETSWI.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Impreza",
+    "url": "https://zt.cdn.eurozet.pl/ZETPAR.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF HOT NEW",
+    "url": "http://195.150.20.245/rmf_hot_new",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska - Białystok",
+    "url": "https://waw.ic.smcdn.pl/2020-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "KChT",
+    "url": "https://www.radioking.com/play/kcht/320404",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Eska Opole",
+    "url": "https://waw.ic.smcdn.pl/2120-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Hip Hop",
+    "url": "http://195.150.20.8/HIPHOP",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Aktywne",
+    "url": "https://listen.radioaktywne.pl/ramp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fama Zyrardow",
+    "url": "http://stream4.nadaje.com:13770/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Afera",
+    "url": "http://radio.afera.com.pl/afera128.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chilli Zet",
+    "url": "https://ch.cdn.eurozet.pl/chi-net.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Savana",
+    "url": "https://s1.slotex.pl/shoutcast/7434/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://radiostream.pl/tuba8-1.mp3?cache=1650763965",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Emaus",
+    "url": "http://stream.radioemaus.pl:8000/oggstream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "EL-Stacja HQ",
+    "url": "http://radio.el-stacja.pl:8000/elstacja320mp3",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZET",
+    "url": "https://hub.radiostream.pl/stream.pls?radio=8400&type=none&dist=zet&app=none&coding=aac&redirect=true",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Warmii i Mazur",
+    "url": "https://rostr1.radioolsztyn.pl:8843/RWiM",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock Radio - Kraków",
+    "url": "http://radiostream.pl/tuba9000-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bonton Chełm",
+    "url": "http://streaming.inten.pl:8022/bonton.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SmoothJazz.com.pl 320k MP3",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl320mp3",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 7",
+    "url": "http://137.74.5.240:443/;stream.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio FTM",
+    "url": "https://s1.slotex.pl:7792/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA IMPRESKA",
+    "url": "http://ic1.smcdn.pl/6030-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA GORĄCA 20",
+    "url": "http://ic1.smcdn.pl/6130-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA DO PRACY",
+    "url": "http://ic1.smcdn.pl/6140-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA 2 KONIN",
+    "url": "http://ic1.smcdn.pl/1530-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska - Rzeszów",
+    "url": "http://ic1.smcdn.pl/2240-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Afera 98,6 MHz",
+    "url": "https://radio.afera.com.pl/afera128.mp3?no_cache=0.982752767360271",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA GO",
+    "url": "http://ic1.smcdn.pl/6200-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA NEWS WROCŁAW",
+    "url": "http://ic1.smcdn.pl/6250-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Eska Kraków",
+    "url": "http://ic1.smcdn.pl/2070-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska Szczecin",
+    "url": "http://ic1.smcdn.pl/2260-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja Warszawa",
+    "url": "http://91.232.4.33:8049/listen.pls?sid=2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Łódź",
+    "url": "http://217.113.224.171/RadioLodz-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX Szczecin",
+    "url": "http://217.74.72.10/rmf_maxxx_szc",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Plus",
+    "url": "http://waw.ic.smcdn.pl/4990-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio CCM",
+    "url": "https://streaming.live365.com/a16565",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "I Love Music",
+    "url": "https://s3.slotex.pl:7150/stream",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXX SUNRISE",
+    "url": "http://195.150.20.7/MAXXSUNF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Rmf Fm",
+    "url": "http://195.150.20.7/rmf_fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ŁÓDŹ SPORT",
+    "url": "https://stream.radiolodz.pl/RadioLodz-3-HQ.aac",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Eska Wrocław",
+    "url": "http://ic2.smcdn.pl/2180-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Eska Starachowice",
+    "url": "https://ic1.smcdn.pl/2400-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Krupski Młyn",
+    "url": "http://s3.slotex.pl:7346/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Magic Dance",
+    "url": "http://s1.slotex.pl:7686/stream",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "MELORADIO FAST SONGS",
+    "url": "http://ml02.cdn.eurozet.pl/MELFST.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MELORADIO HOT DANCE",
+    "url": "http://ml02.cdn.eurozet.pl/MELHDN.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Dance",
+    "url": "http://31.192.216.10/DANCE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ESKA Warszawa",
+    "url": "http://waw.ic.smcdn.pl/2380-2.aac",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio ESKA Braniewo",
+    "url": "http://waw.ic.smcdn.pl/2520-2.aac",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio RMF MAXX",
+    "url": "http://rs202-krk.rmfstream.pl/RMFMAXXX48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Republika",
+    "url": "https://ssl-1.radiotvrepublika.pl:12698/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova Jelenia Góra",
+    "url": "http://ic1.smcdn.pl/1480-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pogoda Gdańsk",
+    "url": "http://radiostream.pl/tuba145-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova Gdańsk",
+    "url": "http://ic1.smcdn.pl/1170-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova Kielce",
+    "url": "http://ic1.smcdn.pl/1050-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova Wrocław",
+    "url": "http://ic1.smcdn.pl/1180-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova Szczecin",
+    "url": "http://ic1.smcdn.pl/1260-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "supernova",
+    "url": "https://ic1.smcdn.pl/1070-2.aac",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Plus Gdansk",
+    "url": "https://pl05.cdn.eurozet.pl/plu-gdn.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Supernova Party",
+    "url": "https://ic2.smcdn.pl/6160-1.mp3#Supernova_Party",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Supernova Super 13",
+    "url": "https://ic2.smcdn.pl/6230-1.mp3#Supernova_Party",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RMF MAXX Warszawa",
+    "url": "http://rs202-krk.rmfstream.pl/MAXXXWAW",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Mbox - Gold Hits",
+    "url": "http://s3.slotex.pl:7276/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Relax",
+    "url": "http://s1.slotex.pl:7614/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mbox - Disco Polo",
+    "url": "http://s3.slotex.pl:7222/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Śląskie Radio",
+    "url": "https://stream10.hosterion.pl:7032/;?v=63125/;type=mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Akademickie Radio LUZ",
+    "url": "https://stream.radioluz.pl:8443/luz_hifi.mp3?1744349689809",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "TOK FM",
+    "url": "http://radiostream.pl/tuba10-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Bohema Radio",
+    "url": "http://s3.slotex.pl:7262/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio.pl",
+    "url": "http://51.255.8.139:9090/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chrzescijanin Dzieci",
+    "url": "http://s1.slotex.pl:7410/;",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Gra Wrocław",
+    "url": "http://rmfstream2.interia.pl:8000/radio_gra_wroc",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FSSPX Radio",
+    "url": "http://radio.fsspx.pl:8000/radio.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM DISCO 90",
+    "url": "http://ic1.smcdn.pl/6170-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM DISCO PARTY",
+    "url": "http://ic1.smcdn.pl/6180-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM HIT 22",
+    "url": "http://ic1.smcdn.pl/6020-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM BEST LISTA",
+    "url": "http://ic1.smcdn.pl/6100-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Warszawa",
+    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1703697029993",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wesoła 43",
+    "url": "http://s1.slotex.pl:7650/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX DJ Mix",
+    "url": "http://waw.ic.smcdn.pl/6020-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Polskie przeboje",
+    "url": "http://195.150.20.8/PPRZEBOJE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radioparty.pl Dj Mixes Party",
+    "url": "http://djmixes.radioparty.pl:8035/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 90s",
+    "url": "http://31.192.216.7/90S",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio RMF MAXXX",
+    "url": "https://rs9-krk2-cyfronet.rmfstream.pl/RMFMAXXX48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ESKA ROCK",
+    "url": "https://ic2.smcdn.pl/5380-1.mp3#ESKA_ROCK",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Silesia",
+    "url": "http://s1.slotex.pl:7926/",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radioparty.pl House Party",
+    "url": "http://house.radioparty.pl:8010/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nowy Świat 256k",
+    "url": "https://go-audio.toya.net.pl/63214",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio RMF24.pl",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/RMF24?aw_0_req.gdpr=false&aw_0_req.userConsentV2=&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radioparty.pl Energy2000",
+    "url": "http://energy2000.radioparty.pl:8005/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FM",
+    "url": "http://31.192.216.8/rmf_fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Ballady",
+    "url": "http://195.150.20.7/NOSTALGIA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Wnet.fm",
+    "url": "https://media.wnet.fm/wnet.fm",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Plus",
+    "url": "https://pl02.cdn.eurozet.pl/plu-waw.mp3?redirected=02",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Cuba",
+    "url": "http://31.192.216.8/CUBA",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio RMF24.PL",
+    "url": "https://rs201-krk.rmfstream.pl/RMF24",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RadioFEST",
+    "url": "https://play.radiofest.pl:8443/fest",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Depeche Mode",
+    "url": "http://31.192.216.7/DEPECHEMODE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Jasna Gora",
+    "url": "http://online.radiojasnagora.pl:8000/rjg",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kampus",
+    "url": "http://193.0.98.66:8005/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA - Do Pracy",
+    "url": "https://waw.ic.smcdn.pl/6140-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Party - Kanał Główny",
+    "url": "https://s2.radioparty.pl:8015/stream?nocache=4171",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA POZNAŃ",
+    "url": "https://ic2.smcdn.pl/2140-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "InterStacja - Disco Polo",
+    "url": "http://4stream.pl:18274/;stream.nsv",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA - Summer City",
+    "url": "https://waw.ic.smcdn.pl/6120-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anty Radio",
+    "url": "https://an.cdn.eurozet.pl/ant-web.mp3?t=1713710188361",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA - Gorąca 20",
+    "url": "https://waw.ic.smcdn.pl/6130-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chillout Radio",
+    "url": "http://panel.nadaje.com:9004/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "InterStacja - Disco Polo",
+    "url": "http://4stream.pl:18274/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX Hop bec",
+    "url": "http://31.192.216.10/HOPBEC",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Eska Warszawa",
+    "url": "https://waw.ic.smcdn.pl/2380-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rekord FM",
+    "url": "http://stream2.nadaje.com:8108/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Anime24",
+    "url": "http://91.232.4.33:7028/;",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Polskie przeboje + FAKTY",
+    "url": "http://195.150.20.8/PPRZEBOJEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Rock",
+    "url": "http://195.150.20.7/ROCK",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio TOP80",
+    "url": "https://top80.pl:8000/listen.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX 99.7 Pomorze",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/rmf_maxxx?aw_0_1st.playerid=RMF_TuneIn&skey=1616600473",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Classic Rock",
+    "url": "https://an01.cdn.eurozet.pl/ANTCLA.mp3?redirected=01",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Rzeszów",
+    "url": "https://streaming.g-news.pl:8040/rzeszow",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Eska Warszawa",
+    "url": "http://waw.ic.smcdn.pl/2380-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DISCOPARTY.PL - Kanał disco",
+    "url": "https://s1.slotex.pl/shoutcast/7432/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mirage Space",
+    "url": "http://s0.radiohost.pl:9563/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Ballady + FAKTY",
+    "url": "http://195.150.20.7/NOSTALGIAF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "SmoothJazz.com.pl 192k aac+",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl192aac",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "DISCOPARTY.PL - Kanał Club",
+    "url": "https://s3.slotex.pl/shoutcast/7354/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Koledy",
+    "url": "http://31.192.216.7/KOLEDY",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Sloneczne Przeboje",
+    "url": "http://195.150.20.8/SPRZEBOJE",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Disco-Dance",
+    "url": "https://radiodd.cloud/radio/8000/radio.mp3",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "InterStacja - Oldies",
+    "url": "http://4stream.pl:18290/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Katolickie Radio Rzeszow - VIA",
+    "url": "http://62.133.128.18:8040/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Meloradio Delicate",
+    "url": "https://ml06.cdn.eurozet.pl/MELDEL.mp3?redirected=06",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Silesia FM",
+    "url": "https://s1.slotex.pl/shoutcast/7926/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rmf Fm Polska",
+    "url": "https://rs101-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Muzyczne Radio",
+    "url": "http://stream3.technologicznie.net/muzyczne_radio_192.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slonskie Radio Hitmix",
+    "url": "http://s1.slotex.pl:7294/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trendy Radio",
+    "url": "http://stream.trendyradio.pl:8000/h",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Super FM",
+    "url": "http://stream.super.fm:8000/superfm.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Katolickie Radio Podlasie",
+    "url": "http://s1.slotex.pl:7038/",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio RMF",
+    "url": "https://rs201-krk-cyfronet.rmfstream.pl/HARDHEAVY?listenerid=22faa5bd029362874d207dd68f5e4954&awparams=companionAds%3Atrue&aw_0_1st.version=1.1.4%3Ahtml5&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.skey=1649088434&aw_0_req.gdpr=false&aw_0_req.userConsentV2=CPW7rKhPW7rKhFKACAPLCHCgAAAAAEPAAB5YAAARTAJMNS8gC7EscGRaNKoUQIwrCQqgUAFFAMLREYAODgp2VgEuoAWACAVARgRAgxBRgwCAAQCAJCIgJACwQCIAiAAAAgARgIQAETAILACwMAgAFANCxACgAECQgyOCo5TAgIkWiglsrEEoK9hTCAMssAKBRGRUACJAgAWBkJCwcxwBICXCyQJMELxACMAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=true",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "InterStacja - Club",
+    "url": "http://4stream.pl:18268/;stream.nsv",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nakło",
+    "url": "http://sluchaj2.107i5.fm:10750/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chrzescijanin Muzyka instrumentalna",
+    "url": "http://s1.slotex.pl:7172/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Wasze Radio FM",
+    "url": "https://sluchaj.link:5443/wasze",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Misiek",
+    "url": "http://stream.zeno.fm/5hfdntgf8yzuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMF Classic Rock",
+    "url": "https://rs201-krk.rmfstream.pl/rmf_classic_rock",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Plus Krakow",
+    "url": "https://ic2.smcdn.pl/4070-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Made In Poland",
+    "url": "https://an04.cdn.eurozet.pl/ANTPOL.mp3?t=1668748669557?redirected=04",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage - ItaloDance Channel",
+    "url": "http://91.232.4.33:9569/Stream1",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Katolickie Radio Diecezji Plockiej",
+    "url": "http://s1.slotex.pl:7760/",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitradio",
+    "url": "http://51.255.8.139:9090/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio",
+    "url": "https://c16.radioboss.fm:18014/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF3 Pop Rock",
+    "url": "http://195.150.20.8/RMF3",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kiss FM Poland",
+    "url": "https://streaming.g-news.pl:8090/kissfm",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Zet na Rower -om",
+    "url": "https://zt06.cdn.eurozet.pl/ZETNAR.mp3?t=1709720397160?redirected=06",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska zamość 128",
+    "url": "https://ic2.smcdn.pl/2230-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "PLANETA FM",
+    "url": "http://pl01.cdn.eurozet.pl/pla-net.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Meloradio Wrocław",
+    "url": "https://ml02.cdn.eurozet.pl/mel-wro.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Damismania Dj Radio",
+    "url": "http://s1.slotex.pl:7512/",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chrystusa Króla",
+    "url": "http://4stream.pl:18044/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ESKA - Impreska",
+    "url": "https://waw.ic.smcdn.pl/6030-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Koszalin",
+    "url": "http://91.232.4.33:9680/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zachód (AAC)",
+    "url": "http://stream02.zachod.pl:10113/",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Plus Koszalin",
+    "url": "http://ic1.smcdn.pl/4270-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Różaniec",
+    "url": "http://radio2.rozaniec.info:5696/listen.pls?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Pop Rock",
+    "url": "https://zt.cdn.eurozet.pl/ZETPRK.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kielce",
+    "url": "https://streaming.g-news.pl:8030/rk2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Plus Warszawa",
+    "url": "https://pl.cdn.eurozet.pl/plu-waw.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "InterStacja - Kanał Główny",
+    "url": "http://4stream.pl:18322/;?nocache=1618962538",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage - Prywatka",
+    "url": "https://ssl-1.radiohost.pl:7214/stream?ver=661798",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Polski Hip Hop",
+    "url": "http://217.74.72.10/rmf_trend_sounds",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fara",
+    "url": "http://62.133.128.22:8000/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rock Radio Klasyka Rocka",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/RADIO_ROCK.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Plus Radio  Legnica.FM",
+    "url": "https://player.legnica.fm/listen/radio_plus_legnica/radio256.mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mirage Prywatka",
+    "url": "http://91.232.4.33:7214/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 90s Dance + FAKTY",
+    "url": "http://195.150.20.7/90SDANCEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Disco Party - Disco Impreza",
+    "url": "https://s3.slotex.pl/shoutcast/7046/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "SmoothJazz.com.pl 64k aac+",
+    "url": "https://bcast.vigormultimedia.com:48888/sjcompl64aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CYBERStacja",
+    "url": "https://sc.cyberstacja.pl:8000/radio.mp3",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZET",
+    "url": "https://zt01.cdn.eurozet.pl/zet-net.mp3?redirected=01",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "InterStacja - Club",
+    "url": "http://4stream.pl:18268/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toksyna FM New Romantic",
+    "url": "http://s01.toksyna.fm:8020/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO PLUS",
+    "url": "http://ic1.smcdn.pl/4990-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX KIELCE",
+    "url": "http://rs6-krk2.rmfstream.pl/rmf_maxxx_kie",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXXX Hop bec + FAKTY",
+    "url": "http://31.192.216.10/HOPBECF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Gold Live",
+    "url": "http://s1.slotex.pl:7062/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZET Po Polsku",
+    "url": "https://zt.cdn.eurozet.pl/ZETPL1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zet 90s",
+    "url": "https://zt02.cdn.eurozet.pl/ZET090.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DiscoParty.pl - Disco Impreza",
+    "url": "https://s3.slotex.pl/shoutcast/7046/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FM 128 Kbps",
+    "url": "https://rs101-krk.rmfstream.pl/rmf_fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "House of Funk",
+    "url": "https://houseoffunk.eu:8443/live",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF DANCE FAKTY",
+    "url": "http://195.150.20.7/rmf_dance_f",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toksyna FM Elektronica",
+    "url": "http://s01.toksyna.fm:8010/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Punkowe Radio Underground",
+    "url": "http://s1.slotex.pl:7604/",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MC Radio",
+    "url": "http://stream4.nadaje.com:8624/mcradio",
+    "country": "Poland",
+    "bitrate": 88,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Celtic + FAKTY",
+    "url": "http://31.192.216.7/CELTICF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Znin FM",
+    "url": "http://stream4.nadaje.com:8052/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 4 DANCE & RNB",
+    "url": "https://rs6-krk2.rmfstream.pl/rmf_4",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kujawy",
+    "url": "http://radio.kujawy.info:9940/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Danielka",
+    "url": "http://s3.slotex.pl:7088/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZET - 2000",
+    "url": "https://zt04.cdn.eurozet.pl/ZET200.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska Lublin 128",
+    "url": "https://ic2.smcdn.pl/2130-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polmax Kolędy",
+    "url": "https://stream.zeno.fm/vorzdeodup8uv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Pasja - Chillout 128kb/s",
+    "url": "http://91.232.4.33:8108/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Disco Party - Lata 90.",
+    "url": "https://s3.slotex.pl:7170/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio 7 mlawa",
+    "url": "http://137.74.5.240:443/;",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXX Hop bęc\"",
+    "url": "http://195.150.20.244/rmf_hop_bec",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toksyna FM Chillout & More",
+    "url": "http://s01.toksyna.fm:8050/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Akord",
+    "url": "http://s1.slotex.pl:7122/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Sloneczne Przeboje + FAKTY",
+    "url": "http://195.150.20.8/SPRZEBOJEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pasja - Chillout",
+    "url": "http://91.232.4.33:8108/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Chrześcijanin (Jakość dźwięku (MP3))",
+    "url": "http://s1.slotex.pl:7002/mountpoint",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Marconi PL",
+    "url": "https://stream12.hosterion.pl/stream/radiomarconi",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF LADY PANK",
+    "url": "http://195.150.20.9/LADYPANK",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio UWM FM",
+    "url": "http://213.184.18.156:8000/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio FAMA",
+    "url": "http://stream2.nadaje.com:8076/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Koledy + FAKTY",
+    "url": "http://31.192.216.7/KOLEDYF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Safira",
+    "url": "https://stream12.hosterion.pl/stream/safira",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gorzów",
+    "url": "http://stream02.radiogorzow.pl:10115/",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF 50s",
+    "url": "https://rs101-krk.rmfstream.pl/50S",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Rock + FAKTY",
+    "url": "http://195.150.20.7/ROCKF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antyradio Greatest",
+    "url": "https://an02.cdn.eurozet.pl/ANTGRE.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Leliwa",
+    "url": "https://streaming.g-news.pl/radio/8050/leliwa",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Bravo",
+    "url": "http://31.192.216.8/BRAVO",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antyradio Unplugged",
+    "url": "https://an05.cdn.eurozet.pl/ANTUNP.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DiscoParty.pl - Disco Polo",
+    "url": "https://s1.slotex.pl/shoutcast/7432/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Koszalin Slupsk",
+    "url": "http://91.232.4.33:8240/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Aniołek",
+    "url": "http://stream.zeno.fm/nvz73r6m7yzuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 7 Poland",
+    "url": "https://stream.radio7.pl/;",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Slask",
+    "url": "https://s1.slotex.pl:7022/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chrześcijanin Smooth Jazz",
+    "url": "http://51.255.8.139:9760/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Folk Radio",
+    "url": "https://streaming.g-news.pl:8030/fr1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SoundFM",
+    "url": "http://s1.slotex.pl:7494/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gra Wroclaw",
+    "url": "http://rmfstream2.interia.pl:8000/radio_gra",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF 90s + FAKTY",
+    "url": "http://31.192.216.7/90SF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF MAXXX KRAKÓW",
+    "url": "https://rs102-krk.rmfstream.pl/MAXXXKRA",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO TON PL",
+    "url": "http://s1.slotex.pl:7310/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cyganeczka",
+    "url": "https://s1.slotex.pl/shoutcast/7474/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pasja - Dance 128kb/s",
+    "url": "http://91.232.4.33:9466/stream2",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chillizet Ladies -om",
+    "url": "https://ch01.cdn.eurozet.pl/CHILAD.mp3?t=1709721264195?redirected=01",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Meloradio Kielce",
+    "url": "https://ml03.cdn.eurozet.pl/mel-klc.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JUMP Radio",
+    "url": "http://radioo.eu:9900/",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio Hard",
+    "url": "https://an05.cdn.eurozet.pl/ANTHAR.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mbox - Polska Muzyka",
+    "url": "https://s3.slotex.pl:7072/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "U-RADIO TRANCE",
+    "url": "http://stream.zeno.fm/n8yr1d9g9whvv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kolobrzeg",
+    "url": "http://graj.radiokolobrzeg.pl:8000/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Ocean Dusz",
+    "url": "http://s1.slotex.pl:7022/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Dance + FAKTY",
+    "url": "http://31.192.216.10/DANCEF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Zet Love -om",
+    "url": "https://zt06.cdn.eurozet.pl/ZETLOV.mp3?t=1709719922445?redirected=06",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "4Music",
+    "url": "https://s1.slotex.pl/shoutcast/7102/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radiospin",
+    "url": "http://s01.toksyna.fm:8100/",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Max Hit Polska",
+    "url": "http://s3.slotex.pl:7370/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mbox",
+    "url": "https://s1.slotex.pl/shoutcast/7462/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Koszalin Słupsk",
+    "url": "https://ssl-1.radiohost.pl:8240/stream?type=https&nocache=",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO WARTA",
+    "url": "http://s1.slotex.pl:7446/;",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio ZET 128 Kbps",
+    "url": "https://zt02.cdn.eurozet.pl/zet-old.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF TOP 30 POP",
+    "url": "http://195.150.20.245/rmf_top_5_pop",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio MIX",
+    "url": "https://radiozender.mpbnetwerken.nl/radiomix.mp3",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dzwiek",
+    "url": "http://s3.slotex.pl:7408/;",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Glos",
+    "url": "http://87.204.92.180:8000/",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Slupsk",
+    "url": "http://91.232.4.33:8240/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Melody Express",
+    "url": "https://s1.slotex.pl/shoutcast/7588/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Game Music",
+    "url": "http://195.150.20.243:8000/rmf_gamemusic",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toksyna FM",
+    "url": "http://s01.toksyna.fm:8000/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Armageddon",
+    "url": "https://ssl-1.radiohost.pl:11608/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 40plus Forty Plus",
+    "url": "https://s1.slotex.pl/shoutcast/7178/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Nowej Generacji",
+    "url": "https://s1.slotex.pl/shoutcast/7488/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Dance",
+    "url": "http://91.232.4.33:9466/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "DiscoParty.pl - Lata 90s",
+    "url": "https://s3.slotex.pl/shoutcast/7170/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF MAXX Podlasie",
+    "url": "https://rs101-krk.rmfstream.pl/rmf_maxxx_lom",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Relaks",
+    "url": "http://91.232.4.33:8102/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Forever",
+    "url": "http://s1.slotex.pl:7134/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Toksyna FM DJ Channel",
+    "url": "http://s01.toksyna.fm:8040/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO RTO TRANCE",
+    "url": "http://s3.slotex.pl:7056/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF LADY PANK + FAKTY",
+    "url": "http://195.150.20.9/LADYPANKF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Antyradio Hard",
+    "url": "https://an01.cdn.eurozet.pl/ANTHAR.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Forte",
+    "url": "http://s1.slotex.pl:7856/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Punk Radio Underground",
+    "url": "https://s1.slotex.pl/shoutcast/7604/stream?sid=1;",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Antyradio (Katowice)",
+    "url": "http://an01.cdn.eurozet.pl/ant-kat.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eska Płock",
+    "url": "http://www.emsoft.ct8.pl/inne/time.m3u?id=2250",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Muzyka Dwoch Serc",
+    "url": "http://s3.slotex.pl:7272/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Orbit",
+    "url": "https://s1.slotex.pl/shoutcast/7390/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Spioch",
+    "url": "http://s1.slotex.pl:7138/",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Meloradio Opole",
+    "url": "https://ml02.cdn.eurozet.pl/mel-opl.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Puzzle",
+    "url": "http://s1.slotex.pl:7572/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bezpieczna Podroz",
+    "url": "https://ssl-1.radiohost.pl:9162/stream",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Paranormalium",
+    "url": "https://azuracast.paranormalium.pl/listen/radio_paranormalium/1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Manhattan",
+    "url": "http://s1.slotex.pl:7780/",
+    "country": "Poland",
+    "bitrate": 104,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF MAXX POZNAŃ",
+    "url": "https://rs103-krk-cyfronet.rmfstream.pl/MAXXXPOZ",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Safira Kanoe",
+    "url": "http://stream.zeno.fm/fxvq8uqcvuhvv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio SOK Sulecin",
+    "url": "https://s3.slotex.pl/shoutcast/7230/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio * 100 *",
+    "url": "http://stream.zeno.fm/sgzg9sfq1zhvv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "24Dubstep.pl || DropZone Radio",
+    "url": "https://stream.24dubstep.pl/radio/8000/mp3_normal",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RMF 5 Lagodne Przeboje + FAKTY",
+    "url": "http://31.192.216.8/RMF5F",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF MAXX ŚLĄSK",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/MAXXXSLK?aw_0_req.gdpr=true&aw_0_req.userConsentV2=CPwKwZzPwKwZzFKACAPLDNCsAP_AAEPAAB5YJitX_H__bW9r8f7_aft0eY1P9_j77uQxBhfJk-4F3LvW-JwX52E5NF36tqoKmR4Eu3LBIUNlHNHUTVmwaokVryHsak2cpTNKJ6BEkHMRM2dYCF5rmxtjeQKY5_p_d3fx2D-t_dv839z3z81Xn3dZf--0-PCdU5-9Dfn9fRfb-9IP9_78v8v8_9_rk2_eT13_79_7_D9-f_87_WCYoBJhqXEAXYEDITaBhFCiBGFYQEUCgAAAEgaICAFwYFOiMAn1gMgBQigCOCAEMAKMiAQAAAQBIRABIEWCAACAQCAAEACAQCAAgYABQAWAgEAAIDoGKYUACgWECRAREKYEJUCQQEtlQglBdIaYQBVlgBQCI2CgARAACKwABAWLgGCJASoSCBLqDaAAAgAQCiVCsQSemgAUEjZagAAA.YAAAD4AAAAAA&aw_0_1st.playerid=RMF_Player_JS_P&aw_0_1st.rmf_disable_preroll=false",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FUTRZAK.FM - 320kbps",
+    "url": "https://audio.futrzak.fm/futrzakfm-320",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Na Stoku",
+    "url": "https://sluchaj.link:5443/nastoku",
+    "country": "Poland",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM BEST LISTA",
+    "url": "https://ic1.smcdn.pl/6100-1.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio KECh Nowogard",
+    "url": "https://s3.slotex.pl/shoutcast/7016/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DanisMania DJ Radio",
+    "url": "https://s1.slotex.pl/shoutcast/7512/stream",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO BEZPIECZNA PODRÓŻ",
+    "url": "https://ssl-1.radiohost.pl:9344/live",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Klubowa",
+    "url": "http://91.232.4.33:9460/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Park FM",
+    "url": "https://sluchaj2.radiopark.biz.pl:8443/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sierpc",
+    "url": "https://ssl-1.radiohost.pl:10700/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio LagoonFm",
+    "url": "http://s1.slotex.pl:7828/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Paweł",
+    "url": "https://s3.slotex.pl/shoutcast/7024/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Horyzont",
+    "url": "http://s1.slotex.pl:7328/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Moc",
+    "url": "https://www.4stream.pl/stream/18312",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polmax FM",
+    "url": "http://stream.zeno.fm/1gg3kbnzbceuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pallotyńskie Radio Ewangelizacyjne Pallotti.FM",
+    "url": "http://s1.slotex.pl:7074/stream/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 30 lat RMF FM",
+    "url": "https://rs202-krk-cyfronet.rmfstream.pl/20LAT",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Polmax 2",
+    "url": "http://stream.zeno.fm/szxcunxzbceuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Głos Nadziei",
+    "url": "https://ssl-1.radiohost.pl:9548/index",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sizeer",
+    "url": "https://rs103-krk-cyfronet.rmfstream.pl/sizeer_fm",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MaxPlay FM",
+    "url": "https://s1.slotex.pl/shoutcast/8880/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FM 48 Kbps",
+    "url": "https://rs101-krk.rmfstream.pl/RMFFM48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio I",
+    "url": "https://ice2.radioi.pl:8443/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Melo Radio Śląsk (Katowice)",
+    "url": "https://ml01.cdn.eurozet.pl/mel-ktw.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "DiscoParty.pl - Club",
+    "url": "https://s3.slotex.pl/shoutcast/7354/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Katolickie Radio Via",
+    "url": "http://stream.dar.fm/31199",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pasja - Pop",
+    "url": "http://91.232.4.33:8084/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "TobiFM",
+    "url": "https://s1.slotex.pl/shoutcast/7822/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Duch",
+    "url": "https://s1.slotex.pl/shoutcast/7174/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "AWANGARDA.FM",
+    "url": "https://stream.zeno.fm/mf9ewmbuaq8uv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF Bravo + FAKTY",
+    "url": "http://31.192.216.8/BRAVOF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Pasja",
+    "url": "http://91.232.4.33:8049/",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mbox - Club",
+    "url": "https://s3.slotex.pl:7204/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Moni Raj",
+    "url": "https://s1.slotex.pl/shoutcast/7646/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nasz Hajmat",
+    "url": "https://s3.slotex.pl:7126/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Polmax 3",
+    "url": "http://stream.zeno.fm/2p4yw9sd8yzuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Guardian",
+    "url": "https://s1.slotex.pl/shoutcast/7508/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF FM 48 Kbps",
+    "url": "https://rs102-krk-cyfronet.rmfstream.pl/RMFFM48",
+    "country": "Poland",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RadioRadio.FM",
+    "url": "https://c16.radioboss.fm/stream/14",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Leliwa",
+    "url": "https://streaming.g-news.pl:8050/leliwa?1605899747",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Koszalin S.A.",
+    "url": "https://ssl-1.radiohost.pl:9680/stream?type=https&nocache=1700543614656",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SuperOrbita",
+    "url": "https://s1.slotex.pl/shoutcast/7086/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Styl + FAKTY",
+    "url": "http://31.192.216.7/STYLF",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF TOP4",
+    "url": "https://rs102-krk-cyfronet.rmfstream.pl/rmf_top4",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chilli ZET Salon polski",
+    "url": "https://ch03.cdn.eurozet.pl/CHIPOL.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radiokultura.pl",
+    "url": "http://51.255.8.139:9772/",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fitness Music",
+    "url": "https://s3.slotex.pl:7414/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "VibeFM",
+    "url": "https://ic2.smcdn.pl/6490-1.aac",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF TOP 30 PL",
+    "url": "http://195.150.20.244/rmf_top_5_pl",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Andrychow",
+    "url": "https://s1.slotex.pl/shoutcast/7424/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sekret",
+    "url": "https://s1.slotex.pl/shoutcast/7556/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Paranormalium {very low bitrate)",
+    "url": "https://azuracast.paranormalium.pl/listen/radio_paranormalium/opus8",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "OGG"
+  },
+  {
+    "name": "RMF TOP2",
+    "url": "https://rs103-krk.rmfstream.pl/TOP2",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "PR PRZEBOJE PRL",
+    "url": "https://mpantusa-danidi01.radioca.st/id1",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RMF Funk",
+    "url": "https://rs101-krk-cyfronet.rmfstream.pl/rmf_funk",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "nadzieja.FM",
+    "url": "https://s5.radio.co/s34fca8455/listen",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio TPI",
+    "url": "https://s1.slotex.pl/shoutcast/7632/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mazurske Radijo",
+    "url": "https://stream-172.zeno.fm/h6af85mhunhvv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Arkadia",
+    "url": "https://s1.slotex.pl/shoutcast/7238/stream",
+    "country": "Poland",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sto",
+    "url": "http://s3.slotex.pl:7278/stream",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF TOP5",
+    "url": "https://rs202-krk.rmfstream.pl/TOP5",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Muzyczny Zakątek",
+    "url": "http://s3.slotex.pl:7336/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ZAWIERCIE",
+    "url": "https://ssl-1.radiohost.pl:9078/live",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Praga",
+    "url": "https://stream12.hosterion.pl/stream/radiopragapl/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lem FM",
+    "url": "https://n0c.radiojar.com/2fa0gbhr9bhvv?rj-ttl=5&rj-tok=AAABh7kj8tYAECMngkiX78DmuA",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio GRA Torun",
+    "url": "https://rs103-krk.rmfstream.pl/radio_gra",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Prestige",
+    "url": "https://s3.slotex.pl/shoutcast/7076/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TyfloRadio",
+    "url": "https://radio.tyflopodcast.net/",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Strefa Muzy",
+    "url": "https://radiosm.pl:8000/radio.mp3",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Swinoujscie",
+    "url": "https://stream.rcast.net/62853",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Life 4 Club",
+    "url": "https://life4club.online/listen/live/l4c.mp3",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RMF TOP3",
+    "url": "https://rs103-krk-cyfronet.rmfstream.pl/TOP3",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Nestolatki",
+    "url": "https://s1.slotex.pl/shoutcast/7306/stream",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nasze Nowe Radio",
+    "url": "https://s3.slotex.pl:7388/stream",
+    "country": "Poland",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "FUTRZAK.FM",
+    "url": "https://audio.futrzak.fm/futrzakfm-128",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lagoon FM",
+    "url": "https://s1.slotex.pl/shoutcast/7828/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Start",
+    "url": "https://s1.slotex.pl/shoutcast/7644/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slonskie Radio Hitmix",
+    "url": "https://s1.slotex.pl/shoutcast/7294/listen.m3u?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Muzyka Dwoch Serc",
+    "url": "http://s3.slotex.pl:7272/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Macabrismix",
+    "url": "https://panel.macabrismix.com.pl/listen/macabris_mix_radio_station_1-2c6_ghz/autodj.mp3",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Studio Kolobrzeg",
+    "url": "https://ssl-1.radiohost.pl:11578/stream?type=https&nocache=1700543980605",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1.7",
+    "url": "https://emisja.radio17.pl/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Borowiaczek",
+    "url": "http://s3.slotex.pl:7228/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zmysłowe",
+    "url": "https://s3.slotex.pl/shoutcast/7166/stream?sid=1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ListekFM",
+    "url": "http://stream10.hosterion.pl:8004/stream",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Miłosierdzie",
+    "url": "https://fastcast4u.com/player/milosierdzie/?pl=winamp&c=0",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Music Family",
+    "url": "https://s3.slotex.pl:7216/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Brylant",
+    "url": "https://s1.slotex.pl:7212/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nasze RAdio",
+    "url": "https://s1.slotex.pl:7146/stream",
+    "country": "Poland",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Muzyczna Oaza",
+    "url": "https://s3.slotex.pl:7100/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Styl FM",
+    "url": "https://s3.slotex.pl:7196/stream",
+    "country": "Poland",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "modules.pl",
+    "url": "http://radio.modules.pl:8500/;stream/1",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Palotti FM",
+    "url": "https://s1.slotex.pl:7074/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Kącik Rodzinny",
+    "url": "https://s3.slotex.pl:7374/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Muzyczny Beat FM",
+    "url": "http://s3.slotex.pl:7034/stream",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Polfan",
+    "url": "https://s3.slotex.pl:7194/",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio UAP",
+    "url": "https://radiouap.radiocult.fm/stream",
+    "country": "Poland",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lady G4A Gaming Radio",
+    "url": "http://stream.zeno.fm/e8wz7kbpypiuv",
+    "country": "Poland",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Xvibe",
+    "url": "https://xvibe.pl/stream.php",
+    "country": "Poland",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio DHT (Pepis)",
+    "url": "https://radiodht.com/stream_pepis/",
+    "country": "Poland",
+    "bitrate": 20,
+    "codec": "AAC+"
+  }
+]

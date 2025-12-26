@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Flava FM 100.7",
+    "url": "http://167.114.11.80:5322/stream/;",
+    "country": "Antigua And Barbuda",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Vibz FM",
+    "url": "https://testvibz-silcomwireless.radioca.st/stream.mp3",
+    "country": "Antigua And Barbuda",
+    "bitrate": 96,
+    "codec": "MP3"
+  }
+]

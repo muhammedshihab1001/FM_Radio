@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Carina FM",
+    "url": "http://185.198.27.187:8616/Cariba_FM",
+    "country": "Bonaire",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Live99 FM - Kralendijk",
+    "url": "http://162.244.80.220:8000/;stream.mp3",
+    "country": "Bonaire",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTV Purmerend",
+    "url": "http://stream.zxp.nl:8000/radiopurmerend_bb",
+    "country": "Bonaire",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Transmundial Bonaire 800 Khz",
+    "url": "https://cdn.instream.audio/:9050/stream",
+    "country": "Bonaire",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bon FM 102.7  Riscado",
+    "url": "http://bonfm5.primcast.com:6482/;",
+    "country": "Bonaire",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Non Stop Hits Alex FM",
+    "url": "https://radioalexfm.stream.laut.fm/radioalexfm?ref=web-app&start_time=1709718045653",
+    "country": "Bonaire",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "TROPICAL SPICE RADIO",
+    "url": "https://auds1.intacs.com/tropicalspiceradio",
+    "country": "Bonaire",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alpha 93.1 FM Riscado",
+    "url": "http://kadushi.westream.cloud:8100/xstream",
+    "country": "Bonaire",
+    "bitrate": 100,
+    "codec": "MP3"
+  }
+]

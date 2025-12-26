@@ -1,0 +1,786 @@
+[
+  {
+    "name": "RNZ National MP3",
+    "url": "http://radionz-ice.streamguys.com/national.mp3",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio BurgerFuel",
+    "url": "https://s3.radio.co/s9909bd65f/listen",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RDU",
+    "url": "https://rdu985fm-gecko.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Switch FM Gisborne",
+    "url": "http://s8.myradiostream.com:56886/listen.m4a",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Keep Laughing Forever Radio",
+    "url": "http://carol.epichosts.co.uk:8610/autodj.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wandering Sheep Radio - Christian Smooth Jazz",
+    "url": "http://radio.wanderingsheep.tv:8021/christianjazz",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Wandering Sheep Radio - Jazz Cafe",
+    "url": "http://radio.wanderingsheep.tv:8000/jazzcafe",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "XS80s",
+    "url": "http://s1.myradiostream.com:12508/listen.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Te Aroha 88FM",
+    "url": "https://c2.radioboss.fm:18440/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "2XS FM Palmerston North",
+    "url": "http://125.236.204.178:8001/listen.mp3",
+    "country": "New Zealand",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RNZ Pacific MP3",
+    "url": "http://radionz-ice.streamguys.com/international.mp3",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mai FM",
+    "url": "https://ais-sa1.streamon.fm/7102_128k.aac",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RNZ National AAC (128kbps)",
+    "url": "http://radionz-ice.streamguys.com/National_aac128",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RNZ Pacific AAC (64kbps)",
+    "url": "http://radionz-ice.streamguys.com/international_aac64",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Galaxy 107 FM  Kawerau",
+    "url": "http://s39.myradiostream.com:14858/;listen.mp3",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gaia FM New Zealand",
+    "url": "http://s2.stationplaylist.com:9000/gaiafm.aac",
+    "country": "New Zealand",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sanctuary - AAC",
+    "url": "https://rhema-radio.streamguys1.com/rhema-sanctuary.aac",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Sanctuary - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema-sanctuary.mp3",
+    "country": "New Zealand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZFM Global",
+    "url": "http://nebula.shoutca.st:8545/stream/1/",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "8K.NZ",
+    "url": "http://radio8k.out.airtime.pro:8000/radio8k_a",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "100,3FM South Canterbury",
+    "url": "http://uk4-vn.mixstream.net:8066/stream/1/",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadiJohan",
+    "url": "http://69.30.214.54:13740/;?type=http&nocache=1708209708?0.5747864581171453",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Oamaru Heritage Radio",
+    "url": "http://202.9.116.204:8000/ohrweb",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Big River FM",
+    "url": "http://bigriver.broadcast.co.nz/bigriverfm.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "metalradio.co.nz",
+    "url": "http://curiosity.shoutca.st:9073/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool Blue Taupo",
+    "url": "http://falcon.shoutca.st:8166/stream",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dave FM",
+    "url": "http://davefmradio.no-ip.org:8000/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Most FM 104.4",
+    "url": "http://gordon.mostfm.com:8000/high",
+    "country": "New Zealand",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power Hit FM 87.8 - Christchurch, NZ",
+    "url": "http://listen.powerhitfm.co.nz:16100/stream",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "East FM",
+    "url": "http://listen.eastfm.nz/stream.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RNZ Concert AAC (128kbps)",
+    "url": "http://radionz-ice.streamguys.com/Concert_aac128",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Samoa 1593am",
+    "url": "http://radiosamoa.stream.broadcast.co.nz:8000/rsamoa48k",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "http://riphel02.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mountainside FM",
+    "url": "http://stream.nrgkits.co.nz:5000/mountainside",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Compass FM",
+    "url": "http://stream.compassfm.org.nz:8000/Compass_FM_104.9",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JAZZGROOVE.org - Smooth Jazz (64k)",
+    "url": "http://streams.radiomast.io/4fdf004c-c2f3-49c1-bdb1-22e208d48780",
+    "country": "New Zealand",
+    "bitrate": 80,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Spice (Auckland, New Zealand)",
+    "url": "http://stream9.broadcast.co.nz:8000/radiospicewebsiteaudio.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "West FM Swing Radio",
+    "url": "http://westfm.freeddns.org:8000/westfm",
+    "country": "New Zealand",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "Brian FM 91.2 Wanganui NZ",
+    "url": "https://ais-sa1.streamon.fm/7100_128k.aac",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "SayHiFM",
+    "url": "https://play.radioking.io/sayhifm",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio - X",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/SAM02AAC65_SC?dist=onlineradiobox",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Smooth 105.6FM",
+    "url": "https://servidor26.brlogic.com:7110/live",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "3ABN Christian Radio",
+    "url": "https://stream.3abnaustralia.org.au:8443/stream",
+    "country": "New Zealand",
+    "bitrate": 56,
+    "codec": "AAC+"
+  },
+  {
+    "name": "531pi - MP3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PI_SC",
+    "country": "New Zealand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Niu FM - MP3",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFM_SC",
+    "country": "New Zealand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "531pi - AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/531PIAAC_SC",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Niu FM - AAC",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NIUFMAAC_SC",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "George FM",
+    "url": "https://mediaworks.streamguys1.com/george_net_icy",
+    "country": "New Zealand",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "Channel X",
+    "url": "https://mediaworks.streamguys1.com/chx_net_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Bolly Bop",
+    "url": "http://s3.radio.co/s2f19d44d0/listen",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Easy 80s",
+    "url": "http://procyon.shoutca.st:8032/;",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ski FM",
+    "url": "https://s2.radio.co/s6436891bc/listen",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "RNZ Concert MP3",
+    "url": "http://radionz-ice.streamguys.com/concert.mp3",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "新西兰中文广播电台 FM90.6 Radio Chinese",
+    "url": "https://s26.myradiostream.com:20274/listen.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BeachFM 106.3",
+    "url": "http://s8.myradiostream.com:58408/",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "https://riphel02.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Wandering Sheep Radio - Hope Alive",
+    "url": "http://radio.wanderingsheep.tv:8012/hopealive",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Rock - NZ's #1 rock radio station",
+    "url": "https://digitalstreams.mediaworks.nz/rock_net_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "The Generator",
+    "url": "https://s1.myradiostream.com/:14268/;?type=http&nocache=1608640718?0.7458407789862892",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MAD FM Auckland 106.7",
+    "url": "https://madfm-gecko.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Robotic",
+    "url": "https://stream.zeno.fm/rhscse2a41zuv",
+    "country": "New Zealand",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rhema - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema.mp3",
+    "country": "New Zealand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sub FM",
+    "url": "https://fmsub.radioca.st/stream?type=http&nocache=140",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Newstalk ZB",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/NZME_41AAC.aac",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "One Christian Radio",
+    "url": "https://radio.wanderingsheep.net:33001/onechristianradio",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "95bFM - FLAC",
+    "url": "https://streams.95bfm.com/stream112",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "OGG"
+  },
+  {
+    "name": "Radioactive.FM 88.6",
+    "url": "https://radio123-gecko.radioca.st/radioactivefm",
+    "country": "New Zealand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "95bFM - 256Kbps MP3",
+    "url": "https://streams.95bfm.com/stream95",
+    "country": "New Zealand",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vinyl Radio NZ",
+    "url": "https://s40.myradiostream.com:17794/listen.aac?",
+    "country": "New Zealand",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Positively Morrinsville 87.7FM",
+    "url": "https://c16.radioboss.fm:8262/stream?1652324863134",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Breeze 93.4",
+    "url": "https://mediaworks.streamguys1.com/breeze-akl-high_icy",
+    "country": "New Zealand",
+    "bitrate": 132,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Sangeet Masti",
+    "url": "https://servidor19-4.brlogic.com:7304/live?source=website",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Hydra",
+    "url": "https://streaming.radio.co/sed9109681/listen",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "AAC"
+  },
+  {
+    "name": "Magic FM",
+    "url": "https://mediaworks.streamguys1.com/magic_net_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "Humm Radio",
+    "url": "https://mediaworks.streamguys1.com/humm_net_icy",
+    "country": "New Zealand",
+    "bitrate": 129,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Control 99.4FM",
+    "url": "https://michae14-gecko.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Retro Hit Radio",
+    "url": "https://riphel02.radioca.st/;",
+    "country": "New Zealand",
+    "bitrate": 80,
+    "codec": "AAC+"
+  },
+  {
+    "name": "JAZZ CAFE",
+    "url": "https://radio.wanderingsheep.net:8000/jazzcafe",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bollybop",
+    "url": "https://s3.radio.co/s2f19d44d0/listen",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Rhythm 89FM",
+    "url": "http://stream.zeno.fm/7v9aaqeqhs8uv",
+    "country": "New Zealand",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "UP FM 107.5",
+    "url": "https://stream.upfm.live/radio/8000/radio.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiwi Folk Radio",
+    "url": "https://streamer.radio.co/sde527a41e/listen",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Drop FM",
+    "url": "https://s2.radio.co/s7649837db/listen",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "World FM Tawa 88.2",
+    "url": "http://www.worldfm.co.nz:8882/worldfm.aac",
+    "country": "New Zealand",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Life FM - AAC",
+    "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.aac",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radiowave NZ",
+    "url": "https://listen.radioking.com/radio/106324/stream/145267",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Life FM - MP3",
+    "url": "https://rhema-radio.streamguys1.com/rhema-lifefm.mp3",
+    "country": "New Zealand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Paekakariki 88.2FM",
+    "url": "https://icecast.groundtruth.co.nz/paekakfm.aac",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "95bFM - 64kbps AAC+",
+    "url": "https://streams.95bfm.com/stream128",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mouthfull Radio",
+    "url": "https://mouthfull-radio.radiocult.fm/stream",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gone Country",
+    "url": "https://usa10.fastcast4u.com:6010/;?type=http&nocache=1676417570",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio One 91FM",
+    "url": "https://play.r1.co.nz/live",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RNZ Parliament MP3 (Sanctuary outside Parliament hours)",
+    "url": "http://radionz-ice.streamguys.com/parliament.mp3",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mai FM",
+    "url": "https://mediaworks.streamguys1.com/mai_net_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "ROVA CHILL HOP",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/ROVA_CHILLHOP_S01AAC.aac?dist=?n=de33099414fdd83859df",
+    "country": "New Zealand",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "The Wireless (Today's Best Country)",
+    "url": "https://stream.zeno.fm/lamr6x1fxrruv",
+    "country": "New Zealand",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "More FM - Nelson",
+    "url": "https://mediaworks.streamguys1.com/more-nsn-high_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bay FM 100.7",
+    "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686796930",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tiri 2",
+    "url": "https://servidor34-4.brlogic.com:7138/live?source=website",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.2 Oamaru FM",
+    "url": "https://usa1-vn.mixstream.net/8096/listen.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MIX FM Wellington",
+    "url": "https://stream.mixfm.nz/",
+    "country": "New Zealand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CFM Coromandel",
+    "url": "https://stream.cfm.co.nz/low",
+    "country": "New Zealand",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Heads FM Mangawhai 106.4",
+    "url": "https://headsfm.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RDU 98.5FM",
+    "url": "https://rdu985fm-gecko.radioca.st/listen.pls?sid=1",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bay FM 100.7",
+    "url": "https://s38.myradiostream.com:8876/;;?listening-from-radio-garden=1686969300",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raglan Community Radio",
+    "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237589?0.8271986316497546",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "jakemusic",
+    "url": "https://camera.jakebriggs.com/jakemusic",
+    "country": "New Zealand",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Southern Cross Country",
+    "url": "https://sxcountry.radioca.st/stream",
+    "country": "New Zealand",
+    "bitrate": 208,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Maunganui FM",
+    "url": "https://radio.mmc.school.nz/listen/mmc_radio/radio.mp3",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "The Generator FM",
+    "url": "https://s1.myradiostream.com/14268/stream/1/",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raglan Communtiy Radio",
+    "url": "https://s36.myradiostream.com/20712/;?type=http&nocache=1738237956",
+    "country": "New Zealand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Anthemz",
+    "url": "https://mediaworks.streamguys1.com/anthemz-chc-high_icy",
+    "country": "New Zealand",
+    "bitrate": 130,
+    "codec": "AAC"
+  }
+]

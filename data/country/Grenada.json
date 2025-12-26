@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Hot Shotz Radio - Grenada",
+    "url": "http://usa1.fastcast4u.com:3292/stream",
+    "country": "Grenada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boss FM Grenada",
+    "url": "http://cp.usa8.fastcast4u.com:5195/;",
+    "country": "Grenada",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Star FM 101.9",
+    "url": "https://starchild.radioca.st/",
+    "country": "Grenada",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Real FM - Grenada",
+    "url": "https://free.rcast.net/69262",
+    "country": "Grenada",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

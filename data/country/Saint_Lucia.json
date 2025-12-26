@@ -1,0 +1,58 @@
+[
+  {
+    "name": "The Wave 94.5 & 93.7 Castries",
+    "url": "http://ice66.securenetsystems.net/THEWAVE",
+    "country": "Saint Lucia",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RFI 102.1 FM",
+    "url": "http://cp.usa3.fastcast4u.com:5908/;",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Unity FM 905",
+    "url": "http://centova12.instainternet.com:8192/;",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caribbean Hot FM 105.3 - Castries",
+    "url": "http://auds2.intacs.com/caribbeanhotfm",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caribbean KISS FM 105.5 Castries",
+    "url": "http://auds2.intacs.com/caribbeankissfm",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFI 102.1 FM",
+    "url": "http://167.114.131.90:5908/",
+    "country": "Saint Lucia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power 97.9",
+    "url": "https://usa10.fastcast4u.com/power979fm",
+    "country": "Saint Lucia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BLAZIN 99.3FM",
+    "url": "https://streams.radio.co/s5f11a7ef9/listen",
+    "country": "Saint Lucia",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

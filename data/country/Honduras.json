@@ -1,0 +1,247 @@
+[
+  {
+    "name": "Stereo Exitos 88.1 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/EXITOS",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "XY 90.5 FM Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/XY905",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Suave FM 102.5 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/SUAVE",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Girasol Stereo 102.3 FM",
+    "url": "https://stream.playerlive.info:8037/live.aac",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "ABC Radio AM 550 FM 89.7",
+    "url": "http://137.184.101.169:8000/radio.mp3",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "LA RADIO GLOBAL",
+    "url": "https://sonicpanel.us/8022/stream",
+    "country": "Honduras",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio W107 107.3 Tegucigalpa",
+    "url": "http://ic.streann.com:8000/w107",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Neformatnoe Radio",
+    "url": "http://neformatnoe.ru:8777/live",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio HRN La Voz de Honduras",
+    "url": "https://ice42.securenetsystems.net/HRN",
+    "country": "Honduras",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "94 SU FM 94.1 Tegucigalpa",
+    "url": "http://ice42.securenetsystems.net/94SUFM",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOX FM",
+    "url": "https://ice42.securenetsystems.net/VOXFM",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Activa Honduras",
+    "url": "https://stream.zeno.fm/6n7fp9t2pceuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ROCK N' POP",
+    "url": "https://ice42.securenetsystems.net/ROCKNPOP",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "DCR Difusora Cristiana de Radio 103.1 FM",
+    "url": "http://stream.playerlive.info:8165/",
+    "country": "Honduras",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Exa FM Honduras",
+    "url": "https://stream.zeno.fm/0n4tnx3wd5zuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Musiquera 93.3 FM",
+    "url": "https://stream.zeno.fm/83h238tqsceuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Globo 88.5 HN",
+    "url": "https://stream.radiosmundiales.com:8016/GLOBO885",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Musiquera 93.3 FM",
+    "url": "https://stream-142.zeno.fm/83h238tqsceuv?zs=vZNVzaY3QLy9RmUb9QK5uA",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Top 102.9 FM - San Pedro Sula, Honduras",
+    "url": "https://us9.maindigitalstream.com/ssl/latop102",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RNH",
+    "url": "https://stream.zeno.fm/mb5f69fk0d0uv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Estereo Clásica",
+    "url": "https://streaming.radio.co/s0c06b7076/listen",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "1 FM Hits Radio",
+    "url": "https://stream.zeno.fm/yg1gkzwabzzuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cadena Radial del Centro 89.7 FM",
+    "url": "https://sonic.portalfoxmix.cl/8442/stream",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RadioActiva 99.7 Honduras",
+    "url": "https://stream.zeno.fm/fh8qfg75puquv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "NUEVA VISIÓN 88.3 FM",
+    "url": "http://159.69.43.96:9304/;",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Otoro Radio",
+    "url": "https://stream.playerlive.info:8089/live.aac",
+    "country": "Honduras",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Stereo Dimensión - La 96",
+    "url": "https://rr5100.globalhost1.com:7328/stream",
+    "country": "Honduras",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Stereo Cafe 100.3 FM",
+    "url": "https://stream.zeno.fm/vt667xqryd0uv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cortes FM",
+    "url": "https://cortesfm-zikoxweb.radioca.st/stream/1/",
+    "country": "Honduras",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Encuentro Digital 104.3 FM",
+    "url": "https://stream.zeno.fm/n1dn94e661zuv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Dee Jay",
+    "url": "https://stream.zeno.fm/6wpxyt9htg0uv",
+    "country": "Honduras",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RADIO FÉNIX INTERNACIONAL",
+    "url": "http://listen.usuarios.space:8036/live",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blue Wave Radio",
+    "url": "https://streaming.shoutcast.com/101-1-blue-wave-radio-roatan",
+    "country": "Honduras",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Stereo Luz",
+    "url": "https://stream.playerlive.info:8081/;",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "LHT FM 104.1",
+    "url": "https://ice26.securenetsystems.net/LHTFM",
+    "country": "Honduras",
+    "bitrate": 64,
+    "codec": "AAC+"
+  }
+]

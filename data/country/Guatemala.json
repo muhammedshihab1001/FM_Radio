@@ -1,0 +1,436 @@
+[
+  {
+    "name": "Radio Camino Santidad",
+    "url": "http://audio.livecastnet.com:1290/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Observatorio OGDI Guatemala",
+    "url": "https://radio.forensedigital.gt:8000/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Central 91.9 FM",
+    "url": "http://live.myradioserver.net:7588/;",
+    "country": "Guatemala",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Cultural TGN",
+    "url": "https://stream.infinityhdstream.com/7054/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA GUATEMALA",
+    "url": "http://dreamsiteradiocp.com:8072/stream",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio San Pablo Rabinal",
+    "url": "https://radiolatina.info/8052/stream",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "El Comandante 101.3 FM",
+    "url": "http://108.62.0.141:7038/stream",
+    "country": "Guatemala",
+    "bitrate": 40,
+    "codec": "AAC"
+  },
+  {
+    "name": "palabra miel",
+    "url": "http://juventudpalabramiel.org:8000/radio",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estéreo Gerardi 107.9 FM",
+    "url": "https://aler.org:8445/gerardi.mp3",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Mesiánica",
+    "url": "https://felovemesianica-radiofelove.radioca.st/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FeLove Clásica",
+    "url": "https://feloveclasica-radiofelove.radioca.st/stream?1741424230037",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Globo 98.9 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/GLOBO_989AAC.aac",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Activa 95.1 FM. En linea católica",
+    "url": "https://sh4.radioonlinehd.com:8557/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio FGER 1420 AM",
+    "url": "https://aler.org:8445/fgerenlinea",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Felicidad Stereo",
+    "url": "http://radio.produccionescasaverde.com:8720/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Red 106.1 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/LA_REDAAC.aac",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Emisoras Unidas 89.7",
+    "url": "https://stream.zenolive.com/z96sq8tndseuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Exa FM 101.7 Guatemala",
+    "url": "https://stream.zeno.fm/czdkk32qduhvv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM 97.7",
+    "url": "https://stream.zenolive.com/1sgzkhhm8ueuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Infinita",
+    "url": "https://streams.radio.co/see730c7ab/listen",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Atmósfera 96.5",
+    "url": "https://stream.zenolive.com/wbqp37gm8ueuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clásica 102.5 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/CLASICA_1065AAC.aac",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Actitud",
+    "url": "https://ss.redradios.net:8002/stream?type=.mp3",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "EMAUS RADIO",
+    "url": "https://sh2.radioonlinehd.com:8141/;",
+    "country": "Guatemala",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Stereo 100, Quetzaltenango",
+    "url": "https://sh1.radioonlinehd.com:8056/stream?type=.mp3",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Mía 93.7 Guatemala",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/MIAAAC.aac",
+    "country": "Guatemala",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO ESLA",
+    "url": "http://stream.zeno.fm/wdr15uyuezzuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "FeLove Biblia en Quiché",
+    "url": "http://radio.produccionescasaverde.com:8788/autodj",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Grande 99.3 FM",
+    "url": "https://stream.zeno.fm/f1bgph3ve0quv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 107 Exito - 107.1 FM",
+    "url": "http://play10.tikast.com:8159/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Viva 95.3 Guatemala",
+    "url": "https://stream.zeno.fm/uus2ugdadkhvv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rhema Stereo",
+    "url": "https://radio.fiberstreams.com:2000/stream/8710",
+    "country": "Guatemala",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Guate digital",
+    "url": "https://radioguatedigital.com/live",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caribean FM 105.1",
+    "url": "https://sh4.radioonlinehd.com:8547/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Hacker por Cristo Network",
+    "url": "https://radio.forensedigital.gt:8010/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Estéreo Alegre 101.5 FM",
+    "url": "https://stream.zeno.fm/597dgr66e2zuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Azúcar FM 99.9",
+    "url": "https://radiostreamingaac.com:8570/azucarjutiapa",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Punto 90.5 Guatemala",
+    "url": "http://stream.zeno.fm/qzhqyu07dkhvv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Universidad",
+    "url": "https://stream.zeno.fm/xqbz7b86a0quv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CARACOL RADIO 105.1 FM",
+    "url": "https://stream.zeno.fm/u844q3w08mwtv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nueva Fabuestéreo 88.1FM y Quetzaltenango 89.5FM",
+    "url": "https://stream.zeno.fm/vs325dhm8ueuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gaiteros de Guatemala",
+    "url": "https://radio.forensedigital.gt:8030/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio balam stereo FM 105.1",
+    "url": "https://cloudstream2032.conectarhosting.com:7009/;",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Emisoras Unidas 91.1 FM",
+    "url": "https://stream.zeno.fm/3tfg0vng9ueuv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estéreo Solar 98.3 FM",
+    "url": "https://radiostreamingaac.com:8562/solarjutiapa",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Oriòn Stereo",
+    "url": "https://ss.redradios.net:8046/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Azúcar 96.7 FM",
+    "url": "https://radiostreamingaac.com:8568/azucarzacapa",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Dinámica 89.9 FM",
+    "url": "https://cloudstream2032.conectarhosting.com/8312/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estéreo Santa Sion",
+    "url": "https://radio015.gt.gt/radio/8000/live.mp3",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Estéreo Solar 89.5 FM",
+    "url": "https://radiostreamingaac.com:8560/solarchiquimula",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Romance",
+    "url": "https://stream.zeno.fm/gnkysrxv3a0uv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Eventos Catolicos Radio 940 AM",
+    "url": "https://stream.zeno.fm/1g9cduy10bruv",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "SINAI WORKSHOP",
+    "url": "https://radio.forensedigital.gt:8070/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Computer Forensic Radio",
+    "url": "https://radio.forensedigital.gt:8020/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Criollisima GT",
+    "url": "https://radio.forensedigital.gt:8060/stream",
+    "country": "Guatemala",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Estéreo Solar 104.9 FM",
+    "url": "https://radiostreamingaac.com:8566/solarpeten",
+    "country": "Guatemala",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Josy Music Latin",
+    "url": "https://dj91.hostingnuclear.com/8144/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ARCA RADIO HD",
+    "url": "https://sh2.radioonlinehd.com:8136/arca",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO ORLA - CAMINO ROJO",
+    "url": "https://dj91.hostingnuclear.com/8080/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Josy Music PLUS",
+    "url": "https://dj91.hostingnuclear.com/8116/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Josy Music Swing",
+    "url": "https://dj91.hostingnuclear.com/8146/stream",
+    "country": "Guatemala",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Ixchel",
+    "url": "https://stream-153.zeno.fm/p5fpudbtguquv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJwNWZwdWRidGd1cXV2IiwiaG9zdCI6InN0cmVhbS0xNTMuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkhQQ0hFUkhUUUcyYVg1aXAyZ2R2M2ciLCJpYXQiOjE3Mjg1NzAzNTIsImV4cCI6MTcyODU3MDQxMn0.VvFIl3Nw_mS-gU9NqWTn58XakUv8FxUjIGavl6lfqcA",
+    "country": "Guatemala",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

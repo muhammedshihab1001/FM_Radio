@@ -1,0 +1,23 @@
+[
+  {
+    "name": "https://stream.svobodnoe.media/freemp3",
+    "url": "https://stream.svobodnoe.media/freemp3",
+    "country": "Belize",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Darkwaveradio",
+    "url": "https://live.webhosting4u.gr:1185/stream",
+    "country": "Belize",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Krem Radio",
+    "url": "http://159.65.32.199:8016/;",
+    "country": "Belize",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

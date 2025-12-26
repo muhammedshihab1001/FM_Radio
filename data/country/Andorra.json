@@ -1,0 +1,23 @@
+[
+  {
+    "name": "tch",
+    "url": "http://node-01.zeno.fm/bwrw9xcgqeruv",
+    "country": "Andorra",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RadioSoleLuna",
+    "url": "https://cast3.server89.com/radio/8040/radio.mp3",
+    "country": "Andorra",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Polignano Web",
+    "url": "https://sp3.server89.com:7018/",
+    "country": "Andorra",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

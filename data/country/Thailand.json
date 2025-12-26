@@ -1,0 +1,338 @@
+[
+  {
+    "name": "ไทยลานนาเรดิโอ FM 106.5 จังหวัดตาก",
+    "url": "https://inter.lannaradio.com/radio/8000/radio.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "BKK.FM",
+    "url": "https://rsas.bkk.fm/radio",
+    "country": "Thailand",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "91.5 FM Panzer Radio Station",
+    "url": "http://radio.servradio.com:9398/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Isan FM 98",
+    "url": "http://radio11.plathong.net:8900/stream.mp3",
+    "country": "Thailand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bluewave 97 (CR)",
+    "url": "http://112.121.151.133:8109/live",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mommaemradio",
+    "url": "http://112.121.150.133:9386/autodj",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "94 Bangkok Smile",
+    "url": "http://fm94.tv5.co.th:8000/fm94ch3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Smooth 105.5 (RStream)",
+    "url": "http://rstream.mcot.net:8000/fm1055",
+    "country": "Thailand",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "วัดปากบ่อ",
+    "url": "http://radio1.siamlivehost.com:8001/;",
+    "country": "Thailand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bluewave 97",
+    "url": "https://80sv2.hostpleng.com/?url=http://112.121.151.133:8109/stream",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fabulous 103",
+    "url": "https://fabulous.thailandstreaming.net/fabulous.mp3",
+    "country": "Thailand",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Keangun Radio เขียนกันเรดิโอ ฟังเพลงสบายสไตล์ร้านกาแฟ ร้านเหล้า ร้านนั่งชิล",
+    "url": "https://radio9.plathong.net/7054/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "บ้านธัมมะ",
+    "url": "https://radio10.plathong.net/7238/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mommaemradio",
+    "url": "https://radio.garden/api/ara/content/listen/JQQSk8M9/channel.mp3?r=1&1722272627481",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JS100",
+    "url": "http://103.246.19.203:8004/stream?type=http&nocache=145",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Eazy FM 105.5",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/EAZYFM_1055AAC.aac",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "talay 90.25FM",
+    "url": "https://stream.talay.asia/talay",
+    "country": "Thailand",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Looktung Eingdoi",
+    "url": "https://radio.garden/api/ara/content/listen/8n_MZrpC/channel.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "MCOT Satellite (Formerly AM 1494)",
+    "url": "http://rstream.mcot.net:8000/Radio_Sat",
+    "country": "Thailand",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rad Radio",
+    "url": "http://radio1.serverradio.net:8592/;?type=http",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 93.50 MHz บ้านใหม่ เรดิโอ",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 185,
+    "codec": "MP3"
+  },
+  {
+    "name": "90 rakthai",
+    "url": "http://radio11.plathong.net:8896/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "RequestRadio เพื่อชีวิต",
+    "url": "https://cast.requestradio.in.th:830/stream/",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "มิติข่าว 90.5",
+    "url": "http://live3.smartbomb.co.th:8624/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "requestradio/looktung/",
+    "url": "http://27.254.142.208:8300/",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web.cdn.byteark.com/;stream/1",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "สวพ.91",
+    "url": "http://122.155.16.48:8955/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cool fahrenheit",
+    "url": "https://coolism-web3rd.cdn.byteark.com/stream/1/",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BigFM RadioSocial",
+    "url": "http://media.login.in.th:8195/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "requestradio",
+    "url": "http://27.254.142.208:8300/;",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ลูกทุ่งเน็ตเวิร์ค",
+    "url": "http://media.login.in.th:8200/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "106 Family News Radio",
+    "url": "https://radio11.plathong.net/7138/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "สังฆทานธรรม",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8615",
+    "country": "Thailand",
+    "bitrate": 40,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitz Thailand (Formerly 95.5)",
+    "url": "https://22253.live.streamtheworld.com/HITZ_955AAC_128.aac",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Chili Radio Thailand",
+    "url": "https://stream.chiliradio.app/chiliclassics",
+    "country": "Thailand",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "วัดป่าไทรงาม",
+    "url": "https://radio10.plathong.net/7110/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM ONE",
+    "url": "https://apps4.mcot.net/stream578.aac",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "101.5 Chula Radio",
+    "url": "http://radio11.plathong.net:7590/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "วิทยุเสียงอิสลาม",
+    "url": "https://radio12.plathong.net/7234/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ban Kruat FM 99.25 MHz บ้านกรวดเวิลด์",
+    "url": "http://lnwradio.hostsevenplus.com:9564/",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "JS 100",
+    "url": "http://103.246.19.203:8004/listen.pls?sid=1",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM 91",
+    "url": "https://www.fm91bkk.com:8900/;stream.mp3",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Goodtime 88.5",
+    "url": "https://22243.live.streamtheworld.com/GOODTIME_RADIOAAC.aac",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Yesterday 106.5",
+    "url": "http://radio4.thzhost.com:4122/",
+    "country": "Thailand",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Phuket LIVE 89.5",
+    "url": "https://4118.radio4.thzhost.com/",
+    "country": "Thailand",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "TofuPop Radio",
+    "url": "https://22283.live.streamtheworld.com/TOFU_POP_RADIOAAC_128.aac",
+    "country": "Thailand",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "97qfm",
+    "url": "https://cdn-th2.livestreaming.in.th/shoutcast/8610",
+    "country": "Thailand",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "banmai radio",
+    "url": "https://radio10.plathong.net/7590/;stream.mp3?type=http",
+    "country": "Thailand",
+    "bitrate": 185,
+    "codec": "MP3"
+  }
+]

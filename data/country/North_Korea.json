@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Pyongyang Radio FM",
+    "url": "https://listen7.myradio24.com/69366",
+    "country": "North Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "평양FM105.2",
+    "url": "http://listen7.myradio24.com/69366",
+    "country": "North Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice of Korea (Russian)",
+    "url": "https://listen4.myradio24.com/60315",
+    "country": "North Korea",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice of Chongro",
+    "url": "https://stream.zeno.fm/oldwnjuma3duv",
+    "country": "North Korea",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

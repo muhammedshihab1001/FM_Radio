@@ -1,0 +1,30 @@
+[
+  {
+    "name": "DIMusic Trance Club  🇧🇯",
+    "url": "http://stream1.dimusic.club:11534/rw?type=.aac",
+    "country": "Benin",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Cotonou 94.3",
+    "url": "https://stream.zeno.fm/o9bspgm4y78vv",
+    "country": "Benin",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORTB Radio Bénin",
+    "url": "https://listen.radioking.com/radio/47608/stream/84430",
+    "country": "Benin",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ORTB Radio Parakou",
+    "url": "https://listen.radioking.com/radio/51919/stream/88927",
+    "country": "Benin",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "EnergyFM",
+    "url": "https://ukwesta.streaming.broadcast.radio/energyfm",
+    "country": "Isle Of Man",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Alive - Live Music Radio around the clock (24h Blues, Rock, Pop)",
+    "url": "http://stream.laut.fm/alive",
+    "country": "Isle Of Man",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Manx Radio FM",
+    "url": "http://tx.sharp-stream.com/http_live.php?i=manxradiofm.aac",
+    "country": "Isle Of Man",
+    "bitrate": 96,
+    "codec": "AAC+"
+  }
+]

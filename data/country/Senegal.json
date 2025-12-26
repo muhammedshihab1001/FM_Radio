@@ -1,0 +1,170 @@
+[
+  {
+    "name": "H24",
+    "url": "http://listen.senemultimedia.net:8070/stream",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sud FM Sen Radio",
+    "url": "http://stream.zenolive.com/rq40edfn3reuv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dakar Musique",
+    "url": "http://listen.senemultimedia.net:8090/stream",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Thiossane",
+    "url": "https://listen.senemultimedia.net:8112/stream",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM Sénégal 103.1 Dakar",
+    "url": "https://stream-154.zeno.fm/t8gcyq6ts0quv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fulbe FM 102.6 Dakar",
+    "url": "https://stream.zeno.fm/e0grbn8e3rquv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zig FM 100.8 Ziguinchor",
+    "url": "https://stream.zeno.fm/zfdk0c69d3quv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rewmi FM 97.5 Dakar",
+    "url": "https://stream-61.zeno.fm/nkzsqg16t8quv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTS Matam 89.1",
+    "url": "https://stream.zeno.fm/kxud8vhqt1duv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Zig FM 100.3 Kolda",
+    "url": "https://stream.zeno.fm/akh0t25nc18uv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Or FM 89.6 Orkadiéré",
+    "url": "https://stream.zeno.fm/gy7fpc2am1duv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTS Tambacounda 92.0",
+    "url": "https://stream.zeno.fm/nqxg7p8pt1duv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Love FM 107.3 Dakar",
+    "url": "https://stream.zeno.fm/7cru7g7rcwzuv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sweet Radio",
+    "url": "https://stream.zeno.fm/jemecjfbczhuv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Timtimol FM 91.9 Ourossogui",
+    "url": "https://stream.zeno.fm/4yx608hnu1duv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "H24 Senegal",
+    "url": "https://listen.senemultimedia.net:8072/stream",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTS Kaolack 103",
+    "url": "https://stream.zeno.fm/2fkd4h0ts1duv.m4a",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bamtaare FM 103.4 Dodel",
+    "url": "https://stream.zeno.fm/n1mugn1am1duv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Afia FM 93.0 Dakar",
+    "url": "https://stream.zeno.fm/skjrn6kzzxptv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Central FM 107.1 Thiés",
+    "url": "https://stream.zeno.fm/t2e45xqkunhvv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "GMS FM 89.3 Ziguinchor",
+    "url": "https://myfm.acan.group/radio/8140/radio.mp3?1690707378",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Metraf FM 103.7 Dakar",
+    "url": "https://stream.zeno.fm/66yrv69ffv8uv",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Keur Massar",
+    "url": "https://stream.keurmassar.info/",
+    "country": "Senegal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pikine Diaspora Radio",
+    "url": "http://cdn.voscast.com/resources/?key=563fcd75f43e77334d6fb664b7358f9e&c=winamp",
+    "country": "Senegal",
+    "bitrate": 0,
+    "codec": "UNKNOWN"
+  }
+]

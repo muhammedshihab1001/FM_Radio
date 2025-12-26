@@ -1,0 +1,23 @@
+[
+  {
+    "name": "RadioSeu",
+    "url": "https://enacast.com/radioseu/streams/HD",
+    "country": "Gibraltar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BFBS Gibraltar",
+    "url": "http://edge-audio-03-gos2.sharp-stream.com/ssvcbfbs7.mp3",
+    "country": "Gibraltar",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Gibraltar Plus 100.5",
+    "url": "https://s2.myradiostream.com/32910/listen.mp3",
+    "country": "Gibraltar",
+    "bitrate": 192,
+    "codec": "MP3"
+  }
+]

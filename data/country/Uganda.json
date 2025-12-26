@@ -1,0 +1,702 @@
+[
+  {
+    "name": "EMC Radio - Kampala (MP3)",
+    "url": "http://c22.radioboss.fm:18040/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "98.7 Mutundwe Christian Fellowship",
+    "url": "https://streams.radio.co/s79fbbb432/listen",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM",
+    "url": "http://5229.cloudrad.io:8316/;",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.6 Christ Fm",
+    "url": "http://5.135.154.69:15664/;",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Akaboozi FM 87.9",
+    "url": "http://162.244.80.52:8732/stream.mp3",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio one",
+    "url": "http://162.244.80.52:8740/stream",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Akaboozi 87.9 FM",
+    "url": "http://162.244.80.52:8732/stream",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beat FM - Kampala - 96.3 FM (MP3)",
+    "url": "http://5230.cloudrad.io:8354/live",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sanyu Fm",
+    "url": "http://s44.myradiostream.com:8138/stream",
+    "country": "Uganda",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KIIS Uganda",
+    "url": "http://14867.cloudrad.io:9224/live",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sound City",
+    "url": "http://pureplay.cdnstream1.com/6038_128.mp3?DIST=TuneIn&TGT=TuneIn&maxServers=2&gdpr=0&us_privacy=1YNY&partnertok=eyJhbGciOiJIUzI1NiIsImtpZCI6InR1bmVpbiIsInR5cCI6IkpXVCJ9.eyJ0cnVzdGVkX3BhcnRu",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "talkRADIO",
+    "url": "https://radio.talkradio.co.uk/stream",
+    "country": "Uganda",
+    "bitrate": 63,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio for Jesus",
+    "url": "http://s2.stationplaylist.com:7132/listen.aac",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RADIO MARIA UGANDA",
+    "url": "http://dreamsiteradiocp.com:8052/stream",
+    "country": "Uganda",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "US Local News",
+    "url": "http://usa8.fastcast4u.com:5168/1/",
+    "country": "Uganda",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio One FM 90 - 90.0 FM (MP3)",
+    "url": "http://radioone.loftuganda.tech/stream",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trace Gospel",
+    "url": "https://c25.radioboss.fm:8130/4rm8tzo7qirtv",
+    "country": "Uganda",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Trace Urban",
+    "url": "http://hydra.cdnstream.com/1531_backup",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "104.4 Kaboozi Fm",
+    "url": "http://162.244.80.52:8732/;stream.mp3",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "KFM - Kampala - 93.3 FM (MP3)",
+    "url": "http://radio.kfm.co.ug:8000/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "88.2 Sanyu FM - Kampala - 88.2 FM (MP3)",
+    "url": "http://s44.myradiostream.com/8138/listen.mp3",
+    "country": "Uganda",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Cbs fm",
+    "url": "http://s5.voscast.com:9908/EYOBUJJAJJA",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "CBS FM 89.2",
+    "url": "http://s5.voscast.com:9904/EMMANDUSO",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sapientia 94.4 FM",
+    "url": "http://www.radiosapientia.com/live",
+    "country": "Uganda",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "SALT FM",
+    "url": "https://fm.salttelevision.com/listen/saltfm/live?1742926101",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "TALK RADIO",
+    "url": "https://playerservices.streamtheworld.com/api/livestream-redirect/TALK_RADIO_EUROPE.mp3",
+    "country": "Uganda",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "107.3 BBC Radio Uganda",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_world_service_west_africa",
+    "country": "Uganda",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "XFM 94.8",
+    "url": "http://stream.hydeinnovations.com:2020/stream/xfm/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christ FM 91.6 - Kampala - 91.6 FM (AAC)",
+    "url": "http://s39.myradiostream.com/:15664/;",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rock FM Uganda - Kampala (MP3)",
+    "url": "http://titan.shoutca.st:8341/;",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Talksport",
+    "url": "https://radio.talksport.com/stream?aw_0_1st.platform=website&aw_0_1st.playerid=wireless-website&aw_0_req.gdpr=true&aw_0_awz.listenerid=#ADVERTISINGID&_=383957",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yofochm Radio Uganda (MP3)",
+    "url": "http://c13.radioboss.fm:18053/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Simba",
+    "url": "https://www.radiosimba.ug/stream",
+    "country": "Uganda",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.5 Bukedde Fm",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Beat FM 96.3",
+    "url": "http://5230.cloudrad.io:8354/",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Uganda DJs",
+    "url": "https://stream.zeno.fm/muzrp86994zuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RX Radio",
+    "url": "https://c14.radioboss.fm:18223/stream?1615807421100=",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "BUSOGA ONE",
+    "url": "https://stream.zeno.fm/xna2aad7gc9uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM - 91.3 FM (MP3)",
+    "url": "http://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "MCF Radio - Kampala - 98.7 FM (MP3)",
+    "url": "http://streams.radio.co/s79fbbb432/listen",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Pacis 90.9",
+    "url": "https://radiopacisuganda.radioca.st/stream",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gospel Radio East Africa",
+    "url": "https://c32.radioboss.fm:18451/stream?1641237600584",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Old School Music",
+    "url": "https://ilikeitoldskool.radioca.st/stream",
+    "country": "Uganda",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "100.5 Bukedde Fm",
+    "url": "https://stream.hydeinnovations.com:2020/stream/bukeddefm/stream/1/",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM Uganda",
+    "url": "https://capitalfm.cloudrad.io/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice of Lango - Lira - 88.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/gbp29ctt6rhvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "106.1 Next Radio",
+    "url": "https://stream-154.zeno.fm/lbca7zintcnuv?zs=P9UBEqoSSr69riqZniMYMw",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "106.7 Glory Fm",
+    "url": "https://stream-25.zeno.fm/5remmcqkpd0uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "91.3 Lift Worship US",
+    "url": "https://emg.streamguys1.com/lift-website",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "AAC"
+  },
+  {
+    "name": "Street Deejays Radio - Mbarara (MP3)",
+    "url": "http://stream.zeno.fm/nbwdnxz7na0uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christian music channel",
+    "url": "http://streaming.live365.com/a08828",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vision Radio 89.1 - Mbarara - 89.1 FM (MP3)",
+    "url": "http://stream.zeno.fm/rmtdek37zxhvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RFI Kiswahili",
+    "url": "https://rfienswahili64k.ice.infomaniak.ch/rfienswahili-64.mp3",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "crooze fm",
+    "url": "https://stream-159.zeno.fm/vyxwdk08apxtv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ2eXh3ZGswOGFweHR2IiwiaG9zdCI6InN0cmVhbS0xNTkuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6Imt4VUtoZGRnU0dLRGdSc0NkOE1CRHciLCJpYXQiOjE",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christmas choir",
+    "url": "https://christmas-chor-high.rautemusik.fm/?ref=radiobrowser%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+    "country": "Uganda",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice Of Toro - Fort Portal - 101.0 FM (MP3)",
+    "url": "http://stream.zeno.fm/uebga0ac9mzuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boona FM 91.8 - Rukungiri - 91.8 FM (MP3)",
+    "url": "http://stream.zeno.fm/ndi9k9r4lp9uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Heathafro FM",
+    "url": "http://stream.zeno.fm/rdf0qac95p8uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "104.1 Favour FM - Gulu - 104.1 FM (MP3)",
+    "url": "http://us5new.listen2myradio.com:2199/listen.php?port=8138&type=ice&mount=stream",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cloud Radio Uganda - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/eq0vu571ekhvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio One FM 90 - 90.0 FM (MP3)",
+    "url": "https://radioone.loftuganda.tech/stream",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Great Hits Manchester",
+    "url": "https://listen-nation.sharp-stream.com/hull.mp3",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "East Africa Radio",
+    "url": "https://eatv.radioca.st/;",
+    "country": "Uganda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "old Christmas hit channel",
+    "url": "http://streams.80s80s.de/christmas/mp3-192/streams.80s80s.de/%20Find%20more%20stations%20in%20app%20:%20https://play.google.com/store/apps/details?id=com.atf.radiogalaxy",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Yofochm",
+    "url": "https://c13.radioboss.fm:18053/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Nup Radio 91.4",
+    "url": "https://stream.zeno.fm/gxjhbloltwluv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kitintale Christian Fellowship",
+    "url": "https://c24.radioboss.fm:18185/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiira FM 88.6 - Jinja - 88.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/iydttapi8rguv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "CHENNAI LIVE",
+    "url": "http://216.55.178.11:8008/",
+    "country": "Uganda",
+    "bitrate": 24,
+    "codec": "MP3"
+  },
+  {
+    "name": "Voice of Kyankwanzi - Kiboga - 89.7 FM (MP3)",
+    "url": "http://stream.zeno.fm/eyzf4ddwqcmvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jubilee Radio - Fort Portal - 105.6 FM (MP3)",
+    "url": "http://stream.zeno.fm/f3y3up2k07zuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jesus radio",
+    "url": "https://streaming.radio.co/s1dc8ab02e/listen",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SDA Missions radio",
+    "url": "https://stream-57.zeno.fm/mkkr2bcgkf9uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Namaste Radio",
+    "url": "https://node-25.zeno.fm/cqak4ap7by8uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kyoga Veritas Radio - Soroti - 91.5 FM (MP3)",
+    "url": "http://stream.zeno.fm/hyyzuphrsg0uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Church Radio (MP3)",
+    "url": "http://stream.zeno.fm/k0weys53f78uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "EJAZZ Xtra",
+    "url": "https://c32.radioboss.fm:18320/stream",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SKYNET FM",
+    "url": "https://stream-44.zeno.fm/1uhqawtfk5zuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prayer Alter Radio",
+    "url": "https://node-33.zeno.fm/1gfmyttkephvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bugwere Fm",
+    "url": "https://stream-174.zeno.fm/jddn0e0z9f0uv?zt",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Good News Radio",
+    "url": "http://node-01.zeno.fm/km203bn6qnruv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Prayer Tower Radio - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/ymapb78yznhvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Yoo (MP3)",
+    "url": "http://stream.zeno.fm/v73tc5gwaphvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christ Radio - Lira (MP3)",
+    "url": "http://stream.zeno.fm/zupkzgrj4dauv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vega Radio - Mbarara (MP3)",
+    "url": "http://stream.zeno.fm/kkgnwbqh838uv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dema Radio - Gospel Promotions (MP3)",
+    "url": "http://stream.zeno.fm/m96foqqk7bxuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Enjiri Radio (MP3)",
+    "url": "http://stream.zeno.fm/xdb8nazajqcvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Chosen Radio Uganda (MP3)",
+    "url": "http://stream.zeno.fm/6uxwuag3srhvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Exodus Comfort Radio",
+    "url": "http://stream.zeno.fm/k2zma0qewtjvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Turn Radio - Revive Your Soul (MP3)",
+    "url": "http://stream.zeno.fm/cuejngegi8btv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sinza (MP3)",
+    "url": "http://stream.zeno.fm/raoopfak6k2vv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "UgOnlineMedia - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/8t4dtkxfgkuuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Faith Radio",
+    "url": "https://nwm.streamguys1.com/ktis-am",
+    "country": "Uganda",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Christ Love Radio (MP3)",
+    "url": "http://stream.zeno.fm/orioba9siustv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sanctuary FM - Kampala (MP3)",
+    "url": "http://stream.zeno.fm/vyx334hsbphvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Buyinza FM (MP3)",
+    "url": "http://stream.zeno.fm/wcancipcbrevv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Shalom Radio Jinja (MP3)",
+    "url": "http://stream.zeno.fm/rvnov6bmdhsvv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dove Radio",
+    "url": "https://ice64.securenetsystems.net/DOVEMAIN",
+    "country": "Uganda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Promise Radio UG (MP3)",
+    "url": "http://stream.zeno.fm/hkzgeqlcjoxuv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Teshuvah radio",
+    "url": "https://stream.zeno.fm/3qpkku63z5quv",
+    "country": "Uganda",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

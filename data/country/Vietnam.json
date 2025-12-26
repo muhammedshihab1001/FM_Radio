@@ -1,0 +1,114 @@
+[
+  {
+    "name": "VIET RADIO 1560",
+    "url": "http://71.4.56.20/3rdout/radio.hou.std2/icecast.audio",
+    "country": "Vietnam",
+    "bitrate": 109,
+    "codec": "MP3"
+  },
+  {
+    "name": "L0ves0n9scafe",
+    "url": "http://listen.57fm.com/lscafe",
+    "country": "Vietnam",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM HANOI 96 MHz",
+    "url": "http://222.252.21.96:8000/HANOI96",
+    "country": "Vietnam",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOV Mekong",
+    "url": "https://stream.vovmedia.vn/vovmekong",
+    "country": "Vietnam",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RFI Tiếng Việt",
+    "url": "https://rfienvietnamien64k.ice.infomaniak.ch/rfienvietnamien-64.mp3",
+    "country": "Vietnam",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Vietnamese National People",
+    "url": "http://c13.radioboss.fm:8127/stream",
+    "country": "Vietnam",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM HANOI 90 MHz",
+    "url": "http://14.162.146.90:8000/HANOI90",
+    "country": "Vietnam",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "M Radio Vietnam",
+    "url": "https://stream-155.zeno.fm/4q7y9hvkp2zuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiI0cTd5OWh2a3AyenV2IiwiaG9zdCI6InN0cmVhbS0xNTUuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6ImlpeGFsbUNWVE51cGxub1h2eE9NTmciLCJpYXQiOjE3MzE1NTExNjIsImV4cCI6MTczMTU1MTIyMn0.RQUqatQ8CtSaIcvH9kT1xRfeuptGIM13jzFd-2SehU0&aw_0_req_lsid=8196d2c78a734f244852a3f8bbbecbcb",
+    "country": "Vietnam",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CRI Tiếng Việt",
+    "url": "https://ice5.securenetsystems.net:80/KALI",
+    "country": "Vietnam",
+    "bitrate": 32,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOV English 24/7",
+    "url": "https://stream.vovmedia.vn/vov247",
+    "country": "Vietnam",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Viet Washington DC",
+    "url": "http://varadio.serverroom.net:7968/",
+    "country": "Vietnam",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "VOV5 WORLD RADIO",
+    "url": "https://stream.vovmedia.vn/vov5",
+    "country": "Vietnam",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Saigon Houston AM900",
+    "url": "http://142.4.215.82:8070/stream?type=http&nocache=151",
+    "country": "Vietnam",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bolsa Radio VN",
+    "url": "http://stream.zenolive.com/ueychbrzv9duv",
+    "country": "Vietnam",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Cherry Radio Music 247",
+    "url": "https://stream-176.zeno.fm/umt5gqmg3reuv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJ1bXQ1Z3FtZzNyZXV2IiwiaG9zdCI6InN0cmVhbS0xNzYuemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IkNZUXVUREM3VGNtTjEyblNnR0x4UkEiLCJpYXQiOjE3Mjk3NDI5MzAsImV4cCI6MTcyOTc0Mjk5MH0.nXD9Wgj-wiNAqBZ-Pdh_3sfnI3b-Nsa4DwbcZgO1o5I&adtonosListenerId=01JAYBBMWV0MGTJKRSBW480E4Z",
+    "country": "Vietnam",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Little Saigon Radio",
+    "url": "https://stream-148.zeno.fm/kxynzu2qe7duv?zt=eyJhbGciOiJIUzI1NiJ9.eyJzdHJlYW0iOiJreHluenUycWU3ZHV2IiwiaG9zdCI6InN0cmVhbS0xNDguemVuby5mbSIsInJ0dGwiOjUsImp0aSI6IklCSlYyMXNuVC02QUFEWTVhQTUxWmciLCJpYXQiOjE3Mjk4MzExMTcsImV4cCI6MTcyOTgzMTE3N30.MnLyarUeN7gD-e-g1fZiD0UQWGzpIaPx7o3vYOhQCfk",
+    "country": "Vietnam",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

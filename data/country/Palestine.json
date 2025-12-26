@@ -1,0 +1,23 @@
+[
+  {
+    "name": "seba",
+    "url": "http://213.6.93.254:8000/sebafm",
+    "country": "Palestine",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Quran Radio Station-Nablus",
+    "url": "http://www.quran-radio.org:8002/",
+    "country": "Palestine",
+    "bitrate": 48,
+    "codec": "MP3"
+  },
+  {
+    "name": "راديو الناس",
+    "url": "https://cdna.streamgates.net/RadioNas/Live-Audio/icecast.audio",
+    "country": "Palestine",
+    "bitrate": 64,
+    "codec": "AAC+"
+  }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "name": "Bula FM",
+    "url": "http://peridot.streamguys.com:7150/Bula",
+    "country": "Fiji",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Fiji Two",
+    "url": "http://peridot.streamguys.com:7150/RFTwo",
+    "country": "Fiji",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Fiji Gold FM 100.4 Suva",
+    "url": "http://peridot.streamguys.com:7150/Gold",
+    "country": "Fiji",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "2dayFM 104.0 Suva",
+    "url": "http://peridot.streamguys.com:7150/2Day",
+    "country": "Fiji",
+    "bitrate": 24,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Fiji One",
+    "url": "http://peridot.streamguys.com:7150/RFOne",
+    "country": "Fiji",
+    "bitrate": 24,
+    "codec": "AAC+"
+  }
+]

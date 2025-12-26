@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Espacio Network",
+    "url": "https://acp2.lorini.net:28050/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Radio del Sur",
+    "url": "http://190.202.130.61:8000/lrds",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dinámica 1490AM",
+    "url": "https://guri.tepuyserver.net/8040/stream",
+    "country": "Venezuela",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tama Stereo",
+    "url": "https://guri.tepuyserver.net/8457/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Maxi Radio Digital",
+    "url": "https://guri.tepuyserver.net/8010/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Circuito X",
+    "url": "http://cp2.lorini.net:39500/stream",
+    "country": "Venezuela",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Electrik 97.7 FM",
+    "url": "https://streamingned.com:7044/stream",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Total 92.7 Maturin",
+    "url": "https://streaming.produccionesvanessa.com/8006/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Clasicos 90.9 FM El Tigre",
+    "url": "http://acp2.lorini.net:2030/clasicoseltigre",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC"
+  },
+  {
+    "name": "99.9 Festiva FM",
+    "url": "http://cp2.lorini.net:28018/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "C-Oye 89.1 FM",
+    "url": "http://streamingned.com:7146/;",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BANDERA 105.7 FM",
+    "url": "http://streamingned.com:7148/;",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Unión Radio 90.3 FM Caracas",
+    "url": "http://ur58.lorini.net:2080/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rumba 98.1 FM",
+    "url": "https://cast20.plugstreaming.com:2020/stream/r981/;",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "CIRCUITO DINAMICA 103.3 FM",
+    "url": "https://acp2.lorini.net:36075/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Alba Ciudad Radio 93.6 FM16k",
+    "url": "https://envivo.albaciudad.org/alba16.mp3",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "FM Mundial 104.1",
+    "url": "https://onlineradiobox.com/json/ve/lafmmundial/play?platform=web",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Favorita 106.1 FM",
+    "url": "https://sp.wnetserver.com/8046/stream",
+    "country": "Venezuela",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "PLENITUD 90.9",
+    "url": "https://sp.wnetserver.com/8060/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Mix Retro",
+    "url": "https://streamingned.com:7084/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tecnologica 93.1 FM",
+    "url": "https://streamingned.com:7118/;",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Andes 89.3 FM",
+    "url": "http://streamingned.com:7098/;",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Alba Ciudad 96.3 FM",
+    "url": "https://envivo.albaciudad.org/albaciudad.mp3",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "ALAS de Miranda 89.1 FM",
+    "url": "https://server6.globalhostla.com:8052/stream",
+    "country": "Venezuela",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RocaFM Clasicos Caracas",
+    "url": "http://protostar.shoutca.st:8370/",
+    "country": "Venezuela",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO RUMBOS 670 AM",
+    "url": "https://stream.zeno.fm/c3q3w8zfe18uv?triton-uid-cookie%3A0fae79a4-e789-4b9b-9ca7-d30ae705f0a6",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Adulto Joven 88.1",
+    "url": "https://server6.globalhostla.com:9168/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio La Romantica",
+    "url": "https://stream.zeno.fm/28hgnyp8568uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caracas. Salsa Romántica...",
+    "url": "https://stream.zeno.fm/ftly191pojttv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "DJ Shaggy Venezuela Radio",
+    "url": "https://laradiossl.online:9226/;",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FIESTA VALLENATA",
+    "url": "https://stream.zeno.fm/qlznh4yhpvytv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Llaneros Por Venezuela",
+    "url": "https://stream.zeno.fm/12bg6xa7hv8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cristiana Venezuela",
+    "url": "https://stream.zeno.fm/r7zrx18xcfhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lo mejor de mi llano",
+    "url": "https://stream.zeno.fm/0dvlznecjgavv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Navidad Venezuela",
+    "url": "https://stream.zeno.fm/vbvpvf6a6uvtv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sol 89.1 Maturin",
+    "url": "https://stream-67.zeno.fm/r2errtf2uk8uv?%20zs=7GPKP3MTQtWE9TZYVk5Khg",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio dinámica 92.9",
+    "url": "https://guri.tepuyserver.net/8012/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Romántica",
+    "url": "https://stream.zeno.fm/cploshirboutv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio baladas y algo mas",
+    "url": "https://stream.zeno.fm/02dze40162quv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Clasicos Del Vallenato",
+    "url": "https://stream.zeno.fm/y2nsu1p6ynhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Sol 89.1",
+    "url": "https://stream-67.zeno.fm/r2errtf2uk8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rumbera  98.7 FM",
+    "url": "https://stream.zeno.fm/85y72q4wzdfuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Retro",
+    "url": "https://stream.zeno.fm/07brb24epkhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Caracas. Salsa Brava...",
+    "url": "https://stream.zeno.fm/fq0c9ohszctuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio 2000",
+    "url": "https://streaming.adclichosting.com:8030/radio2000.mp3",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "AAC"
+  },
+  {
+    "name": "Puro Llano Radio",
+    "url": "https://stream.zeno.fm/1jvlfyg36swuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MPB Radio Venezuela",
+    "url": "https://radiozender.mpbnetwerken.nl/radiovenezuela.mp3",
+    "country": "Venezuela",
+    "bitrate": 384,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Remix Music Radio Web",
+    "url": "https://stream.zeno.fm/s4vcagrndg8uv?1730221729450",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rumba 100.1 Barquisimeto FM",
+    "url": "https://cast10.plugstreaming.com:2020/stream/r1001/;",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LA CIUDAD DE LOS CLÁSICOS RADIO",
+    "url": "https://stream.zeno.fm/ppyvnq28368uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Miraflores 95.9 FM",
+    "url": "https://stream.zeno.fm/prcs4h7d9k8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Acción 104.5 FM (La diferencia en el dial)",
+    "url": "https://stream.intervalohost.com/accionfm/stream",
+    "country": "Venezuela",
+    "bitrate": 32,
+    "codec": "AAC"
+  },
+  {
+    "name": "NucleaR radio Venezuela.",
+    "url": "https://stream.zeno.fm/ghfrtkgu666vv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Circuito Comunión Nueva Bolivia 93.1 FN",
+    "url": "https://stream.zeno.fm/abkmpazmyk8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Fiesta Latina 106.1 FM",
+    "url": "https://stream.zeno.fm/e2kzfpr34d0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Folclorllanero",
+    "url": "https://stream.zeno.fm/hcvjvmprjveuv/;type=mp3",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Tropical 990 AM",
+    "url": "https://stream.zeno.fm/ykvgcdko19btv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rumba 104.9 Anzoategui FM",
+    "url": "https://cast10.plugstreaming.com:2020/stream/r1049/;",
+    "country": "Venezuela",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amiga FM 93.9",
+    "url": "https://stream.zeno.fm/dr612ew61rhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Planeta 105.3 Caracas FM",
+    "url": "https://cast10.plugstreaming.com:2020/stream/planetafm/;",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "UNA VOZ CELESTIAL VENEZUELA",
+    "url": "https://stream.zeno.fm/rqeyzo6silmuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Activa FM 104.9",
+    "url": "https://stream.zeno.fm/t31pbasum7zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Ebenezer 94.5 FM",
+    "url": "https://stream.zeno.fm/shfz70w4k1nvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "ROMANZAS VALLENATAS",
+    "url": "https://stream.zeno.fm/a2vqa8eayf9uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Imaginacion 96.1 FM",
+    "url": "https://stream.zeno.fm/a6wkbc2x91zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Gaiterísima 94.7 FM",
+    "url": "https://stream.zeno.fm/eifrtjxvxvpuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fiesta Latina 106.1 Fm",
+    "url": "https://stream.zeno.fm/e2kzfpr34d0uv/;type=mp3",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "El Portal del amor 96.5 FM",
+    "url": "https://stream.zeno.fm/ufgm3qr2pa0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Latina 95.5 FM",
+    "url": "http://stream.zeno.fm/w6ajlkgtufstv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lasser 97.7 FM",
+    "url": "https://server6.globalhostla.com:8010/stream",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "ESPLENDIDA 91.9 FM",
+    "url": "https://stream.zeno.fm/jyrqyy8he4tvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "COSTERA 102.7 FM",
+    "url": "https://streamingned.com:7112/stream",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "La Salsera FM",
+    "url": "https://stream.zeno.fm/4qbzbrvdmy8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Magic Radio 92.5 Maracay",
+    "url": "https://cloudstream2030.conectarhosting.com/8324/;",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "La FM 98.5 Buenisima La FM 98.5 Buenisima",
+    "url": "https://stream.zeno.fm/5t866rywrzzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Latino 102 Fm 102.7",
+    "url": "https://stream.zeno.fm/b85p32t2kwzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Circuito X 89.7 FM",
+    "url": "http://cp2.lorini.net:39500/;mp312844|mp312844",
+    "country": "Venezuela",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Contacto FM 93.7",
+    "url": "https://laradiossl.online:10058/;",
+    "country": "Venezuela",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "LATINA STEREO 107.9 FM",
+    "url": "https://stream.zeno.fm/maxyg1sqkbjtv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MARACAIBERA FM 98.3",
+    "url": "https://stream.zeno.fm/t8g2xp8gr68uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Espectaculo 100.7 FM",
+    "url": "https://laradiossl.online:10583/;?_=2#.mp3",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "CUYUNI FM 106.5",
+    "url": "https://stream.zeno.fm/xag8wa3c4v8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CDR 98.7 FM",
+    "url": "https://laradiossl.online:8347/;",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Clasicos en la web",
+    "url": "https://stream.zeno.fm/3u9n8n688a0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bella FM 96.9",
+    "url": "https://server6.globalhostla.com:9380/stream",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Guanareña 98.3 FM",
+    "url": "https://laradiossl.online:10175/;?_=1#.mp3",
+    "country": "Venezuela",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Barroso Radio",
+    "url": "https://stream.zeno.fm/zrh0rnwuarzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "La Verdadera Rumba 105.1 FM",
+    "url": "https://stream.zeno.fm/xtn1qbzg1hhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Cordillera 104.7 FM",
+    "url": "https://stream.zeno.fm/fjjqaatp19wtv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "EL SHOW DE PIÑA MIX",
+    "url": "https://stream.zeno.fm/mvu8ut5f2k0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "LIDER 100.3 FM PUERTO ORDAZ",
+    "url": "https://stream.zeno.fm/ee4zas6mva0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Comunion 97.5 Fm",
+    "url": "https://stream.zeno.fm/cy3ef0frwmzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "KRV FRECUENCIA MUSICAL",
+    "url": "https://stream.zeno.fm/w14q1vzpu4zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Circuito Comunión Santa Elena de Arenales 101.1 FM",
+    "url": "https://stream.zeno.fm/ksh16ht4na0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Fiesta 89.1 FM",
+    "url": "https://acp2.lorini.net:36050/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "sensacion 95.9 fm",
+    "url": "https://stream.zeno.fm/fz3rkbb3uouvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "RADIO WAO 97.1 FM",
+    "url": "https://stream.zeno.fm/g7ayu7wbr2zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lider 104.7 FM",
+    "url": "https://stream.zeno.fm/89mx0qh1trhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Blue Radio Web",
+    "url": "https://stream.zeno.fm/m8s8m3oflj8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "W Radio 99.7 FM",
+    "url": "https://stream.zeno.fm/19esq1mgzhhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Planeta Radio 101.7 FM",
+    "url": "https://stream.zeno.fm/8y6m9g81c48uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIRCUITO DINAMICA 95.5 FM",
+    "url": "https://acp2.lorini.net:41066/stream",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Bravas 99.7 FM",
+    "url": "https://stream.zeno.fm/nnzbefxo8cjvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "CAPITAL 92.9 FM",
+    "url": "https://stream.zeno.fm/m7vfjoruxg2uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Weekend Mix Radio",
+    "url": "https://stream.zeno.fm/xnp3npkkvg0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "AUTENTIK 100.7 FM",
+    "url": "https://server6.globalhostla.com:9228/stream",
+    "country": "Venezuela",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BOLIVAR 98.7 FM",
+    "url": "https://stream.zeno.fm/tq9gsygzjuhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "BUENA COMPAÑÍA 94.1 FM",
+    "url": "https://stream.zeno.fm/ekzk93vtmchvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Maxima 104.3 FM",
+    "url": "https://stream.zeno.fm/tpg754xrclsuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "SABOR 106.7 FM",
+    "url": "https://radiostream.interven.ca/listen/saborfm/radio.mp3",
+    "country": "Venezuela",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fama 98.1 FM",
+    "url": "https://server6.globalhostla.com:9356/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "CIMA RADIO 100.9 FM",
+    "url": "https://stream.zeno.fm/8vugdnevn18uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Lider 94.9 FM",
+    "url": "https://stream.zeno.fm/21c6hmq8e8zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Petrolera",
+    "url": "https://rr5100.globalhost1.com/8508/live",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "105.1 FUERZA MUSICAL",
+    "url": "https://server6.globalhostla.com:9376/stream",
+    "country": "Venezuela",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "SIERRA 99.1 FM",
+    "url": "https://stream.zeno.fm/9m95mfutymruv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "RNP 101.1 FM",
+    "url": "https://stream.zeno.fm/4944hzwvcuhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Big Party 88.9 FM",
+    "url": "http://stream.zeno.fm/w4ysmgm2ekhvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Evolussiun 92.9 FM",
+    "url": "https://laradiossl.online:8150/live",
+    "country": "Venezuela",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Otilca Radio",
+    "url": "https://stream.zeno.fm/w6dg8ye51tzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "WOAO 88.1 FM",
+    "url": "https://stream.zeno.fm/361as28sbc9uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Studio 102.7 FM",
+    "url": "https://stream.zeno.fm/um833nab8tzuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Comunion 101.1 Fm Santa Elena",
+    "url": "https://stream.zeno.fm/b3ps0ht4na0uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "La Doble RR",
+    "url": "https://stream.zeno.fm/u7sbv0hu1p8uv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "DJ Nezux (Contract @Nezux) Ig: @Albxrt._",
+    "url": "https://stream.zeno.fm/y6zlb93en1guv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Utopica stereo",
+    "url": "https://server6.globalhostla.com:9104/stream",
+    "country": "Venezuela",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio – Circuito POP FM 105.9",
+    "url": "https://acp2.lorini.net:10120/stream",
+    "country": "Venezuela",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Lider 94.9 FM Caracas",
+    "url": "http://stream.zeno.fm/pv120nq8e8zuv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Pregón 95.7 FM",
+    "url": "https://stream.zeno.fm/2dcuqasrykauv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "HR ESTEREO",
+    "url": "https://stream.zeno.fm/kbgxbzklrpmtv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "https://insomnio.hr/",
+    "url": "https://stream.zeno.fm/7jssenfyrscvv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "MinoRadioDJ",
+    "url": "https://stream.zeno.fm/k7glhzicabntv",
+    "country": "Venezuela",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

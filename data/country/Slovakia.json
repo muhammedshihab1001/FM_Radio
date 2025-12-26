@@ -1,0 +1,695 @@
+[
+  {
+    "name": "Rádio KIKS",
+    "url": "https://online.radiokiks.sk:8000/kiks_hq.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio KIKS - Big 90s",
+    "url": "https://online.radiokiks.sk:8000/kiks_big90s.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sllobodný vysielač",
+    "url": "http://159.69.219.5:8010//aac",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Fun Radio CZ",
+    "url": "http://stream.funradio.sk:8000/cs128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fun Radio Dance",
+    "url": "http://stream.funradio.sk:8000/dance128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fun Radio",
+    "url": "http://stream.funradio.sk:8000/fun128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Sity",
+    "url": "https://radiosity.online:8000/aac",
+    "country": "Slovakia",
+    "bitrate": 64,
+    "codec": "AAC"
+  },
+  {
+    "name": "Europa 2",
+    "url": "https://stream.bauermedia.sk/europa2.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fun Radio 80&90",
+    "url": "http://stream.funradio.sk:8000/80-90-128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Party Radio",
+    "url": "https://mpc1.mediacp.eu/stream/partyradio",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Funrádio Mileniálky",
+    "url": "http://stream.funradio.sk:8000/milenialky128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio BestFM",
+    "url": "https://stream3.bestfm.sk:8000/128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "METALSCENA netRADIO",
+    "url": "https://listen.radioking.com/radio/263218/stream/308365",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio TOPOĽČANY",
+    "url": "http://80.242.44.249:8000/;",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Paráda",
+    "url": "https://extra.mediacp.eu/stream/RadioParada,o.z.",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Infovojna",
+    "url": "http://159.69.219.5:8010/aac",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rádio Vlna CLASSIC ROCK",
+    "url": "http://stream.radiovlna.sk:8000/rock-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rebeca",
+    "url": "https://mpc2.mediacp.eu:8200/rebecaweb",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Slobodný vysielač",
+    "url": "http://159.69.219.5:8010/mp3",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Litera",
+    "url": "https://icecast.stv.livebox.sk/litera_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RÁDIO BETA - České a Slovenské hity",
+    "url": "http://109.71.67.102:8000/beta_cspop.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jubilanti",
+    "url": "http://109.71.67.102:8000/beta_jubilanti.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Beta",
+    "url": "http://109.71.67.102:8000/beta_live_high.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RÁDIO BETA 80-90",
+    "url": "http://109.71.67.102:8000/beta_80a90.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Mirjam Rádio - Mária Rádió Felvidék",
+    "url": "http://193.87.81.131:8081/MariaRadioFelvidek",
+    "country": "Slovakia",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio v Nitre",
+    "url": "http://195.210.28.150:8932/radiovnitre_live.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bela",
+    "url": "http://65.109.81.84:8855/live",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "G-Radio",
+    "url": "http://88.212.34.18:8050/mp3midband",
+    "country": "Slovakia",
+    "bitrate": 80,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Lumen",
+    "url": "http://audio.lumen.sk:8000/live128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo2 Rádio Regina Východ",
+    "url": "http://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo8 Rádio Litera",
+    "url": "http://icecast.stv.livebox.sk/litera_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo3: Rádio Devín",
+    "url": "http://icecast.stv.livebox.sk/devin_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo2 Rádio Regina Stred",
+    "url": "http://icecast.stv.livebox.sk/regina-bb_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo6 Radio Slovakia International",
+    "url": "http://icecast.stv.livebox.sk/rsi_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo2 Rádio Regina Západ",
+    "url": "http://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Maria Slovensko",
+    "url": "http://dreamsiteradiocp5.com:8012/streaming.mp3",
+    "country": "Slovakia",
+    "bitrate": 40,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rádio Pohoda 2",
+    "url": "http://mpc1.mediacp.eu:18111/stream",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Československé radio",
+    "url": "http://live.topradio.cz:8000/csradio128",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Extra",
+    "url": "http://live.topradio.cz:8000/extra192",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo1 Rádio Slovensko (256k)",
+    "url": "http://live.slovakradio.sk:8000/Slovensko_256.mp3",
+    "country": "Slovakia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo5 Rádio Pátria /RSI",
+    "url": "http://live.slovakradio.sk:8000/Patria_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo1 Rádio Slovensko",
+    "url": "http://live.slovakradio.sk:8000/Slovensko_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo9 Rádio Junior",
+    "url": "http://live.slovakradio.sk:8000/Junior_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo4 Rádio FM",
+    "url": "http://live.slovakradio.sk:8000/FM_256.mp3",
+    "country": "Slovakia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "SRo9 Rádio Junior (256k)",
+    "url": "http://live.slovakradio.sk:8000/Junior_256.mp3",
+    "country": "Slovakia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RTVS Litera256",
+    "url": "http://live.slovakradio.sk:8000/Litera_256.mp3",
+    "country": "Slovakia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Záhorácke Rádio",
+    "url": "http://live.zahorackeradio.sk:8080/zr128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO BIBLIA SK",
+    "url": "http://radiobiblia.online:8000/stream.ogg",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Repete",
+    "url": "http://stream.rusyn.fm/rusyny-low.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RusynFM",
+    "url": "http://stream.rusyn.fm/rusyny.mp3",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "SUB:FM",
+    "url": "http://stream.subfm.sk/subfm",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Detské Rádio",
+    "url": "http://stream.21.sk/detskeradio-192.mp3",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BB FM rádio",
+    "url": "http://stream.bbfm.sk/bbfm128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SKY Rádio",
+    "url": "http://stream.skyradio.sk:8000/sky128",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Frontinus",
+    "url": "http://stream.frontinus.sk:8000/frontinus128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Aetter",
+    "url": "http://stream.aetter.sk:8000/aetter",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Košice",
+    "url": "http://stream.ecce.sk:8000/radiokosice-128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vlna",
+    "url": "http://stream.radiovlna.sk/vlna-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Expres",
+    "url": "http://stream.expres.sk/128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Slobodný vysielač",
+    "url": "http://vysielanie.online/radio/8020/SV128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Pyramída",
+    "url": "https://icecast.stv.livebox.sk/klasika_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Devín",
+    "url": "https://icecast.stv.livebox.sk/devin_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Slovensko",
+    "url": "https://icecast.stv.livebox.sk/slovensko_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio RSI",
+    "url": "https://icecast.stv.livebox.sk/rsi_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pátria Rádió",
+    "url": "https://icecast.stv.livebox.sk/patria_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Folk",
+    "url": "https://mpc1.mediacp.eu/stream/demo2",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dobré Rádio",
+    "url": "https://stream.dobreradio.sk/dobreradio.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "SubFM",
+    "url": "https://stream.subfm.sk/subfm",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rusyn FM",
+    "url": "https://stream.rusyn.fm/rusyny.mp3",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Devín",
+    "url": "http://live.slovakradio.sk:8000/Devin_256.mp3",
+    "country": "Slovakia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "RÁDIO EXPRES",
+    "url": "https://stream.bauermedia.sk/128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio FM",
+    "url": "https://icecast.stv.livebox.sk/fm_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Melody",
+    "url": "https://stream.bauermedia.sk/melody-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Party Mix Radio",
+    "url": "http://stream.zeno.fm/rw6ckefezs8uv",
+    "country": "Slovakia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vlna Golden hits",
+    "url": "https://stream.radiovlna.sk/gold-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Viva Metropol",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Zabava",
+    "url": "https://stream.zeno.fm/eyac00cx1nhvv",
+    "country": "Slovakia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "FRESH rádio",
+    "url": "https://icecast2.radionet.sk/freshradio.sk",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 7",
+    "url": "https://play.radio7.sk/128",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Vlna Oldies Party",
+    "url": "https://stream.radiovlna.sk/party-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Rock SV",
+    "url": "https://s2.myradiostream.com/:4870/listen.mp3",
+    "country": "Slovakia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "BestFM",
+    "url": "https://stream3.bestfm.sk:8000/160.aac",
+    "country": "Slovakia",
+    "bitrate": 160,
+    "codec": "AAC"
+  },
+  {
+    "name": "Rock Radio",
+    "url": "https://stream.bauermedia.sk/rock-hi.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Dychovka",
+    "url": "https://epanel.mediacp.eu:7661/stream",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Jazz",
+    "url": "http://stream.sepia.sk:8000/jazz128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio KIKS - Rock Music",
+    "url": "https://online.radiokiks.sk:8000/kiks_rock.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Fun Radio  Chill",
+    "url": "https://stream.funradio.sk:8000/chill128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio KIKS - Big 80s",
+    "url": "https://online.radiokiks.sk:8000/kiks_big80s.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitrádio Slovakia",
+    "url": "https://hitradioslovakia.stream.laut.fm/hitradioslovakia",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Melody",
+    "url": "https://stream.bauermedia.sk/melody-lo.mp3?aw_0_req.gdpr=false&aw_0_1st.playerid=melody_web_mobile",
+    "country": "Slovakia",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "mars dance",
+    "url": "https://stream-153.zeno.fm/683gf5xrxfeuv?zs=gtI4gERBSUGu8f0FOcDOWw&1686916511841",
+    "country": "Slovakia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Duflo Radio",
+    "url": "http://stream.zeno.fm/kxwhyvz2fm0uv",
+    "country": "Slovakia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Basavel",
+    "url": "https://stream.zeno.fm/6gd9c6yn4nhvv",
+    "country": "Slovakia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio Topolčany",
+    "url": "http://80.242.44.249:8000/",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rádio REGINA ZÁPAD",
+    "url": "https://icecast.stv.livebox.sk/regina-ba_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "radio metropolitan",
+    "url": "https://mpc2.mediacp.eu:8214/stream",
+    "country": "Slovakia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio VIVA",
+    "url": "https://stream.sepia.sk/viva128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "897",
+    "url": "https://c34.radioboss.fm:8106/stream",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Regina Východ",
+    "url": "https://icecast.stv.livebox.sk/regina-ke_128.mp3",
+    "country": "Slovakia",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

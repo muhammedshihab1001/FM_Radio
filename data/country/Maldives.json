@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Dhivehi FM",
+    "url": "https://radio.psm.mv/fmair",
+    "country": "Maldives",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Dhivehi Raajjeyge Adu",
+    "url": "https://radio.psm.mv/draair",
+    "country": "Maldives",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

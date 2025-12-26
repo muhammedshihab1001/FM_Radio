@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Balla Radio",
+    "url": "http://167.114.11.79:5730/;stream/1",
+    "country": "Cameroon",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Equinoxe Radio",
+    "url": "https://listen.radioking.com/radio/39218/stream/76118",
+    "country": "Cameroon",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "CRTV Radio",
+    "url": "https://listen.radioking.com/radio/39218/stream/75659",
+    "country": "Cameroon",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

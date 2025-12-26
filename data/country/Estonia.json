@@ -1,0 +1,380 @@
+[
+  {
+    "name": "Kuma FM 101.0",
+    "url": "http://5.39.16.62:8004/tre",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Elmari tantsuõhtu 24/7",
+    "url": "http://le06.euddn.net/ae8821b28a7ca7c6ddaf673b4ee3c0458a952561d983bb63ec515fa5d7770f7309dc7883405cad14b4e6d606be0c2e88cf797f09212f2fac552f26ffe4c1ce6aec65ef71ad9508fefc3ec62528c09b3ec49f63d556f3f18b205a4443f6074e9675c7e31610197735b447dc2343bf9fe282cfc05c4272b471b2bd5b07b254d9cf4ddd6dba52319f62a590b206d5144be1c6a4fb61bfa69e3344f293ba1432ef47ef3ea702ad52b3c3d19db1cce7f44d8b04927aef2c3cc776aaf8fa295de1faea/elmaritantsuohtu.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "FinEst Radio",
+    "url": "https://shoutcast.finestfm.fi/stream/1/:80/;stream",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ring FM",
+    "url": "http://cdn.treraadio.ee/tartustuudio",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tre Raadio Põhja-Eesti",
+    "url": "http://cdn.treraadio.ee/pohja-tre",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tre Raadio Kesk-Eesti",
+    "url": "http://cdn.treraadio.ee/kesk-eesti-tre",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tre Raadio Pärnu",
+    "url": "http://cdn.treraadio.ee/parnu-tre",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pereraadio Tartu",
+    "url": "http://icecast.pereraadio.ee:8000/Tartu",
+    "country": "Estonia",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Semeinoje Radio",
+    "url": "http://icecast.pereraadio.ee:8000/Semeinoje",
+    "country": "Estonia",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pereraadio Tallinn",
+    "url": "http://icecast.pereraadio.ee:8000/Tallinn",
+    "country": "Estonia",
+    "bitrate": 160,
+    "codec": "MP3"
+  },
+  {
+    "name": "Pereraadio Kuressaare",
+    "url": "http://icecast.pereraadio.ee:8000/Kuressaare",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Семейное Радио Эли. Тарту 1035 КГц",
+    "url": "http://icecast.pereraadio.ee:8000/RadioEli",
+    "country": "Estonia",
+    "bitrate": 140,
+    "codec": "MP3"
+  },
+  {
+    "name": "Duo GreatestHits (Estonia)",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/hitmix.aac",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "AAC+"
+  },
+  {
+    "name": "MyHits",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/myhits.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tre Raadio Virumaa",
+    "url": "http://sc2.treraadio.ee/viru-tre",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Relax cafe",
+    "url": "https://stream.relaxfm.ee/cafe",
+    "country": "Estonia",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kiss FM Pride",
+    "url": "https://stream.skymedia.ee/live/KissPride",
+    "country": "Estonia",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Raadio Relax FM",
+    "url": "https://stream.relaxfm.ee/relax",
+    "country": "Estonia",
+    "bitrate": 88,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sky Plus",
+    "url": "https://stream.skymedia.ee/live/SKYPLUS",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky-Radio",
+    "url": "https://stream.skymedia.ee/live/SKY",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio Relax International",
+    "url": "https://stream.relaxfm.ee/international",
+    "country": "Estonia",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Rock FM",
+    "url": "https://edge02.cdn.bitflip.ee:8888/rck?_i=5f5ab186",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://stream.skymedia.ee/live/KISS",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Tre Raadio Ring FM",
+    "url": "https://cdn.treraadio.ee/ringfm",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "Retro FM Estonia",
+    "url": "https://stream.skymedia.ee/live/RETRO_AAC",
+    "country": "Estonia",
+    "bitrate": 88,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Duo Country",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/dc_duocountry.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Raadio Kuku",
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_high.mp3",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio Elmar",
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/elmar.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Retro FM Estonia",
+    "url": "https://edge02.cdn.bitflip.ee:8888/RETRO?_i=258f436b",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Sky Plus DnB",
+    "url": "https://edge03.cdn.bitflip.ee:8888/NRJdnb",
+    "country": "Estonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio 7",
+    "url": "https://edge05.cdn.bitflip.ee:8888/R7",
+    "country": "Estonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Äripäeva Raadio",
+    "url": "https://www.aripaev.ee/raadio/stream.mp3",
+    "country": "Estonia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRJ Tallinn",
+    "url": "https://edge03.cdn.bitflip.ee:8888/NRJ",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "NRJ",
+    "url": "https://edge01.cdn.bitflip.ee:8888/NRJ?_i=5b8169cb",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Power Hit Radio",
+    "url": "https://ice.leviracloud.eu/phr96-aac?",
+    "country": "Estonia",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Duo Party",
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/duodance.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sky Plus",
+    "url": "https://skymedia-live.bitflip.ee/SKYPLUS",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "KlaRa Jazz",
+    "url": "https://icecast.err.ee/klarajazz.mp3",
+    "country": "Estonia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hitmix Estonia",
+    "url": "https://stream.hitmix.ee:8443/HIT_320",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kiss FM",
+    "url": "https://edge02.cdn.bitflip.ee:8888/KISS",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio Duo",
+    "url": "https://le03.euddn.net/643e1d6549b37ef476e9291c8a2416f4c7a26fd8c57720075bfc75e9f8989cec756cd63e9bedeab335cb6d27c3cf06643a3b5e57c811be0e6789ef0d2b81e1d1a37bb18b37f32cd4af628f7044d43fa5f323de0c4edf8f1019b07a3fdeb4bac2410fbbe27a31a7c3f9c3d63da38af0935a770bf4447693219bf8317e70ab02c958b988455d7b1b47dc0715c9eaf503c9ecccde7213c5b4c9a328e2377aeac41517a186c7148f9b516b9cd799b32b8d8c/radioduo.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Kiss FM Eurovision",
+    "url": "https://stream.skymedia.ee/live/KissEurovisioon",
+    "country": "Estonia",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Raadio KUKU",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuku_low.mp3",
+    "country": "Estonia",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "IDA Raadio - Tallinn",
+    "url": "https://broadcast.idaidaida.net:8000/stream",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Duo Rock",
+    "url": "http://router.euddn.net/8103046e16b71d15d692b57c187875c7/rokk.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Tre Raadio Rapla",
+    "url": "https://cdn.treraadio.ee/rapla-tre",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "All The Best Radio",
+    "url": "https://c4.radioboss.fm/stream/537",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "AAC"
+  },
+  {
+    "name": "Radio Nostalgia",
+    "url": "https://c16.radioboss.fm:8327/stream",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio Kadi",
+    "url": "https://edge06.cdn.bitflip.ee:8888/kadi",
+    "country": "Estonia",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Raadio Kidzone",
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kidzone.aac",
+    "country": "Estonia",
+    "bitrate": 160,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Duo Gold (Estonia)",
+    "url": "https://router.euddn.net/8103046e16b71d15d692b57c187875c7/kuld.aac",
+    "country": "Estonia",
+    "bitrate": 192,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Sky Plus D'N'B",
+    "url": "https://edge01.cdn.bitflip.ee:8888/NRJdnb",
+    "country": "Estonia",
+    "bitrate": 256,
+    "codec": "MP3"
+  },
+  {
+    "name": "Hits Show Radio",
+    "url": "https://stream.zeno.fm/7sreyeyustkuv",
+    "country": "Estonia",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Legendaarne Raadio",
+    "url": "https://edge01.cdn.bitflip.ee:8888/Legendaarne?_i=52831a92",
+    "country": "Estonia",
+    "bitrate": 0,
+    "codec": "MP3"
+  }
+]

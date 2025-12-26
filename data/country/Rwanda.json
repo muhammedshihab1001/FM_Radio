@@ -1,0 +1,51 @@
+[
+  {
+    "name": "90.7 Magic FM",
+    "url": "http://listen.rba.co.rw:8080/;",
+    "country": "Rwanda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio 1",
+    "url": "http://80.241.215.175:5000/;",
+    "country": "Rwanda",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "RADIO MARIA RWANDA",
+    "url": "http://dreamsiteradiocp.com:8044/stream",
+    "country": "Rwanda",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Magic FM",
+    "url": "http://listen.rba.co.rw:8080/",
+    "country": "Rwanda",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Heaven FM Radio Rwanda",
+    "url": "http://stream.zeno.fm/eequgfw72hhvv",
+    "country": "Rwanda",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Gendana n'igihe radio",
+    "url": "http://stream.zeno.fm/1ev107turnhvv",
+    "country": "Rwanda",
+    "bitrate": 0,
+    "codec": "AAC"
+  },
+  {
+    "name": "Bachwezi radio",
+    "url": "http://stream.zeno.fm/4vcb1euurnhvv",
+    "country": "Rwanda",
+    "bitrate": 0,
+    "codec": "AAC"
+  }
+]

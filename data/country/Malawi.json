@@ -1,0 +1,30 @@
+[
+  {
+    "name": "RADIO MARIA MALAWI",
+    "url": "http://dreamsiteradiocp.com:8040/stream",
+    "country": "Malawi",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Timveni Radio",
+    "url": "https://play.streamafrica.net/timveni",
+    "country": "Malawi",
+    "bitrate": 192,
+    "codec": "MP3"
+  },
+  {
+    "name": "ZBS Zodiak FM",
+    "url": "https://ice31.securenetsystems.net/0079",
+    "country": "Malawi",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Amaryllis E-Radio",
+    "url": "https://s4.radio.co/s40c05d6b1/low",
+    "country": "Malawi",
+    "bitrate": 64,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "name": "Swadesh 93.2 FM",
+    "url": "http://216.55.141.189:8653/stream?type=http&nocache=66846",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Thaha Sanchar",
+    "url": "https://streaming.softnep.net:10988/;stream.nsv&type=mp3",
+    "country": "Nepal",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Capital FM 92.4",
+    "url": "http://streaming.softnep.net:8037/;",
+    "country": "Nepal",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "BBC Nepali",
+    "url": "https://stream.live.vc.bbcmedia.co.uk/bbc_nepali_radio",
+    "country": "Nepal",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kantipur FM",
+    "url": "https://radio-broadcast.ekantipur.com/stream",
+    "country": "Nepal",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ujyaalo 90 Network",
+    "url": "http://stream.zenolive.com/wtuvp08xq1duv",
+    "country": "Nepal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Himalaya",
+    "url": "https://live.itech.host/himalayaradio?1588276425741",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "CIN Khabar",
+    "url": "https://streaming.softnep.net:10996/;stream.nsv&type=mp3&volume=60",
+    "country": "Nepal",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Audio",
+    "url": "https://stream.zeno.fm/fvrx47wpg0quv",
+    "country": "Nepal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Kalika FM",
+    "url": "http://kalika-stream.softnep.com:7740/;",
+    "country": "Nepal",
+    "bitrate": 56,
+    "codec": "MP3"
+  },
+  {
+    "name": "Naya Radio",
+    "url": "http://live.itech.host:1110/;",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Swadesh FM",
+    "url": "https://radio.garden/api/ara/content/listen/ApPqIXdm/channel.mp3?1700834587158",
+    "country": "Nepal",
+    "bitrate": 0,
+    "codec": "MP3"
+  },
+  {
+    "name": "Ultimaě radio",
+    "url": "https://ultimae-bofaradio.radioca.st/",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "रेडियो हिमालय",
+    "url": "https://live.itech.host/himalayaradio",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Khozee Radio",
+    "url": "http://216.55.141.189:8060/stream/1/",
+    "country": "Nepal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "BFBS Gurkha Radio",
+    "url": "https://listen-ssvcbfbs.sharp-stream.com/ssvcbfbs3.aac",
+    "country": "Nepal",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "KOOL FM 90.3",
+    "url": "https://streaming.softnep.net:10944/;stream.nsv&type=mp3&volume=70",
+    "country": "Nepal",
+    "bitrate": 96,
+    "codec": "MP3"
+  },
+  {
+    "name": "Jayaprithvi F.M.",
+    "url": "https://streaming.softnep.net:10824/",
+    "country": "Nepal",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]

@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Antena M",
+    "url": "http://radioservis.me:8010/antenamlive",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Svetigora",
+    "url": "http://svetigoralive.com:8879/;",
+    "country": "Montenegro",
+    "bitrate": 96,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Skadar",
+    "url": "http://radioservis.me:8050/radioskadar",
+    "country": "Montenegro",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "City Radio",
+    "url": "http://eu7.fastcast4u.com:6166/;",
+    "country": "Montenegro",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Reggaeneracija Montenegro",
+    "url": "http://5.189.179.77:8000/stream",
+    "country": "Montenegro",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Cetinje",
+    "url": "http://78.129.228.187:8007/stream",
+    "country": "Montenegro",
+    "bitrate": 64,
+    "codec": "MP3"
+  },
+  {
+    "name": "Boka News",
+    "url": "http://bokanews.me:8000/source?1734500086794",
+    "country": "Montenegro",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Boka News",
+    "url": "http://bokanews.me:8000/source",
+    "country": "Montenegro",
+    "bitrate": 48,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Mag radio",
+    "url": "http://radio.elmag.me/mag.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio D Podgorica",
+    "url": "http://tachyon.shoutca.st:8289/xstream",
+    "country": "Montenegro",
+    "bitrate": 140,
+    "codec": "MP3"
+  },
+  {
+    "name": "El Radio Podgorica",
+    "url": "https://radio.elmag.me/el.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Nostalgija",
+    "url": "https://radio.elmag.me/nostalgija.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Party",
+    "url": "https://radio.elmag.me/party.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Play Radio Montenegro",
+    "url": "https://stream.playradio.me:8443/play-me.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Kids",
+    "url": "https://radio.elmag.me/kids.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Caffe",
+    "url": "https://radio.elmag.me/cafe.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Love",
+    "url": "https://radio.elmag.me/love.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Novi Elmag radio",
+    "url": "http://radio.elmag.me/elmag.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Evergreen",
+    "url": "https://radio.elmag.me/evergreen.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Folk Gold",
+    "url": "https://radio.elmag.me/folkgold.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Elmag Jazz",
+    "url": "http://radio.elmag.me/jazz.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Izvorne i Starogradske",
+    "url": "https://radio.elmag.me/izvorne.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Elmag Pop Rock EX YU",
+    "url": "https://radio.elmag.me/poprock.mp3",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Fatih",
+    "url": "https://radioservis.me/radio/8070/radiofatih?1702660538716",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Bijelo Polje",
+    "url": "http://136.243.134.202:8122/stream",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Rcg Yug",
+    "url": "https://rtcg.ipradio.rs:9103/;",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Crne Gore 1",
+    "url": "https://rtcg.ipradio.rs:9008/;",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio S1 Crna Gora",
+    "url": "https://stream.radios.rs:9008/;",
+    "country": "Montenegro",
+    "bitrate": 64,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Crne Gore 2 R98",
+    "url": "https://r98.ipradio.rs:10100/;",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio S3 Crna Gora",
+    "url": "https://stream.radios.rs:9018/",
+    "country": "Montenegro",
+    "bitrate": 32,
+    "codec": "AAC+"
+  },
+  {
+    "name": "Radio Porto Montenegro",
+    "url": "https://malta1491.startdedicated.de:8443/main",
+    "country": "Montenegro",
+    "bitrate": 320,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio Budva",
+    "url": "https://c8.radioboss.fm:18199/stream",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  },
+  {
+    "name": "Radio S2 Crna Gora",
+    "url": "https://stream.radios.rs:9010/;",
+    "country": "Montenegro",
+    "bitrate": 36,
+    "codec": "AAC+"
+  },
+  {
+    "name": "RCG Millennium",
+    "url": "https://rtcg.ipradio.rs:9102/;",
+    "country": "Montenegro",
+    "bitrate": 128,
+    "codec": "MP3"
+  }
+]
