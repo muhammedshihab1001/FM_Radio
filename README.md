@@ -1,141 +1,111 @@
-# 🎧 FM Radio Web App
+# 🌌 Nebula Cast FM
 
-A fast, scalable, and responsive **FM Radio streaming web application** built using **pure frontend technologies** and hosted on **GitHub Pages**.
+A high-fidelity, production-hardened **Global Radio Exploration Terminal** built with **React**, **Vite**, and **Tailwind CSS**. 
 
-The project is designed to efficiently handle a **very large dataset (270k+ radio stations)** while keeping the UI smooth and user-friendly on both **mobile and desktop devices**.
+**Nebula Cast FM** is designed to provide a seamless, holographic listening experience across 30,000+ live stations, featuring an **Aurora Glassmorphism** design language and deep security hardening.
 
 ---
 
-## 🌐 Live Demo
+## 📊 Global Network Stats (Current Cycle)
 
-``` 
-https://muhammedshihab1001.github.io/FM_Radio/
+The terminal is currently synchronized with a massive global radio mesh:
+
+- 🌍 **Total Stations Focused**: `850,000+`
+- 🗺 **Regional Nodes (Countries)**: `190+`
+
+### Signal Sectors (Global Node Inventory)
+
+The terminal is currently locked onto the following regional signal densities.
+
+| Sector Node | Station Count | Sector Node | Station Count |
+| :--- | :--- | :--- | :--- |
+| **United States** | 393,783 | **Germany** | 34,127 |
+| **Brazil** | 13,744 | **France** | 10,368 |
+| **Russia** | 9,145 | **Greece** | 5,498 |
+| **United Kingdom**| 4,701 | **Argentina** | 3,680 |
+| **Italy** | 3,423 | **Canada** | 2,948 |
+| **Switzerland** | 2,730 | **Mexico** | 2,370 |
+| **China** | 2,171 | **Australia** | 2,169 |
+| **Spain** | 2,054 | **Colombia** | 1,919 |
+| **Netherlands** | 1,770 | **Chile** | 1,635 |
+| **Poland** | 1,269 | **Australia** | 2,169 |
+| **India** | 712 | **Ecuador** | 729 |
+| **Belgium** | 711 | **Austria** | 671 |
+| **Sweden** | 392 | **Uae** | 313 |
+| **Romania** | 287 | **Turkey** | 208 |
+| **Ukraine** | 183 | **Portugal** | 183 |
+| **Norway** | 199 | **Serbia** | 172 |
+| **Czechia** | 146 | **Bulgaria** | 138 |
+| **Ireland** | 130 | **Venezuela** | 129 |
+| **Denmark** | 123 | **Peru** | 158 |
+| **Finland** | 54 | **Thailand** | 54 |
+| **Singapore** | 44 | **Pakistan** | 40 |
+| **Israel** | 70 | **Japan** | 48 |
+| **South Africa** | 233 | **Egypt** | 30 |
+| **Kenya** | 24 | **Nigeria** | 35 |
+| **Afghanistan** | 56 | **Albania** | 13 |
+| **Global Unsorted**| 363,589 | **TOTAL** | **~850,000+** |
+
+*...and 150+ other regional nodes active in the mesh.*
+
+### 🛰️ Signal Intelligence
+- **30,000+ Live Nodes**: Instant access to global radio frequencies.
+- **Dynamic Search**: Fast-scan stations by name, city, or country.
+- **Regional Sectors**: Dedicated filtering for 120+ countries.
+- **Next-Sector Sync**: Cursor-based infinite discovery.
+
+### 🔒 Security & Command
+- **Dual-Credential Auth**: Secure login via Admin ID + Master Passphrase.
+- **Brute-Force Shield**: 3-strike lockout protocol with system cooldown.
+- **Session Auto-Lock**: 15-minute inactivity TTL (Time-To-Live) for admin sessions.
+- **API v2.0 Handshake**: Secure transmission of technical keys for administration.
+
+### 🧠 System Health (Telemetry)
+- **Auto-Flagging**: The system automatically detects and flags dead streams during playback.
+- **Admin Dashboard**: Real-time telemetry table for managing signals, deleting dead nodes, and bulk-cleaning the network.
+
+### 🎨 High-Fidelity UI/UX
+- **Aurora Glassmorphism**: Premium dark-mode aesthetics with backdrop-blur-3xl.
+- **Scroll Parallax**: Background holographic orbs react dynamically to user scrolling.
+- **Responsive Sheet Mode**: Mobile-first "Bottom Sheet" details view for high-contrast metadata display.
+- **Floating Controls**: Minimalist MiniPlayer dock that floats above the footer nodes.
+
+---
+
+## 🧱 Technical Command Deck
+
+- **Engine**: React 18 + Vite
+- **Styling**: Tailwind CSS (Aurora Design System)
+- **Routing**: Internal State-based Terminal Flow
+- **State Management**: Performance-tuned React Hooks (`useStations`, `usePlayer`, `useFavorites`)
+- **API**: Custom v2.0 Core Interface
+
+---
+
+## 🛠️ Environment Configuration
+
+To run the terminal locally or deploy to production, verify the following variables in your `.env`:
+
+```env
+VITE_API_BASE_URL=https://your-radio-api.com
+VITE_ADMIN_USER=your_admin_id
+VITE_ADMIN_PASS=your_security_passphrase
+VITE_ADMIN_KEY=your_master_key
 ```
 
+---
+
+## 📡 Data Source & Protocol
+
+- **Node Provider**: radio-browser.info
+- **Encryption**: TLS/SSL Support verification per stream.
+- **Optimization**: Progressive data loading and lazy audio initialization.
 
 ---
 
-## ✨ Key Features
-
-### 🎵 Playback
-- Live FM radio streaming
-- Play / Pause per station
-- Only **one station plays at a time**
-- Currently playing station highlighted
-- Global mini player (persistent control bar)
-
-### 🔍 Discovery & Navigation
-- Search by **station name** or **country**
-- Country-based filter (dropdown)
-- Randomized home feed (new stations on every refresh)
-- Scroll-to-top button for long lists
-
-### ❤️ Favorites
-- Add / remove stations from favorites
-- Persistent favorites using `localStorage`
-- Favorites count indicator
-- Favorites-only view with back navigation
-- Toast notifications for add/remove actions
-
-### ℹ️ Station Info
-- Station info popup showing:
-  - Country
-  - Bitrate
-  - Codec
-  - Stream URL
-
-### 📄 Pagination & Performance
-- Load More pagination (Home view only)
-- Efficient handling of **270,000+ stations**
-- Optimized frontend performance using split JSON files
-- Lazy loading of less frequently accessed data
-
-### 📱 UI & UX
-- Clean dark theme
-- Fully responsive (mobile, tablet, desktop)
-- Mini player stays accessible without blocking UI
-- Touch-friendly and keyboard-friendly controls
-
----
-
-## 📊 Dataset Overview
-
-The application currently works with a **large, global radio dataset**:
-
-- 🌍 **Total stations:** `272,688`
-- 🗺 **Total countries (including Unknown):** `193`
-- ❓ **Unknown / missing country stations:** `243,057`
-
-### Top countries by number of stations (examples)
-
-| Country | Stations |
-|-------|----------|
-| United States | 3,703 |
-| Germany | 3,476 |
-| Russia | 1,946 |
-| France | 1,567 |
-| Greece | 1,279 |
-| UK | 1,015 |
-| Mexico | 925 |
-| Italy | 832 |
-| Canada | 813 |
-| Australia | 1,162 |
-| India | 523 |
-
-> Stations with missing or unclear country information are grouped under **Unknown** and are still searchable and playable.
-
----
-
-## 🆕 Recent Improvements
-
-- Switched from a **single large JSON file** to a **split-data architecture**
-  - World chunks
-  - Country-wise files
-  - Unknown station chunks
-- Added a **global mini player** synced with station cards
-- Improved Load More behavior (only shown when applicable)
-- Fixed UI overlap issues on mobile devices
-- Improved random station discovery on the home page
-- Better state handling for Home / Search / Country / Favorites views
-
-These changes significantly improved **performance, scalability, and user experience**.
-
----
-## 🧱 Tech Stack
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
-- Bootstrap 5
-- HTML5 Audio API
-- GitHub Pages
-
----
-
-## 📡 Data Source
-
-- **Radio-Browser**
-  - https://www.radio-browser.info/
-  - Public FM stream links
-
-Station metadata and stream URLs are sourced from **Radio-Browser**, an open, community-driven radio directory.
-
-To ensure performance and browser compatibility, the raw data is:
-- Cleaned
-- Normalized
-- Stored as static JSON files
-- Loaded progressively on demand
-
----
 ## ⚠️ Disclaimer
 
-This project does **not host, store, or rebroadcast** any radio audio content.
-
-All radio streams and station metadata are provided by **third-party sources** and are **publicly available on the internet**.  
-Stream availability, content, and licensing are the responsibility of the respective radio stations and stream providers.
-
-If any station owner has concerns regarding their listing or wishes to have their station removed from this project,  
-they may contact the project maintainer via **GitHub Issues**, and the station will be removed promptly.
+Nebula Cast FM does not host, store, or rebroadcast any proprietary audio content. All stream links are public signals sourced from the open web.
 
 ---
 
@@ -143,21 +113,9 @@ they may contact the project maintainer via **GitHub Issues**, and the station w
 
 This project is licensed under the **MIT License**.
 
-See the [LICENSE](LICENSE) file for details.
-
 ---
 
-## 📌 Purpose
+### **👨‍💻 Author**
+**Muhammed Shihab P**
 
-This project is created for **learning and educational purposes**.
-
-It demonstrates:
-- Browser-based audio streaming
-- Handling very large datasets on the frontend
-- Search, filtering, and pagination
-- State management without frameworks
-- Responsive UI design
-- Performance optimization for static web apps
-
-
----
+> *“Nebula Cast FM: Discovering the sound of the universe, one frequency at a time.”*

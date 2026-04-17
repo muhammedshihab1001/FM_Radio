@@ -1,16 +1,6 @@
-# Ignore JSON data file
-data/station.json
-data/station_clean1.json
-data/stations_clean.json
-
-# Ignore temporary script
-clean.py
-check_cleaned_link.py
-
-# Ignore all .pyc files
-*.pyc
-
-# Ignore OS files
+node_modules
+dist
+.env
 .DS_Store
-Thumbs.db
-"data/merged.json" 
+*.log
+pro-max-skills.md
