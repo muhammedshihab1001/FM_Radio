@@ -1,8 +1,29 @@
 # 🌌 Nebula Cast FM
 
-A high-fidelity, production-hardened **Global Radio Exploration Terminal** built with **React**, **Vite**, and **Tailwind CSS**. 
+A production-grade Global Radio discovery built with React, Vite, and Tailwind CSS.
 
-**Nebula Cast FM** is designed to provide a seamless, holographic listening experience across 30,000+ live stations, featuring an **Aurora Glassmorphism** design language and deep security hardening.
+---
+
+## 🛠️ Technical Stack
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+- **Engine**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Logic**: TypeScript
+- **Routing**: Internal State-based Terminal Flow
+- **State Management**: Performance-tuned React Hooks (`useStations`, `usePlayer`, `useFavorites`)
+
+---
+
+## 📡 Data Source
+
+- **Provider**: [radio-browser.info](https://www.radio-browser.info/)
+- **Protocol**: Custom Core Interface utilizing REST endpoints with cursor-based pagination.
+- **Optimization**: Progressive data loading and lazy audio initialization.
 
 ---
 
@@ -48,74 +69,81 @@ The terminal is currently locked onto the following regional signal densities.
 
 *...and 150+ other regional nodes active in the mesh.*
 
-### 🛰️ Signal Intelligence
-- **30,000+ Live Nodes**: Instant access to global radio frequencies.
-- **Dynamic Search**: Fast-scan stations by name, city, or country.
-- **Regional Sectors**: Dedicated filtering for 120+ countries.
-- **Next-Sector Sync**: Cursor-based infinite discovery.
-
-### 🔒 Security & Command
-- **Dual-Credential Auth**: Secure login via Admin ID + Master Passphrase.
-- **Brute-Force Shield**: 3-strike lockout protocol with system cooldown.
-- **Session Auto-Lock**: 15-minute inactivity TTL (Time-To-Live) for admin sessions.
-- **API v2.0 Handshake**: Secure transmission of technical keys for administration.
-
-### 🧠 System Health (Telemetry)
-- **Auto-Flagging**: The system automatically detects and flags dead streams during playback.
-- **Admin Dashboard**: Real-time telemetry table for managing signals, deleting dead nodes, and bulk-cleaning the network.
-
-### 🎨 High-Fidelity UI/UX
-- **Aurora Glassmorphism**: Premium dark-mode aesthetics with backdrop-blur-3xl.
-- **Scroll Parallax**: Background holographic orbs react dynamically to user scrolling.
-- **Responsive Sheet Mode**: Mobile-first "Bottom Sheet" details view for high-contrast metadata display.
-- **Floating Controls**: Minimalist MiniPlayer dock that floats above the footer nodes.
-
 ---
 
-## 🧱 Technical Command Deck
+## 🏗️ Project Architecture
 
-- **Engine**: React 18 + Vite
-- **Styling**: Tailwind CSS (Aurora Design System)
-- **Routing**: Internal State-based Terminal Flow
-- **State Management**: Performance-tuned React Hooks (`useStations`, `usePlayer`, `useFavorites`)
-- **API**: Custom v2.0 Core Interface
-
----
-
-## 🛠️ Environment Configuration
-
-To run the terminal locally or deploy to production, verify the following variables in your `.env`:
-
-```env
-VITE_API_BASE_URL=https://your-radio-api.com
-VITE_ADMIN_USER=your_admin_id
-VITE_ADMIN_PASS=your_security_passphrase
-VITE_ADMIN_KEY=your_master_key
+```text
+├── public/          # Static assets
+├── src/
+│   ├── components/  # Core UI components
+│   ├── hooks/       # Custom React Hooks
+│   ├── styles/      # Global CSS and Tailwind directives
+│   ├── types/       # TypeScript type definitions
+│   ├── App.tsx      # Core application logic
+│   └── main.tsx     # Application entry point
+├── package.json     # Project dependencies and scripts
+└── vercel.json      # Deployment configuration
 ```
 
 ---
 
-## 📡 Data Source & Protocol
+## 🚀 Installation & Local Development
 
-- **Node Provider**: radio-browser.info
-- **Encryption**: TLS/SSL Support verification per stream.
-- **Optimization**: Progressive data loading and lazy audio initialization.
+### Prerequisites
+
+- **Node.js**: `v18.0.0` or higher
+- **npm**: `v9.0.0` or higher
+
+### Setup Steps
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/muhammedshihab1001/FM_Radio.git
+   cd FM_Radio
+   ```
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+   ```
+
+3. **Configure Environment Variables**:
+   Create a `.env` file in the root directory based on `.env.example`:
+   ```env
+   VITE_API_BASE_URL=https://your-radio-api.com
+   ```
+
+4. **Launch the environment**:
+   ```bash
+   npm run dev
+   ```
+
+---
+
+## 🛠️ Available Scripts
+
+- `npm run dev`: Starts the terminal in development mode.
+- `npm run build`: Compiles the application for production deployment.
+- `npm run preview`: Previews the production build locally.
 
 ---
 
 ## ⚠️ Disclaimer
 
-Nebula Cast FM does not host, store, or rebroadcast any proprietary audio content. All stream links are public signals sourced from the open web.
+Nebula Cast FM does not host, store, or rebroadcast any proprietary audio content. All stream links are public signals sourced from the open web via the radio-browser.info community project.
 
 ---
 
-## 📜 MIT LICENSE
+## 📜 License
 
 This project is licensed under the **MIT License**.
 
 ---
 
-### **👨‍💻 Author**
+## 👨‍💻 Author
+
 **Muhammed Shihab P**
 
 > *“Nebula Cast FM: Discovering the sound of the universe, one frequency at a time.”*
+
