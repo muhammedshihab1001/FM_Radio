@@ -1,5 +1,6 @@
 import React from 'react';
 import { Station, PlayerStatus } from '../types/terminal';
+import { trackClick } from '../services/api';
 
 function PlayIcon() {
   return (
@@ -33,11 +34,11 @@ interface StationCardProps {
 export const StationCard: React.FC<StationCardProps> = React.memo(({ 
   station, active, isPlaying, isFavorite, status, onPlay, onFavorite, onInfo, index = 0 
 }) => {
-  const isError    = status === 'error' && active;
+  const isError    = (status === 'error' || status === 'mixed-content' || status === 'stalled') && active;
 
   return (
     <div
-      onClick={() => onPlay(station)}
+      onClick={() => { onPlay(station); trackClick(station.id); }}
       className={`group relative flex flex-col rounded-3xl cursor-pointer overflow-hidden transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-cyan-500/20 active:scale-[0.98] animate-fade-in min-h-[180px]`}
       style={{ 
         animationFillMode: 'both',
@@ -47,6 +48,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
       tabIndex={0}
       aria-label={`Play ${station.name}`}
       onKeyDown={e => e.key === 'Enter' && onPlay(station)}
+      title={isPlaying ? "Active Transmission" : "Initiate Signal Link"}
     >
       <div className={`absolute inset-0 bg-white/5 border border-white/10 backdrop-blur-2xl transition-colors duration-300 group-hover:bg-white/10 ${active && !isError ? 'border-pink-500/50 shadow-[0_0_20px_rgba(236,72,153,0.2)]' : ''}`} />
       
@@ -60,6 +62,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
           isFavorite ? 'text-pink-500 bg-pink-500/10' : 'text-white/10 hover:text-pink-500 hover:bg-white/5'
         }`}
         aria-label={isFavorite ? 'Unfavorite' : 'Favorite'}
+        title={isFavorite ? "Locked Signal" : "Add to Favorites"}
       >
         <svg width="20" height="20" viewBox="0 0 24 24" fill={isFavorite ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2.5">
           <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
@@ -78,9 +81,19 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
               {station.bitrate}K
             </span>
           )}
-          {isError && (
+          {status === 'error' && active && (
             <span className="px-2 py-0.5 rounded-lg bg-red-500/20 border border-red-500/40 text-[10px] font-mono font-bold tracking-widest text-red-400 uppercase">
               OFFLINE
+            </span>
+          )}
+          {status === 'stalled' && active && (
+            <span className="px-2 py-0.5 rounded-lg bg-orange-500/20 border border-orange-500/40 text-[10px] font-mono font-bold tracking-widest text-orange-400 uppercase">
+              WEAK SIGNAL
+            </span>
+          )}
+          {status === 'mixed-content' && active && (
+            <span className="px-2 py-0.5 rounded-lg bg-red-500/20 border border-red-500/40 text-[10px] font-mono font-bold tracking-widest text-red-400 uppercase shadow-[0_0_10px_rgba(239,68,68,0.3)]">
+              BLOCKED (HTTP)
             </span>
           )}
         </div>
@@ -124,6 +137,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
             <button
               onClick={e => { e.stopPropagation(); onInfo(station); }}
               className="min-w-[44px] min-h-[44px] flex items-center justify-end text-[10px] md:text-xs font-mono font-bold text-white/40 hover:text-cyan-400 transition-colors uppercase tracking-[0.3em] touch-manipulation"
+              title="Signal Analysis"
             >
               DETAILS
             </button>

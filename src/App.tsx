@@ -8,6 +8,7 @@ import { StationCard } from './components/StationCard';
 import { MiniPlayer } from './components/MiniPlayer';
 import { StationModal } from './components/StationModal';
 import { Footer } from './components/Footer';
+import { AdminPanel } from './components/AdminPanel';
 import { Station } from './types/terminal';
 
 const API = import.meta.env.VITE_API_BASE_URL;
@@ -99,14 +100,14 @@ const Background: React.FC = () => {
 export default function App() {
   const {
     stations, countries, stats, loading, error,
-    query, country, total, hasMore, cooldown,
-    search, filterByCountry, fetchRandom, loadMore, reset,
+    query, country, isTrending, hasMore, cooldown,
+    search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
   } = useStations();
 
   const { currentStation, isPlaying, status, volume, toggle, setVolume } = usePlayer();
   const { isFav, toggleFav, favCount, favList } = useFavorites();
 
-  const [mode, setMode] = useState<'home' | 'favorites'>('home');   
+  const [mode, setMode] = useState<'home' | 'favorites' | 'admin'>('home');   
   const [infoStation, setInfoStation] = useState<Station | null>(null);
   const [scrollTop, setScrollTop] = useState<boolean>(false);
   const [configError] = useState<boolean>(!API);
@@ -116,6 +117,13 @@ export default function App() {
     const handle = (e: KeyboardEvent) => {
       const tag = (document.activeElement as HTMLElement)?.tagName;
       const isInput = ['INPUT', 'TEXTAREA', 'SELECT'].includes(tag);
+
+      // Terminal Shortcut: Shift + A toggles Admin Command Center
+      if (e.shiftKey && e.key === 'A') {
+        e.preventDefault();
+        setMode(m => m === 'admin' ? 'home' : 'admin');
+        return;
+      }
 
       if (e.code === 'Space' && !isInput) {
         e.preventDefault();
@@ -137,7 +145,7 @@ export default function App() {
 
   /* ─── Mandatory Protocol v3.0: Load Once ─── */
   useEffect(() => {
-    fetchRandom();
+    // Initial fetch handled by useStations signal observer if mode is home
   }, []);
 
   /* ─── Scroll to top visibility ─── */
@@ -171,11 +179,17 @@ export default function App() {
     setMode(m => m === 'favorites' ? 'home' : 'favorites');
   }, []);
 
-  const isRandom = !query && !country && stations.length > 0 && total === null;
+  const handleAdminToggle = useCallback(() => {
+    setMode(m => m === 'admin' ? 'home' : 'admin');
+  }, []);
+
+  const isRandom = !query && !country && !isTrending && mode === 'home' && stations.length > 0;
   const displayMode = useMemo(() => {
+    if (mode === 'admin') return 'admin';
     if (mode === 'favorites') return 'favorites';
+    if (isTrending) return 'trending';
     return isRandom ? 'home' : (query || country ? 'search' : 'home');
-  }, [mode, isRandom, query, country]);
+  }, [mode, isRandom, query, country, isTrending]);
 
   const list = useMemo(() => {
     return mode === 'favorites' ? favList : stations;
@@ -210,6 +224,8 @@ export default function App() {
         searchQuery={query}
         onBack={handleBack}
         onFavToggle={handleFavToggle}
+        onTrending={toggleTrending}
+        onAdminToggle={handleAdminToggle}
         onRandom={handleRandom}
         cooldown={cooldown}
         favCount={favCount}
@@ -217,31 +233,35 @@ export default function App() {
         isPlaying={isPlaying && status === 'playing'}
       />
 
-      <div className="sticky top-24 z-[90] mt-10 mb-10 pb-4 px-4 md:px-8">
-        <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4 p-2 pl-4 rounded-3xl bg-black/80 border border-white/10 backdrop-blur-2xl shadow-2xl">
-          <div className="flex items-center gap-3">
-            <CountryFilter
-              countries={countries}
-              selectedCountry={country}
-              onSelect={handleCountry}
-              total={total}
-              query={query}
-            />
-          </div>
+      {mode !== 'admin' && (
+        <div className="sticky top-24 z-[90] mt-10 mb-10 pb-4 px-4 md:px-8">
+          <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-4 p-2 pl-4 rounded-3xl bg-black/80 border border-white/10 backdrop-blur-2xl shadow-2xl">
+            <div className="flex items-center gap-3">
+              <CountryFilter
+                countries={countries}
+                selectedCountry={country}
+                onSelect={handleCountry}
+                total={stats?.total ?? 0}
+                query={query}
+              />
+            </div>
 
-          <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">
-            {isRandom && <span className="text-cyan-400 animate-pulse">30,000 STATION DISCOVERY MESH</span>}
-            <div className="flex gap-4">
-              <span>Space: Play</span>
-              <span>/: Search</span>
-              <span>Esc: Close</span>
+            <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">
+              {isRandom && <span className="text-cyan-400 animate-pulse">30,000 STATION DISCOVERY MESH</span>}
+              <div className="flex gap-4">
+                <span>Space: Play</span>
+                <span>/: Search</span>
+                <span>Esc: Close</span>
+              </div>
             </div>
           </div>
         </div>
-      </div>
+      )}
 
       <main className="max-w-7xl mx-auto px-4 md:px-8 pt-12 pb-8">
         <>
+          {mode === 'admin' && <AdminPanel onClose={handleBack} />}
+
           {mode === 'favorites' && (
             <div className="mb-10 animate-fade-in text-center md:text-left">
               <h2 className="text-3xl font-bold tracking-tight text-white mb-2">
@@ -254,7 +274,7 @@ export default function App() {
             </div>
           )}
 
-          {error && !loading && (
+          {mode !== 'admin' && error && !loading && (
             <div className="mb-8 p-6 rounded-3xl border border-red-500/20 bg-red-500/10 text-red-400 text-xs font-mono font-bold uppercase tracking-widest text-center animate-fade-in backdrop-blur-md">
               <div className="flex items-center justify-center gap-3">
                 <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
@@ -265,13 +285,13 @@ export default function App() {
             </div>
           )}
 
-          {loading && list.length === 0 && <SkeletonGrid />}
+          {mode !== 'admin' && loading && list.length === 0 && <SkeletonGrid />}
 
-          {!loading && list.length === 0 && !error && (
+          {mode !== 'admin' && !loading && list.length === 0 && !error && (
             <EmptyState onReset={handleBack} isFavs={mode === 'favorites'} isRandom={isRandom} />
           )}
 
-          {list.length > 0 && (
+          {mode !== 'admin' && list.length > 0 && (
             <>
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
                 {list.map((station, index) => (
@@ -339,8 +359,8 @@ export default function App() {
           onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
           aria-label="Scroll to top"
           className="fixed bottom-32 right-4 md:right-8 z-[110] w-14 h-14 rounded-2xl cursor-pointer
-            bg-white/5 backdrop-blur-2xl border border-white/10 text-white/50 hover:text-cyan-400 hover:border-cyan-500/30
-            flex items-center justify-center transition-all duration-300 shadow-2xl animate-fade-in group"
+          bg-white/5 backdrop-blur-2xl border border-white/10 text-white/50 hover:text-cyan-400 hover:border-cyan-500/30
+          flex items-center justify-center transition-all duration-300 shadow-2xl animate-fade-in group"
         >
           <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3" className="group-hover:-translate-y-1 transition-transform">
             <path d="m18 15-6-6-6 6" />
@@ -348,7 +368,11 @@ export default function App() {
         </button>
       )}
 
-      <Footer stats={stats} countryCount={countries.length} />
+      <Footer 
+        stats={stats} 
+        countryCount={countries.length} 
+        onAdminClick={handleAdminToggle}
+      />
     </div>
   );
 }
