@@ -1,6 +1,8 @@
 # 🌌 Nebula Cast FM
 
-A production-grade Global Radio discovery built with React, Vite, and Tailwind CSS.
+### *Discovering the sounds of the universe, one frequency at a time.*
+
+Nebula Cast FM is an industrial-grade, high-fidelity Global Radio discovery terminal. Designed with a pure black holographic aesthetic, it provides seamless access to a massive mesh of over 30,000 global radio stations with near-zero latency.
 
 ---
 
@@ -10,134 +12,115 @@ A production-grade Global Radio discovery built with React, Vite, and Tailwind C
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Hls.js](https://img.shields.io/badge/HLS.js-orange?style=for-the-badge)
 
 - **Engine**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
-- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
-- **Logic**: TypeScript
-- **Routing**: Internal State-based Terminal Flow
-- **State Management**: Performance-tuned React Hooks (`useStations`, `usePlayer`, `useFavorites`)
+- **Logic**: 100% Type-safe TypeScript
+- **Styling**: Tailwind CSS + Custom Glassmorphism UI
+- **Streaming**: [Hls.js](https://github.com/video-dev/hls.js/) for modern adaptive bitrate signals
 
 ---
 
-## 📡 Data Source
+## ✨ Key Features
 
-- **Provider**: [radio-browser.info](https://www.radio-browser.info/)
-- **Protocol**: Custom Core Interface utilizing REST endpoints with cursor-based pagination.
-- **Optimization**: Progressive data loading and lazy audio initialization.
+### 💎 Holographic Aesthetic
+- **Pure Black Design**: Optimized for OLED displays and low-light environments.
+- **Reactive Vector Lighting**: UI elements feature dynamic glows and micro-animations that respond to signal activity.
+- **Glassmorphism**: High-blur backdrops and translucent borders create a sense of depth and focus.
+
+### ⚡ Fast-Lock Streaming Engine
+- **Near-Zero Latency**: Optimized HLS driver tuning for instantaneous playback engagement.
+- **Priority Fetching**: Critical signal discovery requests are marked with high-priority flags at the network level.
+- **Stable Core Lifecycle**: Decoupled audio lifecycle ensures un-interrupted playback during UI transitions.
+- **Industrial Watchdog**: Real-time signal monitoring with automatic re-sync and stall detection.
+
+### 🗺️ Global Discovery Mesh
+- **30,000+ Nodes**: Access to a vast worldwide network of radio frequencies.
+- **Deep Scan Discovery**: Search by name, country, city, or codec with high-speed indexing.
+- **Signal Trending**: Real-time heartbeat tracking for the most active global signals.
+
+### ⌨️ Terminal Mastery (Shortcuts)
+- `Space`: Engage/Terminate active signal.
+- `/`: Quick-focus Frequency Search.
+- `Esc`: Clear focus or collapse active sector.
+- `Shift + A`: Access Terminal Command Center (Admin).
 
 ---
 
-## 📊 Global Network Stats (Current Cycle)
+## 🔐 Terminal Command Center (Admin)
 
-The terminal is currently synchronized with a massive global radio mesh:
-
-- 🌍 **Total Stations Focused**: `850,000+`
-- 🗺 **Regional Nodes (Countries)**: `190+`
-
-### Signal Sectors (Global Node Inventory)
-
-The terminal is currently locked onto the following regional signal densities.
-
-| Sector Node | Station Count | Sector Node | Station Count |
-| :--- | :--- | :--- | :--- |
-| **United States** | 393,783 | **Germany** | 34,127 |
-| **Brazil** | 13,744 | **France** | 10,368 |
-| **Russia** | 9,145 | **Greece** | 5,498 |
-| **United Kingdom**| 4,701 | **Argentina** | 3,680 |
-| **Italy** | 3,423 | **Canada** | 2,948 |
-| **Switzerland** | 2,730 | **Mexico** | 2,370 |
-| **China** | 2,171 | **Australia** | 2,169 |
-| **Spain** | 2,054 | **Colombia** | 1,919 |
-| **Netherlands** | 1,770 | **Chile** | 1,635 |
-| **Poland** | 1,269 | **Australia** | 2,169 |
-| **India** | 712 | **Ecuador** | 729 |
-| **Belgium** | 711 | **Austria** | 671 |
-| **Sweden** | 392 | **Uae** | 313 |
-| **Romania** | 287 | **Turkey** | 208 |
-| **Ukraine** | 183 | **Portugal** | 183 |
-| **Norway** | 199 | **Serbia** | 172 |
-| **Czechia** | 146 | **Bulgaria** | 138 |
-| **Ireland** | 130 | **Venezuela** | 129 |
-| **Denmark** | 123 | **Peru** | 158 |
-| **Finland** | 54 | **Thailand** | 54 |
-| **Singapore** | 44 | **Pakistan** | 40 |
-| **Israel** | 70 | **Japan** | 48 |
-| **South Africa** | 233 | **Egypt** | 30 |
-| **Kenya** | 24 | **Nigeria** | 35 |
-| **Afghanistan** | 56 | **Albania** | 13 |
-| **Global Unsorted**| 363,589 | **TOTAL** | **~850,000+** |
-
-*...and 150+ other regional nodes active in the mesh.*
+The restricted Administrative panel provides industrial-grade maintenance tools:
+- **Signal Pruning**: Flag dead or broken streams for exclusion from the mesh.
+- **Registry Restoration**: Re-validate and restore previously flagged frequencies.
+- **Global Mesh Cleanup**: Initialize deep-scan system cleanups to maintain network integrity.
 
 ---
 
 ## 🏗️ Project Architecture
 
 ```text
-├── public/          # Static assets
+├── public/          # System assets and branding
 ├── src/
-│   ├── components/  # Core UI components
-│   ├── hooks/       # Custom React Hooks
-│   ├── styles/      # Global CSS and Tailwind directives
-│   ├── types/       # TypeScript type definitions
-│   ├── App.tsx      # Core application logic
-│   └── main.tsx     # Application entry point
-├── package.json     # Project dependencies and scripts
-└── vercel.json      # Deployment configuration
+│   ├── components/  # Holographic UI Modules (Header, StationCard, MiniPlayer, etc.)
+│   ├── hooks/       # Logic Controllers (usePlayer, useStations, useAdmin)
+│   ├── services/    # Data Transfer Layer (API integration)
+│   ├── utils/       # Signal Resolvers and Security utilities
+│   ├── types/       # Global Schema and Signal definitions
+│   └── App.tsx      # Terminal Command Logic
+└── vercel.json      # Production deployment config
 ```
 
 ---
 
-## 🚀 Installation & Local Development
+## 🚀 Installation & Setup
 
 ### Prerequisites
+- **Node.js**: `v18.20.0` or higher
+- **npm**: `v10.0.0` or higher
 
-- **Node.js**: `v18.0.0` or higher
-- **npm**: `v9.0.0` or higher
-
-### Setup Steps
-
-1. **Clone the repository**:
+### Deployment Steps
+1. **Initialize Terminal**:
    ```bash
    git clone https://github.com/muhammedshihab1001/FM_Radio.git
    cd FM_Radio
    ```
-
-2. **Install dependencies**:
+2. **Install Linkages**:
    ```bash
    npm install
    ```
-
-3. **Configure Environment Variables**:
-   Create a `.env` file in the root directory based on `.env.example`:
+3. **Configure Signal Core**:
+   Create a `.env` file with your VITE_API_BASE_URL:
    ```env
    VITE_API_BASE_URL=https://your-radio-api.com
    ```
-
-4. **Launch the environment**:
+4. **Ignite Development**:
    ```bash
    npm run dev
    ```
 
 ---
 
-## 🛠️ Available Scripts
-
-- `npm run dev`: Starts the terminal in development mode.
-- `npm run build`: Compiles the application for production deployment.
-- `npm run preview`: Previews the production build locally.
+## 📡 Data Source
+- **Provider**: radio-browser.info
+- **Protocol**: Custom Core Interface utilizing REST endpoints with cursor-based pagination.
+- **Optimization**: Progressive data loading and lazy audio initialization.
 
 ---
 
 ## ⚠️ Disclaimer
-
 Nebula Cast FM does not host, store, or rebroadcast any proprietary audio content. All stream links are public signals sourced from the open web via the radio-browser.info community project.
 
 ---
 
-## 📜 License
+## 📊 Global Network Stats
 
-This project is licensed under the **MIT License**.
+Locked onto **~850,000+** global nodes across **190+** countries.
+
+| Sector Node | Density | Sector Node | Density |
+| :--- | :--- | :--- | :--- |
+| **USA** | 390k+ | **Germany** | 34k+ |
+| **Brazil** | 13k+ | **France** | 10k+ |
+| **Russia** | 9k+ | **India** | 700+ |
 
 ---
 
@@ -145,5 +128,9 @@ This project is licensed under the **MIT License**.
 
 **Muhammed Shihab P**
 
-> *“Nebula Cast FM: Discovering the sound of the universe, one frequency at a time.”*
+> *Connecting the globe through high-fidelity sound.*
 
+---
+
+## 📜 License
+This project is licensed under the **MIT License**.
