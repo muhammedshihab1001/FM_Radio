@@ -26,7 +26,7 @@ export interface CountryNode {
   count: number;
 }
 
-export type PlayerStatus = 'idle' | 'connecting' | 'playing' | 'buffering' | 'error';
+export type PlayerStatus = 'idle' | 'connecting' | 'playing' | 'buffering' | 'error' | 'mixed-content' | 'stalled';
 
 export interface TerminalState {
   stations: Station[];
