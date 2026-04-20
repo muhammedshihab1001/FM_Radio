@@ -59,13 +59,13 @@ export const Header: React.FC<HeaderProps> = ({
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     onSearch(val);
-    setSearchOpen(false); // Auto-close on submit for better UX
-    inputRef.current?.blur(); // Clear keyboard on mobile
+    setSearchOpen(false); 
+    inputRef.current?.blur(); 
   };
 
   return (
     <header className="fixed top-0 left-0 right-0 z-[100] px-4 pt-4 md:px-8 pointer-events-none">
-      <div className="max-w-7xl mx-auto flex items-center justify-between pointer-events-auto h-16 rounded-3xl bg-white/5 border border-white/10 backdrop-blur-2xl px-4 md:px-6 relative overflow-hidden group/header shadow-2xl transition-all duration-300">
+      <div className="max-w-7xl mx-auto flex items-center justify-between pointer-events-auto h-16 rounded-3xl bg-black/60 border border-white/10 backdrop-blur-3xl px-4 md:px-6 relative overflow-hidden group/header shadow-2xl transition-all duration-300">
         <div className="absolute inset-x-0 bottom-0 h-[1px] bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent"></div>
         
         {/* Logo Section */}
@@ -74,8 +74,8 @@ export const Header: React.FC<HeaderProps> = ({
             <button 
               onClick={onBack} 
               className="px-2 py-2 hover:opacity-80 transition-all active:scale-95 touch-manipulation min-w-[44px] min-h-[44px] flex items-center justify-center"
-              aria-label="Return to landing mesh"
-              title="Return to Galaxy Mesh"
+              aria-label="Back to Home"
+              title="Home"
             >
               <Logo />
             </button>
@@ -83,16 +83,16 @@ export const Header: React.FC<HeaderProps> = ({
         )}
 
         {/* Search Section */}
-        <div className={`flex-1 flex items-center transition-all duration-300 ${searchOpen ? 'grow px-0' : 'grow-0'}`}>
+        <div className={`flex-1 flex items-center transition-all duration-300 ${searchOpen ? 'grow px-0' : 'grow-0 mx-2 md:mx-4'}`}>
           <form 
             onSubmit={handleSubmit} 
-            className={`relative flex items-center transition-all duration-300 ${searchOpen ? 'w-full' : 'w-0 md:w-64 lg:w-96'}`}
+            className={`relative flex items-center transition-all duration-300 ${searchOpen ? 'w-full' : 'w-0 md:w-48 lg:w-96'}`}
           >
             <button
               type="button"
               onClick={() => setSearchOpen(!searchOpen)}
               className={`flex items-center justify-center min-w-[44px] min-h-[44px] text-white/50 hover:text-cyan-400 transition-colors ${searchOpen ? 'md:pointer-events-none' : 'touch-manipulation'}`}
-              title={searchOpen ? "" : "Search Frequencies"}
+              title={searchOpen ? "" : "Search Stations"}
             >
               <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                 {searchOpen && !val ? (
@@ -107,19 +107,19 @@ export const Header: React.FC<HeaderProps> = ({
               id="searchInput"
               ref={inputRef}
               type="text"
-              placeholder="Search frequency..."
+              placeholder="Search stations..."
               value={val}
               onChange={(e) => setVal(e.target.value)}
               onBlur={() => {
                 if (!val) setSearchOpen(false);
               }}
-              className={`bg-white/5 border border-white/10 rounded-2xl px-4 text-sm font-medium text-white placeholder:text-white/20 focus:outline-none focus:ring-2 focus:ring-cyan-500/30 focus:bg-white/10 transition-all duration-300 ${searchOpen ? 'flex-1 h-11 opacity-100' : 'w-0 opacity-0 pointer-events-none md:w-full md:h-11 md:opacity-100 md:pointer-events-auto'}`}
+              className={`bg-white/5 border border-white/20 rounded-2xl px-4 text-sm font-medium text-white placeholder:text-white/20 focus:outline-none focus:ring-2 focus:ring-cyan-500/50 focus:bg-white/10 transition-all duration-300 ${searchOpen ? 'flex-1 h-11 opacity-100' : 'w-0 opacity-0 pointer-events-none md:w-full md:h-11 md:opacity-100 md:pointer-events-auto'}`}
             />
 
             {searchOpen && val.length === 1 && (
-              <div className="absolute top-[calc(100%+8px)] left-0 right-0 p-3 rounded-xl bg-amber-500/10 border border-amber-500/20 backdrop-blur-xl animate-fade-in z-[110]">
-                <p className="text-[9px] font-mono font-bold text-amber-400 uppercase tracking-widest text-center">
-                   ⚠️ Signal weak—Need 2+ characters
+              <div className="absolute top-[calc(100%+8px)] left-0 right-0 p-3 rounded-xl bg-cyan-500/10 border border-cyan-500/20 backdrop-blur-xl animate-fade-in z-[110]">
+                <p className="text-[9px] font-mono font-bold text-cyan-400 uppercase tracking-widest text-center">
+                   ⚠️ Query too short—Need 2+ chars
                 </p>
               </div>
             )}
@@ -141,38 +141,21 @@ export const Header: React.FC<HeaderProps> = ({
 
         {/* Actions Section */}
         {!searchOpen && (
-          <div className="flex items-center gap-1.5 md:gap-3 animate-fade-in pl-2">
+          <div className="flex items-center gap-1 md:gap-3 animate-fade-in">
             
             {/* Trending Toggle */}
             <button
               onClick={onTrending}
-              className={`flex items-center justify-center min-w-[44px] min-h-[44px] rounded-2xl border transition-all duration-300 ${
+              className={`flex items-center justify-center min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] rounded-2xl border transition-all duration-300 ${
                 mode === 'trending'
-                ? 'bg-amber-500/20 border-amber-500/50 text-amber-500 shadow-[0_0_20px_rgba(245,158,11,0.3)]'
-                : 'bg-white/5 border-white/10 text-white/40 hover:text-amber-500 hover:border-amber-500/30'
+                ? 'bg-cyan-500/20 border-cyan-500/50 text-cyan-400 shadow-[0_0_20px_rgba(34,211,238,0.2)]'
+                : 'bg-white/5 border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30'
               }`}
-              aria-label="Toggle Trending Signals"
-              title="Trending Signals"
+              aria-label="Trending stations"
+              title="Trending"
             >
               <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                 <path d="M22 12h-4l-3 9L9 3l-3 9H2" className={mode === 'trending' ? 'animate-pulse' : ''} />
-              </svg>
-            </button>
-
-            {/* Admin Key */}
-            <button
-              onClick={onAdminToggle}
-              className={`flex items-center justify-center min-w-[44px] min-h-[44px] rounded-2xl border transition-all duration-300 ${
-                mode === 'admin'
-                ? 'bg-amber-500/20 border-amber-500/50 text-amber-500 shadow-[0_0_20px_rgba(245,158,11,0.3)]'
-                : 'bg-white/5 border-white/10 text-white/40 hover:text-amber-500 hover:border-amber-500/30'
-              }`}
-              aria-label="Administrative Access"
-              title="Terminal Command Center"
-            >
-              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
-                <path d="M15 6a3 3 0 1 0-6 0 3 3 0 0 0 6 0Zm-3 3v2M9 11v2m0 2v2m3-2v2m3-4v2"/>
-                <path d="M10 11V6a2 2 0 0 1 4 0v5h5a2 2 0 0 1 2 2v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-6a2 2 0 0 1 2-2h5Z"/>
               </svg>
             </button>
 
@@ -180,13 +163,13 @@ export const Header: React.FC<HeaderProps> = ({
             <button
               onClick={onRandom}
               disabled={cooldown > 0}
-              className={`flex items-center justify-center min-w-[44px] min-h-[44px] rounded-2xl border transition-all duration-300 relative ${
+              className={`flex items-center justify-center min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] rounded-2xl border transition-all duration-300 relative ${
                 cooldown > 0 
                 ? 'bg-white/5 border-white/5 text-white/10 cursor-wait' 
                 : 'bg-white/5 border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30'
               }`}
-              aria-label="Deep Scan Shuffle"
-              title="Deep Scan Shuffle"
+              aria-label="Discovery Shuffle"
+              title="Shuffle"
             >
               {cooldown > 0 ? (
                 <span className="text-[10px] font-mono font-bold">{cooldown}s</span>
@@ -200,12 +183,12 @@ export const Header: React.FC<HeaderProps> = ({
             {/* Favs */}
             <button
               onClick={onFavToggle}
-              className={`relative flex items-center justify-center gap-2 min-w-[44px] min-h-[44px] px-3 rounded-2xl border transition-all duration-300 ${
+              className={`relative flex items-center justify-center gap-2 min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] px-2 md:px-3 rounded-2xl border transition-all duration-300 ${
                 mode === 'favorites' 
                 ? 'bg-pink-500/20 border-pink-500/50 text-pink-500 shadow-[0_0_20px_rgba(236,72,153,0.3)]' 
-                : 'bg-white/5 border-white/10 text-white/50 hover:border-pink-500/30 hover:text-pink-500'
+                : 'bg-white/5 border-white/10 text-white/40 hover:border-pink-500/30 hover:text-pink-500'
               }`}
-              title="Saved Frequencies"
+              title="Favorites"
             >
                <svg 
                 width="18" height="18" viewBox="0 0 24 24" fill={mode === 'favorites' ? "currentColor" : "none"} 
@@ -214,7 +197,7 @@ export const Header: React.FC<HeaderProps> = ({
               >
                 <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
               </svg>
-              {favCount > 0 && <span className="hidden sm:inline text-[10px] font-bold font-mono tracking-widest">{favCount}</span>}
+              {favCount > 0 && <span className="hidden xs:inline text-[9px] font-bold font-mono tracking-widest">{favCount}</span>}
             </button>
           </div>
         )}

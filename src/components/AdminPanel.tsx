@@ -14,12 +14,12 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
   if (!isAdmin) {
     return (
       <div className="min-h-[60vh] flex flex-col items-center justify-center p-8 animate-fade-in">
-        <div className="w-full max-w-md p-8 rounded-[2.5rem] bg-black/60 border border-white/5 backdrop-blur-3xl shadow-2xl space-y-8 relative overflow-hidden">
-          <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-amber-500/50 to-transparent" />
+        <div className="w-full max-w-md p-8 rounded-[2.5rem] bg-black/70 border border-white/5 backdrop-blur-3xl shadow-2xl space-y-8 relative overflow-hidden">
+          <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent" />
           
           <div className="text-center space-y-2">
-            <h2 className="text-2xl font-bold text-white tracking-tight uppercase">Command Authorization</h2>
-            <p className="text-[10px] font-mono text-white/30 uppercase tracking-[0.2em]">Restricted Sector // Admin Access Only</p>
+            <h2 className="text-2xl font-bold text-white tracking-tight uppercase">Admin Login</h2>
+            <p className="text-[10px] font-mono text-white/30 uppercase tracking-[0.2em]">Restricted Access // Administrators Only</p>
           </div>
 
           <form 
@@ -27,22 +27,22 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
             className="space-y-4"
           >
             <div className="space-y-1">
-              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Orbital ID</label>
+              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Admin ID</label>
               <input 
                 type="text" 
                 value={user}
                 onChange={e => setUser(e.target.value)}
-                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-amber-500/50 transition-all"
-                placeholder="USER_ID"
+                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-cyan-500/50 transition-all"
+                placeholder="ADMIN_USER"
               />
             </div>
             <div className="space-y-1">
-              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Digital Key</label>
+              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Password</label>
               <input 
                 type="password" 
                 value={pass}
                 onChange={e => setPass(e.target.value)}
-                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-amber-500/50 transition-all"
+                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-cyan-500/50 transition-all"
                 placeholder="********"
               />
             </div>
@@ -52,9 +52,9 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
             <button 
               type="submit"
               disabled={loading}
-              className="w-full h-14 mt-4 rounded-2xl bg-amber-500/10 border border-amber-500/30 text-amber-500 text-xs font-bold uppercase tracking-widest hover:bg-amber-500/20 active:scale-95 transition-all disabled:opacity-50"
+              className="w-full h-14 mt-4 rounded-2xl bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-xs font-bold uppercase tracking-widest hover:bg-cyan-500/20 active:scale-95 transition-all disabled:opacity-50"
             >
-              {loading ? 'AUTHORIZING...' : 'Authorize Access'}
+              {loading ? 'AUTHENTICATING...' : 'Sign In'}
             </button>
           </form>
 
@@ -63,7 +63,7 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
               onClick={onClose}
               className="text-[10px] font-mono font-bold text-white/20 uppercase tracking-[0.3em] hover:text-white/60 transition-colors"
             >
-              ← Return to Radio Mesh
+              ← Return to Home
             </button>
           </div>
         </div>
@@ -72,17 +72,17 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
   }
 
   return (
-    <div className="max-w-4xl mx-auto p-4 md:p-8 animate-fade-in space-y-8">
+    <div className="max-w-4xl mx-auto p-4 md:p-8 animate-fade-in space-y-8 text-left">
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-white/5 pb-8">
         <div>
-          <h1 className="text-3xl font-bold text-white tracking-tight uppercase">Terminal Command Center</h1>
-          <p className="text-xs font-mono text-amber-500/60 uppercase tracking-[0.3em] mt-2 italic">Integrity Maintenance Protocol Active</p>
+          <h1 className="text-3xl font-bold text-white tracking-tight uppercase">Admin Dashboard</h1>
+          <p className="text-xs font-mono text-cyan-500/60 uppercase tracking-[0.3em] mt-2 italic">System Maintenance Protocol Active</p>
         </div>
         <button 
           onClick={() => { logout(); onClose(); }}
           className="px-6 py-2 rounded-xl bg-white/5 border border-white/10 text-[10px] font-mono font-bold text-white/40 uppercase hover:text-red-400 transition-colors"
         >
-          Disconnect
+          Log Out
         </button>
       </div>
 
@@ -90,8 +90,8 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
         {/* Stream Management */}
         <div className="p-8 rounded-[2rem] bg-white/[0.03] border border-white/5 space-y-6">
           <div className="space-y-2">
-            <h3 className="text-sm font-bold text-white uppercase tracking-widest">Mark Dead Stream</h3>
-            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Add broken signal URLs to the exclusion registry.</p>
+            <h3 className="text-sm font-bold text-white uppercase tracking-widest">Broken Stream Registry</h3>
+            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Manage inactive station URLs within the exclusion list.</p>
           </div>
           
           <div className="space-y-3">
@@ -99,8 +99,8 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
               type="text" 
               value={deadUrl}
               onChange={e => setDeadUrl(e.target.value)}
-              className="w-full h-12 bg-black/40 border border-white/10 rounded-xl px-4 text-xs font-mono text-amber-200 placeholder:text-white/10 focus:outline-none focus:border-amber-500/30"
-              placeholder="https://stream-url.mp3"
+              className="w-full h-12 bg-black/40 border border-white/10 rounded-xl px-4 text-xs font-mono text-white placeholder:text-white/10 focus:outline-none focus:border-cyan-500/30"
+              placeholder="https://station-url.mp3"
             />
             <div className="flex gap-2">
               <button 
@@ -108,14 +108,14 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
                 disabled={loading}
                 className="flex-1 h-12 rounded-xl bg-red-500/10 border border-red-500/30 text-red-500 text-[10px] font-bold uppercase tracking-widest hover:bg-red-500/20 disabled:opacity-50 transition-all"
               >
-                {loading ? 'PROCESSING...' : 'FLAG AS DEAD'}
+                {loading ? 'PROCESSING...' : 'REMOVE STATION'}
               </button>
               <button 
                 onClick={() => { restore(deadUrl); setDeadUrl(''); }}
                 disabled={loading}
                 className="flex-1 h-12 rounded-xl bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-[10px] font-bold uppercase tracking-widest hover:bg-cyan-500/20 disabled:opacity-50 transition-all"
               >
-                RESTORE SIGNAL
+                RESTORE STATION
               </button>
             </div>
           </div>
@@ -124,16 +124,16 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
         {/* Global Tools */}
         <div className="p-8 rounded-[2rem] bg-white/[0.03] border border-white/5 flex flex-col justify-between">
           <div className="space-y-2">
-            <h3 className="text-sm font-bold text-white uppercase tracking-widest">Global Maintenance</h3>
-            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Trigger deep scan to prune all validated dead signals from the discovery mesh.</p>
+            <h3 className="text-sm font-bold text-white uppercase tracking-widest">System Cleanup</h3>
+            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Run a database cleanup to remove all confirmed broken links from the global list.</p>
           </div>
           
           <button 
             onClick={cleanup}
             disabled={loading}
-            className="w-full h-14 mt-6 rounded-xl bg-amber-500/10 border border-amber-500/30 text-amber-500 text-[10px] font-bold uppercase tracking-[0.4em] hover:bg-amber-500/20 disabled:opacity-50 shadow-lg shadow-amber-500/10 transition-all"
+            className="w-full h-14 mt-6 rounded-xl bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-[10px] font-bold uppercase tracking-[0.4em] hover:bg-cyan-500/20 disabled:opacity-50 shadow-lg shadow-cyan-500/10 transition-all"
           >
-            {loading ? 'SCANNING MESH...' : 'INITIALIZE SYSTEM CLEANUP'}
+            {loading ? 'CLEANING DATABASE...' : 'START SYSTEM CLEANUP'}
           </button>
         </div>
       </div>
@@ -145,8 +145,8 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
           </svg>
         </div>
         <div className="space-y-0.5">
-          <p className="text-[10px] font-bold text-red-400 uppercase tracking-widest">Terminal Security Warning</p>
-          <p className="text-[9px] font-mono text-white/20 uppercase leading-relaxed">Changes made here directly affect the cloud-synchronization of 30,000+ stations. Direct database mutations are non-reversible.</p>
+          <p className="text-[10px] font-bold text-red-400 uppercase tracking-widest">Security Warning</p>
+          <p className="text-[9px] font-mono text-white/20 uppercase leading-relaxed text-left">Changes made here affect the synchronization of the station database. These mutations are non-reversible.</p>
         </div>
       </div>
     </div>

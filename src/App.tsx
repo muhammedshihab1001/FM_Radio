@@ -16,7 +16,7 @@ const API = import.meta.env.VITE_API_BASE_URL;
 /* ─── Skeleton Grid ─── */
 const SkeletonGrid: React.FC = () => (
   <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-    {[...Array(12)].map((_, i) => (
+    {[...Array(24)].map((_, i) => (
       <div 
         key={i} 
         className="relative h-[170px] rounded-3xl bg-white/[0.03] border border-white/5 overflow-hidden animate-pulse"
@@ -53,17 +53,17 @@ const EmptyState: React.FC<EmptyStateProps> = ({ onReset, isFavs, isRandom }) =>
       </svg>
     </div>
     <h3 className="text-base font-bold uppercase tracking-[0.2em] text-white mb-2">
-      {isFavs ? 'No Saved Stations' : 'No Frequency Match'}
+      {isFavs ? 'No Saved Stations' : 'No Stations Found'}
     </h3>
     <p className="text-sm text-white/40 max-w-xs mb-8">
       {isFavs
-        ? 'Tap ♥ on any station to lock onto its frequency.'
+        ? 'Tap the heart icon on any station to save it to your collection.'
         : isRandom
-          ? 'Randomizer failed to lock a signal.'
-          : 'Terminal scan returned zero results for this sector.'}
+          ? 'Failed to discover a new station.'
+          : 'Our search through the global network returned zero results.'}
     </p>
     <button onClick={onReset} className="px-12 py-3 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 text-xs font-bold uppercase tracking-widest transition-all">
-      {isFavs ? 'EXPLORE STATIONS' : 'RESET TERMINAL'}
+      {isFavs ? 'EXPLORE STATIONS' : 'RESET SEARCH'}
     </button>
   </div>
 );
@@ -118,7 +118,7 @@ export default function App() {
       const tag = (document.activeElement as HTMLElement)?.tagName;
       const isInput = ['INPUT', 'TEXTAREA', 'SELECT'].includes(tag);
 
-      // Terminal Shortcut: Shift + A toggles Admin Command Center
+      // Admin Shortcut: Shift + A toggles Admin Access
       if (e.shiftKey && e.key === 'A') {
         e.preventDefault();
         setMode(m => m === 'admin' ? 'home' : 'admin');
@@ -143,7 +143,7 @@ export default function App() {
     return () => window.removeEventListener('keydown', handle);
   }, [currentStation, toggle, infoStation]);
 
-  /* ─── Mandatory Protocol v3.0: Load Once ─── */
+  /* ─── Initial Load ─── */
   useEffect(() => {
     // Initial fetch handled by useStations signal observer if mode is home
   }, []);
@@ -204,12 +204,12 @@ export default function App() {
               <path d="M12 2v20M17 5v14M7 5v14M2 12h20M22 12c-2-2-3-3-5-5H7c-2 2-3 3-5 5M2 12c2 2 3 3 5 5h10c2-2 3-3 5-5"/>
             </svg>
           </div>
-          <h1 className="text-2xl font-bold text-white tracking-tight uppercase">Terminal Offline</h1>
+          <h1 className="text-2xl font-bold text-white tracking-tight uppercase">System Offline</h1>
           <p className="text-xs font-mono text-white/40 leading-relaxed uppercase tracking-widest">
-            Configuration Integrity Failure: Missing [VITE_API_BASE_URL]. Ensure environment variables are loaded in [.env].
+            Handshake Error: Missing API endpoint [VITE_API_BASE_URL]. Check your environment configuration.
           </p>
           <div className="h-[1px] w-12 bg-white/10 mx-auto" />
-          <p className="text-[10px] text-red-400/60 font-mono italic">Handshake Protocol Aborted</p>
+          <p className="text-[10px] text-red-400/60 font-mono italic">Connection Protocol Failed</p>
         </div>
       </div>
     );
@@ -246,8 +246,8 @@ export default function App() {
               />
             </div>
 
-            <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">
-              {isRandom && <span className="text-cyan-400 animate-pulse">30,000 STATION DISCOVERY MESH</span>}
+            <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/40 tracking-[0.2em] uppercase">
+              {isRandom && <span className="text-cyan-400 animate-pulse">30,000+ GLOBAL BROADCASTS</span>}
               <div className="flex gap-4">
                 <span>Space: Play</span>
                 <span>/: Search</span>
@@ -265,11 +265,11 @@ export default function App() {
           {mode === 'favorites' && (
             <div className="mb-10 animate-fade-in text-center md:text-left">
               <h2 className="text-3xl font-bold tracking-tight text-white mb-2">
-                Saved Frequencies
+                Favorite Stations
               </h2>
               <div className="h-1 w-20 bg-gradient-to-r from-pink-500 to-cyan-500 rounded-full mx-auto md:mx-0 mb-4" />
               <p className="text-xs font-mono text-white/40 uppercase tracking-[0.3em]">
-                {favCount} station{favCount !== 1 ? 's' : ''} locked into sector
+                {favCount} station{favCount !== 1 ? 's' : ''} saved to your collection
               </p>
             </div>
           )}
@@ -319,7 +319,7 @@ export default function App() {
                     onClick={loadMore}
                     className="px-12 py-4 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-cyan-500/30 text-xs font-bold uppercase tracking-[0.3em] transition-all duration-300 active:scale-95"
                   >
-                    Sync Next Sector
+                    Load More Stations
                   </button>
                 </div>
               )}

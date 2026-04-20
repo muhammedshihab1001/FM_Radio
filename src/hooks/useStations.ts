@@ -2,51 +2,44 @@ import { useState, useEffect, useCallback, useRef } from 'react';
 import { Station, Statistics, CountryNode } from '../types/terminal';
 import * as api from '../services/api';
 
-// Cache Keys & TTLs
-const CACHE_COUNTRIES_KEY = 'ast_cache_countries';
-const CACHE_STATS_KEY     = 'ast_cache_stats';
-const TTL_COUNTRIES       = 600000; // 10 min
-const TTL_STATS           = 60000;  // 1 min
-const TTL_RANDOM          = 30000;  // 30 sec (PROMPT 2)
+// Cache TTLs (ms)
+const TTL_COUNTRIES = 600000; // 10 min
+const TTL_STATS     = 60000;  // 1 min
+const TTL_RANDOM    = 30000;  // 30 sec
+const TTL_TRENDING  = 60000;  // 60 sec
+const TTL_SEARCH    = 300000; // 5 min (Requested)
 
 export function useStations() {
-  const [stations, setStations]   = useState<Station[]>([]);
-  const [countries, setCountries] = useState<CountryNode[]>([]);
-  const [stats, setStats]         = useState<Statistics | null>(null);
-  
-  const [loading, setLoading]     = useState<boolean>(false);
-  const [error, setError]         = useState<string | null>(null);
-  const [query, setQuery]         = useState<string>('');
-  const [country, setCountry]     = useState<string>('');
+  const [stations, setStations]     = useState<Station[]>([]);
+  const [countries, setCountries]   = useState<CountryNode[]>([]);
+  const [stats, setStats]           = useState<Statistics | null>(null);
+  const [loading, setLoading]       = useState<boolean>(false);
+  const [error, setError]           = useState<string | null>(null);
+  const [query, setQuery]           = useState<string>('');
+  const [country, setCountry]       = useState<string>('');
   const [isTrending, setIsTrending] = useState<boolean>(false);
-  
   const [nextCursor, setNextCursor] = useState<string | number>(0);
-  const [hasMore, setHasMore]     = useState<boolean>(false);
-  const [cooldown, setCooldown]   = useState<number>(0);
+  const [hasMore, setHasMore]       = useState<boolean>(false);
+  const [cooldown, setCooldown]     = useState<number>(0);
 
-  // Multi-Layer Memory Cache
-  const pageCache = useRef(new Map<string, Station[]>());
-  const searchCache = useRef(new Map<string, Station[]>());
-  const randomCache = useRef<{ data: Station[], timestamp: number } | null>(null);
-  
-  const fetchId = useRef<number>(0);
-  const isFetching = useRef<boolean>(false);
+  // ─── Memory Cache Storage ───
+  // Format: mode:country:cursor
+  const pageCache     = useRef(new Map<string, { stations: Station[], nextCursor: string | number }>());
+  const searchCache   = useRef(new Map<string, { data: Station[], timestamp: number }>()); // Supports TTL
+  const trendingCache = useRef<{ data: Station[], timestamp: number } | null>(null);
+  const randomCache   = useRef<{ data: Station[], timestamp: number } | null>(null);
+
+  const fetchId     = useRef<number>(0);
+  const lastSignal  = useRef<string>('');
+  const lastFetch   = useRef<number>(0); 
+  const isFetching  = useRef<boolean>(false);
   const debounceRef = useRef<NodeJS.Timeout | null>(null);
-  const lastSignal = useRef<string>('');
 
-  /* ─── Cache Helpers ─── */
-  const getPersistentCached = (key: string, ttl: number) => {
-    try {
-      const cachedStr = sessionStorage.getItem(key);
-      const cached = cachedStr ? JSON.parse(cachedStr) : null;
-      if (cached && (Date.now() - cached.timestamp) < ttl) return cached.data;
-    } catch { return null; }
-    return null;
-  };
-
-  const setPersistentCached = (key: string, data: any) => {
-    try { sessionStorage.setItem(key, JSON.stringify({ data, timestamp: Date.now() })); } catch {}
-  };
+  /* ─── API Boot Sequence ─── */
+  useEffect(() => {
+    api.fetchCountries().then(setCountries).catch(() => {});
+    api.fetchStats().then(setStats).catch(() => {});
+  }, []);
 
   /* ─── Cooldown Timer ─── */
   useEffect(() => {
@@ -55,48 +48,15 @@ export function useStations() {
     return () => clearInterval(timer);
   }, [cooldown]);
 
-  /* ─── API Boot Sequence ─── */
-  useEffect(() => {
-    const cachedCountries = getPersistentCached(CACHE_COUNTRIES_KEY, TTL_COUNTRIES);
-    if (cachedCountries) setCountries(cachedCountries);
-    else {
-      api.fetchCountries().then(list => {
-        setCountries(list);
-        if (list.length > 0) setPersistentCached(CACHE_COUNTRIES_KEY, list);
-      }).catch(() => {});
-    }
-
-    const cachedStats = getPersistentCached(CACHE_STATS_KEY, TTL_STATS);
-    if (cachedStats) setStats(cachedStats);
-    else {
-      api.fetchStats().then(s => {
-        setStats(s);
-        if (s) setPersistentCached(CACHE_STATS_KEY, s);
-      }).catch(() => {});
-    }
-  }, []);
-
-  /* ─── Background Prefetch System ─── */
-  useEffect(() => {
-    if (!nextCursor || loading || query || isTrending) return;
-    
-    const prefetchKey = `${country}:${nextCursor}`;
-    if (pageCache.current.has(prefetchKey)) return;
-
-    const t = setTimeout(() => {
-      api.fetchStations(nextCursor, country).then(res => {
-        if (res?.stations) pageCache.current.set(prefetchKey, res.stations);
-      }).catch(() => {});
-    }, 800) as unknown as number;
-
-    return () => clearTimeout(t);
-  }, [nextCursor, country, loading, query, isTrending]);
-
-  /* ─── Global Load Logic (Hardened) ─── */
+  /* ─── Load Logic (KV + Edge Optimized) ─── */
   const load = useCallback(async (append = false) => {
-    if (isFetching.current && append) return;
+    const now = Date.now();
     
-    // PROMPT 3: Search Safety
+    // Strict Deduplication & Guarding
+    if (isFetching.current && append) return;
+    if (now - lastFetch.current < 300) return; 
+
+    // Search validation
     if (query && query.length < 3) {
       if (!append) setStations([]);
       setHasMore(false);
@@ -104,46 +64,74 @@ export function useStations() {
     }
 
     const currentFetchId = ++fetchId.current;
-    // PROMPT 5: Cursor Safety (Propagated)
     const cursorToUse = append ? nextCursor : 0;
     
-    const signalKey = isTrending ? 'trending' : (query ? `q:${query}` : `${country || 'intl'}`);
-    const cacheKey = `${signalKey}:${cursorToUse}`;
+    // Standardized Key Format: mode:country:cursor
+    const modeKey = isTrending ? 'trending' : (query ? 'search' : 'explore');
+    const countryKey = country || 'global';
+    const cacheKey = `${modeKey}:${countryKey}:${cursorToUse}`;
 
-    // PROMPT 1: Duplicate Prevention (Memory Cache Exit)
-    const activeCache = query ? searchCache.current : pageCache.current;
-    if (activeCache.has(cacheKey) && !append) {
-      setStations(activeCache.get(cacheKey)!);
-      setLoading(false);
-      setHasMore(!query && !isTrending); // Trending/Search are flat in this implementation
-      return; // EXIT EARLY - NO NETWORK HANDSHAKE
+    // ─── 1. OPTIMISTIC CACHE CHECK ───
+    if (modeKey === 'explore') {
+      const cached = pageCache.current.get(cacheKey);
+      if (cached) {
+        setStations(prev => {
+          if (!append) return cached.stations;
+          const existingUrls = new Set(prev.map(s => s.url));
+          const unique = cached.stations.filter(s => !existingUrls.has(s.url));
+          return [...prev, ...unique];
+        });
+        setNextCursor(cached.nextCursor);
+        setHasMore(cached.nextCursor !== null && cached.stations.length >= 40);
+        if (!append) setError(null);
+        return; // ZERO LATENCY EXIT
+      }
+    } else if (modeKey === 'search') {
+      const cached = searchCache.current.get(cacheKey);
+      if (cached && (now - cached.timestamp < TTL_SEARCH) && !append) {
+        setStations(cached.data);
+        setHasMore(false);
+        setNextCursor(0);
+        setError(null);
+        return;
+      }
+    } else if (modeKey === 'trending') {
+      const cached = trendingCache.current;
+      if (cached && (now - cached.timestamp < TTL_TRENDING) && !append) {
+        setStations(cached.data);
+        setHasMore(false);
+        setNextCursor(0);
+        setError(null);
+        return;
+      }
     }
 
+    // ─── 2. NETWORK FETCH (Cache Miss) ───
     setLoading(true);
+    isFetching.current = true;
+    lastFetch.current = now;
     if (!append) {
       setError(null);
-      setStations([]); 
+      setStations([]);
     }
-    isFetching.current = true;
 
     try {
       let result;
-      
-      // PROMPT 4: Trending Integration
       if (isTrending) {
         result = await api.fetchTrending();
-      } 
-      // PROMPT 2: Random Pulse Throttle
-      else if (!query && !country && cursorToUse === 0) {
-        if (randomCache.current && (Date.now() - randomCache.current.timestamp) < TTL_RANDOM) {
+        trendingCache.current = { data: result, timestamp: now };
+      } else if (query) {
+        result = await api.searchStations(query);
+        searchCache.current.set(cacheKey, { data: result, timestamp: now });
+      } else if (!query && !country && cursorToUse === 0) {
+        // Random Selection Handshake
+        if (randomCache.current && (now - randomCache.current.timestamp < TTL_RANDOM)) {
           result = { stations: randomCache.current.data, next_cursor: 0 };
         } else {
           const stations = await api.fetchRandom();
-          randomCache.current = { data: stations, timestamp: Date.now() };
+          randomCache.current = { data: stations, timestamp: now };
           result = { stations, next_cursor: 0 };
         }
-      } else if (query) {
-        result = await api.searchStations(query);
       } else {
         result = await api.fetchStations(cursorToUse, country);
       }
@@ -153,22 +141,43 @@ export function useStations() {
       const list = Array.isArray(result) ? result : (result.stations || []);
       const next = result.next_cursor ?? null;
 
-      // Update Cache
-      activeCache.set(cacheKey, list);
+      if (list.length === 0 && !append) {
+        setError('No Stations Found');
+      }
+
+      // Store in memory cache
+      if (modeKey === 'explore') {
+        pageCache.current.set(cacheKey, { stations: list, nextCursor: next });
+      }
 
       setStations(prev => {
         if (!append) return list;
         const existingUrls = new Set(prev.map(s => s.url));
-        const uniqueNew = list.filter((s: Station) => !existingUrls.has(s.url));
-        return [...prev, ...uniqueNew];
+        const unique = list.filter((s: Station) => !existingUrls.has(s.url));
+        return [...prev, ...unique];
       });
 
       setNextCursor(next);
-      setHasMore(!isTrending && !query && next !== null && list.length >= 20);
-      
-    } catch (err) {
+      setHasMore(!isTrending && !query && next !== null && list.length >= 40);
+
+      // ─── 3. PROACTIVE PREFETCH (Broadcast Synchronization) ───
+      if (next !== null && modeKey === 'explore') {
+        const nextKey = `${modeKey}:${countryKey}:${next}`;
+        if (!pageCache.current.has(nextKey)) {
+          api.fetchStations(next, country).then(res => {
+            if (res?.stations) {
+              pageCache.current.set(nextKey, { 
+                stations: res.stations, 
+                nextCursor: res.next_cursor 
+              });
+            }
+          }).catch(() => {});
+        }
+      }
+
+    } catch (err: any) {
       if (currentFetchId === fetchId.current) {
-        setError('Signal terminal failure — attempting re-link.');
+        setError(err.message || 'Connection Lost — Broadcast Offline');
       }
     } finally {
       if (currentFetchId === fetchId.current) {
@@ -178,28 +187,25 @@ export function useStations() {
     }
   }, [query, country, nextCursor, isTrending]);
 
-  /* ─── Signal Observers ─── */
+  /* ─── Station Observers ─── */
   useEffect(() => {
-    // Prevent redundant triggers if signal didn't actually change
     const sig = `${query}:${country}:${isTrending}`;
     if (sig === lastSignal.current) return;
     lastSignal.current = sig;
-    
     load(false);
   }, [query, country, isTrending, load]);
 
   const fetchRandom = useCallback(() => {
     if (cooldown > 0) return;
     setIsTrending(false);
-    setStations([]);
-    setNextCursor(0);
     setQuery('');
     setCountry('');
+    setNextCursor(0);
     setCooldown(1);
   }, [cooldown]);
 
   const toggleTrending = useCallback(() => {
-    setIsTrending(prev => !prev);
+    setIsTrending(p => !p);
     setQuery('');
     setCountry('');
     setNextCursor(0);
@@ -209,22 +215,21 @@ export function useStations() {
     if (debounceRef.current) clearTimeout(debounceRef.current);
     debounceRef.current = setTimeout(() => {
       const sanitized = q.trim().replace(/[<>\\"'`;()]/g, '').slice(0, 100);
-      if (sanitized === query) return; // PROMPT 3: No repeated identical queries
+      if (sanitized === query) return;
       setIsTrending(false);
       setQuery(sanitized);
       setNextCursor(0);
-    }, 400); // PROMPT 3: Debounce 400ms
+    }, 400);
   }, [query]);
 
   const filterByCountry = useCallback((c: string | null) => {
     setIsTrending(false);
     setCountry(c === 'All Countries' || !c ? '' : c);
-    setQuery(''); 
+    setQuery('');
     setNextCursor(0);
   }, []);
 
   const loadMore = useCallback(() => {
-    // PROMPT 1: Guarded by loading + hasMore
     if (!loading && hasMore) load(true);
   }, [loading, hasMore, load]);
 
@@ -241,3 +246,6 @@ export function useStations() {
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
   };
 }
+
+const getSearchKey = (q: string) => `search:${q.toLowerCase()}`;
+

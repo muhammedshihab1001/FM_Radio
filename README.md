@@ -1,8 +1,8 @@
 # 🌌 Nebula Cast FM
 
-### *Discovering the sounds of the universe, one frequency at a time.*
+### *The future of global radio, delivered with premium clarity.*
 
-Nebula Cast FM is an industrial-grade, high-fidelity Global Radio discovery terminal. Designed with a pure black holographic aesthetic, it provides seamless access to a massive mesh of over 30,000 global radio stations with near-zero latency.
+Nebula Cast FM is a professional, high-performance FM broadcasting and discovery website. Designed with a sleek, premium dark aesthetic, it provides seamless access to a massive network of over 30,000 global radio stations with near-zero latency and hardened cross-device responsiveness.
 
 ---
 
@@ -12,47 +12,47 @@ Nebula Cast FM is an industrial-grade, high-fidelity Global Radio discovery term
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Hls.js](https://img.shields.io/badge/HLS.js-orange?style=for-the-badge)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 - **Engine**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
-- **Logic**: 100% Type-safe TypeScript
-- **Styling**: Tailwind CSS + Custom Glassmorphism UI
-- **Streaming**: [Hls.js](https://github.com/video-dev/hls.js/) for modern adaptive bitrate signals
+- **Architecture**: KV-First Edge-Cached backend alignment for O(1) discovery.
+- **Styling**: Tailwind CSS + Custom Glassmorphism UI (Optimized for Mobile/Tablet/PC).
+- **Streaming**: Advanced HLS.js integration for adaptive bitrate broadcasts.
 
 ---
 
 ## ✨ Key Features
 
-### 💎 Holographic Aesthetic
-- **Pure Black Design**: Optimized for OLED displays and low-light environments.
-- **Reactive Vector Lighting**: UI elements feature dynamic glows and micro-animations that respond to signal activity.
-- **Glassmorphism**: High-blur backdrops and translucent borders create a sense of depth and focus.
+### 💎 Premium Design & UX
+- **Aurora Aesthetic**: Sleek dark mode with glassmorphism and vibrant gradients.
+- **Responsive Hardening**: Zero-breakage layout optimized for mobile touch-targets and 4K displays.
+- **Micro-Animations**: Subtle visual feedback for a refined, professional feel.
 
-### ⚡ Fast-Lock Streaming Engine
-- **Near-Zero Latency**: Optimized HLS driver tuning for instantaneous playback engagement.
-- **Priority Fetching**: Critical signal discovery requests are marked with high-priority flags at the network level.
-- **Stable Core Lifecycle**: Decoupled audio lifecycle ensures un-interrupted playback during UI transitions.
-- **Industrial Watchdog**: Real-time signal monitoring with automatic re-sync and stall detection.
+### ⚡ High-Performance Architecture
+- **KV + Edge Cache**: Optimized for high concurrency with a multi-layered caching strategy.
+- **Silent Prefetching**: Proactive sector loading (Page N+1) ensures zero-latency infinite scrolling.
+- **Fast-Lock Audio**: Instantaneous playback engagement with stall-detection watchdogs.
+- **Standardized Deduplication**: Built-in request deduplication to minimize network overhead.
 
-### 🗺️ Global Discovery Mesh
-- **30,000+ Nodes**: Access to a vast worldwide network of radio frequencies.
-- **Deep Scan Discovery**: Search by name, country, city, or codec with high-speed indexing.
-- **Signal Trending**: Real-time heartbeat tracking for the most active global signals.
+### 🗺️ Global Discovery
+- **30,000+ Stations**: Access a vast worldwide network of radio broadcasters.
+- **Smart Filtering**: Search and filter by name, country, city, or codec with near-instant results.
+- **Trending Intelligence**: Real-time tracking of the most popular global stations.
 
-### ⌨️ Terminal Mastery (Shortcuts)
-- `Space`: Engage/Terminate active signal.
-- `/`: Quick-focus Frequency Search.
-- `Esc`: Clear focus or collapse active sector.
-- `Shift + A`: Access Terminal Command Center (Admin).
+### ⌨️ Navigation & Shortcuts
+- `Space`: Toggle active broadcast (Play/Pause).
+- `/`: Quick-focus the search bar.
+- `Esc`: Close modals or clear search focus.
+- `Shift + A`: Access the Administrative Dashboard.
 
 ---
 
-## 🔐 Terminal Command Center (Admin)
+## 🔐 Administrative Dashboard
 
-The restricted Administrative panel provides industrial-grade maintenance tools:
-- **Signal Pruning**: Flag dead or broken streams for exclusion from the mesh.
-- **Registry Restoration**: Re-validate and restore previously flagged frequencies.
-- **Global Mesh Cleanup**: Initialize deep-scan system cleanups to maintain network integrity.
+The restricted Admin panel provides advanced maintenance tools for system integrity:
+- **Station Management**: Manage broken or inactive stream links in real-time.
+- **Database Restoration**: Re-validate and restore previously flagged stations.
+- **System Cleanup**: Initialize database-wide cleanups to maintain high network standards.
 
 ---
 
@@ -61,12 +61,12 @@ The restricted Administrative panel provides industrial-grade maintenance tools:
 ```text
 ├── public/          # System assets and branding
 ├── src/
-│   ├── components/  # Holographic UI Modules (Header, StationCard, MiniPlayer, etc.)
+│   ├── components/  # Professional UI Modules (Header, StationCard, MiniPlayer, etc.)
 │   ├── hooks/       # Logic Controllers (usePlayer, useStations, useAdmin)
-│   ├── services/    # Data Transfer Layer (API integration)
-│   ├── utils/       # Signal Resolvers and Security utilities
-│   ├── types/       # Global Schema and Signal definitions
-│   └── App.tsx      # Terminal Command Logic
+│   ├── services/    # Data Transfer Layer (KV-aware API integration)
+│   ├── utils/       # Stream Resolvers and UI utilities
+│   ├── types/       # Global Schema and Type definitions
+│   └── App.tsx      # Main Application Controller
 └── vercel.json      # Production deployment config
 ```
 
@@ -79,44 +79,39 @@ The restricted Administrative panel provides industrial-grade maintenance tools:
 - **npm**: `v10.0.0` or higher
 
 ### Deployment Steps
-1. **Initialize Terminal**:
+1. **Clone Repository**:
    ```bash
    git clone https://github.com/muhammedshihab1001/FM_Radio.git
    cd FM_Radio
    ```
-2. **Install Linkages**:
+2. **Install Dependencies**:
    ```bash
    npm install
    ```
-3. **Configure Signal Core**:
+3. **Configure Environment**:
    Create a `.env` file with your VITE_API_BASE_URL:
    ```env
    VITE_API_BASE_URL=https://your-radio-api.com
    ```
-4. **Ignite Development**:
+4. **Start Development Server**:
    ```bash
    npm run dev
    ```
 
 ---
 
-## 📡 Data Source
+## 📡 Data Source & Compliance
 - **Provider**: radio-browser.info
-- **Protocol**: Custom Core Interface utilizing REST endpoints with cursor-based pagination.
-- **Optimization**: Progressive data loading and lazy audio initialization.
+- **Protocol**: Custom Edge Interface utilizing cursor-based pagination.
+- **Compliance**: Nebula Cast FM does not host audio content. All stream links are public signals sourced from the open web via the community-driven radio-browser project.
 
 ---
 
-## ⚠️ Disclaimer
-Nebula Cast FM does not host, store, or rebroadcast any proprietary audio content. All stream links are public signals sourced from the open web via the radio-browser.info community project.
+## 📊 Network Statistics
 
----
+Connecting to **~850,000+** global broadcasters across **190+** countries.
 
-## 📊 Global Network Stats
-
-Locked onto **~850,000+** global nodes across **190+** countries.
-
-| Sector Node | Density | Sector Node | Density |
+| Region | Station Density | Region | Station Density |
 | :--- | :--- | :--- | :--- |
 | **USA** | 390k+ | **Germany** | 34k+ |
 | **Brazil** | 13k+ | **France** | 10k+ |

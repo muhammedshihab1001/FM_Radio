@@ -38,8 +38,8 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
     
     /* Toast feedback */
     const t = Object.assign(document.createElement('div'), {
-      className: 'fixed bottom-24 left-1/2 -translate-x-1/2 z-[300] px-6 py-3 rounded-2xl text-[10px] font-bold text-cyan-400 border border-cyan-500/30 bg-black/90 backdrop-blur-xl shadow-2xl animate-fade-in pointer-events-none uppercase tracking-[0.2em]',
-      innerText: '✓ Data Stream URL Copied',
+      className: 'fixed bottom-24 left-1/2 -translate-x-1/2 z-[300] px-6 py-3 rounded-2xl text-[10px] font-bold text-cyan-400 border border-cyan-500/30 bg-black/95 backdrop-blur-2xl shadow-2xl animate-fade-in pointer-events-none uppercase tracking-[0.2em]',
+      innerText: '✓ Stream URL Copied',
     });
     document.body.appendChild(t);
     setTimeout(() => {
@@ -63,7 +63,7 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
         }}
         onClick={e => e.stopPropagation()}
       >
-        <div className="absolute top-0 inset-x-0 h-1.5 bg-gradient-to-r from-pink-500 via-cyan-500 to-pink-500 bg-[length:200%_auto] animate-gradient" />
+        <div className="absolute top-0 inset-x-0 h-1.5 bg-gradient-to-r from-pink-500 via-cyan-500 to-blue-500 bg-[length:200%_auto] animate-gradient" />
         
         <button
           onClick={onClose}
@@ -83,13 +83,13 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
           <div className="mb-6">
             <div className="flex items-center gap-2 mb-2">
               <div className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse shadow-[0_0_8px_rgba(34,211,238,0.8)]" />
-              <span className="text-[9px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">Frequency Details</span>
+              <span className="text-[9px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">Station Profile</span>
             </div>
             <h2 className="text-2xl font-bold text-white tracking-tight leading-tight mb-1">
               {station.name}
             </h2>
             <p className="text-[10px] font-mono text-cyan-400 mt-1 uppercase tracking-[0.2em] font-bold">
-              {station.country || 'Global Sector'} • {station.city || 'Orbital Station'}
+              {station.country || 'Global Region'}{station.city ? ` • ${station.city}` : ' • Local Broadcast'}
             </p>
           </div>
 
@@ -109,9 +109,9 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
 
           <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
             {[
-              { label: 'Bitrate', value: station.bitrate ? `${station.bitrate} kbps` : 'Unknown' },
+              { label: 'Bitrate', value: station.bitrate ? `${station.bitrate} kbps` : 'Standard' },
               { label: 'Codec',   value: station.codec || 'Auto' },
-              { label: 'Protocol', value: url.split(':')[0].toUpperCase() || 'DATA' },
+              { label: 'Type',    value: url.split(':')[0].toUpperCase() || 'STREAM' },
             ].map(({ label, value }) => (
               <div key={label} className="p-3 rounded-xl bg-white/[0.03] border border-white/5 flex flex-col gap-0.5">
                 <span className="text-[8px] font-mono font-bold text-white/20 tracking-widest uppercase">{label}</span>
@@ -122,20 +122,20 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
 
           <div className="p-4 rounded-xl bg-white/[0.03] border border-white/5 mb-6 group/url">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-[8px] font-mono font-bold text-white/20 tracking-widest uppercase">Encryption / Security</span>
+              <span className="text-[8px] font-mono font-bold text-white/20 tracking-widest uppercase">Connection Privacy</span>
               <span className={`text-[9px] font-mono font-bold uppercase ${url.startsWith('https') ? 'text-cyan-400' : 'text-amber-500'}`}>
-                {url.startsWith('https') ? '✓ SSL' : '⚠ INSECURE'}
+                {url.startsWith('https') ? '✓ SECURE' : '⚠ INSECURE'}
               </span>
             </div>
             <div className="flex items-center gap-3">
               <div className="flex-1 text-[10px] font-mono text-white/40 truncate bg-black/40 p-2.5 rounded-xl border border-white/10 select-all">
-                {url || 'Access Restricted'}
+                {url || 'URL Unavailable'}
               </div>
               <button
                 onClick={copyUrl}
                 disabled={!url}
                 className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30 transition-all active:scale-90 flex items-center justify-center shrink-0"
-                title="Copy Command"
+                title="Copy Stream URL"
               >
                 <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
                    <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
@@ -149,22 +149,23 @@ export const StationModal: React.FC<StationModalProps> = ({ station, onClose, on
           <div className="flex gap-4 max-w-lg mx-auto">
             <button
               onClick={() => { onPlay(station); onClose(); }}
-              className="flex-1 h-14 md:h-16 rounded-2xl bg-gradient-to-r from-pink-500 to-cyan-500 text-white font-bold text-[10px] md:text-xs tracking-[0.3em] flex items-center justify-center gap-3 shadow-lg shadow-pink-500/20 active:scale-[0.98] transition-all"
+              className="flex-1 h-14 md:h-16 rounded-2xl bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-bold text-[10px] md:text-xs tracking-[0.3em] flex items-center justify-center gap-3 shadow-lg shadow-cyan-500/20 active:scale-[0.98] transition-all"
             >
               {isPlaying ? (
                 <>
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>
-                  LOCK FREQUENCY
+                  STOP LISTENING
                 </>
               ) : (
                 <>
                   <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="ml-1"><path d="m7 4 12 8-12 8V4z"/></svg>
-                  INITIATE FEED
+                  START LISTENING
                 </>
               )}
             </button>
           </div>
         </div>
+
       </div>
     </div>
   );
