@@ -71,7 +71,7 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
                 <input
                   autoFocus
                   type="text"
-                  placeholder="Scan regions..."
+                  placeholder="Search countries..."
                   value={filter}
                   onChange={e => setFilter(e.target.value)}
                   className="w-full h-10 px-4 bg-white/5 border border-white/10 rounded-xl text-xs font-medium text-white placeholder:text-white/20 focus:outline-none focus:border-cyan-500/30 transition-all"
@@ -80,12 +80,12 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
             </div>
 
             {/* List */}
-            <div className="flex-1 overflow-y-auto py-2">
+            <div className="flex-1 overflow-y-auto py-2 custom-scrollbar">
               <button
                 onClick={() => { onSelect(null); setOpen(false); setFilter(''); }}
                 className={`w-full px-6 py-3 text-left transition-all hover:bg-white/5 flex items-center justify-between group ${!selectedCountry ? 'bg-cyan-500/10' : ''}`}
               >
-                <span className={`text-xs font-bold uppercase tracking-widest ${!selectedCountry ? 'text-cyan-400' : 'text-white/60'}`}>All Countries</span>
+                <span className={`text-xs font-bold uppercase tracking-widest ${!selectedCountry ? 'text-cyan-400' : 'text-white/60'}`}>Global Network</span>
                 {!selectedCountry && <div className="w-1.5 h-1.5 rounded-full bg-cyan-400 shadow-[0_0_8px_rgba(34,211,238,0.8)]" />}
               </button>
 
@@ -109,7 +109,7 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
 
               {filtered.length === 0 && (
                 <div className="py-8 text-center">
-                  <p className="text-[10px] font-mono text-white/20 uppercase tracking-widest">No matching frequencies</p>
+                  <p className="text-[10px] font-mono text-white/20 uppercase tracking-widest">No matching locations</p>
                 </div>
               )}
             </div>
@@ -123,9 +123,9 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
         <p className="text-[10px] font-mono font-bold text-white/30 uppercase tracking-[0.2em] whitespace-nowrap">
           {total !== null ? (
             <>
-              <span className="text-white/60">{total}</span> Nodes Located
+              <span className="text-white/60">{total}</span> Stations Found
             </>
-          ) : 'Deep Scanning Network'}
+          ) : 'Updating Station List...'}
         </p>
       </div>
     </div>

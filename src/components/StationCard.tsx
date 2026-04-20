@@ -48,9 +48,9 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
       tabIndex={0}
       aria-label={`Play ${station.name}`}
       onKeyDown={e => e.key === 'Enter' && onPlay(station)}
-      title={isPlaying ? "Active Transmission" : "Initiate Signal Link"}
+      title={isPlaying ? "Currently Playing" : "Listen Now"}
     >
-      <div className={`absolute inset-0 bg-white/5 border border-white/10 backdrop-blur-2xl transition-colors duration-300 group-hover:bg-white/10 ${active && !isError ? 'border-pink-500/50 shadow-[0_0_20px_rgba(236,72,153,0.2)]' : ''}`} />
+      <div className={`absolute inset-0 bg-white/5 border border-white/10 backdrop-blur-2xl transition-colors duration-300 group-hover:bg-white/10 ${active && !isError ? 'border-cyan-500/50 shadow-[0_0_20px_rgba(34,211,238,0.2)]' : ''}`} />
       
       {active && !isError && (
         <div className="absolute -inset-20 bg-gradient-to-r from-pink-500/20 to-cyan-500/20 blur-[80px] animate-pulse pointer-events-none" />
@@ -61,8 +61,8 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
         className={`absolute top-2 right-2 z-10 w-[44px] h-[44px] flex items-center justify-center rounded-2xl transition-all duration-300 ${
           isFavorite ? 'text-pink-500 bg-pink-500/10' : 'text-white/10 hover:text-pink-500 hover:bg-white/5'
         }`}
-        aria-label={isFavorite ? 'Unfavorite' : 'Favorite'}
-        title={isFavorite ? "Locked Signal" : "Add to Favorites"}
+        aria-label={isFavorite ? 'Remove from Favorites' : 'Add to Favorites'}
+        title={isFavorite ? "Favorited" : "Add to Favorites"}
       >
         <svg width="20" height="20" viewBox="0 0 24 24" fill={isFavorite ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2.5">
           <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
@@ -88,7 +88,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
           )}
           {status === 'stalled' && active && (
             <span className="px-2 py-0.5 rounded-lg bg-orange-500/20 border border-orange-500/40 text-[10px] font-mono font-bold tracking-widest text-orange-400 uppercase">
-              WEAK SIGNAL
+              CONNECTING
             </span>
           )}
           {status === 'mixed-content' && active && (
@@ -112,7 +112,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
         <div className="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
           <div className={`w-[44px] h-[44px] rounded-xl flex items-center justify-center transition-all duration-500 ${
             active && !isError 
-            ? 'bg-gradient-to-br from-pink-500 to-cyan-500 shadow-lg shadow-pink-500/20' 
+            ? 'bg-gradient-to-br from-cyan-500 to-blue-500 shadow-lg shadow-cyan-500/20' 
             : 'bg-white/5 text-white/30 group-hover:bg-cyan-500/10 group-hover:text-cyan-400'
           }`}>
             {isPlaying ? <PauseIcon /> : <PlayIcon />}
@@ -137,7 +137,7 @@ export const StationCard: React.FC<StationCardProps> = React.memo(({
             <button
               onClick={e => { e.stopPropagation(); onInfo(station); }}
               className="min-w-[44px] min-h-[44px] flex items-center justify-end text-[10px] md:text-xs font-mono font-bold text-white/40 hover:text-cyan-400 transition-colors uppercase tracking-[0.3em] touch-manipulation"
-              title="Signal Analysis"
+              title="Station Details"
             >
               DETAILS
             </button>

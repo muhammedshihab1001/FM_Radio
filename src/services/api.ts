@@ -6,31 +6,32 @@ export async function fetchStations(cursor: string | number = 0, country: string
   const p = new URLSearchParams();
   p.set('last_id', String(cursor));
   if (country) p.set('country', country);
-  p.set('limit', '24');
+  p.set('limit', '50');
 
   const res = await fetch(`${API}/stations?${p}`);
   const json = await res.json();
-  if (!json.success) throw new Error(json.error || 'Signal Error');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
   return json.data; // { stations, next_cursor }
 }
 
 export async function fetchRandom() {
   const res = await fetch(`${API}/stations/random`, { cache: 'no-store' });
   const json = await res.json();
-  if (!json.success) throw new Error(json.error || 'Signal Error');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
   return json.data; // Array of stations
 }
 
 export async function searchStations(q: string) {
   const res = await fetch(`${API}/stations/search?q=${encodeURIComponent(q)}`);
   const json = await res.json();
-  if (!json.success) throw new Error(json.error || 'Signal Error');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
   return json.data; // Array of stations
 }
 
 export async function fetchTrending() {
   const res = await fetch(`${API}/stations/trending`);
   const json = await res.json();
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
   return json.data || [];
 }
 
