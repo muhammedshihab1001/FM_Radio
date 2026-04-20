@@ -1,13 +1,12 @@
-import { useState, useEffect, useCallback, useRef } from 'react';
+import { useState, useEffect, useCallback, useRef, useMemo } from 'react';
 import { Station, Statistics, CountryNode } from '../types/terminal';
 import * as api from '../services/api';
 
-// Cache TTLs (ms)
-const TTL_COUNTRIES = 600000; // 10 min
-const TTL_STATS     = 60000;  // 1 min
-const TTL_RANDOM    = 30000;  // 30 sec
-const TTL_TRENDING  = 60000;  // 60 sec
-const TTL_SEARCH    = 300000; // 5 min (Requested)
+const TTL_COUNTRIES = 600000;
+const TTL_STATS     = 60000;
+const TTL_RANDOM    = 30000;
+const TTL_TRENDING  = 60000;
+const TTL_SEARCH    = 300000;
 
 export function useStations() {
   const [stations, setStations]     = useState<Station[]>([]);
@@ -21,11 +20,10 @@ export function useStations() {
   const [nextCursor, setNextCursor] = useState<string | number>(0);
   const [hasMore, setHasMore]       = useState<boolean>(false);
   const [cooldown, setCooldown]     = useState<number>(0);
+  const [refreshKey, setRefreshKey] = useState<number>(0);
 
-  // ─── Memory Cache Storage ───
-  // Format: mode:country:cursor
-  const pageCache     = useRef(new Map<string, { stations: Station[], nextCursor: string | number }>());
-  const searchCache   = useRef(new Map<string, { data: Station[], timestamp: number }>()); // Supports TTL
+  const pageCache     = useRef(new Map<string, { stations: Station[], nextCursor: string | number | null }>());
+  const searchCache   = useRef(new Map<string, { data: Station[], timestamp: number }>());
   const trendingCache = useRef<{ data: Station[], timestamp: number } | null>(null);
   const randomCache   = useRef<{ data: Station[], timestamp: number } | null>(null);
 
@@ -35,78 +33,70 @@ export function useStations() {
   const isFetching  = useRef<boolean>(false);
   const debounceRef = useRef<NodeJS.Timeout | null>(null);
 
-  /* ─── API Boot Sequence ─── */
+  /* ─── Smart stats fallback logic ─── */
+  const stationCount = useMemo(() => {
+    const apiTotal = stats?.total_stations ?? stats?.total ?? stats?.stations ?? 0;
+    // Fallback: Sum up the counts from the countries list if available
+    const computedTotal = countries.reduce((acc, c) => acc + (c.count || 0), 0);
+    
+    // Prioritize the calculated sum from countries if it's significantly larger
+    // This solves the issue where the /stats endpoint is stale or failing
+    return Math.max(apiTotal, computedTotal);
+  }, [stats, countries]);
+
+  const countryCount = useMemo(() => {
+    return Math.max(countries.length, stats?.total_countries ?? stats?.countries ?? 0);
+  }, [countries, stats]);
+
   useEffect(() => {
-    api.fetchCountries().then(setCountries).catch(() => {});
-    api.fetchStats().then(setStats).catch(() => {});
+    // Initial boot fetches
+    api.fetchCountries().then(setCountries).catch(() => {
+      console.warn('BOOT: Country registry fetch failed. Check network.');
+    });
+    api.fetchStats().then(setStats).catch(() => {
+      console.warn('BOOT: Stats endpoint fetch failed. Using country fallback.');
+    });
   }, []);
 
-  /* ─── Cooldown Timer ─── */
   useEffect(() => {
     if (cooldown <= 0) return;
     const timer = setInterval(() => setCooldown(v => v - 1), 1000);
     return () => clearInterval(timer);
   }, [cooldown]);
 
-  /* ─── Load Logic (KV + Edge Optimized) ─── */
   const load = useCallback(async (append = false) => {
     const now = Date.now();
-    
-    // Strict Deduplication & Guarding
     if (isFetching.current && append) return;
-    if (now - lastFetch.current < 300) return; 
+    if (now - lastFetch.current < 200) return; 
 
-    // Search validation
+    const currentFetchId = ++fetchId.current;
+    
     if (query && query.length < 3) {
       if (!append) setStations([]);
       setHasMore(false);
       return;
     }
 
-    const currentFetchId = ++fetchId.current;
     const cursorToUse = append ? nextCursor : 0;
-    
-    // Standardized Key Format: mode:country:cursor
     const modeKey = isTrending ? 'trending' : (query ? 'search' : 'explore');
     const countryKey = country || 'global';
     const cacheKey = `${modeKey}:${countryKey}:${cursorToUse}`;
 
-    // ─── 1. OPTIMISTIC CACHE CHECK ───
-    if (modeKey === 'explore') {
+    if (modeKey === 'explore' && !refreshKey) {
       const cached = pageCache.current.get(cacheKey);
       if (cached) {
         setStations(prev => {
-          if (!append) return cached.stations;
-          const existingUrls = new Set(prev.map(s => s.url));
+          const list = append ? [...prev] : [];
+          const existingUrls = new Set(list.map(s => s.url));
           const unique = cached.stations.filter(s => !existingUrls.has(s.url));
-          return [...prev, ...unique];
+          return [...list, ...unique];
         });
-        setNextCursor(cached.nextCursor);
-        setHasMore(cached.nextCursor !== null && cached.stations.length >= 40);
-        if (!append) setError(null);
-        return; // ZERO LATENCY EXIT
-      }
-    } else if (modeKey === 'search') {
-      const cached = searchCache.current.get(cacheKey);
-      if (cached && (now - cached.timestamp < TTL_SEARCH) && !append) {
-        setStations(cached.data);
-        setHasMore(false);
-        setNextCursor(0);
-        setError(null);
-        return;
-      }
-    } else if (modeKey === 'trending') {
-      const cached = trendingCache.current;
-      if (cached && (now - cached.timestamp < TTL_TRENDING) && !append) {
-        setStations(cached.data);
-        setHasMore(false);
-        setNextCursor(0);
-        setError(null);
+        setNextCursor(cached.nextCursor ?? 0);
+        setHasMore(cached.nextCursor !== null);
         return;
       }
     }
 
-    // ─── 2. NETWORK FETCH (Cache Miss) ───
     setLoading(true);
     isFetching.current = true;
     lastFetch.current = now;
@@ -122,15 +112,20 @@ export function useStations() {
         trendingCache.current = { data: result, timestamp: now };
       } else if (query) {
         result = await api.searchStations(query);
-        searchCache.current.set(cacheKey, { data: result, timestamp: now });
+        searchCache.current.set(query.toLowerCase(), { data: result, timestamp: now });
       } else if (!query && !country && cursorToUse === 0) {
-        // Random Selection Handshake
-        if (randomCache.current && (now - randomCache.current.timestamp < TTL_RANDOM)) {
-          result = { stations: randomCache.current.data, next_cursor: 0 };
+        if (randomCache.current && (now - randomCache.current.timestamp < TTL_RANDOM) && !refreshKey) {
+          const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
+          result = { stations: shuffled, next_cursor: null };
         } else {
-          const stations = await api.fetchRandom();
-          randomCache.current = { data: stations, timestamp: now };
-          result = { stations, next_cursor: 0 };
+          const list = await api.fetchRandom();
+          if (list.length === 0) {
+            result = await api.fetchStations(0, '');
+          } else {
+            randomCache.current = { data: list, timestamp: now };
+            const shuffled = [...list].sort(() => Math.random() - 0.5);
+            result = { stations: shuffled, next_cursor: null };
+          }
         }
       } else {
         result = await api.fetchStations(cursorToUse, country);
@@ -141,11 +136,6 @@ export function useStations() {
       const list = Array.isArray(result) ? result : (result.stations || []);
       const next = result.next_cursor ?? null;
 
-      if (list.length === 0 && !append) {
-        setError('No Stations Found');
-      }
-
-      // Store in memory cache
       if (modeKey === 'explore') {
         pageCache.current.set(cacheKey, { stations: list, nextCursor: next });
       }
@@ -157,43 +147,28 @@ export function useStations() {
         return [...prev, ...unique];
       });
 
-      setNextCursor(next);
-      setHasMore(!isTrending && !query && next !== null && list.length >= 40);
-
-      // ─── 3. PROACTIVE PREFETCH (Broadcast Synchronization) ───
-      if (next !== null && modeKey === 'explore') {
-        const nextKey = `${modeKey}:${countryKey}:${next}`;
-        if (!pageCache.current.has(nextKey)) {
-          api.fetchStations(next, country).then(res => {
-            if (res?.stations) {
-              pageCache.current.set(nextKey, { 
-                stations: res.stations, 
-                nextCursor: res.next_cursor 
-              });
-            }
-          }).catch(() => {});
-        }
-      }
+      setNextCursor(next ?? 0);
+      setHasMore(!isTrending && !query && next !== null);
 
     } catch (err: any) {
       if (currentFetchId === fetchId.current) {
-        setError(err.message || 'Connection Lost — Broadcast Offline');
+        setError(err.message || 'Signal Lost — Terminal Offline');
       }
     } finally {
       if (currentFetchId === fetchId.current) {
         setLoading(false);
         isFetching.current = false;
+        setRefreshKey(0);
       }
     }
-  }, [query, country, nextCursor, isTrending]);
+  }, [query, country, nextCursor, isTrending, refreshKey]);
 
-  /* ─── Station Observers ─── */
   useEffect(() => {
-    const sig = `${query}:${country}:${isTrending}`;
+    const sig = `${query}:${country}:${isTrending}:${refreshKey}`;
     if (sig === lastSignal.current) return;
     lastSignal.current = sig;
     load(false);
-  }, [query, country, isTrending, load]);
+  }, [query, country, isTrending, refreshKey, load]);
 
   const fetchRandom = useCallback(() => {
     if (cooldown > 0) return;
@@ -201,7 +176,8 @@ export function useStations() {
     setQuery('');
     setCountry('');
     setNextCursor(0);
-    setCooldown(1);
+    setCooldown(2);
+    setRefreshKey(Date.now());
   }, [cooldown]);
 
   const toggleTrending = useCallback(() => {
@@ -238,14 +214,13 @@ export function useStations() {
     setQuery('');
     setCountry('');
     setNextCursor(0);
+    setRefreshKey(Date.now());
   }, []);
 
   return {
     stations, countries, stats, loading, error,
-    query, country, isTrending, nextCursor, hasMore, cooldown,
+    query, country, isTrending, nextCursor, hasMore, cooldown, 
+    stationCount, countryCount, // Return computed values
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
   };
 }
-
-const getSearchKey = (q: string) => `search:${q.toLowerCase()}`;
-

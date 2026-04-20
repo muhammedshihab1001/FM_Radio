@@ -3,14 +3,13 @@ import { Statistics } from '../types/terminal';
 
 interface FooterProps {
   stats: Statistics | null;
+  stationCount: number;
   countryCount: number;
   onAdminClick: () => void;
 }
 
-export const Footer: React.FC<FooterProps> = ({ stats, countryCount, onAdminClick }) => {
+export const Footer: React.FC<FooterProps> = ({ stationCount, countryCount, onAdminClick }) => {
   const [clickCount, setClickCount] = React.useState(0);
-  const count = stats?.total ?? stats?.total_stations ?? stats?.stations ?? 0;
-  const countriesTotal = countryCount || stats?.total_countries || stats?.countries || 0;
 
   const handleBrandClick = () => {
     const next = clickCount + 1;
@@ -36,9 +35,9 @@ export const Footer: React.FC<FooterProps> = ({ stats, countryCount, onAdminClic
         </div>
         <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar pointer-events-auto">
           <div className="hidden sm:block h-3 w-[1px] bg-white/10 shrink-0" />
-          <span className="whitespace-nowrap">{count.toLocaleString()} Stations</span>
+          <span className="whitespace-nowrap">{stationCount.toLocaleString()} Stations</span>
           <div className="h-3 w-[1px] bg-white/10 shrink-0" />
-          <span className="whitespace-nowrap">{countriesTotal.toLocaleString()} Regions</span>
+          <span className="whitespace-nowrap">{countryCount.toLocaleString()} Regions</span>
           <div className="h-3 w-[1px] bg-white/10 shrink-0" />
           <button
             onClick={onAdminClick}

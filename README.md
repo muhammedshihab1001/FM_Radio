@@ -79,24 +79,56 @@ The restricted Admin panel provides advanced maintenance tools for system integr
 - **npm**: `v10.0.0` or higher
 
 ### Deployment Steps
-1. **Clone Repository**:
+ 
+ #### Frontend (Vercel/Vite)
+ 1. **Clone Repository**:
+    ```bash
+    git clone https://github.com/muhammedshihab1001/FM_Radio.git
+    cd FM_Radio
+    ```
+ 2. **Install Dependencies**:
+    ```bash
+    npm install
+    ```
+ 3. **Configure Environment**:
+    Create a `.env` file with your VITE_API_BASE_URL:
+    ```env
+    VITE_API_BASE_URL=https://your-radio-api.com
+    ```
+ 4. **Start Development Server**:
+    ```bash
+    npm run dev
+    ```
+
+#### Backend (Cloudflare Workers + D1 + KV)
+1. **Initialize API**:
    ```bash
-   git clone https://github.com/muhammedshihab1001/FM_Radio.git
-   cd FM_Radio
-   ```
-2. **Install Dependencies**:
-   ```bash
+   cd api
    npm install
    ```
-3. **Configure Environment**:
-   Create a `.env` file with your VITE_API_BASE_URL:
-   ```env
-   VITE_API_BASE_URL=https://your-radio-api.com
-   ```
-4. **Start Development Server**:
+2. **Setup Databases**:
+   Create your D1 and KV instances via Wrangler or Cloudflare Dashboard, then update `wrangler.toml` with your IDs.
+3. **Initialize Schema**:
    ```bash
-   npm run dev
+   npx wrangler d1 execute nebula_d1 --file=./schema.sql
    ```
+4. **Deploy Worker**:
+   ```bash
+   npx wrangler deploy
+   ```
+5. **Run Initial Precompute**:
+   ```bash
+   # Manually trigger the cron job for the first time
+   curl "https://your-api.com/scheduled" # Or use wrangler scheduled
+   ```
+
+---
+
+## ⚡ KV-FIRST System (Precompute)
+The system is built on a "KV-First" architecture to handle millions of requests without hitting DB limits:
+- **Daily Precompute**: A cron job generates 20 pages of stations per country into KV.
+- **Circuit Breaker**: D1 reads are tracked; if the 4.8M daily limit is reached, the system falls back to cached KV data only.
+- **Prefix Discovery**: Search indices are stored in KV for O(1) prefix-based lookups.
 
 ---
 

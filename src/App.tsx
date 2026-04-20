@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useCallback, useMemo } from 'react';
+import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';
 import { useFavorites } from './hooks/useFavorites';
@@ -55,15 +55,15 @@ const EmptyState: React.FC<EmptyStateProps> = ({ onReset, isFavs, isRandom }) =>
     <h3 className="text-base font-bold uppercase tracking-[0.2em] text-white mb-2">
       {isFavs ? 'No Saved Stations' : 'No Stations Found'}
     </h3>
-    <p className="text-sm text-white/40 max-w-xs mb-8">
+    <p className="text-sm text-white/40 max-w-xs mb-8 uppercase tracking-widest leading-loose">
       {isFavs
         ? 'Tap the heart icon on any station to save it to your collection.'
         : isRandom
-          ? 'Failed to discover a new station.'
+          ? 'Thermal Noise Detected: Failed to discover a new station pool.'
           : 'Our search through the global network returned zero results.'}
     </p>
     <button onClick={onReset} className="px-12 py-3 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 text-xs font-bold uppercase tracking-widest transition-all">
-      {isFavs ? 'EXPLORE STATIONS' : 'RESET SEARCH'}
+      {isFavs ? 'EXPLORE STATIONS' : 'RESET SIGNAL'}
     </button>
   </div>
 );
@@ -101,6 +101,7 @@ export default function App() {
   const {
     stations, countries, stats, loading, error,
     query, country, isTrending, hasMore, cooldown,
+    stationCount, countryCount,
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
   } = useStations();
 
@@ -118,7 +119,6 @@ export default function App() {
       const tag = (document.activeElement as HTMLElement)?.tagName;
       const isInput = ['INPUT', 'TEXTAREA', 'SELECT'].includes(tag);
 
-      // Admin Shortcut: Shift + A toggles Admin Access
       if (e.shiftKey && e.key === 'A') {
         e.preventDefault();
         setMode(m => m === 'admin' ? 'home' : 'admin');
@@ -142,11 +142,6 @@ export default function App() {
     window.addEventListener('keydown', handle);
     return () => window.removeEventListener('keydown', handle);
   }, [currentStation, toggle, infoStation]);
-
-  /* ─── Initial Load ─── */
-  useEffect(() => {
-    // Initial fetch handled by useStations signal observer if mode is home
-  }, []);
 
   /* ─── Scroll to top visibility ─── */
   useEffect(() => {
@@ -183,13 +178,13 @@ export default function App() {
     setMode(m => m === 'admin' ? 'home' : 'admin');
   }, []);
 
-  const isRandom = !query && !country && !isTrending && mode === 'home' && stations.length > 0;
+  const isHomeDiscovery = !query && !country && !isTrending && mode === 'home';
   const displayMode = useMemo(() => {
     if (mode === 'admin') return 'admin';
     if (mode === 'favorites') return 'favorites';
     if (isTrending) return 'trending';
-    return isRandom ? 'home' : (query || country ? 'search' : 'home');
-  }, [mode, isRandom, query, country, isTrending]);
+    return isHomeDiscovery ? 'home' : (query || country ? 'search' : 'home');
+  }, [mode, isHomeDiscovery, query, country, isTrending]);
 
   const list = useMemo(() => {
     return mode === 'favorites' ? favList : stations;
@@ -241,17 +236,17 @@ export default function App() {
                 countries={countries}
                 selectedCountry={country}
                 onSelect={handleCountry}
-                total={stats?.total ?? 0}
+                total={stationCount}
                 query={query}
               />
             </div>
 
             <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/40 tracking-[0.2em] uppercase">
-              {isRandom && <span className="text-cyan-400 animate-pulse">30,000+ GLOBAL BROADCASTS</span>}
+              {isHomeDiscovery && <span className="text-cyan-400 animate-pulse">{stationCount > 0 ? stationCount.toLocaleString() : '30,000+'} GLOBAL BROADCASTS</span>}
               <div className="flex gap-4">
                 <span>Space: Play</span>
                 <span>/: Search</span>
-                <span>Esc: Close</span>
+                <span>Esc: Escape</span>
               </div>
             </div>
           </div>
@@ -288,7 +283,7 @@ export default function App() {
           {mode !== 'admin' && loading && list.length === 0 && <SkeletonGrid />}
 
           {mode !== 'admin' && !loading && list.length === 0 && !error && (
-            <EmptyState onReset={handleBack} isFavs={mode === 'favorites'} isRandom={isRandom} />
+            <EmptyState onReset={handleBack} isFavs={mode === 'favorites'} isRandom={isHomeDiscovery} />
           )}
 
           {mode !== 'admin' && list.length > 0 && (
@@ -317,7 +312,7 @@ export default function App() {
                 <div className="mt-20 flex justify-center">
                   <button
                     onClick={loadMore}
-                    className="px-12 py-4 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-cyan-500/30 text-xs font-bold uppercase tracking-[0.3em] transition-all duration-300 active:scale-95"
+                    className="px-12 py-4 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 hover:border-cyan-500/30 text-xs font-bold uppercase tracking-[0.3em] transition-all duration-300 active:scale-95 text-cyan-400/80"
                   >
                     Load More Stations
                   </button>
@@ -370,7 +365,8 @@ export default function App() {
 
       <Footer 
         stats={stats} 
-        countryCount={countries.length} 
+        stationCount={stationCount}
+        countryCount={countryCount} 
         onAdminClick={handleAdminToggle}
       />
     </div>
