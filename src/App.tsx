@@ -178,6 +178,11 @@ export default function App() {
     setMode(m => m === 'admin' ? 'home' : 'admin');
   }, []);
 
+  const handleTrending = useCallback(() => {
+    setMode('home');
+    toggleTrending();
+  }, [toggleTrending]);
+
   const isHomeDiscovery = !query && !country && !isTrending && mode === 'home';
   const displayMode = useMemo(() => {
     if (mode === 'admin') return 'admin';
@@ -219,7 +224,7 @@ export default function App() {
         searchQuery={query}
         onBack={handleBack}
         onFavToggle={handleFavToggle}
-        onTrending={toggleTrending}
+        onTrending={handleTrending}
         onAdminToggle={handleAdminToggle}
         onRandom={handleRandom}
         cooldown={cooldown}
