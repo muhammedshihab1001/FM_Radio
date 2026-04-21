@@ -16,7 +16,7 @@ async function fetchWithTimeout(url: string, options: RequestInit = {}) {
   } catch (error: any) {
     clearTimeout(id);
     if (error.name === 'AbortError') {
-      throw new Error('Signal Timeout — API Hub Unreachable');
+      throw new Error('Signal Timeout — Network Hub Unreachable');
     }
     throw error;
   }
@@ -31,21 +31,21 @@ export async function fetchStations(cursor: string | number = 0, country: string
   const res = await fetchWithTimeout(`${API}/stations?${p}`);
   const json = await res.json().catch(() => ({ success: false, error: 'Invalid Signal Format (Non-JSON)' }));
   
-  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Global Network Offline');
   return json.data; 
 }
 
 export async function fetchRandom() {
   const res = await fetchWithTimeout(`${API}/stations/random`, { cache: 'no-store' });
   const json = await res.json().catch(() => ({ success: false, error: 'Invalid Signal Format (Non-JSON)' }));
-  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Global Network Offline');
   return json.data; 
 }
 
 export async function searchStations(q: string) {
   const res = await fetchWithTimeout(`${API}/stations/search?q=${encodeURIComponent(q)}&limit=50`);
   const json = await res.json().catch(() => ({ success: false, error: 'Invalid Signal Format (Non-JSON)' }));
-  if (!json.success) throw new Error(json.error || 'Signal Lost — Terminal Offline');
+  if (!json.success) throw new Error(json.error || 'Signal Lost — Global Network Offline');
   return json.data; 
 }
 
@@ -94,7 +94,7 @@ export async function fetchAdminStatus(key: string) {
     headers: { 'x-admin-key': key }
   });
   const json = await res.json().catch(() => ({ success: false, error: 'Invalid Admin Signal' }));
-  if (!json.success) throw new Error(json.error || 'Unauthorized Protocol Access');
+  if (!json.success) throw new Error(json.error || 'Unauthorized Administrative Protocol Access');
   return json.data;
 }
 

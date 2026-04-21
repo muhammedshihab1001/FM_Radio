@@ -50,8 +50,8 @@ export function usePlayer() {
     }
 
     retryCount.current++;
-    console.log(`Re-syncing signal... Attempt ${retryCount.current}`);
-    setStatus('connecting');
+    console.log(`📡 Recovering signal... Attempt ${retryCount.current}/3`);
+    setStatus('recovering');
     
     // For HLS we need to re-bind
     if (isHls(audio.src)) {
@@ -106,7 +106,20 @@ export function usePlayer() {
       setStatus('error');
       setIsPlaying(false);
       clearWatchdog();
-      if (retryCount.current < 2) triggerReSync();
+      if (retryCount.current < 3) {
+        setTimeout(triggerReSync, 1000); // 1s delay before retry
+      }
+    });
+    on('emptied',   () => {
+      if (isPlaying) {
+        setStatus('buffering');
+        startWatchdog(5000);
+      }
+    });
+    on('suspend',   () => {
+      if (isPlaying && status !== 'playing') {
+        startWatchdog(10000);
+      }
     });
 
     const heartbeat = setInterval(() => {
@@ -156,7 +169,7 @@ export function usePlayer() {
     
     // 3. Check Mixed Content
     if (isMixedContent(resolvedUrl)) {
-      console.warn('Mixed Content Blocked: HTTP stream on HTTPS terminal.');
+      console.warn('📡 Signal Blocked: Insecure HTTP broadcast on secure HTTPS terminal.');
       setStatus('mixed-content');
       setIsPlaying(false);
       return;

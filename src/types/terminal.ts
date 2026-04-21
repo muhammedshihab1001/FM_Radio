@@ -12,11 +12,11 @@ export interface Station {
 }
 
 export interface Statistics {
+  total_stations?: number;
+  total_countries?: number;
   total?: number;
   active?: number;
   countries?: number;
-  total_stations?: number;
-  total_countries?: number;
   stations?: number;
   clicks?: number;
 }
@@ -26,12 +26,13 @@ export interface CountryNode {
   count: number;
 }
 
-export type PlayerStatus = 'idle' | 'connecting' | 'playing' | 'buffering' | 'error' | 'mixed-content' | 'stalled';
+export type PlayerStatus = 'idle' | 'connecting' | 'playing' | 'buffering' | 'error' | 'mixed-content' | 'stalled' | 'recovering';
 
-export interface TerminalState {
+export interface BroadcastState {
   stations: Station[];
   loading: boolean;
   error: string | null;
+  warning: string | null;
   query: string;
   country: string;
   nextCursor: number | string;

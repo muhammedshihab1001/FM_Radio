@@ -110,7 +110,7 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
               onClick={onClose}
               className="text-[10px] font-mono font-bold text-white/20 uppercase tracking-[0.3em] hover:text-white/60 transition-colors"
             >
-              ← System Exit
+              ← Control Exit
             </button>
           </div>
         </div>
@@ -122,8 +122,8 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
     <div className="max-w-4xl mx-auto p-4 md:p-8 animate-fade-in space-y-8 text-left pb-20">
       <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-white/5 pb-8">
         <div>
-          <h1 className="text-3xl font-bold text-white tracking-tight uppercase">Terminal Admin</h1>
-          <p className="text-xs font-mono text-pink-500/60 uppercase tracking-[0.3em] mt-2 italic">Direct Node Intelligence Active</p>
+          <h1 className="text-3xl font-bold text-white tracking-tight uppercase">Broadcast Control</h1>
+          <p className="text-xs font-mono text-pink-500/60 uppercase tracking-[0.3em] mt-2 italic">Active Signal Management Shield</p>
         </div>
         <button 
           onClick={() => { logout(); onClose(); }}
@@ -138,8 +138,8 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
         <div className="md:col-span-3 p-8 rounded-[2.5rem] bg-black/40 border border-white/5 backdrop-blur-3xl space-y-8 relative overflow-hidden">
           <div className="flex items-center justify-between">
             <div className="space-y-1">
-              <h3 className="text-sm font-bold text-white uppercase tracking-widest">D1 Database Health</h3>
-              <p className="text-[10px] text-white/30 uppercase tracking-widest font-mono">Circuit Breaker: <span className={d1Status?.can_query ? 'text-cyan-400' : 'text-red-500'}>{d1Status?.can_query ? 'ENABLED // STANDBY' : 'ENGAGED // PROTECTED'}</span></p>
+              <h3 className="text-sm font-bold text-white uppercase tracking-widest">Global Network Stability</h3>
+              <p className="text-[10px] text-white/30 uppercase tracking-widest font-mono">Circuit Breaker: <span className={d1Status?.can_query ? 'text-cyan-400' : 'text-red-500'}>{d1Status?.can_query ? 'OPERATIONAL' : 'PROTECTED MODE'}</span></p>
             </div>
             <div className="flex gap-2">
               <button 
@@ -171,7 +171,7 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
               <p className="text-2xl font-bold text-white font-mono">{d1Status?.percentage || '0'}%</p>
             </div>
             <div className="space-y-2">
-              <p className="text-[9px] font-mono text-white/30 uppercase">API Node</p>
+              <p className="text-[9px] font-mono text-white/30 uppercase">Signal Hub</p>
               <p className="text-lg font-bold text-white/60 truncate max-w-[120px] font-mono" title={import.meta.env.VITE_API_BASE_URL}>
                 {new URL(import.meta.env.VITE_API_BASE_URL).hostname}
               </p>

@@ -27,10 +27,9 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 - **Responsive Hardening**: Zero-breakage layout optimized for mobile touch-targets and 4K displays.
 - **Micro-Animations**: Subtle visual feedback for a refined, professional feel.
 
-### ⚡ High-Performance Architecture
-- **Edge Cache Optimization**: Optimized for high concurrency with multi-layered caching.
-- **Silent Prefetching**: Proactive sector loading ensures zero-latency infinite scrolling.
-- **Fast-Lock Audio**: Instantaneous playback engagement with stall-detection watchdogs.
+- **Adaptive Network Handling**: Automatically falls back to high-performance regional caches during periods of extreme global network load.
+- **Fast-Lock Audio**: Instantaneous playback engagement with persistent stall-detection watchdogs.
+- **Signal Resilience**: Built-in 3-layer recovery protocol that automatically re-syncs weak or interrupted broadcasts.
 - **Standardized Deduplication**: Built-in request deduplication to minimize network overhead.
 
 ### 🗺️ Global Discovery
@@ -42,16 +41,18 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 - `Space`: Toggle active broadcast (Play/Pause).
 - `/`: Quick-focus the search bar.
 - `Esc`: Close modals or clear search focus.
-- `Shift + A`: Access the Administrative Dashboard.
+- `Shift + A`: Access the Broadcast Control Dashboard.
 
 ---
 
-## 🔐 Administrative Dashboard
+## 📡 Signal Handling Workflow
 
-The restricted Admin panel provides advanced maintenance tools for system integrity:
-- **Station Management**: Manage broken or inactive stream links in real-time.
-- **Database Restoration**: Re-validate and restore previously flagged stations.
-- **System Cleanup**: Initialize database-wide cleanups to maintain high network standards.
+To ensure a seamless listening experience, Nebula Cast FM implements an industrial-grade signal handling system:
+
+1.  **Watchdog Monitoring**: A persistent background watchdog monitors the broadcast connection. If a signal stalls or enters a prolonged buffering state, the system triggers an automatic recovery.
+2.  **Heartbeat Synchronization**: The playback engine performs a high-frequency heartbeat check to ensure the audio stream is progressing. If silence drift or playback freeze is detected, it instantly re-syncs the connection.
+3.  **Adaptive Quota Resilience**: During periods of high global network load, the system intelligently adapts by serving hardened regional fallback data to ensure zero downtime.
+4.  **Signal Recovery Protocol**: In the event of a broadcast break, the system attempts a multi-stage recovery process, providing clear visual feedback ("Optimizing Signal...") while maintaining the user session.
 
 ---
 
@@ -63,7 +64,7 @@ The restricted Admin panel provides advanced maintenance tools for system integr
 │   ├── components/  # Professional UI Modules (Header, StationCard, MiniPlayer, etc.)
 │   ├── hooks/       # Logic Controllers (usePlayer, useStations, useFavorites)
 │   ├── services/    # Data Transfer Layer
-│   ├── utils/       # Stream Resolvers and UI utilities
+│   ├── utils/       # Stream Resolvers and Broadcasting utilities
 │   ├── types/       # Global Schema and Type definitions
 │   └── App.tsx      # Main Application Controller
 └── vercel.json      # Production deployment config

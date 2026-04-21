@@ -59,8 +59,8 @@ const EmptyState: React.FC<EmptyStateProps> = ({ onReset, isFavs, isRandom }) =>
       {isFavs
         ? 'Tap the heart icon on any station to save it to your collection.'
         : isRandom
-          ? 'Thermal Noise Detected: Failed to discover a new station pool.'
-          : 'Our search through the global network returned zero results.'}
+          ? 'Signal Interference Detected: Failed to discover new broadcast channels.'
+          : 'Our search through the global broadcast network returned zero results.'}
     </p>
     <button onClick={onReset} className="px-12 py-3 rounded-2xl bg-white/5 border border-white/10 hover:bg-white/10 text-xs font-bold uppercase tracking-widest transition-all">
       {isFavs ? 'EXPLORE STATIONS' : 'RESET SIGNAL'}
@@ -99,7 +99,7 @@ const Background: React.FC = () => {
 /* ─── Main App ─── */
 export default function App() {
   const {
-    stations, countries, stats, loading, error,
+    stations, countries, stats, loading, error, warning,
     query, country, isTrending, hasMore, cooldown,
     stationCount, countryCount,
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
@@ -276,6 +276,17 @@ export default function App() {
                   <circle cx="12" cy="12" r="10" /><line x1="12" y1="8" x2="12" y2="12" /><line x1="12" y1="16" x2="12.01" y2="16" />
                 </svg>
                 {error}
+              </div>
+            </div>
+          )}
+
+          {mode !== 'admin' && warning && !loading && (
+            <div className="mb-8 p-6 rounded-3xl border border-amber-500/20 bg-amber-500/10 text-amber-400 text-xs font-mono font-bold uppercase tracking-widest text-center animate-fade-in backdrop-blur-md">
+              <div className="flex items-center justify-center gap-3">
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
+                  <path d="m11 17 2 2 5-5"/><path d="M13 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V9z"/><path d="M13 2v7h7"/>
+                </svg>
+                {warning}
               </div>
             </div>
           )}

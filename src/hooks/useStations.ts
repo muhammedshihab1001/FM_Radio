@@ -14,6 +14,7 @@ export function useStations() {
   const [stats, setStats]           = useState<Statistics | null>(null);
   const [loading, setLoading]       = useState<boolean>(false);
   const [error, setError]           = useState<string | null>(null);
+  const [warning, setWarning]       = useState<string | null>(null);
   const [query, setQuery]           = useState<string>('');
   const [country, setCountry]       = useState<string>('');
   const [isTrending, setIsTrending] = useState<boolean>(false);
@@ -135,6 +136,11 @@ export function useStations() {
 
       const list = Array.isArray(result) ? result : (result.stations || []);
       const next = result.next_cursor ?? null;
+      const apiWarning = (!Array.isArray(result) && result.warning) || null;
+      const apiError = (!Array.isArray(result) && result.error) || null;
+
+      if (apiWarning) setWarning(apiWarning);
+      if (apiError) setError(apiError);
 
       if (modeKey === 'explore') {
         pageCache.current.set(cacheKey, { stations: list, nextCursor: next });
@@ -152,7 +158,7 @@ export function useStations() {
 
     } catch (err: any) {
       if (currentFetchId === fetchId.current) {
-        setError(err.message || 'Signal Lost — Terminal Offline');
+        setError(err.message || 'Signal Lost — Global Network Offline');
       }
     } finally {
       if (currentFetchId === fetchId.current) {
@@ -218,7 +224,7 @@ export function useStations() {
   }, []);
 
   return {
-    stations, countries, stats, loading, error,
+    stations, countries, stats, loading, error, warning,
     query, country, isTrending, nextCursor, hasMore, cooldown, 
     stationCount, countryCount, // Return computed values
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
