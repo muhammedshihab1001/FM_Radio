@@ -116,18 +116,6 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
           </div>
         )}
       </div>
-
-      {/* ─── Results Stats ─── */}
-      <div className="h-6 w-[1px] bg-white/10 hidden sm:block" />
-      <div className="hidden sm:flex items-center gap-3">
-        <p className="text-[10px] font-mono font-bold text-white/30 uppercase tracking-[0.2em] whitespace-nowrap">
-          {total !== null ? (
-            <>
-              <span className="text-white/60">{total}</span> Stations Found
-            </>
-          ) : 'Updating Station List...'}
-        </p>
-      </div>
     </div>
   );
 });
