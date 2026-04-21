@@ -45,14 +45,16 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 
 ---
 
-## 📡 Signal Handling Workflow
+## 📡 Signal Handling & Stability
 
-To ensure a seamless listening experience, Nebula Cast FM implements an industrial-grade signal handling system:
+To ensure a seamless listening experience, Nebula Cast FM implements an industrial-grade signal management architecture:
 
-1.  **Watchdog Monitoring**: A persistent background watchdog monitors the broadcast connection. If a signal stalls or enters a prolonged buffering state, the system triggers an automatic recovery.
-2.  **Heartbeat Synchronization**: The playback engine performs a high-frequency heartbeat check to ensure the audio stream is progressing. If silence drift or playback freeze is detected, it instantly re-syncs the connection.
-3.  **Adaptive Quota Resilience**: During periods of high global network load, the system intelligently adapts by serving hardened regional fallback data to ensure zero downtime.
-4.  **Signal Recovery Protocol**: In the event of a broadcast break, the system attempts a multi-stage recovery process, providing clear visual feedback ("Optimizing Signal...") while maintaining the user session.
+1.  **Watchdog Monitoring**: A persistent background watchdog monitors the active broadcast. If a signal stalls or enters a prolonged buffering state, the system triggers an automatic recovery handshake.
+2.  **Heartbeat Synchronization**: The playback engine performs high-frequency heartbeat checks. If silence drift or playback freeze is detected, it instantly re-syncs the connection for zero-interruption sound.
+3.  **Circuit Breaker Protection**: The platform features an advanced circuit breaker that monitors the global network load. During extreme traffic spikes, it intelligently switches to hardened safety modes to ensure 100% service uptime.
+4.  **24-Hour Persistence**: Core broadcast data is synchronized across an elite, global edge-caching layer with 24-hour persistence, enabling near-instant discovery speeds (O(1) complexity).
+5.  **Signal Recovery Protocol**: In the event of a broadcast break, the system executes a multi-stage recovery process, providing clear visual feedback ("Optimizing Signal...") while maintaining the user session.
+6.  **Automated Network Cleanup**: Features an advanced cleanup protocol that identifies and purges dead or inactive broadcast URLs, maintaining a pristine, high-fidelity station registry.
 
 ---
 

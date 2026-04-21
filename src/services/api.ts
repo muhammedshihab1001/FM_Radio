@@ -123,3 +123,10 @@ export async function cleanupDeadStreams(key: string) {
   });
   return res.json();
 }
+
+export async function resetD1Counter(key: string) {
+  const res = await fetchWithTimeout(`${API}/admin/d1/reset`, {
+    headers: { 'x-admin-key': key }
+  });
+  return res.json();
+}

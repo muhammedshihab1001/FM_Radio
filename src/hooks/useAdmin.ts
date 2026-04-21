@@ -83,7 +83,21 @@ export function useAdmin() {
   const cleanup = useCallback(async () => {
     setLoading(true);
     try {
-      await api.cleanupDeadStreams(ADMIN_KEY);
+      const res = await api.cleanupDeadStreams(ADMIN_KEY);
+      await fetchStatus();
+      return res; // Return full response (including metadata)
+    } catch (e: any) {
+      setError(e.message);
+      return false;
+    } finally {
+      setLoading(false);
+    }
+  }, [fetchStatus]);
+
+  const resetQuota = useCallback(async () => {
+    setLoading(true);
+    try {
+      await api.resetD1Counter(ADMIN_KEY);
       await fetchStatus();
       return true;
     } catch (e: any) {
@@ -96,6 +110,6 @@ export function useAdmin() {
 
   return { 
     isAdmin, loading, error, d1Status, 
-    login, logout, fetchStatus, markDead, restore, cleanup 
+    login, logout, fetchStatus, markDead, restore, cleanup, resetQuota
   };
 }

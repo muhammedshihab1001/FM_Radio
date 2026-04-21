@@ -6,11 +6,15 @@ interface AdminPanelProps {
 }
 
 export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
-  const { isAdmin, loading, error, d1Status, login, logout, fetchStatus, markDead, restore, cleanup } = useAdmin();
+  const { 
+    isAdmin, loading, error, d1Status, 
+    login, logout, fetchStatus, markDead, restore, cleanup, resetQuota 
+  } = useAdmin();
   const [user, setUser] = useState('');
   const [pass, setPass] = useState('');
   const [deadUrl, setDeadUrl] = useState('');
   const [healthStatus, setHealthStatus] = useState<Record<string, string>>({});
+  const [cleanupResult, setCleanupResult] = useState<any>(null);
 
   useEffect(() => {
     if (isAdmin) {
@@ -19,6 +23,19 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
       return () => clearInterval(interval);
     }
   }, [isAdmin, fetchStatus]);
+
+  const handleCleanup = useCallback(async () => {
+    const res = await cleanup();
+    if (res && res.success) {
+      setCleanupResult(res.data);
+    }
+  }, [cleanup]);
+
+  const handleReset = useCallback(async () => {
+    if (confirm('EMERGENCY: Reset daily database read quota?')) {
+      await resetQuota();
+    }
+  }, [resetQuota]);
 
   const runHealthCheck = useCallback(async () => {
     setHealthStatus({ system: 'SCANNING...' });
@@ -143,6 +160,12 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
             </div>
             <div className="flex gap-2">
               <button 
+                onClick={handleReset}
+                className="px-4 py-1.5 rounded-full border border-red-500/30 bg-red-500/10 text-[9px] font-mono text-red-500 hover:bg-red-500/20 transition-all uppercase"
+              >
+                Reset Quota
+              </button>
+              <button 
                 onClick={runHealthCheck}
                 className="px-4 py-1.5 rounded-full border border-pink-500/30 bg-pink-500/10 text-[9px] font-mono text-pink-400 hover:bg-pink-500/20 transition-all uppercase"
               >
@@ -232,12 +255,29 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
           </div>
           
           <button 
-            onClick={cleanup}
+            onClick={handleCleanup}
             disabled={loading}
             className="w-full h-14 mt-6 rounded-xl bg-pink-500/10 border border-pink-500/30 text-pink-400 text-[10px] font-bold uppercase tracking-[0.4em] hover:bg-pink-500/20 disabled:opacity-50 shadow-lg shadow-pink-500/10 transition-all"
           >
             {loading ? 'CLEANING...' : 'START SWEEP'}
           </button>
+
+          {cleanupResult && (
+            <div className="mt-6 p-4 rounded-xl bg-black/40 border border-white/5 space-y-2 animate-fade-in">
+              <div className="flex justify-between items-center pb-2 border-b border-white/5">
+                <span className="text-[9px] font-mono text-white/40 uppercase">Cleanup Result</span>
+                <button onClick={() => setCleanupResult(null)} className="text-[9px] text-white/20 hover:text-white">CLOSE</button>
+              </div>
+              <div className="grid grid-cols-2 gap-2 text-[10px] font-mono">
+                <div className="text-white/30">STAT DELETIONS:</div>
+                <div className="text-pink-400 text-right">{cleanupResult.deleted_from_stations}</div>
+                <div className="text-white/30">REGISTRY DELETIONS:</div>
+                <div className="text-pink-400 text-right">{cleanupResult.deleted_from_dead_streams}</div>
+                <div className="text-white/30">BATCHES:</div>
+                <div className="text-white/60 text-right">{cleanupResult.batches_processed}</div>
+              </div>
+            </div>
+          )}
         </div>
       </div>
     </div>
