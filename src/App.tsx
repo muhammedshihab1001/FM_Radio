@@ -242,7 +242,7 @@ export default function App() {
             </div>
 
             <div className="hidden lg:flex items-center gap-6 px-4 text-[10px] font-mono font-bold text-white/40 tracking-[0.2em] uppercase">
-              {isHomeDiscovery && <span className="text-cyan-400 animate-pulse">{stationCount > 0 ? stationCount.toLocaleString() : '30,000+'} GLOBAL BROADCASTS</span>}
+              {isHomeDiscovery && <span className="text-cyan-400 animate-pulse">{stationCount > 0 ? stationCount.toLocaleString() : '872,268+'} GLOBAL BROADCASTS</span>}
               <div className="flex gap-4">
                 <span>Space: Play</span>
                 <span>/: Search</span>
