@@ -3,12 +3,12 @@ import { Station, Statistics, CountryNode } from '../types/terminal';
 import * as api from '../services/api';
 
 const TTL_COUNTRIES = 600000;
-const TTL_STATS     = 60000;
+const TTL_STATS = 60000;
 // TTL_RANDOM: 1 hour — API now uses server-side KV cache (random:v2:${hour}),
 // so hitting it more often than once per hour gains nothing and wastes D1 reads.
-const TTL_RANDOM    = 3600000;
-const TTL_TRENDING  = 60000;
-const TTL_SEARCH    = 300000;
+const TTL_RANDOM = 3600000;
+const TTL_TRENDING = 60000;
+const TTL_SEARCH = 300000;
 
 // Stations with country='Global' are catch-all entries (363k+ rows).
 // The API already excludes them via SQL, but we filter client-side as a safety net.
@@ -16,29 +16,29 @@ const isRealCountry = (s: { country?: string }) =>
   s.country !== 'Global' && s.country !== 'global';
 
 export function useStations() {
-  const [stations, setStations]     = useState<Station[]>([]);
-  const [countries, setCountries]   = useState<CountryNode[]>([]);
-  const [stats, setStats]           = useState<Statistics | null>(null);
-  const [loading, setLoading]       = useState<boolean>(false);
-  const [error, setError]           = useState<string | null>(null);
-  const [warning, setWarning]       = useState<string | null>(null);
-  const [query, setQuery]           = useState<string>('');
-  const [country, setCountry]       = useState<string>('');
+  const [stations, setStations] = useState<Station[]>([]);
+  const [countries, setCountries] = useState<CountryNode[]>([]);
+  const [stats, setStats] = useState<Statistics | null>(null);
+  const [loading, setLoading] = useState<boolean>(false);
+  const [error, setError] = useState<string | null>(null);
+  const [warning, setWarning] = useState<string | null>(null);
+  const [query, setQuery] = useState<string>('');
+  const [country, setCountry] = useState<string>('');
   const [isTrending, setIsTrending] = useState<boolean>(false);
   const [nextCursor, setNextCursor] = useState<string | number>(0);
-  const [hasMore, setHasMore]       = useState<boolean>(false);
-  const [cooldown, setCooldown]     = useState<number>(0);
+  const [hasMore, setHasMore] = useState<boolean>(false);
+  const [cooldown, setCooldown] = useState<number>(0);
   const [refreshKey, setRefreshKey] = useState<number>(0);
 
-  const pageCache     = useRef(new Map<string, { stations: Station[], nextCursor: string | number | null }>());
-  const searchCache   = useRef(new Map<string, { data: Station[], timestamp: number }>());
+  const pageCache = useRef(new Map<string, { stations: Station[], nextCursor: string | number | null }>());
+  const searchCache = useRef(new Map<string, { data: Station[], timestamp: number }>());
   const trendingCache = useRef<{ data: Station[], timestamp: number } | null>(null);
-  const randomCache   = useRef<{ data: Station[], timestamp: number } | null>(null);
+  const randomCache = useRef<{ data: Station[], timestamp: number } | null>(null);
 
-  const fetchId     = useRef<number>(0);
-  const lastSignal  = useRef<string>('');
-  const lastFetch   = useRef<number>(0); 
-  const isFetching  = useRef<boolean>(false);
+  const fetchId = useRef<number>(0);
+  const lastSignal = useRef<string>('');
+  const lastFetch = useRef<number>(0);
+  const isFetching = useRef<boolean>(false);
   const debounceRef = useRef<NodeJS.Timeout | null>(null);
 
   /* ─── Smart stats fallback logic ─── */
@@ -46,7 +46,7 @@ export function useStations() {
     const apiTotal = stats?.total_stations ?? stats?.total ?? stats?.stations ?? 0;
     // Fallback: Sum up the counts from the countries list if available
     const computedTotal = countries.reduce((acc, c) => acc + (c.count || 0), 0);
-    
+
     // Prioritize the calculated sum from countries if it's significantly larger
     // This solves the issue where the /stats endpoint is stale or failing
     return Math.max(apiTotal, computedTotal);
@@ -75,10 +75,10 @@ export function useStations() {
   const load = useCallback(async (append = false) => {
     const now = Date.now();
     if (isFetching.current && append) return;
-    if (now - lastFetch.current < 200) return; 
+    if (now - lastFetch.current < 200) return;
 
     const currentFetchId = ++fetchId.current;
-    
+
     if (query && query.length < 3) {
       if (!append) setStations([]);
       setHasMore(false);
@@ -242,7 +242,7 @@ export function useStations() {
 
   return {
     stations, countries, stats, loading, error, warning,
-    query, country, isTrending, nextCursor, hasMore, cooldown, 
+    query, country, isTrending, nextCursor, hasMore, cooldown,
     stationCount, countryCount, // Return computed values
     search, filterByCountry, toggleTrending, fetchRandom, loadMore, reset,
   };

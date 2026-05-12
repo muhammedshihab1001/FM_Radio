@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 v2 — fix blank home page on cold start; 3-tier random fallback
+// deploy: 2026-05-12 v3 — fix shuffle (Fisher-Yates), trending cache, cold-start fallback
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';
