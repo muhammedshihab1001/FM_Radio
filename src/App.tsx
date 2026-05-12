@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 v4 — Estonia as default home country; reset returns to Estonia
+// deploy: 2026-05-12 v5 — fix trending fallback chain + Fisher-Yates shuffle
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';

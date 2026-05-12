@@ -115,19 +115,50 @@ export function useStations() {
       setStations([]);
     }
 
+    // Fisher-Yates unbiased shuffle (sort(()=>Math.random()-0.5) is statistically biased)
+    const shuffle = <T,>(arr: T[]): T[] => {
+      const a = [...arr];
+      for (let i = a.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [a[i], a[j]] = [a[j], a[i]];
+      }
+      return a;
+    };
+
     try {
       let result;
       if (isTrending) {
-        result = await api.fetchTrending();
-        trendingCache.current = { data: result, timestamp: now };
+        const raw = await api.fetchTrending();
+        // fetchTrending returns a plain Station[]; normalize to object shape
+        const tList: Station[] = Array.isArray(raw) ? raw : [];
+        if (tList.length > 0) {
+          // ✅ Real trending data available — cache and display
+          trendingCache.current = { data: tList, timestamp: now };
+          result = { stations: tList, next_cursor: null };
+        } else if (trendingCache.current && trendingCache.current.data.length > 0) {
+          // ⚡ API returned empty — use stale trending cache rather than blank page
+          result = { stations: trendingCache.current.data, next_cursor: null };
+        } else if (randomCache.current && randomCache.current.data.length > 0) {
+          // 🔀 No trending data at all — fall back to shuffled random cache
+          result = { stations: shuffle(randomCache.current.data), next_cursor: null };
+        } else {
+          // 🆕 Nothing cached — fetch random as last resort
+          const rawRandom = await api.fetchRandom();
+          const rList = rawRandom.filter(isRealCountry);
+          if (rList.length > 0) {
+            randomCache.current = { data: rList, timestamp: now };
+            result = { stations: shuffle(rList), next_cursor: null };
+          } else {
+            result = await api.fetchStations(0, 'Estonia');
+          }
+        }
       } else if (query) {
         result = await api.searchStations(query);
         searchCache.current.set(query.toLowerCase(), { data: result, timestamp: now });
       } else if (!query && !country && cursorToUse === 0) {
         if (randomCache.current && (now - randomCache.current.timestamp < TTL_RANDOM) && !refreshKey) {
-          // ✅ Fresh client-side cache — shuffle and serve instantly (zero D1 reads)
-          const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
-          result = { stations: shuffled, next_cursor: null };
+          // ✅ Fresh client-side cache — Fisher-Yates shuffle, zero API calls
+          result = { stations: shuffle(randomCache.current.data), next_cursor: null };
         } else {
           const rawList = await api.fetchRandom();
           // API excludes 'Global' in SQL, but we filter client-side as a safety net.
@@ -135,12 +166,10 @@ export function useStations() {
           if (list.length > 0) {
             // ✅ Happy path — store and shuffle
             randomCache.current = { data: list, timestamp: now };
-            const shuffled = [...list].sort(() => Math.random() - 0.5);
-            result = { stations: shuffled, next_cursor: null };
+            result = { stations: shuffle(list), next_cursor: null };
           } else if (randomCache.current && randomCache.current.data.length > 0) {
-            // ⚡ API returned empty (quota hit) — serve stale cache, avoid extra D1 reads
-            const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
-            result = { stations: shuffled, next_cursor: null };
+            // ⚡ Quota hit — re-shuffle stale cache (no extra D1 reads)
+            result = { stations: shuffle(randomCache.current.data), next_cursor: null };
           } else {
             // 🆕 Cold start with no cache AND API empty — load first page of real stations.
             // fetchStations reads only ~50 rows; acceptable cost to prevent blank home page.
