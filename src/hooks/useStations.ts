@@ -23,7 +23,9 @@ export function useStations() {
   const [error, setError] = useState<string | null>(null);
   const [warning, setWarning] = useState<string | null>(null);
   const [query, setQuery] = useState<string>('');
-  const [country, setCountry] = useState<string>('');
+  // Estonia is the default home country — shows on first load and after reset.
+  // Shuffle clears this (setCountry('')) to show random multi-country stations.
+  const [country, setCountry]       = useState<string>('Estonia');
   const [isTrending, setIsTrending] = useState<boolean>(false);
   const [nextCursor, setNextCursor] = useState<string | number>(0);
   const [hasMore, setHasMore] = useState<boolean>(false);
@@ -235,7 +237,7 @@ export function useStations() {
   const reset = useCallback(() => {
     setIsTrending(false);
     setQuery('');
-    setCountry('');
+    setCountry('Estonia'); // Always return home to Estonia
     setNextCursor(0);
     setRefreshKey(Date.now());
   }, []);
