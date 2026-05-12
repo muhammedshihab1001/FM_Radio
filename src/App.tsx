@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 v5 — fix trending fallback chain + Fisher-Yates shuffle
+// deploy: 2026-05-12 v6 — shuffle picks random country when API cache cold
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';

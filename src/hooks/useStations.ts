@@ -37,11 +37,13 @@ export function useStations() {
   const trendingCache = useRef<{ data: Station[], timestamp: number } | null>(null);
   const randomCache = useRef<{ data: Station[], timestamp: number } | null>(null);
 
-  const fetchId = useRef<number>(0);
-  const lastSignal = useRef<string>('');
-  const lastFetch = useRef<number>(0);
-  const isFetching = useRef<boolean>(false);
-  const debounceRef = useRef<NodeJS.Timeout | null>(null);
+  const fetchId      = useRef<number>(0);
+  const lastSignal   = useRef<string>('');
+  const lastFetch    = useRef<number>(0);
+  const isFetching   = useRef<boolean>(false);
+  const debounceRef  = useRef<NodeJS.Timeout | null>(null);
+  // Mirror of countries state — readable inside load() without adding to dep array
+  const countriesRef = useRef<CountryNode[]>([]);
 
   /* ─── Smart stats fallback logic ─── */
   const stationCount = useMemo(() => {
@@ -60,7 +62,10 @@ export function useStations() {
 
   useEffect(() => {
     // Initial boot fetches
-    api.fetchCountries().then(setCountries).catch(() => {
+    api.fetchCountries().then(data => {
+      setCountries(data);
+      countriesRef.current = data; // keep ref in sync for use inside load()
+    }).catch(() => {
       console.warn('BOOT: Country registry fetch failed. Check network.');
     });
     api.fetchStats().then(setStats).catch(() => {
@@ -171,9 +176,21 @@ export function useStations() {
             // ⚡ Quota hit — re-shuffle stale cache (no extra D1 reads)
             result = { stations: shuffle(randomCache.current.data), next_cursor: null };
           } else {
-            // 🆕 Cold start with no cache AND API empty — load first page of real stations.
-            // fetchStations reads only ~50 rows; acceptable cost to prevent blank home page.
-            result = await api.fetchStations(0, '');
+            // 🌍 fetchRandom API is cold (KV cache empty) and no local cache.
+            // Pick a RANDOM real country from the countries list for genuine variety.
+            // This prevents always showing Afghanistan (DB alphabetical page-1).
+            const DIVERSE_FALLBACK = [
+              'United States', 'Germany', 'Brazil', 'United Kingdom', 'France',
+              'Japan', 'Canada', 'Australia', 'Spain', 'Netherlands', 'Italy',
+              'Poland', 'Sweden', 'Norway', 'Denmark', 'Finland', 'Estonia',
+              'India', 'Russia', 'Turkey', 'Mexico', 'Argentina', 'South Korea',
+            ];
+            const pool = countriesRef.current
+              .filter(c => c.country !== 'Global' && c.count > 50)
+              .map(c => c.country);
+            const source = pool.length > 10 ? pool : DIVERSE_FALLBACK;
+            const pick = source[Math.floor(Math.random() * source.length)];
+            result = await api.fetchStations(0, pick);
           }
         }
       } else {
