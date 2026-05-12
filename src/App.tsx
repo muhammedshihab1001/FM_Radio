@@ -1,3 +1,4 @@
+// deploy: 2026-05-12 — API v2 cache sync (Global exclusion + TTL_RANDOM 1hr)
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';
