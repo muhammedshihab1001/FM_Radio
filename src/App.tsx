@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 v7 — shuffle syncs country filter with picked country
+// deploy: 2026-05-12 v8 — Global Top Charts heading for trending page
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';
@@ -271,6 +271,30 @@ export default function App() {
               <div className="h-1 w-20 bg-gradient-to-r from-pink-500 to-cyan-500 rounded-full mx-auto md:mx-0 mb-4" />
               <p className="text-xs font-mono text-white/40 uppercase tracking-[0.3em]">
                 {favCount} station{favCount !== 1 ? 's' : ''} saved to your collection
+              </p>
+            </div>
+          )}
+
+          {isTrending && mode !== 'admin' && mode !== 'favorites' && (
+            <div className="mb-10 animate-fade-in text-center md:text-left">
+              {/* Title row with live indicator */}
+              <div className="flex items-center gap-4 justify-center md:justify-start mb-3">
+                <div className="relative flex items-center justify-center w-10 h-10 rounded-2xl bg-cyan-500/10 border border-cyan-500/20 shrink-0">
+                  <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="#22d3ee" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round">
+                    <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
+                  </svg>
+                  {/* Live pulse ring */}
+                  <span className="absolute -top-1 -right-1 w-3 h-3 rounded-full bg-cyan-400 animate-ping opacity-75" />
+                  <span className="absolute -top-1 -right-1 w-3 h-3 rounded-full bg-cyan-400" />
+                </div>
+                <h2 className="text-3xl font-bold tracking-tight text-white">
+                  Global Top Charts
+                </h2>
+              </div>
+              {/* Gradient accent bar — cyan→pink (inverted from favorites) */}
+              <div className="h-1 w-20 bg-gradient-to-r from-cyan-500 to-pink-500 rounded-full mx-auto md:mx-0 mb-4" />
+              <p className="text-xs font-mono text-white/40 uppercase tracking-[0.3em]">
+                Most played broadcasts across the global network
               </p>
             </div>
           )}
