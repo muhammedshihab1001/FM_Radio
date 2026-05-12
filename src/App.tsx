@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 v6 — shuffle picks random country when API cache cold
+// deploy: 2026-05-12 v7 — shuffle syncs country filter with picked country
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';

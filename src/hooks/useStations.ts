@@ -243,9 +243,25 @@ export function useStations() {
 
   const fetchRandom = useCallback(() => {
     if (cooldown > 0) return;
+
+    // Pick a random real country upfront so the CountryFilter updates immediately.
+    // Using countriesRef (populated on boot) gives real DB countries.
+    // DIVERSE_FALLBACK is used on first click before countries load.
+    const DIVERSE_FALLBACK = [
+      'United States', 'Germany', 'Brazil', 'United Kingdom', 'France',
+      'Japan', 'Canada', 'Australia', 'Spain', 'Netherlands', 'Italy',
+      'Poland', 'Sweden', 'Norway', 'Denmark', 'Finland', 'Estonia',
+      'India', 'Russia', 'Turkey', 'Mexico', 'Argentina', 'South Korea',
+    ];
+    const pool = countriesRef.current
+      .filter(c => c.country !== 'Global' && c.count > 50)
+      .map(c => c.country);
+    const source = pool.length > 10 ? pool : DIVERSE_FALLBACK;
+    const pick = source[Math.floor(Math.random() * source.length)];
+
     setIsTrending(false);
     setQuery('');
-    setCountry('');
+    setCountry(pick);   // ← filter shows the picked country immediately
     setNextCursor(0);
     setCooldown(2);
     setRefreshKey(Date.now());
