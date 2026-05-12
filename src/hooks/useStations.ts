@@ -123,25 +123,26 @@ export function useStations() {
         searchCache.current.set(query.toLowerCase(), { data: result, timestamp: now });
       } else if (!query && !country && cursorToUse === 0) {
         if (randomCache.current && (now - randomCache.current.timestamp < TTL_RANDOM) && !refreshKey) {
+          // ✅ Fresh client-side cache — shuffle and serve instantly (zero D1 reads)
           const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
           result = { stations: shuffled, next_cursor: null };
         } else {
           const rawList = await api.fetchRandom();
-          // API now excludes 'Global' in SQL, but we filter client-side as a safety net.
+          // API excludes 'Global' in SQL, but we filter client-side as a safety net.
           const list = rawList.filter(isRealCountry);
-          if (list.length === 0) {
-            // API returned empty — quota was hit or cache miss. Use stale cache if available
-            // rather than burning more D1 reads on a /stations fallback.
-            if (randomCache.current && randomCache.current.data.length > 0) {
-              const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
-              result = { stations: shuffled, next_cursor: null };
-            } else {
-              result = { stations: [], next_cursor: null };
-            }
-          } else {
+          if (list.length > 0) {
+            // ✅ Happy path — store and shuffle
             randomCache.current = { data: list, timestamp: now };
             const shuffled = [...list].sort(() => Math.random() - 0.5);
             result = { stations: shuffled, next_cursor: null };
+          } else if (randomCache.current && randomCache.current.data.length > 0) {
+            // ⚡ API returned empty (quota hit) — serve stale cache, avoid extra D1 reads
+            const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
+            result = { stations: shuffled, next_cursor: null };
+          } else {
+            // 🆕 Cold start with no cache AND API empty — load first page of real stations.
+            // fetchStations reads only ~50 rows; acceptable cost to prevent blank home page.
+            result = await api.fetchStations(0, '');
           }
         }
       } else {

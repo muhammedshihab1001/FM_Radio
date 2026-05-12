@@ -1,4 +1,4 @@
-// deploy: 2026-05-12 — API v2 cache sync (Global exclusion + TTL_RANDOM 1hr)
+// deploy: 2026-05-12 v2 — fix blank home page on cold start; 3-tier random fallback
 import { useState, useEffect, useCallback, useMemo } from 'react';
 import { useStations } from './hooks/useStations';
 import { usePlayer } from './hooks/usePlayer';
