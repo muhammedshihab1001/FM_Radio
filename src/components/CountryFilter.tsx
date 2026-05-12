@@ -36,7 +36,10 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(({
     return () => document.removeEventListener('keydown', fn);
   }, []);
 
+  // 'Global' is a database catch-all category (363k+ stations), not a real country.
+  // Exclude it so the dropdown only shows real geographic locations.
   const filtered = countries.filter(c =>
+    c.country !== 'Global' &&
     (c.country ?? '').toLowerCase().includes(filter.toLowerCase())
   );
 

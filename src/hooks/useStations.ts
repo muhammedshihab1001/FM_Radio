@@ -4,9 +4,16 @@ import * as api from '../services/api';
 
 const TTL_COUNTRIES = 600000;
 const TTL_STATS     = 60000;
-const TTL_RANDOM    = 30000;
+// TTL_RANDOM: 1 hour — API now uses server-side KV cache (random:v2:${hour}),
+// so hitting it more often than once per hour gains nothing and wastes D1 reads.
+const TTL_RANDOM    = 3600000;
 const TTL_TRENDING  = 60000;
 const TTL_SEARCH    = 300000;
+
+// Stations with country='Global' are catch-all entries (363k+ rows).
+// The API already excludes them via SQL, but we filter client-side as a safety net.
+const isRealCountry = (s: { country?: string }) =>
+  s.country !== 'Global' && s.country !== 'global';
 
 export function useStations() {
   const [stations, setStations]     = useState<Station[]>([]);
@@ -119,9 +126,18 @@ export function useStations() {
           const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
           result = { stations: shuffled, next_cursor: null };
         } else {
-          const list = await api.fetchRandom();
+          const rawList = await api.fetchRandom();
+          // API now excludes 'Global' in SQL, but we filter client-side as a safety net.
+          const list = rawList.filter(isRealCountry);
           if (list.length === 0) {
-            result = await api.fetchStations(0, '');
+            // API returned empty — quota was hit or cache miss. Use stale cache if available
+            // rather than burning more D1 reads on a /stations fallback.
+            if (randomCache.current && randomCache.current.data.length > 0) {
+              const shuffled = [...randomCache.current.data].sort(() => Math.random() - 0.5);
+              result = { stations: shuffled, next_cursor: null };
+            } else {
+              result = { stations: [], next_cursor: null };
+            }
           } else {
             randomCache.current = { data: list, timestamp: now };
             const shuffled = [...list].sort(() => Math.random() - 0.5);

@@ -35,11 +35,13 @@ export async function fetchStations(cursor: string | number = 0, country: string
   return json.data; 
 }
 
-export async function fetchRandom() {
+export async function fetchRandom(): Promise<Station[]> {
   const res = await fetchWithTimeout(`${API}/stations/random`, { cache: 'no-store' });
   const json = await res.json().catch(() => ({ success: false, error: 'Invalid Signal Format (Non-JSON)' }));
   if (!json.success) throw new Error(json.error || 'Signal Lost — Global Network Offline');
-  return json.data; 
+  // API returns a plain array normally, or { stations: [], next_cursor: null } on quota fallback.
+  const data = json.data;
+  return Array.isArray(data) ? data : (Array.isArray(data?.stations) ? data.stations : []);
 }
 
 export async function searchStations(q: string) {
