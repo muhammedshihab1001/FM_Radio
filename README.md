@@ -24,6 +24,7 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 
 ### 💎 Premium Design & UX
 - **Aurora Aesthetic**: Sleek dark mode with glassmorphism panels, vibrant gradients, and micro-animations.
+- **Living Station Cards** 🎨: Every card carries unique, deterministically generated artwork — a gradient and monogram derived from the station's name — on a layered, soft-shadowed surface. The station currently on air gets a glowing cyan ring, a "LIVE" badge, and an animated equalizer; buffering/reconnecting stations get a quiet pulsing status label; a failed stream shows a calm status line without ever breaking the card.
 - **Responsive Hardening**: Zero-breakage layout optimised for mobile touch-targets through to 4K displays.
 - **Skeleton Loaders**: Shimmer placeholders during data fetches for a polished loading experience.
 - **Keyboard Shortcuts**: Power-user navigation built in (see shortcuts section below).
