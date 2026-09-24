@@ -1,23 +1,56 @@
 import React from 'react';
 import { Station, PlayerStatus } from '../types/terminal';
 import { trackClick } from '../services/api';
+import { artworkFor } from './artwork';
 
-function PlayIcon() {
+function PlayIcon({ size = 20 }: { size?: number }) {
   return (
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="ml-1">
-      <path d="m7 4 12 8-12 8V4z"/>
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+      <path d="m7 4 12 8-12 8V4z" />
+    </svg>
+  );
+}
+function PauseIcon({ size = 20 }: { size?: number }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" fill="currentColor" aria-hidden>
+      <rect x="6" y="4" width="4" height="16" rx="1.5" />
+      <rect x="14" y="4" width="4" height="16" rx="1.5" />
+    </svg>
+  );
+}
+function HeartIcon({ filled }: { filled: boolean }) {
+  return (
+    <svg width="17" height="17" viewBox="0 0 24 24" fill={filled ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2" strokeLinejoin="round" aria-hidden>
+      <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" />
+    </svg>
+  );
+}
+function InfoIcon() {
+  return (
+    <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" aria-hidden>
+      <circle cx="12" cy="12" r="9" />
+      <path d="M12 11v5M12 8h.01" />
     </svg>
   );
 }
 
-function PauseIcon() {
+/** 3-bar equalizer replacing the play icon on the actively playing card. */
+function EqBars() {
   return (
-    <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="transition-transform group-active:scale-95">
-      <rect x="6"  y="4" width="4" height="16" rx="2"/>
-      <rect x="14" y="4" width="4" height="16" rx="2"/>
-    </svg>
+    <span className="eq-bars h-3.5" aria-hidden>
+      <i style={{ height: '55%', animationDelay: '0ms' }} />
+      <i style={{ height: '100%', animationDelay: '120ms' }} />
+      <i style={{ height: '70%', animationDelay: '240ms' }} />
+    </span>
   );
 }
+
+const BUSY_LABEL: Partial<Record<PlayerStatus, string>> = {
+  connecting: 'Tuning…',
+  buffering: 'Buffering…',
+  recovering: 'Recovering…',
+  stalled: 'Weak signal',
+};
 
 interface StationCardProps {
   station: Station;
@@ -31,119 +64,128 @@ interface StationCardProps {
   index?: number;
 }
 
-export const StationCard: React.FC<StationCardProps> = React.memo(({ 
-  station, active, isPlaying, isFavorite, status, onPlay, onFavorite, onInfo, index = 0 
+export const StationCard: React.FC<StationCardProps> = React.memo(({
+  station, active, isPlaying, isFavorite, status, onPlay, onFavorite, onInfo, index = 0,
 }) => {
-  const isError    = (status === 'error' || status === 'mixed-content' || status === 'stalled') && active;
+  const art = React.useMemo(() => artworkFor(station.name), [station.name]);
+
+  const live = active && status === 'playing' && isPlaying;
+  const busyLabel = active && status ? BUSY_LABEL[status] : undefined;
+  const failed = active && (status === 'error' || status === 'mixed-content');
+  const errorLabel = status === 'mixed-content' ? 'Blocked · HTTP only' : 'Station offline';
+
+  const meta = [station.codec, station.bitrate ? `${station.bitrate}K` : null, station.genre]
+    .filter(Boolean) as string[];
+
+  // Card entrance is staggered for the first 12 cards only; later cards (or
+  // appended "load more" pages) just appear, so the list never feels slow.
+  const staggerMs = index < 12 ? index * 20 : 0;
 
   return (
-    <div
+    <article
+      className={`card-enter group relative flex flex-col rounded-card surface-card overflow-hidden cursor-pointer will-change-transform
+        transition-[transform,box-shadow,border-color] duration-standard ease-premium
+        hover:-translate-y-0.5 hover:border-line/10 active:scale-[0.98]
+        ${live ? 'border-cyan/50 animate-glow-breathe' : failed ? 'border-danger/25' : ''}`}
+      style={{ ['--delay' as string]: `${staggerMs}ms` }}
       onClick={() => { onPlay(station); trackClick(station.id); }}
-      className={`group relative flex flex-col rounded-3xl cursor-pointer overflow-hidden transform-gpu transition-all duration-300 hover:-translate-y-2 hover:shadow-2xl hover:shadow-cyan-500/20 active:scale-[0.98] animate-fade-in min-h-[180px]`}
-      style={{ 
-        animationFillMode: 'both',
-        animationDelay: `${index * 50}ms`
-      }}
       role="button"
       tabIndex={0}
-      aria-label={`Play ${station.name}`}
-      onKeyDown={e => e.key === 'Enter' && onPlay(station)}
-      title={isPlaying ? "Currently Playing" : "Listen Now"}
+      aria-label={`${live ? 'Pause' : 'Play'} ${station.name}`}
+      aria-pressed={live}
+      onKeyDown={(e) => { if (e.key === 'Enter' || e.key === ' ') { e.preventDefault(); onPlay(station); } }}
     >
-      <div className={`absolute inset-0 bg-white/5 border border-white/10 backdrop-blur-2xl transition-colors duration-300 group-hover:bg-white/10 ${active && !isError ? 'border-cyan-500/50 shadow-[0_0_20px_rgba(34,211,238,0.2)]' : ''}`} />
-      
-      {active && !isError && (
-        <div className="absolute -inset-20 bg-gradient-to-r from-pink-500/20 to-cyan-500/20 blur-[80px] animate-pulse pointer-events-none" />
-      )}
+      {/* Artwork */}
+      <div className="relative aspect-square w-full overflow-hidden [container-type:inline-size]">
+        <div
+          className="absolute inset-0 transition-transform duration-standard ease-premium group-hover:scale-[1.03]"
+          style={{ background: art.gradient }}
+        />
+        <span
+          className="absolute inset-0 grid place-items-center font-sans font-bold select-none pointer-events-none text-[13cqw]"
+          style={{ color: art.tint }}
+          aria-hidden
+        >
+          {art.monogram}
+        </span>
+        {/* subtle top scrim so the status row always reads */}
+        <div className="absolute inset-x-0 top-0 h-14 bg-gradient-to-b from-black/35 to-transparent pointer-events-none" aria-hidden />
 
-      <button
-        onClick={e => { e.stopPropagation(); onFavorite(station); }}
-        className={`absolute top-2 right-2 z-10 w-[44px] h-[44px] flex items-center justify-center rounded-2xl transition-all duration-300 ${
-          isFavorite ? 'text-pink-500 bg-pink-500/10' : 'text-white/10 hover:text-pink-500 hover:bg-white/5'
-        }`}
-        aria-label={isFavorite ? 'Remove from Favorites' : 'Add to Favorites'}
-        title={isFavorite ? "Favorited" : "Add to Favorites"}
-      >
-        <svg width="20" height="20" viewBox="0 0 24 24" fill={isFavorite ? 'currentColor' : 'none'} stroke="currentColor" strokeWidth="2.5">
-          <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
-        </svg>
-      </button>
+        {/* Favorite */}
+        <button
+          type="button"
+          onClick={(e) => { e.stopPropagation(); onFavorite(station); }}
+          className={`absolute top-2 right-2 z-10 grid place-items-center w-9 h-9 rounded-button backdrop-blur-md transition-colors duration-micro
+            ${isFavorite ? 'text-magenta bg-magenta/15' : 'text-white/70 bg-black/25 hover:text-magenta hover:bg-black/40'}`}
+          aria-label={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
+          aria-pressed={isFavorite}
+        >
+          <HeartIcon filled={isFavorite} />
+        </button>
 
-      <div className="relative p-5 md:p-6 flex flex-col h-full gap-4">
-        <div className="flex flex-wrap gap-2 pr-10">
-          {station.codec && (
-            <span className="px-2 py-0.5 rounded-lg bg-white/10 border border-white/20 text-[10px] font-mono font-bold tracking-widest text-white/50 uppercase">
-              {station.codec}
-            </span>
-          )}
-          {station.bitrate && (
-            <span className="px-2 py-0.5 rounded-lg bg-cyan-500/10 border border-cyan-500/20 text-[10px] font-mono font-bold tracking-widest text-cyan-400 uppercase">
-              {station.bitrate}K
-            </span>
-          )}
-          {status === 'error' && active && (
-            <span className="px-2 py-0.5 rounded-lg bg-red-500/20 border border-red-500/40 text-[10px] font-mono font-bold tracking-widest text-red-400 uppercase">
-              OFFLINE
-            </span>
-          )}
-          {status === 'stalled' && active && (
-            <span className="px-2 py-0.5 rounded-lg bg-orange-500/20 border border-orange-500/40 text-[10px] font-mono font-bold tracking-widest text-orange-400 uppercase">
-              CONNECTING
-            </span>
-          )}
-          {status === 'mixed-content' && active && (
-            <span className="px-2 py-0.5 rounded-lg bg-red-500/20 border border-red-500/40 text-[10px] font-mono font-bold tracking-widest text-red-400 uppercase shadow-[0_0_10px_rgba(239,68,68,0.3)]">
-              BLOCKED (HTTP)
-            </span>
-          )}
+        {/* Play / pause overlay: visible on hover (desktop) or always (touch) */}
+        <div
+          className={`absolute inset-0 flex items-center justify-center bg-black/0 transition-colors duration-micro
+            sm:group-hover:bg-black/30 ${live ? '' : 'sm:opacity-0 sm:group-hover:opacity-100'}`}
+        >
+          <span
+            className={`grid place-items-center w-12 h-12 rounded-full transition-transform duration-micro ease-premium
+              ${live ? 'bg-cyan text-black shadow-glow' : 'bg-white/95 text-black sm:scale-90 sm:group-hover:scale-100'}`}
+          >
+            {live ? <EqBars /> : isPlaying && active ? <PauseIcon /> : <PlayIcon />}
+          </span>
         </div>
 
-        <div className="flex-1">
-          <h3 className={`text-base md:text-lg font-bold leading-tight line-clamp-2 transition-all duration-300 ${
-            isPlaying && !isError ? 'text-white' : 'text-white/70'
-          }`}>
-            {station.name}
-          </h3>
-          <p className="text-[11px] md:text-xs font-mono text-white/40 mt-2 font-bold uppercase tracking-[0.2em] truncate">
-            {station.country || 'Global'}{station.genre ? ` • ${station.genre}` : ''}
-          </p>
-        </div>
-
-        <div className="flex items-center justify-between mt-auto pt-4 border-t border-white/5">
-          <div className={`w-[44px] h-[44px] rounded-xl flex items-center justify-center transition-all duration-500 ${
-            active && !isError 
-            ? 'bg-gradient-to-br from-cyan-500 to-blue-500 shadow-lg shadow-cyan-500/20' 
-            : 'bg-white/5 text-white/30 group-hover:bg-cyan-500/10 group-hover:text-cyan-400'
-          }`}>
-            {isPlaying ? <PauseIcon /> : <PlayIcon />}
-          </div>
-
-          <div className="flex flex-col items-end gap-1.5 min-w-[60px]">
-            {isPlaying && (
-              <div className="flex items-end gap-[3px] h-3 mb-1">
-                {[0.4, 0.7, 1.0, 0.6].map((h, i) => (
-                  <div
-                    key={i}
-                    className="w-1 rounded-full bg-cyan-400 animate-signal-bounce"
-                    style={{ 
-                      height: '100%', 
-                      animationDelay: `${i * 0.15}s`,
-                      animationDuration: `${0.6 + i * 0.1}s`
-                    }}
-                  />
-                ))}
-              </div>
+        {/* Status row: LIVE badge, buffering/recovering, or error */}
+        {(live || busyLabel || failed) && (
+          <div className="absolute left-2 top-2 flex items-center gap-1.5">
+            {live && (
+              <span className="flex items-center gap-1 rounded-chip bg-cyan text-black text-2xs font-bold uppercase tracking-[0.08em] px-2 py-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-black" />
+                Live
+              </span>
             )}
-            <button
-              onClick={e => { e.stopPropagation(); onInfo(station); }}
-              className="min-w-[44px] min-h-[44px] flex items-center justify-end text-[10px] md:text-xs font-mono font-bold text-white/40 hover:text-cyan-400 transition-colors uppercase tracking-[0.3em] touch-manipulation"
-              title="Station Details"
-            >
-              DETAILS
-            </button>
+            {busyLabel && (
+              <span className="flex items-center gap-1.5 rounded-chip bg-black/45 backdrop-blur-md text-2xs font-medium text-white px-2 py-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-warn animate-pulse-dot" />
+                {busyLabel}
+              </span>
+            )}
+            {failed && (
+              <span className="flex items-center gap-1.5 rounded-chip bg-black/45 backdrop-blur-md text-2xs font-medium text-danger px-2 py-1">
+                <span className="w-1.5 h-1.5 rounded-full bg-danger" />
+                {errorLabel}
+              </span>
+            )}
           </div>
+        )}
+      </div>
+
+      {/* Body */}
+      <div className="flex flex-col gap-1 px-3.5 pt-3 pb-3.5 flex-1">
+        <h3 className={`text-sm font-semibold leading-tight truncate ${live ? 'text-cyan' : 'text-primary'}`}>
+          {station.name}
+        </h3>
+        <p className="text-xs text-tertiary truncate">
+          {[station.city, station.country || 'Global'].filter(Boolean).join(', ')}
+        </p>
+
+        <div className="flex flex-wrap items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+          {meta.slice(0, 3).map((m) => (
+            <span key={m} className="font-mono text-[11px] text-secondary bg-raised px-1.5 py-0.5 rounded">
+              {m}
+            </span>
+          ))}
+          <button
+            type="button"
+            onClick={(e) => { e.stopPropagation(); onInfo(station); }}
+            className="ml-auto grid place-items-center w-7 h-7 -mr-1 rounded text-tertiary hover:text-primary hover:bg-raised transition-colors duration-micro"
+            aria-label={`Details for ${station.name}`}
+          >
+            <InfoIcon />
+          </button>
         </div>
       </div>
-    </div>
+    </article>
   );
 });
