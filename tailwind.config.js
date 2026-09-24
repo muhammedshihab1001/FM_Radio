@@ -1,80 +1,94 @@
 /** @type {import('tailwindcss').Config} */
+
+// Colours, radii, shadows and motion come from the CSS custom properties in
+// src/styles/index.css. Tailwind only maps names onto them so alpha
+// modifiers (bg-base/60, border-line/10, …) keep working.
+const c = (name) => `rgb(var(--c-${name}) / <alpha-value>)`;
+
 export default {
   content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        background: '#050511',
-        surface:    'rgba(255, 255, 255, 0.03)',
-        'surface-high': 'rgba(255, 255, 255, 0.06)',
-        accent: {
-          DEFAULT: '#00f4ff',
-          alt: '#f60b86',
-          dim:  'rgba(0, 244, 255, 0.15)',
-          glow: 'rgba(246, 11, 134, 0.15)',
+        base: c('bg-base'),
+        surface: c('bg-surface'),
+        raised: c('bg-raised'),
+        overlay: c('bg-overlay'),
+        line: c('border'),
+        cyan: {
+          DEFAULT: c('cyan'),
+          dim: 'rgb(var(--c-cyan) / .15)',
         },
-        primary: '#ffffff',
-        muted:   'rgba(255, 255, 255, 0.5)',
-        danger:  '#ff3b3b',
+        magenta: {
+          DEFAULT: c('magenta'),
+          dim: 'rgb(var(--c-magenta) / .15)',
+        },
+        danger: c('danger'),
+        warn: c('warn'),
+        // Text tiers, exactly as specced: primary/secondary/tertiary.
+        primary: c('text'),
+        secondary: 'rgb(var(--c-text) / .64)',
+        tertiary: 'rgb(var(--c-text) / .4)',
       },
       fontFamily: {
         sans: ['"Space Grotesk"', 'system-ui', 'sans-serif'],
         mono: ['"JetBrains Mono"', 'monospace'],
       },
+      fontSize: {
+        '2xs': ['12px', { lineHeight: '16px' }],
+        xs: ['13px', { lineHeight: '18px' }],
+        sm: ['15px', { lineHeight: '22px' }],
+        base: ['17px', { lineHeight: '26px' }],
+        lg: ['20px', { lineHeight: '28px' }],
+        xl: ['28px', { lineHeight: '34px' }],
+        '2xl': ['40px', { lineHeight: '46px' }],
+      },
+      borderRadius: {
+        card: 'var(--r-card)',
+        button: 'var(--r-button)',
+        chip: 'var(--r-chip)',
+        modal: 'var(--r-modal)',
+      },
       boxShadow: {
-        cyan:    '0 0 24px rgba(0, 244, 255, 0.25), 0 0 48px rgba(0, 244, 255, 0.08)',
-        magenta: '0 0 24px rgba(246, 11, 134, 0.25), 0 0 48px rgba(246, 11, 134, 0.08)',
-        glass:   '0 8px 32px 0 rgba(0, 0, 0, 0.37)',
+        card: 'var(--shadow-card)',
+        raised: 'var(--shadow-raised)',
+        glow: 'var(--shadow-glow-cyan)',
+      },
+      transitionDuration: {
+        micro: 'var(--dur-micro)',
+        standard: 'var(--dur-standard)',
+        entrance: 'var(--dur-entrance)',
+      },
+      transitionTimingFunction: {
+        premium: 'var(--ease-premium)',
+      },
+      spacing: {
+        header: 'var(--h-header)',
+        player: 'var(--h-player)',
+        footer: 'var(--h-footer)',
       },
       animation: {
-        'card-in':    'cardIn 0.5s cubic-bezier(0.16,1,0.3,1) both',
-        'modal-up':   'modalUp 0.4s cubic-bezier(0.16,1,0.3,1)',
-        'slide-up':   'slideUp 0.5s cubic-bezier(0.16,1,0.3,1)',
-        'fade-in':    'fadeIn 0.3s ease-out',
-        'pulse-glow': 'pulseGlow 3s ease-in-out infinite',
-        shimmer:      'shimmer 2s ease-in-out infinite',
-        float:        'float 4s ease-in-out infinite',
-        gradient:     'gradientShift 15s ease infinite alternate',
-        'signal-bounce': 'signalBounce 0.8s ease-in-out infinite alternate',
-        'wave-pulse':    'wavePulse 0.6s ease-in-out infinite alternate',
+        'fade-in': 'fadeIn var(--dur-standard) var(--ease-premium)',
+        'modal-up': 'modalUp var(--dur-entrance) var(--ease-premium)',
+        'slide-up': 'slideUp var(--dur-entrance) var(--ease-premium)',
+        'pulse-dot': 'pulse-dot 1.2s var(--ease-premium) infinite',
+        'glow-breathe': 'glow-breathe 2.4s var(--ease-premium) infinite',
       },
       keyframes: {
-        cardIn:    { '0%': { opacity:'0', transform:'translateY(16px)' }, '100%': { opacity:'1', transform:'translateY(0)' } },
-        modalUp:   { '0%': { opacity:'0', transform:'translateY(48px)' }, '100%': { opacity:'1', transform:'translateY(0)' } },
-        slideUp:   { '0%': { opacity:'0', transform:'translateY(100%)' }, '100%': { opacity:'1', transform:'translateY(0)' } },
-        fadeIn:    { '0%': { opacity:'0' }, '100%': { opacity:'1' } },
-        pulseGlow: { '0%,100%': { boxShadow:'0 0 15px rgba(0, 244, 255, 0.4)' }, '50%': { boxShadow:'0 0 35px rgba(246, 11, 134, 0.6)' } },
-        shimmer:   { '0%': { transform:'translateX(-100%)' }, '100%': { transform:'translateX(100%)' } },
-        float:     { '0%,100%': { transform:'translateY(0)' }, '50%': { transform:'translateY(-10px)' } },
-        gradientShift: { '0%': { backgroundPosition: '0% 50%', backgroundSize: '150% 150%' }, '100%': { backgroundPosition: '100% 50%', backgroundSize: '150% 150%' } },
-        signalBounce: { '0%': { transform: 'scaleY(0.4)', backgroundColor: '#00f4ff' }, '100%': { transform: 'scaleY(1)', backgroundColor: '#f60b86' } },
-        wavePulse: { '0%': { transform: 'scaleY(0.4)', opacity: '0.3', backgroundColor: '#00f4ff' }, '100%': { transform: 'scaleY(1)', opacity: '1', backgroundColor: '#f60b86' } },
+        fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
+        modalUp: { '0%': { opacity: '0', transform: 'translateY(24px) scale(.98)' }, '100%': { opacity: '1', transform: 'translateY(0) scale(1)' } },
+        slideUp: { '0%': { opacity: '0', transform: 'translateY(100%)' }, '100%': { opacity: '1', transform: 'translateY(0)' } },
       },
     },
   },
   plugins: [
-    function({ addBase, addUtilities }) {
+    function ({ addBase }) {
       addBase({
         'html, body': {
           'overflow-x': 'hidden',
-          'background-color': '#050511',
-          'scroll-behavior': 'smooth',
           'touch-action': 'manipulation',
           '-webkit-tap-highlight-color': 'transparent',
-        },
-      });
-      addUtilities({
-        '.custom-scrollbar': {
-          '&::-webkit-scrollbar': { width: '6px', height: '6px' },
-          '&::-webkit-scrollbar-track': { backgroundColor: 'transparent' },
-          '&::-webkit-scrollbar-thumb': { 
-            backgroundColor: 'rgba(255, 255, 255, 0.08)', 
-            borderRadius: '9999px',
-            '&:hover': {
-              backgroundColor: 'rgba(0, 244, 255, 0.25)',
-            }
-          },
         },
       });
     },

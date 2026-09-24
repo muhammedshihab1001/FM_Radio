@@ -14,25 +14,29 @@ import { Station } from './types/terminal';
 
 const API = import.meta.env.VITE_API_BASE_URL;
 
-/* ─── Skeleton Grid ─── */
-const SkeletonGrid: React.FC = () => (
-  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-5">
-    {[...Array(24)].map((_, i) => (
-      <div 
-        key={i} 
-        className="relative h-[170px] rounded-3xl bg-white/[0.03] border border-white/5 overflow-hidden animate-pulse"
-      >
-        <div className="absolute inset-0 bg-gradient-to-r from-transparent via-white/[0.02] to-transparent -translate-x-full animate-[shimmer_2s_infinite]" />
-        <div className="p-5 space-y-4">
-          <div className="h-4 w-2/3 bg-white/5 rounded-full" />
-          <div className="h-3 w-1/2 bg-white/5 rounded-full" />
-          <div className="mt-auto pt-4 flex justify-between items-center border-t border-white/5">
-            <div className="w-10 h-10 rounded-xl bg-white/5" />
-            <div className="w-20 h-4 bg-white/5 rounded-full" />
-          </div>
-        </div>
+/* ─── Skeleton Grid: mirrors StationCard's real layout exactly, so there's zero CLS ─── */
+const SkeletonCard: React.FC<{ index: number }> = ({ index }) => (
+  <div
+    className="card-enter rounded-card surface-card overflow-hidden"
+    style={{ ['--delay' as string]: `${Math.min(index, 11) * 20}ms` }}
+    aria-hidden
+  >
+    <div className="aspect-square w-full shimmer" />
+    <div className="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+      <div className="h-4 w-3/5 rounded bg-raised" />
+      <div className="h-3 w-2/5 rounded bg-raised" />
+      <div className="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+        <div className="h-5 w-10 rounded bg-raised" />
+        <div className="h-5 w-8 rounded bg-raised" />
+        <div className="ml-auto w-7 h-7 rounded bg-raised" />
       </div>
-    ))}
+    </div>
+  </div>
+);
+
+const SkeletonGrid: React.FC<{ count?: number }> = ({ count = 24 }) => (
+  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6">
+    {[...Array(count)].map((_, i) => <SkeletonCard key={i} index={i} />)}
   </div>
 );
 
