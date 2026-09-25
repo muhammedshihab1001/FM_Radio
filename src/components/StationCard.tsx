@@ -164,8 +164,10 @@ export const StationCard: React.FC<StationCardProps> = React.memo(
           <button
             type="button"
             onClick={() => onFavorite(station)}
-            className={`absolute top-2 right-2 z-10 grid place-items-center w-11 h-11 rounded-button backdrop-blur-md transition-colors duration-micro
-            ${isFavorite ? 'text-magenta bg-magenta/15' : 'text-white/70 bg-black/25 hover:text-magenta hover:bg-black/40'}`}
+            // No backdrop-blur here: one per card (~50 on screen) made the grid expensive to paint;
+            // a slightly denser tint reads the same over the dark artwork.
+            className={`absolute top-2 right-2 z-10 grid place-items-center w-11 h-11 rounded-button transition-colors duration-micro
+            ${isFavorite ? 'text-magenta bg-magenta/20' : 'text-white/75 bg-black/35 hover:text-magenta hover:bg-black/50'}`}
             aria-label={isFavorite ? 'Remove from favorites' : 'Add to favorites'}
             aria-pressed={isFavorite}
           >

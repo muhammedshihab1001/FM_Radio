@@ -22,5 +22,11 @@
     "path": "dist/assets/AdminPanel-*.js",
     "limit": "5 KB",
     "gzip": true
+  },
+  {
+    "name": "Lazy: hls.js (gzip, HLS stations only)",
+    "path": "dist/assets/hls-*.js",
+    "limit": "170 KB",
+    "gzip": true
   }
 ]

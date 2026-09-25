@@ -54,6 +54,9 @@ export default defineConfig(({ mode }) => {
         // App shell only — the default glob already excludes anything not in
         // the build output, but stated explicitly for clarity.
         globPatterns: ['**/*.{js,css,html,woff,woff2,png,svg,ico}'],
+        // hls.js is loaded on demand for HLS stations only (and streams need the network anyway),
+        // so don't make every install download it.
+        globIgnores: ['**/hls-*.js'],
         navigateFallback: '/index.html',
         runtimeCaching: [
           // Radio streams and playlists: NEVER cached, NEVER intercepted by
@@ -73,22 +76,6 @@ export default defineConfig(({ mode }) => {
           {
             urlPattern: apiOriginPattern,
             handler: 'NetworkOnly',
-          },
-          // Google Fonts: stylesheet + font files, cached first since they're
-          // versioned/immutable in practice.
-          {
-            urlPattern: /^https:\/\/fonts\.googleapis\.com\//,
-            handler: 'CacheFirst',
-            options: { cacheName: 'google-fonts-stylesheets' },
-          },
-          {
-            urlPattern: /^https:\/\/fonts\.gstatic\.com\//,
-            handler: 'CacheFirst',
-            options: {
-              cacheName: 'google-fonts-webfonts',
-              cacheableResponse: { statuses: [0, 200] },
-              expiration: { maxEntries: 12, maxAgeSeconds: 60 * 60 * 24 * 365 },
-            },
           },
         ],
       },

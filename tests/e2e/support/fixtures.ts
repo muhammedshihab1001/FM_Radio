@@ -134,10 +134,7 @@ export async function mockStreams(page: Router) {
 export async function blockExternal(page: Router) {
   await page.route(
     /^https?:\/\/(?!localhost|127\.0\.0\.1|api\.test|streams\.radio\.test|insecure\.radio\.test)/,
-    (route) =>
-      route.request().url().includes('fonts.googleapis.com')
-        ? route.fulfill({ status: 200, contentType: 'text/css', body: '' })
-        : route.abort('blockedbyclient'),
+    (route) => route.abort('blockedbyclient'),
   );
 }
 

@@ -29,20 +29,9 @@
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
     <meta name="apple-mobile-web-app-title" content="Nebula FM" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <!-- Fonts don't block first paint: preloaded here, attached by main.tsx (an inline
-         onload handler would be blocked by the CSP). -->
-    <link
-      rel="preload"
-      as="style"
-      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;family=JetBrains+Mono:wght@400;500;700&amp;display=swap"
-    />
-    <noscript
-      ><link
-        rel="stylesheet"
-        href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&amp;family=JetBrains+Mono:wght@400;500;700&amp;display=swap"
-    /></noscript>
+    <!-- Self-hosted fonts (@font-face in index.css, font-display: swap). The main UI face is
+         preloaded so headings and the logo don't wait for the stylesheet to discover it. -->
+    <link rel="preload" href="/fonts/space-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin />
     <style>
       *,
       *::before,

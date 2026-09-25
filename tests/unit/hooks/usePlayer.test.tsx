@@ -215,6 +215,29 @@ describe('usePlayer — HLS', () => {
     expect(h.destroy).toHaveBeenCalled();
   });
 
+  // hls.js is loaded on demand (PERF-1); a load that finishes after a newer play/pause must not start playback.
+  it('drops an HLS setup when the station changes while hls.js is loading', async () => {
+    const { result } = mount();
+    await act(async () => {
+      const first = result.current.play(hls);
+      const second = result.current.play(mp3);
+      await Promise.all([first, second]);
+    });
+    expect(FakeHls.instances).toHaveLength(0);
+    expect(FakeAudio.last.src).toBe(mp3.url);
+  });
+
+  it('drops an HLS setup when playback is paused while hls.js is loading', async () => {
+    const { result } = mount();
+    await act(async () => {
+      const pending = result.current.play(hls);
+      result.current.pause();
+      await pending;
+    });
+    expect(FakeHls.instances).toHaveLength(0);
+    expect(FakeAudio.last.play).not.toHaveBeenCalled();
+  });
+
   it('destroys the previous Hls instance when switching stations', async () => {
     const { result } = mount();
     await play(result, hls);

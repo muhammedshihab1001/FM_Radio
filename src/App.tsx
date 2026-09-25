@@ -9,6 +9,7 @@ import { StationCard } from './components/StationCard';
 import { MiniPlayer } from './components/MiniPlayer';
 import { Footer } from './components/Footer';
 import { ErrorBoundary } from './components/ErrorBoundary';
+import { afterFirstPaint } from './components/afterFirstPaint';
 import { SectionHeading } from './components/SectionHeading';
 import { OfflineBanner } from './components/OfflineBanner';
 import { BottomTabBar } from './components/BottomTabBar';
@@ -131,13 +132,15 @@ const EmptyState: React.FC<EmptyStateProps> = ({ onReset, isFavs, isRandom }) =>
 /* ─── Ambient backdrop: one static, low-opacity glow behind the header. No
    state, no scroll listener (v3's Background re-rendered on every scroll
    event and stacked three moving aurora blobs under a 100px blur). ─── */
+// The soft glow comes from the gradient's own falloff. (A filter: blur(120px) on this ~1400×700 layer
+// looked the same but made the first frame very slow to raster on low-end / software-rendered GPUs.)
 const Backdrop: React.FC = () => (
   <div className="fixed inset-0 -z-10 overflow-hidden pointer-events-none select-none" aria-hidden>
     <div
       className="absolute -top-[20%] left-1/2 -translate-x-1/2 w-[140%] max-w-[1400px] aspect-[2/1] opacity-[0.14]"
       style={{
-        background: 'radial-gradient(closest-side, rgb(var(--c-cyan)) 0%, transparent 70%)',
-        filter: 'blur(120px)',
+        background:
+          'radial-gradient(closest-side, rgb(var(--c-cyan)) 0%, rgb(var(--c-cyan) / 0.35) 40%, transparent 100%)',
       }}
     />
   </div>
@@ -272,10 +275,9 @@ function RadioApp() {
 
   // First commit done: the HTML shell has been replaced without re-animating,
   // so later content (station cards, panels) may use its entrance animation again.
-  useEffect(() => {
-    const id = requestAnimationFrame(() => document.documentElement.classList.remove('no-enter'));
-    return () => cancelAnimationFrame(id);
-  }, []);
+  // After the first paint, not just the first frame: when the bundle runs before the shell has
+  // painted, removing it earlier would start every entrance fade from invisible.
+  useEffect(() => afterFirstPaint(() => document.documentElement.classList.remove('no-enter')), []);
 
   /* ─── Scroll to top visibility: an observer on a 380px sentinel, not a scroll listener ─── */
   const topSentinel = useRef<HTMLDivElement>(null);
