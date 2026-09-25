@@ -263,8 +263,13 @@ test.describe('reduced motion @a11y', () => {
           }
         }
       }
+      // The Buy Me a Coffee reel keeps gliding on every device by the owner's choice: a small,
+      // contained motion inside its own 44 px button. Nothing else may move.
+      const ALLOWED = ['coffee-reel'];
       const isFadeOnly = (names: string) =>
-        names.split(',').every((n) => (keyframes.get(n.trim()) ?? ['?']).every((p) => p === 'opacity'));
+        names
+          .split(',')
+          .every((n) => ALLOWED.includes(n.trim()) || (keyframes.get(n.trim()) ?? ['?']).every((p) => p === 'opacity'));
       const all = [...document.querySelectorAll<HTMLElement>('*')].map((el) => {
         const s = getComputedStyle(el);
         return {

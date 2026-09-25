@@ -283,7 +283,7 @@
   }
 }
 
-/* The icon reel inside it: each icon holds, then glides up into the next (10 s = 5 × 2 s), forever.
+/* The icon reel inside it: each icon holds, then glides up into the next (8 s = 4 × 2 s), forever.
    The last icon repeats the first, so jumping back to the start is invisible, and the edges fade out
    like a rolling film strip. Pointing at the link (hover / keyboard focus) stops on the cup with the
    glow fully lit. Transform/opacity-only animation. */
@@ -298,7 +298,7 @@
 .coffee-reel-track {
   display: flex;
   flex-direction: column;
-  animation: coffee-reel 10s infinite;
+  animation: coffee-reel 8s infinite;
 }
 .coffee-reel-track > svg {
   display: block;
@@ -318,32 +318,27 @@
 }
 @keyframes coffee-reel {
   0%,
-  14% {
+  17.5% {
     transform: translateY(0);
     animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
   }
-  20%,
-  34% {
+  25%,
+  42.5% {
     transform: translateY(-26px);
     animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
   }
-  40%,
-  54% {
+  50%,
+  67.5% {
     transform: translateY(-52px);
     animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
   }
-  60%,
-  74% {
+  75%,
+  92.5% {
     transform: translateY(-78px);
     animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
   }
-  80%,
-  94% {
-    transform: translateY(-104px);
-    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
-  }
   100% {
-    transform: translateY(-130px);
+    transform: translateY(-104px);
   }
 }
 
@@ -366,64 +361,18 @@
     animation: none;
     opacity: 0;
   }
-  /* Buy Me a Coffee under reduced motion: nothing slides, but the loop keeps going as a calm
-     cross-fade (opacity only — no movement), and the glow breathes more slowly. */
+  /* Buy Me a Coffee: the same smooth reel and glow on every device, including with reduced motion
+     (owner's choice — the glide is small and stays inside its 44 px button). Pointing still stops it. */
   .coffee-glow::after {
-    animation: coffee-glow 6s ease-in-out infinite !important;
+    animation: coffee-glow 4s ease-in-out infinite !important;
   }
   .coffee-reel-track {
-    display: grid;
-    animation: none !important;
-    transform: none;
+    animation: coffee-reel 8s infinite !important;
   }
-  .coffee-reel-track > svg {
-    grid-area: 1 / 1;
-    opacity: 0;
-    animation: coffee-fade 10s linear infinite !important;
-  }
-  .coffee-reel-track > svg:nth-child(2) {
-    animation-delay: 2s !important;
-  }
-  .coffee-reel-track > svg:nth-child(3) {
-    animation-delay: 4s !important;
-  }
-  .coffee-reel-track > svg:nth-child(4) {
-    animation-delay: 6s !important;
-  }
-  .coffee-reel-track > svg:nth-child(5) {
-    animation-delay: 8s !important;
-  }
-  .coffee-reel-track > svg:nth-child(6) {
-    display: none; /* the loop's repeated cup is only needed for the sliding reel */
-  }
-  .coffee-glow:hover .coffee-reel-track > svg,
-  .coffee-glow:focus-visible .coffee-reel-track > svg {
-    animation: none !important;
-    opacity: 0;
-  }
-  .coffee-glow:hover .coffee-reel-track > svg:first-child,
-  .coffee-glow:focus-visible .coffee-reel-track > svg:first-child {
-    opacity: 1;
-  }
+  .coffee-glow:hover .coffee-reel-track,
+  .coffee-glow:focus-visible .coffee-reel-track,
   .coffee-glow:hover::after,
   .coffee-glow:focus-visible::after {
     animation: none !important;
-    opacity: 1;
-  }
-}
-
-/* Reduced-motion reel: each icon fades in over 0.4 s, holds, and fades out as the next fades in
-   (5 icons × 2 s). Opacity only. */
-@keyframes coffee-fade {
-  0% {
-    opacity: 0;
-  }
-  4%,
-  20% {
-    opacity: 1;
-  }
-  24%,
-  100% {
-    opacity: 0;
   }
 }

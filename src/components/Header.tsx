@@ -276,8 +276,8 @@ export const Header: React.FC<HeaderProps> = ({
           <InstallPrompt />
           {/* A plain link rather than Buy Me a Coffee's script/widget: no third-party JS or
               tracking, nothing floating over the player. Inside, an endless reel of icons glides
-              by under a soft breathing glow; pointing at it stops on the cup. With reduced motion the icons
-              cross-fade in place instead of sliding (CSS-only). */}
+              by under a soft breathing glow; pointing at it stops on the cup. The same reel runs on every
+              device and setting (CSS-only). */}
           <a
             href="https://buymeacoffee.com/muhammedshihab1001"
             target="_blank"
@@ -286,7 +286,7 @@ export const Header: React.FC<HeaderProps> = ({
             aria-label="Buy me a coffee (opens in a new tab)"
             title="Buy me a coffee"
           >
-            {/* An endless reel of line icons: cup → smile → music → headphones → sparkles → cup.
+            {/* An endless reel of line icons: cup → smile → music → headphones → cup.
                 The last icon repeats the first, so the loop is seamless. */}
             <span className="coffee-reel" aria-hidden>
               <span className="coffee-reel-track">
@@ -341,19 +341,6 @@ export const Header: React.FC<HeaderProps> = ({
                   strokeLinejoin="round"
                 >
                   <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3" />
-                </svg>
-                <svg
-                  className="text-warn"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2.25"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <path d="M11 3 12.9 8.1 18 10l-5.1 1.9L11 17l-1.9-5.1L4 10l5.1-1.9Z" />
-                  <path d="M19 15v4" />
-                  <path d="M17 17h4" />
                 </svg>
                 <svg
                   className="text-warn"
