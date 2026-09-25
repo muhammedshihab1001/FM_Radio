@@ -33,7 +33,7 @@ export default defineConfig(({ mode }) => {
       // Precache ONLY the built app shell — JS, CSS, HTML, fonts, icons.
       // Nothing audio-related is ever part of the build output, so this
       // can't accidentally sweep in a stream file.
-      includeAssets: ['apple-touch-icon.png', 'pwa-192.png', 'pwa-512.png', 'pwa-512-maskable.png'],
+      includeAssets: ['apple-touch-icon.png', 'favicon-32.png', 'logo-mark.png', 'pwa-192.png', 'pwa-512.png', 'pwa-512-maskable.png'],
       manifest: {
         name: 'Nebula Cast FM',
         short_name: 'Nebula FM',

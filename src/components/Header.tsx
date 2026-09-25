@@ -135,23 +135,15 @@ export const Header: React.FC<HeaderProps> = ({
           className={`${searchOpen ? 'hidden md:flex' : 'flex'} items-center gap-2.5 min-w-[44px] min-h-[44px] rounded-button px-1.5 shrink-0`}
           aria-label="Nebula Cast FM — home"
         >
-          <span
-            className="grid place-items-center w-8 h-8 md:w-9 md:h-9 rounded-full bg-gradient-to-br from-cyan to-magenta shrink-0"
-            aria-hidden
-          >
-            <svg
-              width="16"
-              height="16"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="#06060B"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
-            >
-              <path d="M12 2v20M17 5v14M7 5v14M2 12h20" />
-            </svg>
-          </span>
+          {/* Brand mark (public/logo-mark.png, from the N-wave artwork). Decorative: the button has a label. */}
+          <img
+            src="/logo-mark.png"
+            alt=""
+            width={36}
+            height={36}
+            decoding="async"
+            className="w-8 h-8 md:w-9 md:h-9 rounded-full shrink-0 ring-1 ring-line/10"
+          />
           <span className="flex flex-col items-start leading-none">
             <span className="text-sm font-semibold tracking-[-0.01em] text-primary">Nebula Cast</span>{' '}
             <span className="text-2xs font-mono text-tertiary tracking-wide">FM</span>
