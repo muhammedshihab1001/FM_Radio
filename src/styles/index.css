@@ -366,12 +366,64 @@
     animation: none;
     opacity: 0;
   }
-  /* No breathing for reduced motion: a steady, faint glow instead. */
+  /* Buy Me a Coffee under reduced motion: nothing slides, but the loop keeps going as a calm
+     cross-fade (opacity only — no movement), and the glow breathes more slowly. */
   .coffee-glow::after {
-    animation: none;
-    opacity: 0.5;
+    animation: coffee-glow 6s ease-in-out infinite !important;
   }
   .coffee-reel-track {
-    animation: none;
+    display: grid;
+    animation: none !important;
+    transform: none;
+  }
+  .coffee-reel-track > svg {
+    grid-area: 1 / 1;
+    opacity: 0;
+    animation: coffee-fade 10s linear infinite !important;
+  }
+  .coffee-reel-track > svg:nth-child(2) {
+    animation-delay: 2s !important;
+  }
+  .coffee-reel-track > svg:nth-child(3) {
+    animation-delay: 4s !important;
+  }
+  .coffee-reel-track > svg:nth-child(4) {
+    animation-delay: 6s !important;
+  }
+  .coffee-reel-track > svg:nth-child(5) {
+    animation-delay: 8s !important;
+  }
+  .coffee-reel-track > svg:nth-child(6) {
+    display: none; /* the loop's repeated cup is only needed for the sliding reel */
+  }
+  .coffee-glow:hover .coffee-reel-track > svg,
+  .coffee-glow:focus-visible .coffee-reel-track > svg {
+    animation: none !important;
+    opacity: 0;
+  }
+  .coffee-glow:hover .coffee-reel-track > svg:first-child,
+  .coffee-glow:focus-visible .coffee-reel-track > svg:first-child {
+    opacity: 1;
+  }
+  .coffee-glow:hover::after,
+  .coffee-glow:focus-visible::after {
+    animation: none !important;
+    opacity: 1;
+  }
+}
+
+/* Reduced-motion reel: each icon fades in over 0.4 s, holds, and fades out as the next fades in
+   (5 icons × 2 s). Opacity only. */
+@keyframes coffee-fade {
+  0% {
+    opacity: 0;
+  }
+  4%,
+  20% {
+    opacity: 1;
+  }
+  24%,
+  100% {
+    opacity: 0;
   }
 }

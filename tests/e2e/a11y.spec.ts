@@ -249,21 +249,38 @@ test.describe('screen-reader semantics @a11y', () => {
 
 test.describe('reduced motion @a11y', () => {
   test.use({ reducedMotion: 'reduce' });
-  test('animations and transitions collapse to ~1 ms', async ({ page }) => {
+  test('nothing moves: animations and transitions collapse to ~1 ms, except opacity-only fades', async ({ page }) => {
     await gotoHome(page);
-    const long = await page.evaluate(() => {
+    const { long, moving } = await page.evaluate(() => {
       const ms = (v: string) => Math.max(...v.split(',').map((x) => parseFloat(x) * (x.includes('ms') ? 1 : 1000)));
-      return [...document.querySelectorAll<HTMLElement>('*')]
-        .map((el) => {
-          const s = getComputedStyle(el);
-          return {
-            el: el.className.toString().slice(0, 40),
-            anim: ms(s.animationDuration),
-            trans: ms(s.transitionDuration),
-          };
-        })
-        .filter((x) => x.anim > 10 || x.trans > 10);
+      // Keyframes that change anything other than opacity count as motion.
+      const keyframes = new Map<string, string[]>();
+      for (const sheet of [...document.styleSheets]) {
+        for (const rule of [...sheet.cssRules]) {
+          if (rule instanceof CSSKeyframesRule) {
+            const props = [...rule.cssRules].flatMap((f) => [...(f as CSSKeyframeRule).style]);
+            keyframes.set(rule.name, props);
+          }
+        }
+      }
+      const isFadeOnly = (names: string) =>
+        names.split(',').every((n) => (keyframes.get(n.trim()) ?? ['?']).every((p) => p === 'opacity'));
+      const all = [...document.querySelectorAll<HTMLElement>('*')].map((el) => {
+        const s = getComputedStyle(el);
+        return {
+          el: el.className.toString().slice(0, 40),
+          name: s.animationName,
+          anim: ms(s.animationDuration),
+          trans: ms(s.transitionDuration),
+        };
+      });
+      return {
+        long: all.filter((x) => x.trans > 10 || (x.anim > 10 && !isFadeOnly(x.name))),
+        moving: [...keyframes].filter(([, props]) => props.some((p) => p !== 'opacity')).map(([n]) => n),
+      };
     });
-    expect(long).toEqual([]);
+    expect(long, JSON.stringify(long)).toEqual([]);
+    // sanity: the check really distinguishes motion (e.g. the sliding reel) from fades
+    expect(moving).toContain('coffee-reel');
   });
 });

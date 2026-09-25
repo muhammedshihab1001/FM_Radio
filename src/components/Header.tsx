@@ -276,8 +276,8 @@ export const Header: React.FC<HeaderProps> = ({
           <InstallPrompt />
           {/* A plain link rather than Buy Me a Coffee's script/widget: no third-party JS or
               tracking, nothing floating over the player. Inside, an endless reel of icons glides
-              by under a soft breathing glow; pointing at it stops on the cup (CSS-only; a still cup
-              under reduced motion). */}
+              by under a soft breathing glow; pointing at it stops on the cup. With reduced motion the icons
+              cross-fade in place instead of sliding (CSS-only). */}
           <a
             href="https://buymeacoffee.com/muhammedshihab1001"
             target="_blank"
