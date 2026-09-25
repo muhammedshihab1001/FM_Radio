@@ -1,52 +1,76 @@
 import React, { useState, useEffect, useCallback } from 'react';
 import { useAdmin } from '../hooks/useAdmin';
 
+interface CleanupResult {
+  deleted_from_stations?: number;
+  deleted_from_dead_streams?: number;
+  batches_processed?: number;
+}
+
+interface ApiEnvelope {
+  success?: boolean;
+  data?: unknown;
+  error?: string;
+}
+
+// Cleanup responses carry CleanupResult in `data`; other endpoints reuse the envelope.
+type CleanupEnvelope = ApiEnvelope & { data?: CleanupResult | null };
+
+const isEnvelope = (v: unknown): v is CleanupEnvelope => typeof v === 'object' && v !== null && 'success' in v;
+
+const endpointHost = () => {
+  const base = import.meta.env.VITE_API_BASE_URL ?? '';
+  try {
+    return new URL(base).hostname;
+  } catch {
+    return base || '—';
+  }
+};
+
 interface AdminPanelProps {
   onClose: () => void;
 }
 
 export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
-  const { 
-    isAdmin, loading, error, d1Status, 
-    login, logout, fetchStatus, markDead, restore, cleanup, resetQuota 
-  } = useAdmin();
+  const { isAdmin, loading, error, d1Status, login, logout, fetchStatus, markDead, restore, cleanup, resetQuota } =
+    useAdmin();
   const [user, setUser] = useState('');
   const [pass, setPass] = useState('');
   const [deadUrl, setDeadUrl] = useState('');
   const [healthStatus, setHealthStatus] = useState<Record<string, string>>({});
-  const [cleanupResult, setCleanupResult] = useState<any>(null);
+  const [cleanupResult, setCleanupResult] = useState<CleanupResult | null>(null);
 
   useEffect(() => {
     if (isAdmin) {
-      fetchStatus();
-      const interval = setInterval(fetchStatus, 30000); 
+      void fetchStatus();
+      const interval = setInterval(() => void fetchStatus(), 30000);
       return () => clearInterval(interval);
     }
   }, [isAdmin, fetchStatus]);
 
   const handleCleanup = useCallback(async () => {
-    const res = await cleanup();
-    if (res && res.success) {
+    const res: unknown = await cleanup();
+    if (isEnvelope(res) && res.success && typeof res.data === 'object' && res.data !== null) {
       setCleanupResult(res.data);
     }
   }, [cleanup]);
 
   const handleReset = useCallback(async () => {
-    if (confirm('EMERGENCY: Reset daily database read quota?')) {
+    if (confirm('Reset the daily database read quota?')) {
       await resetQuota();
     }
   }, [resetQuota]);
 
   const runHealthCheck = useCallback(async () => {
-    setHealthStatus({ system: 'SCANNING...' });
+    setHealthStatus({ system: 'Scanning…' });
     const tests = [
-      { name: 'STATIONS', endpoint: '/stations?limit=1' },
-      { name: 'RANDOM',   endpoint: '/stations/random' },
-      { name: 'STATS',    endpoint: '/stats' },
-      { name: 'REGISTRY', endpoint: '/countries' }
+      { name: 'Stations', endpoint: '/stations?limit=1' },
+      { name: 'Random', endpoint: '/stations/random' },
+      { name: 'Stats', endpoint: '/stats' },
+      { name: 'Registry', endpoint: '/countries' },
     ];
-    
-    const API = import.meta.env.VITE_API_BASE_URL;
+
+    const API = import.meta.env.VITE_API_BASE_URL ?? '';
     const results: Record<string, string> = {};
 
     for (const test of tests) {
@@ -54,227 +78,286 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
         const t0 = performance.now();
         const res = await fetch(`${API}${test.endpoint}`);
         const t1 = performance.now();
-        const json = await res.json();
-        
+        const json = (await res.json()) as ApiEnvelope;
+
         if (json.success) {
-          let summary = `UP (${Math.round(t1-t0)}ms)`;
-          if (test.name === 'STATS') {
-            const total = json.data?.total_stations ?? json.data?.total ?? 0;
-            summary = `${total.toLocaleString()} STATIONS`;
-          } else if (test.name === 'REGISTRY') {
-            summary = `${json.data?.length || 0} REGIONS`;
+          let summary = `Up · ${Math.round(t1 - t0)}ms`;
+          if (test.name === 'Stats') {
+            const data = (json.data ?? {}) as { total_stations?: number; total?: number };
+            const total = data.total_stations ?? data.total ?? 0;
+            summary = `${total.toLocaleString()} stations`;
+          } else if (test.name === 'Registry') {
+            summary = `${Array.isArray(json.data) ? json.data.length : 0} regions`;
           }
           results[test.name] = summary;
         } else {
-          results[test.name] = `FAIL: ${json.error}`;
+          results[test.name] = `Failed: ${json.error}`;
         }
-      } catch (err: any) {
-        results[test.name] = `ERR: ${err.message}`;
+      } catch (err: unknown) {
+        results[test.name] = `Error: ${err instanceof Error ? err.message : String(err)}`;
       }
     }
     setHealthStatus(results);
   }, []);
 
+  const field =
+    'w-full h-11 rounded-button bg-base border border-line/10 px-4 text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-colors';
+  const btn = 'min-h-[44px] px-4 rounded-button border text-xs font-medium transition-colors';
+
   if (!isAdmin) {
     return (
-      <div className="min-h-[60vh] flex flex-col items-center justify-center p-8 animate-fade-in text-center">
-        <div className="w-full max-w-md p-8 rounded-[2.5rem] bg-black/70 border border-white/5 backdrop-blur-3xl shadow-2xl space-y-8 relative overflow-hidden">
-          <div className="absolute top-0 left-0 w-full h-[1px] bg-gradient-to-r from-transparent via-pink-500/50 to-transparent" />
-          
-          <div className="space-y-2">
-            <h2 className="text-2xl font-bold text-white tracking-tight uppercase">Admin Console</h2>
-            <p className="text-[10px] font-mono text-white/30 uppercase tracking-[0.2em]">Credential Handshake Required</p>
+      <div className="card-enter flex flex-col items-center justify-center py-16 px-4 text-center">
+        <div className="w-full max-w-sm p-7 rounded-card surface-raised space-y-6">
+          <div className="space-y-1">
+            <h1 className="text-lg font-semibold text-primary tracking-[-0.01em]">Admin console</h1>
+            <p className="text-xs text-tertiary">Sign in to manage the broadcast network</p>
           </div>
 
-          <form 
-            onSubmit={(e) => { e.preventDefault(); login(user, pass); }}
-            className="space-y-4 text-left"
+          <form
+            onSubmit={(e) => {
+              e.preventDefault();
+              login(user, pass);
+            }}
+            className="space-y-3.5 text-left"
           >
-            <div className="space-y-1">
-              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Admin ID</label>
-              <input 
-                type="text" 
+            <div className="space-y-1.5">
+              <label htmlFor="admin-user" className="text-2xs font-mono text-tertiary uppercase tracking-wide">
+                Admin ID
+              </label>
+              <input
+                id="admin-user"
+                type="text"
                 value={user}
-                onChange={e => setUser(e.target.value)}
-                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-pink-500/50 transition-all"
-                placeholder="ADMIN_USER"
+                onChange={(e) => setUser(e.target.value)}
+                className={field}
+                placeholder="Username"
+                autoComplete="username"
               />
             </div>
-            <div className="space-y-1">
-              <label className="text-[9px] font-mono text-white/40 uppercase pl-4">Password</label>
-              <input 
-                type="password" 
+            <div className="space-y-1.5">
+              <label htmlFor="admin-pass" className="text-2xs font-mono text-tertiary uppercase tracking-wide">
+                Password
+              </label>
+              <input
+                id="admin-pass"
+                type="password"
                 value={pass}
-                onChange={e => setPass(e.target.value)}
-                className="w-full h-12 bg-white/5 border border-white/10 rounded-2xl px-5 text-sm font-mono text-white focus:outline-none focus:border-pink-500/50 transition-all"
-                placeholder="********"
+                onChange={(e) => setPass(e.target.value)}
+                className={field}
+                placeholder="••••••••"
+                autoComplete="current-password"
               />
             </div>
-            
-            {error && <p className="text-[10px] font-mono text-red-400 text-center uppercase animate-pulse">{error}</p>}
 
-            <button 
+            {error && (
+              <p role="alert" className="text-xs text-danger text-center">
+                {error}
+              </p>
+            )}
+
+            <button
               type="submit"
               disabled={loading}
-              className="w-full h-14 mt-4 rounded-2xl bg-pink-500/10 border border-pink-500/30 text-pink-400 text-xs font-bold uppercase tracking-widest hover:bg-pink-500/20 active:scale-95 transition-all disabled:opacity-50"
+              className="w-full h-11 rounded-button bg-cyan text-on-accent text-sm font-semibold disabled:opacity-50 transition-transform active:scale-[0.98]"
             >
-              {loading ? 'AUTHENTICATING...' : 'Initialize Session'}
+              {loading ? 'Signing in…' : 'Sign in'}
             </button>
           </form>
 
-          <div className="pt-6 border-t border-white/5 text-center">
-            <button 
-              onClick={onClose}
-              className="text-[10px] font-mono font-bold text-white/20 uppercase tracking-[0.3em] hover:text-white/60 transition-colors"
-            >
-              ← Control Exit
-            </button>
-          </div>
+          <button
+            type="button"
+            onClick={onClose}
+            className="text-xs text-tertiary hover:text-primary transition-colors min-h-[44px]"
+          >
+            ← Back to stations
+          </button>
         </div>
       </div>
     );
   }
 
+  const pct = parseFloat(d1Status?.percentage || '0');
+
   return (
-    <div className="max-w-4xl mx-auto p-4 md:p-8 animate-fade-in space-y-8 text-left pb-20">
-      <div className="flex flex-col md:flex-row md:items-end justify-between gap-6 border-b border-white/5 pb-8">
+    <div className="card-enter max-w-4xl mx-auto space-y-6 pb-20 text-left">
+      <div className="flex flex-col sm:flex-row sm:items-end justify-between gap-4 pb-6 border-b border-line/[0.06]">
         <div>
-          <h1 className="text-3xl font-bold text-white tracking-tight uppercase">Broadcast Control</h1>
-          <p className="text-xs font-mono text-pink-500/60 uppercase tracking-[0.3em] mt-2 italic">Active Signal Management Shield</p>
+          <h1 className="text-xl font-semibold text-primary tracking-[-0.01em]">Broadcast control</h1>
+          <p className="font-mono text-xs text-tertiary mt-1">Network administration</p>
         </div>
-        <button 
-          onClick={() => { logout(); onClose(); }}
-          className="px-6 py-2 rounded-xl bg-white/5 border border-white/10 text-[10px] font-mono font-bold text-white/40 uppercase hover:text-red-400 transition-colors"
+        <button
+          type="button"
+          onClick={() => {
+            logout();
+            onClose();
+          }}
+          className="min-h-[44px] px-4 rounded-button surface-raised text-xs font-medium text-secondary hover:text-danger transition-colors self-start"
         >
-          Logout
+          Sign out
         </button>
       </div>
 
-      {/* 📊 D1 TELEMETRY MONITOR */}
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        <div className="md:col-span-3 p-8 rounded-[2.5rem] bg-black/40 border border-white/5 backdrop-blur-3xl space-y-8 relative overflow-hidden">
-          <div className="flex items-center justify-between">
-            <div className="space-y-1">
-              <h3 className="text-sm font-bold text-white uppercase tracking-widest">Global Network Stability</h3>
-              <p className="text-[10px] text-white/30 uppercase tracking-widest font-mono">Circuit Breaker: <span className={d1Status?.can_query ? 'text-cyan-400' : 'text-red-500'}>{d1Status?.can_query ? 'OPERATIONAL' : 'PROTECTED MODE'}</span></p>
-            </div>
-            <div className="flex gap-2">
-              <button 
-                onClick={handleReset}
-                className="px-4 py-1.5 rounded-full border border-red-500/30 bg-red-500/10 text-[9px] font-mono text-red-500 hover:bg-red-500/20 transition-all uppercase"
-              >
-                Reset Quota
-              </button>
-              <button 
-                onClick={runHealthCheck}
-                className="px-4 py-1.5 rounded-full border border-pink-500/30 bg-pink-500/10 text-[9px] font-mono text-pink-400 hover:bg-pink-500/20 transition-all uppercase"
-              >
-                Network Scan
-              </button>
-              <button 
-                onClick={fetchStatus}
-                className="px-4 py-1.5 rounded-full border border-white/10 bg-white/5 text-[9px] font-mono text-white/40 hover:text-white transition-all uppercase"
-              >
-                Sync Stats
-              </button>
-            </div>
+      {/* Telemetry */}
+      <div className="p-6 rounded-card surface-raised space-y-6">
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div>
+            <h2 className="text-sm font-semibold text-primary">Network stability</h2>
+            <p className="text-xs text-tertiary mt-0.5">
+              Circuit breaker:{' '}
+              <span className={d1Status?.can_query ? 'text-cyan' : 'text-danger'}>
+                {d1Status?.can_query ? 'Operational' : 'Protected mode'}
+              </span>
+            </p>
           </div>
+          <div className="flex gap-2">
+            <button
+              type="button"
+              onClick={handleReset}
+              className={`${btn} border-danger/25 text-danger hover:bg-danger/10`}
+            >
+              Reset quota
+            </button>
+            <button
+              type="button"
+              onClick={runHealthCheck}
+              className={`${btn} border-line/10 text-secondary hover:text-primary`}
+            >
+              Scan endpoints
+            </button>
+            <button
+              type="button"
+              onClick={fetchStatus}
+              className={`${btn} border-line/10 text-secondary hover:text-primary`}
+            >
+              Refresh
+            </button>
+          </div>
+        </div>
 
-          <div className="grid grid-cols-2 sm:grid-cols-4 gap-8">
-            <div className="space-y-2">
-              <p className="text-[9px] font-mono text-white/30 uppercase">Reads Today</p>
-              <p className="text-2xl font-bold text-white font-mono">{(d1Status?.reads_today || 0).toLocaleString()}</p>
-            </div>
-            <div className="space-y-2">
-              <p className="text-[9px] font-mono text-white/30 uppercase">Remaining</p>
-              <p className="text-2xl font-bold text-cyan-400 font-mono">{(d1Status?.remaining || 0).toLocaleString()}</p>
-            </div>
-            <div className="space-y-2">
-              <p className="text-[9px] font-mono text-white/30 uppercase">Quota Used</p>
-              <p className="text-2xl font-bold text-white font-mono">{d1Status?.percentage || '0'}%</p>
-            </div>
-            <div className="space-y-2">
-              <p className="text-[9px] font-mono text-white/30 uppercase">Signal Hub</p>
-              <p className="text-lg font-bold text-white/60 truncate max-w-[120px] font-mono" title={import.meta.env.VITE_API_BASE_URL}>
-                {new URL(import.meta.env.VITE_API_BASE_URL).hostname}
+        {/* Metric cards */}
+        <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+          {[
+            { label: 'Reads today', value: (d1Status?.reads_today ?? 0).toLocaleString() },
+            { label: 'Remaining', value: (d1Status?.remaining ?? 0).toLocaleString(), accent: true },
+            { label: 'Quota used', value: `${d1Status?.percentage ?? '0'}%` },
+            { label: 'Endpoint', value: endpointHost() },
+          ].map((m) => (
+            <div key={m.label} className="p-3.5 rounded-button bg-base">
+              <p className="text-2xs font-mono text-tertiary uppercase tracking-wide mb-1">{m.label}</p>
+              <p
+                className={`font-mono text-lg font-semibold tabular truncate ${m.accent ? 'text-cyan' : 'text-primary'}`}
+              >
+                {m.value}
               </p>
             </div>
-          </div>
-
-          {Object.keys(healthStatus).length > 0 && (
-            <div className="pt-8 border-t border-white/5 grid grid-cols-2 md:grid-cols-4 gap-4">
-              {Object.entries(healthStatus).map(([name, status]) => (
-                <div key={name} className="p-3 rounded-xl bg-white/[0.02] border border-white/5">
-                  <p className="text-[8px] font-mono text-white/20 uppercase mb-1">{name}</p>
-                  <p className={`text-[10px] font-mono font-bold ${status.includes('FAIL') || status.includes('ERR') ? 'text-red-400' : 'text-cyan-400'}`}>
-                    {status}
-                  </p>
-                </div>
-              ))}
-            </div>
-          )}
+          ))}
         </div>
 
-        <div className="md:col-span-2 p-8 rounded-[2rem] bg-white/[0.03] border border-white/5 space-y-6">
-          <div className="space-y-2">
-            <h3 className="text-sm font-bold text-white uppercase tracking-widest">Broken Stream Registry</h3>
-            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Update the exclusion list to block inactive station signals.</p>
-          </div>
-          
-          <div className="space-y-3">
-            <input 
-              type="text" 
-              value={deadUrl}
-              onChange={e => setDeadUrl(e.target.value)}
-              className="w-full h-12 bg-black/40 border border-white/10 rounded-xl px-4 text-xs font-mono text-white placeholder:text-white/10 focus:outline-none focus:border-pink-500/30"
-              placeholder="https://station-url.mp3"
+        {d1Status && (
+          <div
+            className="h-1.5 rounded-full bg-base overflow-hidden"
+            role="progressbar"
+            aria-valuenow={pct}
+            aria-valuemin={0}
+            aria-valuemax={100}
+            aria-label="Quota used"
+          >
+            <div
+              className={`h-full rounded-full transition-all duration-standard ${pct > 90 ? 'bg-danger' : pct > 70 ? 'bg-warn' : 'bg-cyan'}`}
+              style={{ width: `${Math.min(100, pct)}%` }}
             />
-            <div className="flex gap-2">
-              <button 
-                onClick={() => { markDead(deadUrl); setDeadUrl(''); }}
-                disabled={loading}
-                className="flex-1 h-12 rounded-xl bg-red-500/10 border border-red-500/30 text-red-500 text-[10px] font-bold uppercase tracking-widest hover:bg-red-500/20 disabled:opacity-50 transition-all"
-              >
-                {loading ? 'PROCESSING...' : 'REMOVE URL'}
-              </button>
-              <button 
-                onClick={() => { restore(deadUrl); setDeadUrl(''); }}
-                disabled={loading}
-                className="flex-1 h-12 rounded-xl bg-cyan-500/10 border border-cyan-500/30 text-cyan-400 text-[10px] font-bold uppercase tracking-widest hover:bg-cyan-500/20 disabled:opacity-50 transition-all"
-              >
-                RESTORE URL
-              </button>
-            </div>
+          </div>
+        )}
+
+        {Object.keys(healthStatus).length > 0 && (
+          <div className="grid grid-cols-2 md:grid-cols-4 gap-2.5 pt-2 border-t border-line/[0.06]">
+            {Object.entries(healthStatus).map(([name, status]) => (
+              <div key={name} className="p-2.5 rounded-button bg-base">
+                <p className="text-2xs font-mono text-tertiary uppercase mb-0.5">{name}</p>
+                <p
+                  className={`text-2xs font-mono font-medium ${status.includes('Fail') || status.includes('Error') ? 'text-danger' : 'text-cyan'}`}
+                >
+                  {status}
+                </p>
+              </div>
+            ))}
+          </div>
+        )}
+      </div>
+
+      <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+        <div className="p-6 rounded-card surface-raised space-y-4">
+          <div>
+            <h2 className="text-sm font-semibold text-primary">Broken stream registry</h2>
+            <p className="text-xs text-tertiary mt-0.5">Block or restore an inactive station's stream URL.</p>
+          </div>
+          <input
+            type="url"
+            value={deadUrl}
+            onChange={(e) => setDeadUrl(e.target.value)}
+            className={field}
+            placeholder="https://station-url.mp3"
+            aria-label="Stream URL"
+          />
+          <div className="flex gap-2">
+            <button
+              type="button"
+              onClick={() => {
+                void markDead(deadUrl);
+                setDeadUrl('');
+              }}
+              disabled={loading}
+              className={`${btn} flex-1 border-danger/25 text-danger hover:bg-danger/10 disabled:opacity-40`}
+            >
+              {loading ? 'Working…' : 'Remove'}
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                void restore(deadUrl);
+                setDeadUrl('');
+              }}
+              disabled={loading}
+              className={`${btn} flex-1 border-cyan/25 text-cyan hover:bg-cyan-dim disabled:opacity-40`}
+            >
+              Restore
+            </button>
           </div>
         </div>
 
-        <div className="p-8 rounded-[2rem] bg-white/[0.03] border border-white/5 flex flex-col justify-between">
-          <div className="space-y-2">
-            <h3 className="text-sm font-bold text-white uppercase tracking-widest">System Sweep</h3>
-            <p className="text-[10px] text-white/30 leading-relaxed uppercase">Clear the exclusion registry to refresh the entire signal mesh.</p>
+        <div className="p-6 rounded-card surface-raised flex flex-col justify-between gap-4">
+          <div>
+            <h2 className="text-sm font-semibold text-primary">System sweep</h2>
+            <p className="text-xs text-tertiary mt-0.5">Purge the exclusion registry and refresh the signal mesh.</p>
           </div>
-          
-          <button 
+          <button
+            type="button"
             onClick={handleCleanup}
             disabled={loading}
-            className="w-full h-14 mt-6 rounded-xl bg-pink-500/10 border border-pink-500/30 text-pink-400 text-[10px] font-bold uppercase tracking-[0.4em] hover:bg-pink-500/20 disabled:opacity-50 shadow-lg shadow-pink-500/10 transition-all"
+            className="w-full h-11 rounded-button bg-magenta-dim border border-magenta/30 text-magenta-ink text-sm font-medium disabled:opacity-40 transition-colors hover:bg-magenta/20"
           >
-            {loading ? 'CLEANING...' : 'START SWEEP'}
+            {loading ? 'Cleaning…' : 'Start sweep'}
           </button>
 
           {cleanupResult && (
-            <div className="mt-6 p-4 rounded-xl bg-black/40 border border-white/5 space-y-2 animate-fade-in">
-              <div className="flex justify-between items-center pb-2 border-b border-white/5">
-                <span className="text-[9px] font-mono text-white/40 uppercase">Cleanup Result</span>
-                <button onClick={() => setCleanupResult(null)} className="text-[9px] text-white/20 hover:text-white">CLOSE</button>
+            <div className="card-enter p-3.5 rounded-button bg-base space-y-2">
+              <div className="flex items-center justify-between pb-2 border-b border-line/[0.06]">
+                <span className="text-2xs font-mono text-tertiary uppercase">Result</span>
+                <button
+                  type="button"
+                  onClick={() => setCleanupResult(null)}
+                  className="text-2xs text-tertiary hover:text-primary min-h-[44px] min-w-[44px] -my-3 -mr-2"
+                >
+                  Close
+                </button>
               </div>
-              <div className="grid grid-cols-2 gap-2 text-[10px] font-mono">
-                <div className="text-white/30">STAT DELETIONS:</div>
-                <div className="text-pink-400 text-right">{cleanupResult.deleted_from_stations}</div>
-                <div className="text-white/30">REGISTRY DELETIONS:</div>
-                <div className="text-pink-400 text-right">{cleanupResult.deleted_from_dead_streams}</div>
-                <div className="text-white/30">BATCHES:</div>
-                <div className="text-white/60 text-right">{cleanupResult.batches_processed}</div>
+              <div className="font-mono text-2xs grid grid-cols-2 gap-1.5 tabular">
+                <span className="text-tertiary">Stations removed</span>
+                <span className="text-right text-magenta">{cleanupResult.deleted_from_stations}</span>
+                <span className="text-tertiary">Registry removed</span>
+                <span className="text-right text-magenta">{cleanupResult.deleted_from_dead_streams}</span>
+                <span className="text-tertiary">Batches</span>
+                <span className="text-right text-secondary">{cleanupResult.batches_processed}</span>
               </div>
             </div>
           )}

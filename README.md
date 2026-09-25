@@ -15,7 +15,7 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 
 - **Engine**: [React 18](https://reactjs.org/) + [Vite](https://vitejs.dev/)
 - **Language**: TypeScript — fully typed throughout
-- **Styling**: TailwindCSS + Glassmorphism UI (optimized for Mobile / Tablet / Desktop)
+- **Styling**: TailwindCSS with a token-based design system (layered dark surfaces, cyan / magenta accents), optimized for Mobile / Tablet / Desktop
 - **Streaming**: Advanced HLS.js integration for adaptive bitrate broadcasts
 
 ---
@@ -23,11 +23,30 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 ## ✨ Key Features
 
 ### 💎 Premium Design & UX
-- **Aurora Aesthetic**: Sleek dark mode with glassmorphism panels, vibrant gradients, and micro-animations.
-- **Living Station Cards** 🎨: Every card carries unique, deterministically generated artwork — a gradient and monogram derived from the station's name — on a layered, soft-shadowed surface. The station currently on air gets a glowing cyan ring, a "LIVE" badge, and an animated equalizer; buffering/reconnecting stations get a quiet pulsing status label; a failed stream shows a calm status line without ever breaking the card.
-- **Responsive Hardening**: Zero-breakage layout optimised for mobile touch-targets through to 4K displays.
-- **Skeleton Loaders**: Shimmer placeholders during data fetches for a polished loading experience.
+- **v4 Design System**: Layered near-black surfaces with two signal colours — **cyan** for live / primary actions, **magenta** for saved stations. Every colour, radius, shadow, type size and motion timing comes from shared design tokens, so all views look and behave alike.
+- **Living Station Cards** 🎨: Every card carries unique, deterministically generated artwork — a gradient and monogram derived from the station's name (safe for Arabic, CJK and emoji names) — so there is never a broken image. The whole card is one play button, with a solid play / pause / retry button always visible in the corner. The station on air gets a crisp cyan edge, a "LIVE" badge and an animated equalizer (no glow over the artwork, so the pause control stays readable); buffering / reconnecting stations show a quiet status label; a failed stream offers a retry without ever breaking the card.
+- **One Heading Pattern**: Home, Global Top Charts, Shuffle, Favourites and Search all share the same section heading — title, subtitle, accent bar and a live indicator where relevant.
+- **Responsive Hardening**: Grid of 2 columns on phones up to 6 on wide screens; no horizontal scrolling or overlapping elements from 320 px phones (portrait and landscape) through tablets to 4K displays, with safe-area support for notched devices.
+- **Instant First Paint**: A static app shell (header, heading and skeleton cards) appears before the app loads and is replaced without any layout shift; shimmer skeletons cover later data fetches.
+- **Friendly States**: Clear, plain-language messages for errors (with a "Try again" button), empty results, an offline banner, and a "New version available → Refresh" notice.
+- **Scroll to Top**: A floating button appears once you scroll down long lists.
 - **Keyboard Shortcuts**: Power-user navigation built in (see shortcuts section below).
+
+### 🧭 Navigation
+- **Phones — one navigation bar**: A bottom tab bar (Home, Charts, Shuffle, Saved, Search) with a saved-station count badge; the top bar keeps only the logo and the Install button. The mini player docks just above the tab bar.
+- **Desktop**: Header with the search field (`/` to focus) and Charts / Shuffle / Favorites buttons, plus a quiet status footer; the mini player floats above it.
+- **Country Filter**: A searchable dropdown that sits clear of the navigation, with full keyboard support (arrows, Home / End, Enter, Esc).
+
+### 🎛️ Player & Station Details
+- **Mini Player**: Station artwork, live status line, play / pause, favourite, and volume (a pop-out slider on phones); a "Try again" button appears when a stream fails.
+- **Station Details**: Opens as a bottom sheet on phones and a centred dialog on desktop, showing the station's details with copy-stream-link and play / pause actions; closes with Esc, the close button or a tap outside, and returns focus to where you were.
+
+### ♿ Accessibility & App Experience
+- **WCAG 2.2 AA**: Every text colour meets contrast requirements, every tap target is at least 44 × 44 px, headings are in order, and all controls have clear names for screen readers, with live announcements of player status.
+- **Keyboard First**: Everything works without a mouse, with visible focus rings; dialogs trap focus and shortcuts never hijack a focused control or a text field.
+- **Reduced Motion**: Animations are switched off for visitors who prefer reduced motion.
+- **Right-to-Left Names**: Arabic and Hebrew station names display in the correct direction.
+- **Installable App**: Install Nebula Cast FM to your home screen (an "Install" button on supported browsers, a one-time "Share → Add to Home Screen" tip on iPhone); the app shell loads offline.
 
 ### 📻 Discovery & Browsing
 - **Estonia Home Page**: Opens directly to Estonian stations — a curated starting point for discovery.
@@ -51,10 +70,10 @@ Nebula Cast FM is a professional, high-performance FM broadcasting and discovery
 ### ⌨️ Keyboard Shortcuts
 | Key | Action |
 | :--- | :--- |
-| `Space` | Play / Pause active broadcast |
+| `Space` | Play / Pause active broadcast (a focused button or field keeps its normal Space behaviour) |
 | `/` | Focus the search bar |
-| `Esc` | Close modal or clear focus |
-| `Shift + A` | Open Broadcast Control Dashboard |
+| `Esc` | Close the station details or the country list |
+| `Shift + A` | Open Broadcast Control Dashboard (ignored while typing) |
 
 ---
 

@@ -1,23 +1,8 @@
 {
-  "compilerOptions": {
-    "target": "ESNext",
-    "useDefineForClassFields": true,
-    "lib": ["DOM", "DOM.Iterable", "ESNext"],
-    "allowJs": false,
-    "skipLibCheck": true,
-    "esModuleInterop": true,
-    "allowSyntheticDefaultImports": true,
-    "strict": true,
-    "forceConsistentCasingInFileNames": true,
-    "module": "ESNext",
-    "moduleResolution": "Bundler",
-    "resolveJsonModule": true,
-    "isolatedModules": true,
-    "noEmit": true,
-    "jsx": "react-jsx",
-    "ignoreDeprecations": "5.0",
-    "types": ["node", "vite/client"]
-  },
-  "include": ["src"],
-  "references": [{ "path": "./tsconfig.node.json" }]
+  "files": [],
+  "references": [
+    { "path": "./tsconfig.logic.json" },
+    { "path": "./tsconfig.app.json" },
+    { "path": "./tsconfig.node.json" }
+  ]
 }

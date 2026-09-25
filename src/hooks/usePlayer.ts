@@ -1,13 +1,19 @@
 import { useState, useEffect, useRef, useCallback } from 'react';
-import Hls from 'hls.js';
+import type Hls from 'hls.js';
 import { Station, PlayerStatus } from '../types/terminal';
 import { resolveStreamUrl, isMixedContent, isHls, upgradeToHttps, injectPreconnect } from '../utils/streamResolver';
 
 const VOL_KEY = 'ast_volume_v1';
 
+// hls.js (~160 KB gzip) is only needed for HLS stations, so it is loaded on first use instead of
+// shipping in the entry bundle. The browser caches the chunk after the first HLS play.
+const loadHls = () => import('hls.js').then((m) => m.default);
+
 export function usePlayer() {
   const audioRef = useRef<HTMLAudioElement | null>(null);
   const hlsRef = useRef<Hls | null>(null);
+  // Bumped by every play()/pause(); an HLS setup that finishes loading after a newer call is dropped.
+  const playSeq = useRef(0);
 
   const [currentStation, setCurrentStation] = useState<Station | null>(null);
   const [isPlaying, setIsPlaying] = useState<boolean>(false);
@@ -158,6 +164,7 @@ export function usePlayer() {
     if (!station?.url) return;
     const audio = audioRef.current;
     if (!audio) return;
+    const seq = ++playSeq.current;
     
     // 1. Instant UI Handshake
     setCurrentStation(station);
@@ -183,6 +190,8 @@ export function usePlayer() {
 
     // 3. HLS vs Native Implementation
     if (isHls(resolvedUrl)) {
+      const Hls = await loadHls();
+      if (seq !== playSeq.current) return; // another station was chosen, or playback paused, meanwhile
       if (Hls.isSupported()) {
         const hls = new Hls({
           enableWorker: true,
@@ -232,6 +241,7 @@ export function usePlayer() {
 
   /* ─── Pause ─── */
   const pause = useCallback(() => {
+    playSeq.current++;
     audioRef.current?.pause();
   }, []);
 

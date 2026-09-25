@@ -8,6 +8,10 @@ const c = (name) => `rgb(var(--c-${name}) / <alpha-value>)`;
 export default {
   content: ['./index.html', './src/**/*.{js,jsx,ts,tsx}'],
   darkMode: 'class',
+  // Plain `hover:`/`group-hover:` utilities only fire on devices that can
+  // actually hover (wraps them in @media (hover: hover)), so a tap on touch
+  // doesn't get stuck showing a "hover" state until a second tap.
+  future: { hoverOnlyWhenSupported: true },
   theme: {
     extend: {
       colors: {
@@ -23,13 +27,16 @@ export default {
         magenta: {
           DEFAULT: c('magenta'),
           dim: 'rgb(var(--c-magenta) / .15)',
+          ink: c('magenta-ink'),
         },
+        // Text/icons on accent fills (cyan, magenta, warn, white): the page base colour.
+        'on-accent': c('bg-base'),
         danger: c('danger'),
         warn: c('warn'),
         // Text tiers, exactly as specced: primary/secondary/tertiary.
         primary: c('text'),
         secondary: 'rgb(var(--c-text) / .64)',
-        tertiary: 'rgb(var(--c-text) / .4)',
+        tertiary: 'rgb(var(--c-text) / .5)',
       },
       fontFamily: {
         sans: ['"Space Grotesk"', 'system-ui', 'sans-serif'],
@@ -51,7 +58,6 @@ export default {
         modal: 'var(--r-modal)',
       },
       boxShadow: {
-        card: 'var(--shadow-card)',
         raised: 'var(--shadow-raised)',
         glow: 'var(--shadow-glow-cyan)',
       },
@@ -63,22 +69,22 @@ export default {
       transitionTimingFunction: {
         premium: 'var(--ease-premium)',
       },
-      spacing: {
-        header: 'var(--h-header)',
-        player: 'var(--h-player)',
-        footer: 'var(--h-footer)',
-      },
       animation: {
         'fade-in': 'fadeIn var(--dur-standard) var(--ease-premium)',
         'modal-up': 'modalUp var(--dur-entrance) var(--ease-premium)',
         'slide-up': 'slideUp var(--dur-entrance) var(--ease-premium)',
         'pulse-dot': 'pulse-dot 1.2s var(--ease-premium) infinite',
-        'glow-breathe': 'glow-breathe 2.4s var(--ease-premium) infinite',
       },
       keyframes: {
         fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
-        modalUp: { '0%': { opacity: '0', transform: 'translateY(24px) scale(.98)' }, '100%': { opacity: '1', transform: 'translateY(0) scale(1)' } },
-        slideUp: { '0%': { opacity: '0', transform: 'translateY(100%)' }, '100%': { opacity: '1', transform: 'translateY(0)' } },
+        modalUp: {
+          '0%': { opacity: '0', transform: 'translateY(24px) scale(.98)' },
+          '100%': { opacity: '1', transform: 'translateY(0) scale(1)' },
+        },
+        slideUp: {
+          '0%': { opacity: '0', transform: 'translateY(100%)' },
+          '100%': { opacity: '1', transform: 'translateY(0)' },
+        },
       },
     },
   },

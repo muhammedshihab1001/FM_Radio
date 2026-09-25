@@ -1,33 +1,253 @@
-<!DOCTYPE html>
-<html lang="en" class="dark">
+<!doctype html>
+<html lang="en" class="dark no-enter">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Nebula Cast FM | Orbital Radio Terminal</title>
-    <meta name="description" content="High-fidelity global radio exploration terminal. 872,268+ live stations. Mobile-first professional design." />
-    <meta name="theme-color" content="#050511" />
-    
-    <!-- OpenGraph SEO (Industrial Standard) -->
+    <meta
+      name="description"
+      content="High-fidelity global radio exploration terminal. 872,268+ live stations. Mobile-first professional design."
+    />
+    <meta name="theme-color" content="#06060B" />
+
+    <!-- OpenGraph SEO -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Nebula Cast FM | 872,268+ Global Broadcasts" />
-    <meta property="og:description" content="Access the world's radio mesh through a high-fidelity holographic terminal. Fast, secure, and orbital." />
-    <meta property="og:image" content="/og-preview.png" />
-    
+    <meta
+      property="og:description"
+      content="Access the world's radio mesh through a high-fidelity holographic terminal. Fast, secure, and orbital."
+    />
+    <meta property="og:image" content="/pwa-512.png" />
+
     <!-- Branding -->
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <link rel="apple-touch-icon" href="/favicon.png" />
-    
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link rel="icon" type="image/png" href="/pwa-192.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- PWA (manifest <link> is injected by vite-plugin-pwa at build time) -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Nebula FM" />
+
+    <!-- Self-hosted fonts (@font-face in index.css, font-display: swap). The main UI face is
+         preloaded so headings and the logo don't wait for the stylesheet to discover it. -->
+    <link rel="preload" href="/fonts/space-grotesk-latin.woff2" as="font" type="font/woff2" crossorigin />
     <style>
-      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-      html, body { background: oklch(7% .025 255); color: oklch(87% .018 255); overflow-x: hidden; }
-      #root { min-height: 100vh; }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body {
+        background: #06060b;
+        color: #f4f4f8;
+        overflow-x: hidden;
+      }
+      #root {
+        min-height: 100vh;
+        min-height: 100dvh;
+      }
     </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <!-- App shell: painted before the JS bundle arrives, then replaced by React.
+           Mirrors the first React render (Header, CountryFilter, SectionHeading,
+           SkeletonGrid) class-for-class so the hand-over causes no layout shift. -->
+      <div class="min-h-dvh bg-base text-primary font-sans relative overflow-x-hidden" aria-busy="true">
+        <header class="fixed inset-x-0 top-0 z-[100] px-3 pt-[max(12px,env(safe-area-inset-top))] md:px-6">
+          <div
+            class="max-w-[1600px] mx-auto flex h-14 md:h-16 items-center justify-between gap-2 rounded-card surface-raised px-3 md:px-5"
+          >
+            <div class="flex items-center gap-2.5 min-w-[44px] min-h-[44px] px-1.5">
+              <span
+                class="grid place-items-center w-8 h-8 md:w-9 md:h-9 rounded-full bg-gradient-to-br from-cyan to-magenta"
+              ></span>
+              <span class="flex flex-col items-start leading-none">
+                <span class="text-sm font-semibold tracking-[-0.01em] text-primary">Nebula Cast</span>
+                <span class="text-2xs font-mono text-tertiary tracking-wide">FM</span>
+              </span>
+            </div>
+          </div>
+        </header>
+        <div
+          class="h-[calc(3.5rem+max(12px,env(safe-area-inset-top))+10px)] md:h-[calc(4rem+max(12px,env(safe-area-inset-top))+10px)]"
+        ></div>
+        <div class="px-3 md:px-6 pt-1 pb-2">
+          <div class="max-w-[1600px] mx-auto"><div class="h-11 w-36 rounded-button surface-raised"></div></div>
+        </div>
+        <main class="max-w-[1600px] mx-auto px-3 md:px-6 pt-8 md:pt-10 pb-6">
+          <div class="mb-7 flex flex-wrap items-end justify-between gap-4">
+            <div class="min-w-0">
+              <div class="flex items-center gap-2.5">
+                <h1
+                  class="text-[clamp(1.25rem,1rem+1.2vw,1.75rem)] font-semibold tracking-[-0.02em] text-primary truncate"
+                >
+                  Estonia
+                </h1>
+              </div>
+              <div class="h-[3px] w-10 rounded-full bg-gradient-to-r from-cyan to-magenta mt-2.5 mb-2"></div>
+              <p class="font-mono text-xs text-tertiary tabular min-h-[18px]"></p>
+            </div>
+            <div class="shrink-0"><div class="min-h-[44px] w-32 rounded-button surface-raised"></div></div>
+          </div>
+          <div class="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 2xl:grid-cols-6 gap-3.5 sm:gap-4">
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+            <div class="rounded-card surface-card overflow-hidden">
+              <div class="aspect-square w-full shimmer"></div>
+              <div class="flex flex-col gap-1 px-3.5 pt-3 pb-3.5">
+                <div class="h-4 w-3/5 rounded bg-raised"></div>
+                <div class="h-3 w-2/5 rounded bg-raised"></div>
+                <div class="flex items-center gap-1.5 mt-1.5 pt-2 border-t border-line/[0.06]">
+                  <div class="h-5 w-10 rounded bg-raised"></div>
+                  <div class="h-5 w-8 rounded bg-raised"></div>
+                  <div class="ml-auto w-7 h-7 rounded bg-raised"></div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </main>
+        <noscript
+          ><p class="p-6 text-center text-sm text-secondary">
+            Nebula Cast FM needs JavaScript to play radio.
+          </p></noscript
+        >
+      </div>
+    </div>
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>

@@ -1,0 +1,10 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compilerOptions": {
+    "noEmit": true,
+    "tsBuildInfoFile": "./node_modules/.tmp/tsc-app/tsbuildinfo"
+  },
+  "include": ["src", "tests/unit", "tests/setup", "tests/fixtures"],
+  "exclude": ["src/hooks", "src/services", "src/utils", "src/types"],
+  "references": [{ "path": "./tsconfig.logic.json" }]
+}
