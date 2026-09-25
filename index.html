@@ -1,29 +1,58 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" class="dark">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
     <title>Nebula Cast FM | Orbital Radio Terminal</title>
-    <meta name="description" content="High-fidelity global radio exploration terminal. 872,268+ live stations. Mobile-first professional design." />
-    <meta name="theme-color" content="#050511" />
-    
-    <!-- OpenGraph SEO (Industrial Standard) -->
+    <meta
+      name="description"
+      content="High-fidelity global radio exploration terminal. 872,268+ live stations. Mobile-first professional design."
+    />
+    <meta name="theme-color" content="#06060B" />
+
+    <!-- OpenGraph SEO -->
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Nebula Cast FM | 872,268+ Global Broadcasts" />
-    <meta property="og:description" content="Access the world's radio mesh through a high-fidelity holographic terminal. Fast, secure, and orbital." />
-    <meta property="og:image" content="/og-preview.png" />
-    
+    <meta
+      property="og:description"
+      content="Access the world's radio mesh through a high-fidelity holographic terminal. Fast, secure, and orbital."
+    />
+    <meta property="og:image" content="/pwa-512.png" />
+
     <!-- Branding -->
-    <link rel="icon" type="image/png" href="/favicon.png" />
-    <link rel="apple-touch-icon" href="/favicon.png" />
-    
+    <link rel="icon" type="image/png" href="/pwa-192.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+
+    <!-- PWA (manifest <link> is injected by vite-plugin-pwa at build time) -->
+    <meta name="mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+    <meta name="apple-mobile-web-app-title" content="Nebula FM" />
+
     <link rel="preconnect" href="https://fonts.googleapis.com" />
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap"
+      rel="stylesheet"
+    />
     <style>
-      *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-      html, body { background: oklch(7% .025 255); color: oklch(87% .018 255); overflow-x: hidden; }
-      #root { min-height: 100vh; }
+      *,
+      *::before,
+      *::after {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      html,
+      body {
+        background: #06060b;
+        color: #f4f4f8;
+        overflow-x: hidden;
+      }
+      #root {
+        min-height: 100vh;
+        min-height: 100dvh;
+      }
     </style>
   </head>
   <body>
