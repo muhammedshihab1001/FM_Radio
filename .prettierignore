@@ -1,0 +1,20 @@
+# Generated / vendored
+dist
+.lighthouseci
+node_modules
+package-lock.json
+
+# Protected logic — not reformatted until changes are approved
+src/hooks
+src/services
+src/utils
+src/types
+.env*
+
+# Pre-existing files outside this task's scope
+docs
+README.md
+public
+
+# Build config outside this task's edit scope
+vite.config.js
