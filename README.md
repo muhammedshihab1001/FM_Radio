@@ -168,3 +168,11 @@ Connecting to **~872,000+** real-location broadcasts across **190+** countries.
 
 ## 📜 License
 This project is licensed under the **MIT License**.
+
+---
+
+<p align="center">
+  <a href="https://buymeacoffee.com/muhammedshihab1001" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=muhammedshihab1001&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" alt="Buy me a coffee" height="50" />
+  </a>
+</p>

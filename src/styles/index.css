@@ -258,6 +258,95 @@
   }
 }
 
+/* Buy Me a Coffee link: a soft amber glow that breathes every 4 s (in, fade, rest). Only the glow
+   layer's opacity animates (compositor-only, no repaint). */
+.coffee-glow::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  border-radius: inherit;
+  box-shadow:
+    0 0 14px 1px rgb(var(--c-warn) / 0.5),
+    inset 0 0 6px rgb(var(--c-warn) / 0.2);
+  opacity: 0;
+  pointer-events: none;
+  animation: coffee-glow 4s ease-in-out infinite;
+}
+@keyframes coffee-glow {
+  0%,
+  60%,
+  100% {
+    opacity: 0;
+  }
+  30% {
+    opacity: 1;
+  }
+}
+
+/* The icon reel inside it: each icon holds, then glides up into the next (10 s = 5 × 2 s), forever.
+   The last icon repeats the first, so jumping back to the start is invisible, and the edges fade out
+   like a rolling film strip. Pointing at the link (hover / keyboard focus) stops on the cup with the
+   glow fully lit. Transform/opacity-only animation. */
+.coffee-reel {
+  display: block;
+  width: 22px;
+  height: 26px;
+  overflow: hidden;
+  -webkit-mask-image: linear-gradient(transparent, #000 15%, #000 85%, transparent);
+  mask-image: linear-gradient(transparent, #000 15%, #000 85%, transparent);
+}
+.coffee-reel-track {
+  display: flex;
+  flex-direction: column;
+  animation: coffee-reel 10s infinite;
+}
+.coffee-reel-track > svg {
+  display: block;
+  width: 18px;
+  height: 18px;
+  margin: 4px auto;
+}
+.coffee-glow:hover .coffee-reel-track,
+.coffee-glow:focus-visible .coffee-reel-track {
+  animation: none;
+  transform: translateY(0);
+}
+.coffee-glow:hover::after,
+.coffee-glow:focus-visible::after {
+  animation: none;
+  opacity: 1;
+}
+@keyframes coffee-reel {
+  0%,
+  14% {
+    transform: translateY(0);
+    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  20%,
+  34% {
+    transform: translateY(-26px);
+    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  40%,
+  54% {
+    transform: translateY(-52px);
+    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  60%,
+  74% {
+    transform: translateY(-78px);
+    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  80%,
+  94% {
+    transform: translateY(-104px);
+    animation-timing-function: cubic-bezier(0.65, 0, 0.35, 1);
+  }
+  100% {
+    transform: translateY(-130px);
+  }
+}
+
 /* Elements already on screen at boot (painted by the HTML shell) must not fade
    in again when React takes over; main.tsx removes the class after first commit. */
 .no-enter .card-enter {
@@ -276,5 +365,13 @@
   .shimmer::after {
     animation: none;
     opacity: 0;
+  }
+  /* No breathing for reduced motion: a steady, faint glow instead. */
+  .coffee-glow::after {
+    animation: none;
+    opacity: 0.5;
+  }
+  .coffee-reel-track {
+    animation: none;
   }
 }

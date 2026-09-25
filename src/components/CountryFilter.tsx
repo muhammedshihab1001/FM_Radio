@@ -151,7 +151,7 @@ export const CountryFilter: React.FC<CountryFilterProps> = React.memo(
                 aria-expanded="true"
                 aria-controls="country-listbox"
                 aria-activedescendant={`country-opt-${activeIndex}`}
-                className="w-full h-11 px-3 rounded-button bg-base border border-line/10 text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40"
+                className="w-full h-11 px-3 rounded-button bg-base border border-line/10 text-[16px] md:text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40"
               />
             </div>
 

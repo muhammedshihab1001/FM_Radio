@@ -1,4 +1,4 @@
-import React, { useState, useRef } from 'react';
+import React, { useState, useRef, useEffect } from 'react';
 import { InstallPrompt } from './InstallPrompt';
 
 interface HeaderProps {
@@ -56,6 +56,33 @@ export const Header: React.FC<HeaderProps> = ({
     setPrevMode(mode);
     if (mode !== 'search' && !inputFocused) setSearchOpen(false);
   }
+
+  // Phones: an empty search closes as soon as the person moves on — a tap or scroll anywhere
+  // outside it, or hiding the keyboard. (iOS keeps the field focused on taps/scrolls outside it,
+  // and Android's "hide keyboard" doesn't blur it, so onBlur alone isn't enough.)
+  const formRef = useRef<HTMLFormElement>(null);
+  useEffect(() => {
+    if (!searchOpen || val.trim() || !window.matchMedia('(max-width: 767px)').matches) return;
+    const close = () => {
+      setSearchOpen(false);
+      inputRef.current?.blur();
+    };
+    const onPointerDown = (e: PointerEvent) => {
+      if (!formRef.current?.contains(e.target as Node)) close();
+    };
+    const vv = window.visualViewport;
+    let lastHeight = vv?.height ?? 0;
+    const onViewportResize = () => {
+      if (vv && vv.height > lastHeight + 120) close(); // the on-screen keyboard went away
+      lastHeight = vv?.height ?? lastHeight;
+    };
+    document.addEventListener('pointerdown', onPointerDown, true);
+    vv?.addEventListener('resize', onViewportResize);
+    return () => {
+      document.removeEventListener('pointerdown', onPointerDown, true);
+      vv?.removeEventListener('resize', onViewportResize);
+    };
+  }, [searchOpen, val]);
 
   // Focus only when the person opens search; the input's onFocus opens the bar.
   // (Focusing on every open would also refocus after submit and re-raise the
@@ -136,6 +163,7 @@ export const Header: React.FC<HeaderProps> = ({
           className={`flex items-center ${searchOpen ? 'flex-1 md:justify-center' : 'flex-none md:flex-1 md:justify-center'}`}
         >
           <form
+            ref={formRef}
             onSubmit={handleSubmit}
             className={`relative flex items-center ${searchOpen ? 'w-full md:max-w-md' : 'w-0 md:w-full md:max-w-md'}`}
           >
@@ -190,7 +218,7 @@ export const Header: React.FC<HeaderProps> = ({
                 setInputFocused(false);
                 if (!val) setSearchOpen(false);
               }}
-              className={`bg-base border border-line/10 rounded-button pl-2 pr-9 text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-[width,opacity] duration-standard ease-premium ${
+              className={`bg-base border border-line/10 rounded-button pl-2 pr-9 text-[16px] md:text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-[width,opacity] duration-standard ease-premium ${
                 searchOpen
                   ? 'flex-1 h-11 opacity-100'
                   : 'w-0 opacity-0 pointer-events-none md:w-full md:h-11 md:opacity-100 md:pointer-events-auto'
@@ -243,7 +271,107 @@ export const Header: React.FC<HeaderProps> = ({
 
         {/* Actions */}
         <div className={`${searchOpen ? 'hidden md:flex' : 'flex'} items-center gap-1.5 md:gap-2 shrink-0`}>
+          {/* First, so the Install button fading in (Chrome/Edge fire their install event a moment
+              after load) never pushes the other actions sideways. */}
           <InstallPrompt />
+          {/* A plain link rather than Buy Me a Coffee's script/widget: no third-party JS or
+              tracking, nothing floating over the player. Inside, an endless reel of icons glides
+              by under a soft breathing glow; pointing at it stops on the cup (CSS-only; a still cup
+              under reduced motion). */}
+          <a
+            href="https://buymeacoffee.com/muhammedshihab1001"
+            target="_blank"
+            rel="noopener noreferrer"
+            className="coffee-glow relative flex items-center justify-center min-w-[44px] min-h-[44px] px-2.5 md:px-3 rounded-button border bg-raised border-line/10 text-warn hover:border-warn/40 transition-colors duration-standard ease-premium"
+            aria-label="Buy me a coffee (opens in a new tab)"
+            title="Buy me a coffee"
+          >
+            {/* An endless reel of line icons: cup → smile → music → headphones → sparkles → cup.
+                The last icon repeats the first, so the loop is seamless. */}
+            <span className="coffee-reel" aria-hidden>
+              <span className="coffee-reel-track">
+                <svg
+                  className="text-warn"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M10 2v2" />
+                  <path d="M14 2v2" />
+                  <path d="M6 2v2" />
+                  <path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1" />
+                </svg>
+                <svg
+                  className="text-warn"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <circle cx="12" cy="12" r="9.5" />
+                  <path d="M8 14s1.5 2 4 2 4-2 4-2" />
+                  <path d="M9 9.5h.01" />
+                  <path d="M15 9.5h.01" />
+                </svg>
+                <svg
+                  className="text-cyan"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M9 18V5l12-2v13" />
+                  <circle cx="6" cy="18" r="3" />
+                  <circle cx="18" cy="16" r="3" />
+                </svg>
+                <svg
+                  className="text-magenta"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M3 14h3a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-7a9 9 0 0 1 18 0v7a2 2 0 0 1-2 2h-1a2 2 0 0 1-2-2v-3a2 2 0 0 1 2-2h3" />
+                </svg>
+                <svg
+                  className="text-warn"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M11 3 12.9 8.1 18 10l-5.1 1.9L11 17l-1.9-5.1L4 10l5.1-1.9Z" />
+                  <path d="M19 15v4" />
+                  <path d="M17 17h4" />
+                </svg>
+                <svg
+                  className="text-warn"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2.25"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                >
+                  <path d="M10 2v2" />
+                  <path d="M14 2v2" />
+                  <path d="M6 2v2" />
+                  <path d="M16 8a1 1 0 0 1 1 1v8a4 4 0 0 1-4 4H7a4 4 0 0 1-4-4V9a1 1 0 0 1 1-1h14a4 4 0 1 1 0 8h-1" />
+                </svg>
+              </span>
+            </span>
+          </a>
           {/* Charts / Shuffle / Favorites live in BottomTabBar on mobile. */}
           <div className="hidden md:flex items-center gap-2">
             <button

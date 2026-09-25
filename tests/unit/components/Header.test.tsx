@@ -1,4 +1,4 @@
-import { fireEvent, render, screen } from '@testing-library/react';
+import { act, fireEvent, render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 import { describe, expect, it, vi } from 'vitest';
 import { Header } from '../../../src/components/Header';
@@ -86,5 +86,80 @@ describe('Header', () => {
     for (let i = 0; i < 4; i++) fireEvent.click(logo);
     expect(props.onAdminToggle).toHaveBeenCalledTimes(1);
     expect(props.onBack).toHaveBeenCalledTimes(4);
+  });
+
+  describe('phones: an empty search closes when the person moves on', () => {
+    // A phone-sized screen; restoreMocks puts the real matchMedia mock back after each test.
+    const phone = () => {
+      vi.spyOn(window, 'matchMedia').mockImplementation(
+        (query: string) =>
+          ({
+            matches: query.includes('max-width'),
+            media: query,
+            onchange: null,
+            addEventListener: () => undefined,
+            removeEventListener: () => undefined,
+            addListener: () => undefined,
+            removeListener: () => undefined,
+            dispatchEvent: () => false,
+          }) as MediaQueryList,
+      );
+      return () => undefined;
+    };
+    const isOpen = () => screen.queryByRole('button', { name: 'Close search' }) !== null;
+
+    it('a tap or scroll anywhere outside closes it', () => {
+      const restore = phone();
+      const { input } = renderHeader();
+      fireEvent.focus(input);
+      expect(isOpen()).toBe(true);
+      fireEvent.pointerDown(input); // touching the field itself keeps it open
+      expect(isOpen()).toBe(true);
+      fireEvent.pointerDown(document.body);
+      expect(isOpen()).toBe(false);
+      restore();
+    });
+
+    it('stays open while it has text', () => {
+      const restore = phone();
+      const { input } = renderHeader();
+      fireEvent.focus(input);
+      fireEvent.change(input, { target: { value: 'jazz' } });
+      fireEvent.pointerDown(document.body);
+      expect(isOpen()).toBe(true);
+      restore();
+    });
+
+    it('hiding the on-screen keyboard closes it', () => {
+      const restore = phone();
+      const viewport = Object.assign(new EventTarget(), { height: 400 });
+      Object.defineProperty(window, 'visualViewport', { value: viewport, configurable: true });
+      const { input } = renderHeader();
+      fireEvent.focus(input);
+      expect(isOpen()).toBe(true);
+      act(() => {
+        viewport.height = 800;
+        viewport.dispatchEvent(new Event('resize'));
+      });
+      expect(isOpen()).toBe(false);
+      Reflect.deleteProperty(window, 'visualViewport');
+      restore();
+    });
+
+    it('desktop keeps its behaviour (no auto-close)', () => {
+      const { input } = renderHeader();
+      fireEvent.focus(input);
+      fireEvent.pointerDown(document.body);
+      expect(isOpen()).toBe(true);
+    });
+  });
+
+  it('links to Buy Me a Coffee safely, in a new tab, without loading any script', () => {
+    const { container } = renderHeader();
+    const link = screen.getByRole('link', { name: 'Buy me a coffee (opens in a new tab)' });
+    expect(link).toHaveAttribute('href', 'https://buymeacoffee.com/muhammedshihab1001');
+    expect(link).toHaveAttribute('target', '_blank');
+    expect(link).toHaveAttribute('rel', 'noopener noreferrer');
+    expect(container.querySelector('script')).toBeNull();
   });
 });

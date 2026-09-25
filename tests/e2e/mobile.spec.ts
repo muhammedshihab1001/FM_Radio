@@ -115,6 +115,20 @@ for (const vp of VIEWPORTS) {
     }
 
     if (vp.width <= MOBILE_MAX) {
+      test('text fields use 16px+ text, so iPhone Safari never zooms the page when one is tapped', async ({ page }) => {
+        await load(page, vp.width, vp.height);
+        await page.getByRole('button', { name: /^Estonia/, expanded: false }).click(); // renders the filter field
+        const small = await page.evaluate(() =>
+          [...document.querySelectorAll<HTMLElement>('input:not([type="range"]), textarea, select')]
+            .map((el) => ({
+              field: el.id || el.getAttribute('aria-label') || el.tagName,
+              px: parseFloat(getComputedStyle(el).fontSize),
+            }))
+            .filter((f) => f.px < 16),
+        );
+        expect(small, JSON.stringify(small)).toEqual([]);
+      });
+
       test('bottom tab bar + mini player never cover content; bottom padding is enough', async ({ page }) => {
         await load(page, vp.width, vp.height);
         await playButton(page, 'Eesti Raadio 1').click();

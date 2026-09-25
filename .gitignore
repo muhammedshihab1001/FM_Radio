@@ -7,3 +7,6 @@ pro-max-skills.md
 .claude/
 docs/
 .lighthouseci/
+
+# Visual-test screenshots are machine-specific; regenerate locally with: npm run test:visual:update
+tests/visual/

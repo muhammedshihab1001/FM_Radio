@@ -101,7 +101,7 @@ export const AdminPanel: React.FC<AdminPanelProps> = ({ onClose }) => {
   }, []);
 
   const field =
-    'w-full h-11 rounded-button bg-base border border-line/10 px-4 text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-colors';
+    'w-full h-11 rounded-button bg-base border border-line/10 px-4 text-[16px] md:text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-colors';
   const btn = 'min-h-[44px] px-4 rounded-button border text-xs font-medium transition-colors';
 
   if (!isAdmin) {
