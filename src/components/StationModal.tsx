@@ -1,7 +1,5 @@
-import React, { useEffect, useRef } from 'react';
-import type { Station } from '../types/terminal';
-import { artworkFor } from './artwork';
-import { EqBars } from './PlayerVisuals';
+import React, { useEffect } from 'react';
+import { Station } from '../types/terminal';
 
 interface StationModalProps {
   station: Station | null;
@@ -16,243 +14,159 @@ const safeUrl = (url: string | undefined): string => {
   return /^https?:\/\//i.test(t) ? t : '';
 };
 
-const FOCUSABLE = 'a[href], button:not([disabled]), input, select, textarea, [tabindex]:not([tabindex="-1"])';
-
-/**
- * Station details. Centered dialog on desktop, a bottom sheet on mobile
- * (same structure v3 had — a handle-bar look + slide-up — just restyled).
- * Esc/backdrop closes it; focus is trapped inside while open and returns to
- * whatever opened it on close (v3 had neither).
- */
 export const StationModal: React.FC<StationModalProps> = ({ station, onClose, onPlay, isPlaying }) => {
-  const dialogRef = useRef<HTMLDivElement>(null);
-  const closeRef = useRef<HTMLButtonElement>(null);
-  const openerRef = useRef<Element | null>(null);
-
+  /* Backdrop click / Esc */
   useEffect(() => {
-    openerRef.current = document.activeElement;
-    closeRef.current?.focus();
-    // Lock page scroll behind the dialog (restored on close).
-    const { overflow } = document.body.style;
-    document.body.style.overflow = 'hidden';
-    return () => {
-      document.body.style.overflow = overflow;
-      (openerRef.current as HTMLElement | null)?.focus?.();
-    };
-  }, []);
-
-  useEffect(() => {
-    const fn = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') {
-        onClose();
-        return;
-      }
-      if (e.key === 'Tab' && dialogRef.current) {
-        const nodes = Array.from(dialogRef.current.querySelectorAll<HTMLElement>(FOCUSABLE));
-        const first = nodes[0];
-        const last = nodes[nodes.length - 1];
-        if (!first || !last) return;
-        if (!dialogRef.current.contains(document.activeElement)) {
-          e.preventDefault();
-          first.focus();
-        } else if (e.shiftKey && document.activeElement === first) {
-          e.preventDefault();
-          last.focus();
-        } else if (!e.shiftKey && document.activeElement === last) {
-          e.preventDefault();
-          first.focus();
-        }
-      }
-    };
+    const fn = (e: KeyboardEvent) => { if (e.key === 'Escape') onClose(); };
     document.addEventListener('keydown', fn);
     return () => document.removeEventListener('keydown', fn);
   }, [onClose]);
 
   if (!station) return null;
 
-  const art = artworkFor(station.name);
-  const url = safeUrl(station.url);
-  const secure = url.startsWith('https');
+  const url      = safeUrl(station.url);
 
   const copyUrl = (e: React.MouseEvent) => {
     e.stopPropagation();
     if (!url) return;
     if (navigator.clipboard?.writeText) {
-      void navigator.clipboard.writeText(url).catch(() => undefined);
+      navigator.clipboard.writeText(url);
     } else {
       const ta = Object.assign(document.createElement('textarea'), { value: url });
-      document.body.appendChild(ta);
-      ta.select();
-      document.execCommand('copy');
-      ta.remove();
+      document.body.appendChild(ta); ta.select(); document.execCommand('copy'); ta.remove();
     }
+    
+    /* Toast feedback */
     const t = Object.assign(document.createElement('div'), {
-      className:
-        'fixed bottom-24 left-1/2 -translate-x-1/2 z-[300] px-5 py-2.5 rounded-button text-xs font-medium text-primary surface-raised shadow-raised animate-fade-in pointer-events-none',
-      innerText: 'Stream link copied',
+      className: 'fixed bottom-24 left-1/2 -translate-x-1/2 z-[300] px-6 py-3 rounded-2xl text-[10px] font-bold text-cyan-400 border border-cyan-500/30 bg-black/95 backdrop-blur-2xl shadow-2xl animate-fade-in pointer-events-none uppercase tracking-[0.2em]',
+      innerText: '✓ Stream URL Copied',
     });
-    t.setAttribute('role', 'status');
     document.body.appendChild(t);
     setTimeout(() => {
-      t.style.transition = 'opacity .3s ease';
       t.style.opacity = '0';
-      setTimeout(() => t.remove(), 300);
+      t.style.transition = 'opacity 0.5s ease';
+      setTimeout(() => t.remove(), 500);
     }, 2000);
   };
 
-  const details: [string, string][] = [
-    ['Country', station.country || 'Global'],
-    ['City', station.city || '—'],
-    ['Bitrate', station.bitrate ? `${station.bitrate} kbps` : 'Standard'],
-    ['Codec', station.codec || 'Auto'],
-    ['Genre', station.genre || '—'],
-    [
-      'Plays',
-      typeof station.clickcount === 'number'
-        ? station.clickcount.toLocaleString()
-        : typeof station.votes === 'number'
-          ? station.votes.toLocaleString()
-          : '—',
-    ],
-  ];
-
   return (
-    <div className="fixed inset-0 z-[150] flex items-end sm:items-center justify-center animate-fade-in">
-      {/* Backdrop: mouse/touch shortcut only — Esc and the Close button are the keyboard path. */}
+    <div
+      className="fixed inset-0 z-[150] flex items-end sm:items-center justify-center animate-fade-in overflow-hidden"
+      onClick={onClose}
+    >
+      <div className="absolute inset-0 bg-black/80 backdrop-blur-sm sm:backdrop-blur-md" />
+      
       <div
-        className="absolute inset-0 bg-black/70 backdrop-blur-sm"
-        aria-hidden
-        onClick={onClose}
-        data-testid="modal-backdrop"
-      />
-
-      <div
-        ref={dialogRef}
-        role="dialog"
-        aria-modal="true"
-        aria-labelledby="station-modal-title"
-        className="relative w-full max-h-[88dvh] sm:max-h-[85dvh] sm:max-w-md overflow-hidden animate-modal-up shadow-raised flex flex-col rounded-t-modal sm:rounded-modal bg-surface border border-line/[0.06] sm:border-line/10"
+        className="relative w-full h-[85dvh] sm:h-auto sm:max-w-lg overflow-hidden animate-modal-up shadow-2xl flex flex-col rounded-t-[32px] sm:rounded-[32px] sm:border border-white/10"
+        style={{
+          background: '#050511',
+        }}
+        onClick={e => e.stopPropagation()}
       >
-        <div className="flex justify-center pt-2.5 pb-1 sm:hidden shrink-0" aria-hidden>
-          <div className="w-10 h-1 rounded-full bg-line/20" />
-        </div>
-
+        <div className="absolute top-0 inset-x-0 h-1.5 bg-gradient-to-r from-pink-500 via-cyan-500 to-blue-500 bg-[length:200%_auto] animate-gradient" />
+        
         <button
-          ref={closeRef}
-          type="button"
           onClick={onClose}
-          className="absolute top-3 right-3 z-20 grid place-items-center min-w-[44px] min-h-[44px] rounded-button bg-overlay text-tertiary hover:text-primary transition-colors"
+          className="absolute top-4 right-4 z-20 w-11 h-11 rounded-2xl bg-white/5 border border-white/10 flex items-center justify-center text-white/40 hover:text-white transition-all active:scale-90"
           aria-label="Close"
         >
-          <svg
-            width="18"
-            height="18"
-            viewBox="0 0 24 24"
-            fill="none"
-            stroke="currentColor"
-            strokeWidth="2.25"
-            strokeLinecap="round"
-          >
-            <path d="M18 6 6 18M6 6l12 12" />
+          <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+            <path d="M18 6 6 18M6 6l12 12"/>
           </svg>
         </button>
 
-        <div className="flex-1 overflow-y-auto custom-scrollbar p-5 pt-2 sm:p-6">
-          <div
-            className="w-full aspect-video rounded-card mb-5 overflow-hidden relative [container-type:inline-size]"
-            style={{ background: art.gradient }}
-          >
-            <span
-              className="absolute inset-0 grid place-items-center font-sans font-bold text-[16cqw]"
-              style={{ color: art.tint }}
-              aria-hidden
-            >
-              {art.monogram}
-            </span>
-            {isPlaying && (
-              <span className="absolute bottom-3 left-3 flex items-center gap-1.5 rounded-chip bg-cyan text-on-accent text-2xs font-bold uppercase tracking-[0.08em] px-2 py-1">
-                <EqBars count={3} className="h-2.5" />
-                Live
-              </span>
-            )}
+        <div className="flex justify-center pt-8 pb-2 sm:hidden shrink-0 text-left">
+          <div className="w-12 h-1.5 rounded-full bg-white/10" />
+        </div>
+
+        <div className="flex-1 overflow-y-auto custom-scrollbar p-6 md:p-8 pb-48 sm:pb-8 text-left">
+          <div className="mb-6">
+            <div className="flex items-center gap-2 mb-2">
+              <div className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse shadow-[0_0_8px_rgba(34,211,238,0.8)]" />
+              <span className="text-[9px] font-mono font-bold text-white/30 tracking-[0.2em] uppercase">Station Profile</span>
+            </div>
+            <h2 className="text-2xl font-bold text-white tracking-tight leading-tight mb-1">
+              {station.name}
+            </h2>
+            <p className="text-[10px] font-mono text-cyan-400 mt-1 uppercase tracking-[0.2em] font-bold">
+              {station.country || 'Global Region'}{station.city ? ` • ${station.city}` : ' • Local Broadcast'}
+            </p>
           </div>
 
-          <h2
-            dir="auto"
-            id="station-modal-title"
-            className="text-lg font-semibold text-primary tracking-[-0.01em] leading-tight mb-1"
-          >
-            {station.name}
-          </h2>
-          <p className="font-mono text-xs text-cyan tracking-wide mb-5">
-            {station.country || 'Global'}
-            {station.city ? ` · ${station.city}` : ''}
-          </p>
+          <div className="w-full aspect-video rounded-2xl bg-white/5 border border-white/5 mb-6 overflow-hidden relative flex items-center justify-center group/visual">
+               <div className="absolute inset-0 bg-gradient-to-br from-pink-500/5 to-cyan-500/5" />
+               <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1" className="text-white/10 group-hover/visual:scale-110 transition-transform duration-700">
+                  <path d="M12 2v20M17 5v14M7 5v14M2 12h20"/>
+               </svg>
+               {isPlaying && (
+                 <div className="absolute bottom-4 left-6 right-6 flex items-end gap-[1px] h-6">
+                    {[...Array(32)].map((_, i) => (
+                      <div key={i} className="flex-1 bg-cyan-400/40 animate-wave-pulse" style={{ height: `${20+Math.random()*80}%`, animationDelay: `${i*0.05}s` }} />
+                    ))}
+                 </div>
+               )}
+          </div>
 
-          <dl className="grid grid-cols-2 sm:grid-cols-3 gap-2.5 mb-5">
-            {details.map(([label, value]) => (
-              <div key={label} className="p-3 rounded-button surface-raised">
-                <dt className="text-2xs font-mono text-tertiary uppercase tracking-wide mb-0.5">{label}</dt>
-                <dd className="text-sm font-medium text-primary truncate tabular">{value}</dd>
+          <div className="grid grid-cols-1 xs:grid-cols-2 sm:grid-cols-3 gap-3 mb-6">
+            {[
+              { label: 'Bitrate', value: station.bitrate ? `${station.bitrate} kbps` : 'Standard' },
+              { label: 'Codec',   value: station.codec || 'Auto' },
+              { label: 'Type',    value: url.split(':')[0].toUpperCase() || 'STREAM' },
+            ].map(({ label, value }) => (
+              <div key={label} className="p-3 rounded-xl bg-white/[0.03] border border-white/5 flex flex-col gap-0.5">
+                <span className="text-[8px] font-mono font-bold text-white/20 tracking-widest uppercase">{label}</span>
+                <span className="text-[11px] font-bold text-white truncate">{value}</span>
               </div>
             ))}
-          </dl>
+          </div>
 
-          <div className="p-3.5 rounded-button surface-raised mb-2">
+          <div className="p-4 rounded-xl bg-white/[0.03] border border-white/5 mb-6 group/url">
             <div className="flex items-center justify-between mb-2">
-              <span className="text-2xs font-mono text-tertiary uppercase tracking-wide">Connection</span>
-              <span className={`text-2xs font-mono font-medium ${secure ? 'text-cyan' : 'text-warn'}`}>
-                {secure ? 'Secure · HTTPS' : 'Insecure · HTTP'}
+              <span className="text-[8px] font-mono font-bold text-white/20 tracking-widest uppercase">Connection Privacy</span>
+              <span className={`text-[9px] font-mono font-bold uppercase ${url.startsWith('https') ? 'text-cyan-400' : 'text-amber-500'}`}>
+                {url.startsWith('https') ? '✓ SECURE' : '⚠ INSECURE'}
               </span>
             </div>
-            <div className="flex items-center gap-2">
-              <code className="flex-1 min-w-0 truncate text-xs text-secondary bg-base px-2.5 py-2 rounded select-all">
-                {url || 'URL unavailable'}
-              </code>
+            <div className="flex items-center gap-3">
+              <div className="flex-1 text-[10px] font-mono text-white/40 truncate bg-black/40 p-2.5 rounded-xl border border-white/10 select-all">
+                {url || 'URL Unavailable'}
+              </div>
               <button
-                type="button"
                 onClick={copyUrl}
                 disabled={!url}
-                className="grid place-items-center min-w-[44px] min-h-[44px] rounded-button text-tertiary hover:text-primary disabled:opacity-40 transition-colors shrink-0"
-                aria-label="Copy stream link"
+                className="w-10 h-10 rounded-xl bg-white/5 border border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30 transition-all active:scale-90 flex items-center justify-center shrink-0"
+                title="Copy Stream URL"
               >
-                <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.25">
-                  <rect x="9" y="9" width="13" height="13" rx="2" />
-                  <path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1" />
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                   <rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/>
                 </svg>
               </button>
             </div>
           </div>
         </div>
 
-        <div className="p-5 pt-3 pb-[calc(20px+env(safe-area-inset-bottom))] sm:pb-6 border-t border-line/[0.06] shrink-0">
-          <button
-            type="button"
-            onClick={() => {
-              onPlay(station);
-              onClose();
-            }}
-            className="w-full h-[52px] rounded-button bg-cyan text-on-accent font-semibold text-sm flex items-center justify-center gap-2.5 transition-transform active:scale-[0.98]"
-          >
-            {isPlaying ? (
-              <>
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor">
-                  <rect x="6" y="4" width="4" height="16" rx="1" />
-                  <rect x="14" y="4" width="4" height="16" rx="1" />
-                </svg>
-                Stop listening
-              </>
-            ) : (
-              <>
-                <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor" className="translate-x-[1px]">
-                  <path d="m7 4 12 8-12 8V4z" />
-                </svg>
-                Listen now
-              </>
-            )}
-          </button>
+        <div className="p-6 pt-2 pb-[calc(24px+env(safe-area-inset-bottom))] sm:pb-10 bg-[#050511] border-t border-white/10 sm:border-t-0 sm:bg-transparent shrink-0">
+          <div className="flex gap-4 max-w-lg mx-auto">
+            <button
+              onClick={() => { onPlay(station); onClose(); }}
+              className="flex-1 h-14 md:h-16 rounded-2xl bg-gradient-to-r from-cyan-500 to-blue-500 text-white font-bold text-[10px] md:text-xs tracking-[0.3em] flex items-center justify-center gap-3 shadow-lg shadow-cyan-500/20 active:scale-[0.98] transition-all"
+            >
+              {isPlaying ? (
+                <>
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor"><rect x="6" y="4" width="4" height="16" rx="1"/><rect x="14" y="4" width="4" height="16" rx="1"/></svg>
+                  STOP LISTENING
+                </>
+              ) : (
+                <>
+                  <svg width="20" height="20" viewBox="0 0 24 24" fill="currentColor" className="ml-1"><path d="m7 4 12 8-12 8V4z"/></svg>
+                  START LISTENING
+                </>
+              )}
+            </button>
+          </div>
         </div>
+
       </div>
     </div>
   );
-};
+}

@@ -1,5 +1,27 @@
-import React, { useState, useRef } from 'react';
-import { InstallPrompt } from './InstallPrompt';
+import React, { useState, useRef, useEffect } from 'react';
+
+const Logo: React.FC = () => (
+  <div className="flex items-center gap-2 md:gap-3">
+    <div className="relative group">
+      <div className="absolute -inset-2 bg-gradient-to-r from-pink-500 to-cyan-500 rounded-full blur opacity-40 group-hover:opacity-100 transition duration-1000 group-hover:duration-200"></div>
+      <div className="relative w-9 h-9 md:w-10 md:h-10 rounded-full bg-black flex items-center justify-center border border-white/20">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="url(#logo-grad)" strokeWidth="2.5" strokeLinecap="round" strokeLinejoin="round" className="animate-pulse">
+          <defs>
+            <linearGradient id="logo-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+              <stop offset="0%" stopColor="#f60b86" />
+              <stop offset="100%" stopColor="#00f4ff" />
+            </linearGradient>
+          </defs>
+          <path d="M12 2v20M17 5v14M7 5v14M2 12h20M22 12c-2-2-3-3-5-5H7c-2 2-3 3-5 5M2 12c2 2 3 3 5 5h10c2-2 3-3 5-5"/>
+        </svg>
+      </div>
+    </div>
+    <div className="flex flex-col">
+      <h1 className="text-xs md:text-sm font-bold tracking-[0.2em] text-white uppercase leading-none mb-0.5 md:mb-1">Nebula</h1>
+      <span className="text-[8px] md:text-[10px] font-mono tracking-[0.3em] text-cyan-400 uppercase leading-none opacity-80">Cast FM</span>
+    </div>
+  </div>
+);
 
 interface HeaderProps {
   onSearch: (q: string) => void;
@@ -15,163 +37,69 @@ interface HeaderProps {
   cooldown: number;
 }
 
-const MIN_QUERY = 3; // matches useStations' actual minimum (v3's header said 2, which was wrong)
-
-/**
- * Logo, wide search (with a `/` shortcut hint), and Trending / Shuffle /
- * Favorites actions with a clear active state. Every control is at least
- * 44×44px. The logo also answers 5 quick taps with onAdminToggle, so admin
- * is reachable on mobile too — Footer's own 5-tap only exists on desktop.
- */
-export const Header: React.FC<HeaderProps> = ({
-  onSearch,
-  searchQuery,
-  onBack,
-  onFavToggle,
-  onTrending,
-  onAdminToggle,
-  favCount,
-  mode,
-  onRandom,
-  cooldown,
+export const Header: React.FC<HeaderProps> = ({ 
+  onSearch, searchQuery, onBack, onFavToggle, onTrending, onAdminToggle, favCount, 
+  mode, isPlaying, onRandom, cooldown 
 }) => {
   const [val, setVal] = useState(searchQuery ?? '');
   const [searchOpen, setSearchOpen] = useState(false);
   const inputRef = useRef<HTMLInputElement>(null);
-  const tapState = useRef({ n: 0, t: 0 });
-  const [inputFocused, setInputFocused] = useState(false);
 
-  // Props → local state, adjusted during render (React's recommended pattern
-  // instead of a setState-in-effect, which renders twice).
-  const [prevQuery, setPrevQuery] = useState(searchQuery);
-  if (searchQuery !== prevQuery) {
-    setPrevQuery(searchQuery);
+  useEffect(() => {
     setVal(searchQuery ?? '');
     if (searchQuery) setSearchOpen(true);
-  }
-  // Leaving search (e.g. via a bottom tab) collapses the mobile search bar,
-  // unless the person is typing in it right now.
-  const [prevMode, setPrevMode] = useState(mode);
-  if (mode !== prevMode) {
-    setPrevMode(mode);
-    if (mode !== 'search' && !inputFocused) setSearchOpen(false);
-  }
+  }, [searchQuery]);
 
-  // Focus only when the person opens search; the input's onFocus opens the bar.
-  // (Focusing on every open would also refocus after submit and re-raise the
-  // mobile keyboard over the results.)
-  const toggleSearch = () => {
-    if (searchOpen) {
-      setSearchOpen(false);
-      inputRef.current?.blur();
-    } else {
-      inputRef.current?.focus();
+  useEffect(() => {
+    if (searchOpen && inputRef.current) {
+      inputRef.current.focus();
     }
-  };
+  }, [searchOpen]);
 
   const handleSubmit = (e: React.FormEvent) => {
     e.preventDefault();
     onSearch(val);
-    setSearchOpen(false);
-    inputRef.current?.blur();
+    setSearchOpen(false); 
+    inputRef.current?.blur(); 
   };
-
-  const onLogoClick = () => {
-    const now = Date.now();
-    tapState.current = now - tapState.current.t < 800 ? { n: tapState.current.n + 1, t: now } : { n: 1, t: now };
-    if (tapState.current.n >= 5) {
-      tapState.current = { n: 0, t: 0 };
-      onAdminToggle();
-      return;
-    }
-    onBack();
-  };
-
-  const tooShort = val.trim().length > 0 && val.trim().length < MIN_QUERY;
-
-  const actionBtn = (active: boolean, activeTone: 'cyan' | 'magenta') =>
-    `relative flex items-center justify-center gap-1.5 min-w-[44px] min-h-[44px] px-2.5 md:px-3 rounded-button border transition-colors duration-standard ease-premium ${
-      active
-        ? activeTone === 'cyan'
-          ? 'bg-cyan-dim border-cyan/40 text-cyan'
-          : 'bg-magenta-dim border-magenta/40 text-magenta-ink'
-        : 'bg-raised border-line/10 text-secondary hover:text-primary hover:border-line/20'
-    }`;
 
   return (
-    <header className="fixed inset-x-0 top-0 z-[100] px-3 pt-[max(12px,env(safe-area-inset-top))] md:px-6 pointer-events-none">
-      <div className="max-w-[1600px] mx-auto flex h-14 md:h-16 items-center justify-between gap-2 pointer-events-auto rounded-card surface-raised px-3 md:px-5">
-        {/* Logo (on mobile, an open search takes the whole bar) */}
-        <button
-          type="button"
-          onClick={onLogoClick}
-          className={`${searchOpen ? 'hidden md:flex' : 'flex'} items-center gap-2.5 min-w-[44px] min-h-[44px] rounded-button px-1.5 shrink-0`}
-          aria-label="Nebula Cast FM — home"
-        >
-          <span
-            className="grid place-items-center w-8 h-8 md:w-9 md:h-9 rounded-full bg-gradient-to-br from-cyan to-magenta shrink-0"
-            aria-hidden
-          >
-            <svg
-              width="16"
-              height="16"
-              viewBox="0 0 24 24"
-              fill="none"
-              stroke="#06060B"
-              strokeWidth="2.5"
-              strokeLinecap="round"
-              strokeLinejoin="round"
+    <header className="fixed top-0 left-0 right-0 z-[100] px-4 pt-4 md:px-8 pointer-events-none">
+      <div className="max-w-7xl mx-auto flex items-center justify-between pointer-events-auto h-16 rounded-3xl bg-black/60 border border-white/10 backdrop-blur-3xl px-4 md:px-6 relative overflow-hidden group/header shadow-2xl transition-all duration-300">
+        <div className="absolute inset-x-0 bottom-0 h-[1px] bg-gradient-to-r from-transparent via-cyan-500/50 to-transparent"></div>
+        
+        {/* Logo Section */}
+        {!searchOpen && (
+          <div className="flex items-center gap-3 animate-fade-in text-left">
+            <button 
+              onClick={onBack} 
+              className="px-2 py-2 hover:opacity-80 transition-all active:scale-95 touch-manipulation min-w-[44px] min-h-[44px] flex items-center justify-center"
+              aria-label="Back to Home"
+              title="Home"
             >
-              <path d="M12 2v20M17 5v14M7 5v14M2 12h20" />
-            </svg>
-          </span>
-          <span className="flex flex-col items-start leading-none">
-            <span className="text-sm font-semibold tracking-[-0.01em] text-primary">Nebula Cast</span>{' '}
-            <span className="text-2xs font-mono text-tertiary tracking-wide">FM</span>
-          </span>
-        </button>
+              <Logo />
+            </button>
+          </div>
+        )}
 
-        {/* Search */}
-        <div
-          className={`flex items-center ${searchOpen ? 'flex-1 md:justify-center' : 'flex-none md:flex-1 md:justify-center'}`}
-        >
-          <form
-            onSubmit={handleSubmit}
-            className={`relative flex items-center ${searchOpen ? 'w-full md:max-w-md' : 'w-0 md:w-full md:max-w-md'}`}
+        {/* Search Section */}
+        <div className={`flex-1 flex items-center transition-all duration-300 ${searchOpen ? 'grow px-0' : 'grow-0 mx-2 md:mx-4'}`}>
+          <form 
+            onSubmit={handleSubmit} 
+            className={`relative flex items-center transition-all duration-300 ${searchOpen ? 'w-full' : 'w-0 md:w-48 lg:w-96'}`}
           >
-            {/* On mobile the bottom tab bar's Search tab opens search, so this
-                button only shows there as the "close search" back arrow. */}
             <button
               type="button"
-              onClick={toggleSearch}
-              className={`items-center justify-center min-w-[44px] min-h-[44px] shrink-0 text-tertiary hover:text-primary transition-colors ${searchOpen ? 'flex md:pointer-events-none' : 'hidden md:flex'}`}
-              aria-label={searchOpen ? 'Close search' : 'Search stations'}
+              onClick={() => setSearchOpen(!searchOpen)}
+              className={`flex items-center justify-center min-w-[44px] min-h-[44px] text-white/50 hover:text-cyan-400 transition-colors ${searchOpen ? 'md:pointer-events-none' : 'touch-manipulation'}`}
+              title={searchOpen ? "" : "Search Stations"}
             >
-              {searchOpen ? (
-                <svg
-                  width="18"
-                  height="18"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2.25"
-                  strokeLinecap="round"
-                  className="md:hidden"
-                >
-                  <path d="M15 18l-6-6 6-6" />
-                </svg>
-              ) : null}
-              <svg
-                width="18"
-                height="18"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.25"
-                className={searchOpen ? 'hidden md:block' : ''}
-              >
-                <circle cx="11" cy="11" r="7" />
-                <path d="m21 21-4.3-4.3" />
+              <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                {searchOpen && !val ? (
+                   <path d="M19 12H5m7-7-7 7 7 7" className="md:hidden" />
+                ) : (
+                  <><circle cx="11" cy="11" r="8"/><path d="m21 21-4.3-4.3"/></>
+                )}
               </svg>
             </button>
 
@@ -179,148 +107,101 @@ export const Header: React.FC<HeaderProps> = ({
               id="searchInput"
               ref={inputRef}
               type="text"
-              placeholder="Search stations…"
+              placeholder="Search stations..."
               value={val}
               onChange={(e) => setVal(e.target.value)}
-              onFocus={() => {
-                setInputFocused(true);
-                setSearchOpen(true);
-              }}
               onBlur={() => {
-                setInputFocused(false);
                 if (!val) setSearchOpen(false);
               }}
-              className={`bg-base border border-line/10 rounded-button pl-2 pr-9 text-sm text-primary placeholder:text-tertiary focus:outline-none focus:border-cyan/40 transition-[width,opacity] duration-standard ease-premium ${
-                searchOpen
-                  ? 'flex-1 h-11 opacity-100'
-                  : 'w-0 opacity-0 pointer-events-none md:w-full md:h-11 md:opacity-100 md:pointer-events-auto'
-              }`}
+              className={`bg-white/5 border border-white/20 rounded-2xl px-4 text-sm font-medium text-white placeholder:text-white/20 focus:outline-none focus:ring-2 focus:ring-cyan-500/50 focus:bg-white/10 transition-all duration-300 ${searchOpen ? 'flex-1 h-11 opacity-100' : 'w-0 opacity-0 pointer-events-none md:w-full md:h-11 md:opacity-100 md:pointer-events-auto'}`}
             />
 
-            {/* `/` shortcut hint, desktop only, hidden once typing or focused */}
-            {!searchOpen && (
-              <kbd className="hidden md:flex absolute right-3 items-center justify-center h-5 min-w-[20px] px-1.5 rounded border border-line/15 bg-overlay font-mono text-2xs text-tertiary pointer-events-none">
-                /
-              </kbd>
+            {searchOpen && val.length === 1 && (
+              <div className="absolute top-[calc(100%+8px)] left-0 right-0 p-3 rounded-xl bg-cyan-500/10 border border-cyan-500/20 backdrop-blur-xl animate-fade-in z-[110]">
+                <p className="text-[9px] font-mono font-bold text-cyan-400 uppercase tracking-widest text-center">
+                   ⚠️ Query too short—Need 2+ chars
+                </p>
+              </div>
             )}
 
-            {val && searchOpen && (
+            {(val && searchOpen) && (
               <button
                 type="button"
-                onMouseDown={(e) => e.preventDefault()}
-                onClick={() => {
-                  setVal('');
-                  onSearch('');
-                  inputRef.current?.focus();
-                }}
-                className="absolute right-0 flex items-center justify-center w-11 h-11 text-tertiary hover:text-primary"
-                aria-label="Clear search"
+                onClick={() => { setVal(''); onSearch(''); setSearchOpen(false); }}
+                className="absolute right-3 flex items-center justify-center w-8 h-8 text-white/30 hover:text-white"
+                title="Clear Search"
               >
-                <svg
-                  width="16"
-                  height="16"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2.5"
-                  strokeLinecap="round"
-                >
-                  <path d="M18 6 6 18M6 6l12 12" />
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="3">
+                  <path d="M18 6 6 18M6 6l12 12"/>
                 </svg>
               </button>
-            )}
-
-            {tooShort && (
-              <p
-                role="status"
-                className="absolute top-[calc(100%+8px)] left-0 right-0 px-3 py-2 rounded-button surface-raised text-xs text-secondary text-center"
-              >
-                Type at least {MIN_QUERY} characters
-              </p>
             )}
           </form>
         </div>
 
-        {/* Actions */}
-        <div className={`${searchOpen ? 'hidden md:flex' : 'flex'} items-center gap-1.5 md:gap-2 shrink-0`}>
-          <InstallPrompt />
-          {/* Charts / Shuffle / Favorites live in BottomTabBar on mobile. */}
-          <div className="hidden md:flex items-center gap-2">
+        {/* Actions Section */}
+        {!searchOpen && (
+          <div className="flex items-center gap-1 md:gap-3 animate-fade-in">
+            
+            {/* Trending Toggle */}
             <button
-              type="button"
               onClick={onTrending}
-              className={actionBtn(mode === 'trending', 'cyan')}
-              aria-pressed={mode === 'trending'}
-              aria-label="Top charts"
+              className={`flex items-center justify-center min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] rounded-2xl border transition-all duration-300 ${
+                mode === 'trending'
+                ? 'bg-cyan-500/20 border-cyan-500/50 text-cyan-400 shadow-[0_0_20px_rgba(34,211,238,0.2)]'
+                : 'bg-white/5 border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30'
+              }`}
+              aria-label="Trending stations"
+              title="Trending"
             >
-              <svg
-                width="17"
-                height="17"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2.25"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-              >
-                <path d="M22 12h-4l-3 9L9 3l-3 9H2" />
+              <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <path d="M22 12h-4l-3 9L9 3l-3 9H2" className={mode === 'trending' ? 'animate-pulse' : ''} />
               </svg>
-              <span className="hidden lg:inline text-xs font-medium">Charts</span>
             </button>
 
+            {/* Random Shuffle */}
             <button
-              type="button"
               onClick={onRandom}
               disabled={cooldown > 0}
-              className={`${actionBtn(false, 'cyan')} disabled:opacity-40 disabled:cursor-wait`}
-              aria-label={cooldown > 0 ? `Shuffle available in ${cooldown}s` : 'Shuffle to a random country'}
+              className={`flex items-center justify-center min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] rounded-2xl border transition-all duration-300 relative ${
+                cooldown > 0 
+                ? 'bg-white/5 border-white/5 text-white/10 cursor-wait' 
+                : 'bg-white/5 border-white/10 text-white/40 hover:text-cyan-400 hover:border-cyan-500/30'
+              }`}
+              aria-label="Discovery Shuffle"
+              title="Shuffle"
             >
               {cooldown > 0 ? (
-                <span className="font-mono text-xs tabular">{cooldown}s</span>
+                <span className="text-[10px] font-mono font-bold">{cooldown}s</span>
               ) : (
-                <svg
-                  width="17"
-                  height="17"
-                  viewBox="0 0 24 24"
-                  fill="none"
-                  stroke="currentColor"
-                  strokeWidth="2.25"
-                  strokeLinecap="round"
-                  strokeLinejoin="round"
-                >
-                  <path d="m18 14 4 4-4 4" />
-                  <path d="m18 2 4 4-4 4" />
-                  <path d="M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.7-1.1 2-1.7 3.3-1.7H22" />
-                  <path d="M2 6h1.9c1.5 0 2.9.9 3.6 2.2" />
-                  <path d="M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8" />
+                <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                  <path d="M2 18h1.4c1.3 0 2.5-.6 3.3-1.7l6.1-8.6c.7-1.1 2-1.7 3.3-1.7H22"/><path d="m18 2 4 4-4 4M2 6h1.9c1.5 0 2.9.9 3.6 2.2"/><path d="M22 18h-5.9c-1.3 0-2.6-.7-3.3-1.8l-.5-.8"/><path d="m18 14 4 4-4 4"/>
                 </svg>
               )}
-              <span className="hidden lg:inline text-xs font-medium">Shuffle</span>
             </button>
 
+            {/* Favs */}
             <button
-              type="button"
               onClick={onFavToggle}
-              className={actionBtn(mode === 'favorites', 'magenta')}
-              aria-pressed={mode === 'favorites'}
-              aria-label={`Favorites, ${favCount} saved`}
+              className={`relative flex items-center justify-center gap-2 min-w-[40px] min-h-[40px] md:min-w-[44px] md:min-h-[44px] px-2 md:px-3 rounded-2xl border transition-all duration-300 ${
+                mode === 'favorites' 
+                ? 'bg-pink-500/20 border-pink-500/50 text-pink-500 shadow-[0_0_20px_rgba(236,72,153,0.3)]' 
+                : 'bg-white/5 border-white/10 text-white/40 hover:border-pink-500/30 hover:text-pink-500'
+              }`}
+              title="Favorites"
             >
-              <svg
-                width="17"
-                height="17"
-                viewBox="0 0 24 24"
-                fill={mode === 'favorites' ? 'currentColor' : 'none'}
-                stroke="currentColor"
-                strokeWidth="2.25"
-                strokeLinejoin="round"
+               <svg 
+                width="18" height="18" viewBox="0 0 24 24" fill={mode === 'favorites' ? "currentColor" : "none"} 
+                stroke="currentColor" strokeWidth="2.5" 
+                className={mode === 'favorites' ? 'animate-pulse' : ''}
               >
-                <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z" />
+                <path d="M19 14c1.49-1.46 3-3.21 3-5.5A5.5 5.5 0 0 0 16.5 3c-1.76 0-3 .5-4.5 2-1.5-1.5-2.74-2-4.5-2A5.5 5.5 0 0 0 2 8.5c0 2.3 1.5 4.05 3 5.5l7 7Z"/>
               </svg>
-              {favCount > 0 && <span className="font-mono text-2xs tabular">{favCount}</span>}
+              {favCount > 0 && <span className="hidden xs:inline text-[9px] font-bold font-mono tracking-widest">{favCount}</span>}
             </button>
           </div>
-        </div>
+        )}
       </div>
     </header>
   );
-};
+}

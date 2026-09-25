@@ -1,5 +1,5 @@
 import React from 'react';
-import type { Statistics } from '../types/terminal';
+import { Statistics } from '../types/terminal';
 
 interface FooterProps {
   stats: Statistics | null;
@@ -8,33 +8,47 @@ interface FooterProps {
   onAdminClick: () => void;
 }
 
-/**
- * Quiet status bar. Desktop-only — on mobile the bottom tab bar (Part 3)
- * takes the bottom edge, and admin is reachable there via 5 taps on the
- * Header logo instead, so nothing is lost.
- */
 export const Footer: React.FC<FooterProps> = ({ stationCount, countryCount, onAdminClick }) => {
+  const [clickCount, setClickCount] = React.useState(0);
+
+  const handleBrandClick = () => {
+    const next = clickCount + 1;
+    if (next >= 5) {
+      onAdminClick();
+      setClickCount(0);
+    } else {
+      setClickCount(next);
+    }
+  };
+
   return (
-    <footer className="hidden md:flex fixed bottom-0 inset-x-0 z-40 h-11 px-6 items-center justify-center bg-base/90 backdrop-blur-md border-t border-line/[0.06] pointer-events-none">
-      <div className="flex items-center gap-5 font-mono text-2xs text-tertiary tabular">
-        <span className="flex items-center gap-2 select-none shrink-0">
-          <span className="w-1.5 h-1.5 rounded-full bg-cyan" aria-hidden />
-          Nebula Cast FM
-        </span>
-        <span className="w-px h-3 bg-line/15" aria-hidden />
-        <span>{stationCount.toLocaleString()} stations</span>
-        <span className="w-px h-3 bg-line/15" aria-hidden />
-        <span>{countryCount.toLocaleString()} regions</span>
-        <span className="w-px h-3 bg-line/15" aria-hidden />
-        <button
-          type="button"
-          onClick={onAdminClick}
-          className="pointer-events-auto hover:text-cyan transition-colors min-h-[44px] -my-3"
-          aria-label="Admin"
+    <footer className="fixed bottom-0 left-0 right-0 z-[50] h-12 px-4 md:px-6 flex items-center justify-center bg-black/60 backdrop-blur-2xl border-t border-white/5 pointer-events-none">
+      <div className="flex items-center gap-4 md:gap-8 text-[9px] md:text-xs font-mono font-bold text-white/40 tracking-[0.2em] md:tracking-[0.3em] uppercase transition-all">
+        <div
+          onClick={handleBrandClick}
+          className="flex items-center gap-2 text-left pointer-events-auto cursor-default active:scale-95 transition-transform shrink-0"
         >
-          Admin
-        </button>
+          <div className="w-1.5 h-1.5 rounded-full bg-cyan-400 animate-pulse ring-4 ring-cyan-400/10" />
+          <span className="hidden xs:inline">Nebula Cast</span>
+          <span className="xs:hidden">NC</span>
+          <span>FM</span>
+        </div>
+        <div className="flex items-center gap-3 md:gap-6 overflow-x-auto no-scrollbar pointer-events-auto">
+          <div className="hidden sm:block h-3 w-[1px] bg-white/10 shrink-0" />
+          <span className="whitespace-nowrap">{stationCount.toLocaleString()} Stations</span>
+          <div className="h-3 w-[1px] bg-white/10 shrink-0" />
+          <span className="whitespace-nowrap">{countryCount.toLocaleString()} Regions</span>
+          <div className="h-3 w-[1px] bg-white/10 shrink-0" />
+          <button
+            onClick={onAdminClick}
+            className="hover:text-cyan-400 transition-colors uppercase whitespace-nowrap"
+            aria-label="Administrative Access"
+            title="Administrative Access"
+          >
+            Admin
+          </button>
+        </div>
       </div>
     </footer>
   );
-};
+}
