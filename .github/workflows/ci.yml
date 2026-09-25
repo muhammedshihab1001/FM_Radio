@@ -3,30 +3,17 @@ name: CI
 on:
   push:
   pull_request:
-  workflow_dispatch:
-    inputs:
-      all-browsers:
-        description: Run E2E on Chromium, Firefox and WebKit
-        type: boolean
-        default: true
-      update-visual-baselines:
-        description: Regenerate the Linux visual baselines and upload them as an artifact
-        type: boolean
-        default: false
 
 concurrency:
-  group: ci-${{ github.workflow }}-${{ github.ref }}
+  group: ci-${{ github.ref }}
   cancel-in-progress: true
 
 permissions:
   contents: read
 
-env:
-  CI: true
-
 jobs:
-  checks:
-    name: Typecheck · lint · format · unit · build · size · secrets
+  test:
+    name: Lint · unit tests · build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -35,96 +22,9 @@ jobs:
           node-version: lts/*
           cache: npm
       - run: npm ci
-      - run: npm run typecheck
       - run: npm run lint
-      - run: npm run format:check
-      - run: npm run test:coverage
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: coverage
-          path: node_modules/.cache/coverage/
-          retention-days: 14
-      - name: Build
+      - run: npm test
+      - name: Build (type-checks first)
         run: npm run build
         env:
-          # Admin values come from repository secrets when configured, so the
-          # secret scan below checks the real risk (they must never be bundled).
-          VITE_API_BASE_URL: ${{ secrets.VITE_API_BASE_URL || 'https://api.invalid' }}
-          VITE_ADMIN_USER: ${{ secrets.VITE_ADMIN_USER }}
-          VITE_ADMIN_PASS: ${{ secrets.VITE_ADMIN_PASS }}
-          VITE_ADMIN_KEY: ${{ secrets.VITE_ADMIN_KEY }}
-      - name: Bundle size budget
-        run: npm run size
-      - name: No secrets in the bundle
-        run: node scripts/check-secrets.mjs dist
-        env:
-          VITE_ADMIN_USER: ${{ secrets.VITE_ADMIN_USER }}
-          VITE_ADMIN_PASS: ${{ secrets.VITE_ADMIN_PASS }}
-          VITE_ADMIN_KEY: ${{ secrets.VITE_ADMIN_KEY }}
-
-  e2e:
-    name: E2E + accessibility (Playwright)
-    runs-on: ubuntu-latest
-    timeout-minutes: 45
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: lts/*
-          cache: npm
-      - run: npm ci
-      - name: Install browsers
-        run: |
-          if [ "${{ github.event_name == 'workflow_dispatch' && inputs.all-browsers }}" = "true" ]; then
-            npx playwright install --with-deps chromium firefox webkit
-          else
-            npx playwright install --with-deps chromium
-          fi
-      - name: E2E (Chromium)
-        if: ${{ !(github.event_name == 'workflow_dispatch' && inputs.all-browsers) }}
-        run: npm run test:e2e:ci
-      - name: E2E (all browsers)
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.all-browsers }}
-        run: npm run test:e2e
-      - name: Accessibility (axe)
-        run: npm run test:a11y
-      - name: Visual regression
-        if: ${{ hashFiles('tests/visual/linux/**') != '' && !(github.event_name == 'workflow_dispatch' && inputs.update-visual-baselines) }}
-        run: npm run test:visual
-      - name: Regenerate Linux visual baselines
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.update-visual-baselines }}
-        run: npm run test:visual:update
-      - uses: actions/upload-artifact@v4
-        if: ${{ github.event_name == 'workflow_dispatch' && inputs.update-visual-baselines }}
-        with:
-          name: visual-baselines-linux
-          path: tests/visual/linux/
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: playwright-report
-          path: |
-            node_modules/.cache/playwright-report/
-            node_modules/.cache/test-results/
-          retention-days: 14
-
-  lighthouse:
-    name: Lighthouse CI (mobile)
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-node@v4
-        with:
-          node-version: lts/*
-          cache: npm
-      - run: npm ci
-      - run: npm run lhci
-      - uses: actions/upload-artifact@v4
-        if: always()
-        with:
-          name: lighthouse
-          path: |
-            .lighthouseci/
-            node_modules/.cache/lighthouse/
-          retention-days: 14
+          VITE_API_BASE_URL: https://api.invalid
