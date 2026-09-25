@@ -27,7 +27,10 @@ export default {
         magenta: {
           DEFAULT: c('magenta'),
           dim: 'rgb(var(--c-magenta) / .15)',
+          ink: c('magenta-ink'),
         },
+        // Text/icons on accent fills (cyan, magenta, warn, white): the page base colour.
+        'on-accent': c('bg-base'),
         danger: c('danger'),
         warn: c('warn'),
         // Text tiers, exactly as specced: primary/secondary/tertiary.
@@ -55,7 +58,6 @@ export default {
         modal: 'var(--r-modal)',
       },
       boxShadow: {
-        card: 'var(--shadow-card)',
         raised: 'var(--shadow-raised)',
         glow: 'var(--shadow-glow-cyan)',
       },
@@ -67,27 +69,11 @@ export default {
       transitionTimingFunction: {
         premium: 'var(--ease-premium)',
       },
-      spacing: {
-        header: 'var(--h-header)',
-        player: 'var(--h-player)',
-        footer: 'var(--h-footer)',
-      },
       animation: {
         'fade-in': 'fadeIn var(--dur-standard) var(--ease-premium)',
         'modal-up': 'modalUp var(--dur-entrance) var(--ease-premium)',
         'slide-up': 'slideUp var(--dur-entrance) var(--ease-premium)',
         'pulse-dot': 'pulse-dot 1.2s var(--ease-premium) infinite',
-        'glow-breathe': 'glow-breathe 2.4s var(--ease-premium) infinite',
-        // Bridge names: still referenced by Header/MiniPlayer/Footer/CountryFilter/
-        // StationModal/AdminPanel/App's Background+EmptyState (not yet redesigned —
-        // Steps B/C). The Step A tailwind.config.js rewrite dropped these definitions
-        // by accident, which silently killed the animation (Tailwind just emits no
-        // CSS for an unknown animate-* name — no error, the element is just static).
-        // Kept as exact v3 originals so those components render exactly as before.
-        float: 'float 4s ease-in-out infinite',
-        gradient: 'gradientShift 15s ease infinite alternate',
-        'signal-bounce': 'signalBounce 0.8s ease-in-out infinite alternate',
-        'wave-pulse': 'wavePulse 0.6s ease-in-out infinite alternate',
       },
       keyframes: {
         fadeIn: { '0%': { opacity: '0' }, '100%': { opacity: '1' } },
@@ -98,19 +84,6 @@ export default {
         slideUp: {
           '0%': { opacity: '0', transform: 'translateY(100%)' },
           '100%': { opacity: '1', transform: 'translateY(0)' },
-        },
-        float: { '0%,100%': { transform: 'translateY(0)' }, '50%': { transform: 'translateY(-10px)' } },
-        gradientShift: {
-          '0%': { backgroundPosition: '0% 50%', backgroundSize: '150% 150%' },
-          '100%': { backgroundPosition: '100% 50%', backgroundSize: '150% 150%' },
-        },
-        signalBounce: {
-          '0%': { transform: 'scaleY(0.4)', backgroundColor: '#00f4ff' },
-          '100%': { transform: 'scaleY(1)', backgroundColor: '#f60b86' },
-        },
-        wavePulse: {
-          '0%': { transform: 'scaleY(0.4)', opacity: '0.3', backgroundColor: '#00f4ff' },
-          '100%': { transform: 'scaleY(1)', opacity: '1', backgroundColor: '#f60b86' },
         },
       },
     },

@@ -36,9 +36,10 @@ export function monogramOf(name: string): string {
     .replace(/\(.*?\)/g, ' ')
     .split(/[^\p{L}\p{N}]+/u)
     .filter(Boolean);
-  if (words.length === 0) return '?';
-  if (words.length === 1) return words[0].slice(0, 2).toUpperCase();
-  return (words[0][0] + words[1][0]).toUpperCase();
+  const [first, second] = words;
+  if (!first) return '?';
+  if (!second) return Array.from(first).slice(0, 2).join('').toUpperCase();
+  return (Array.from(first)[0]! + Array.from(second)[0]!).toUpperCase();
 }
 
 export function artworkFor(name: string): StationArt {
